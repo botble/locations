@@ -1,6 +1,7 @@
 {
     "name": "Canada",
     "nationality": "Canada",
+    "code": "CA",
     "is_default": 0,
     "status": "published",
     "order": 1
