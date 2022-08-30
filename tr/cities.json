@@ -1,1378 +1,1378 @@
 [
-  {
-    "name": "Adana",
-    "cities": [
-      "Aladağ",
-      "Seyhan",
-      "Yüreğir",
-      "Çukurova",
-      "Sarıçam",
-      "Ceyhan",
-      "Kozan",
-      "İmamoğlu",
-      "Karataş",
-      "Karaisalı",
-      "Pozantı",
-      "Yumurtalık",
-      "Tufanbeyli",
-      "Feke",
-      "Saimbeyli"
-    ]
-  },
-  {
-    "name": "Balıkesir",
-    "cities": [
-      "Altıeylül",
-      "Karesi",
-      "Edremit",
-      "Bandırma",
-      "Gönen",
-      "Ayvalık",
-      "Burhaniye",
-      "Bigadiç",
-      "Susurluk",
-      "Dursunbey",
-      "Sındırgı",
-      "Erdek",
-      "İvrindi",
-      "Havran",
-      "Kepsut",
-      "Manyas",
-      "Savaştepe",
-      "Gömeç",
-      "Balya",
-      "Marmara"
-    ]
-  },
-  {
-    "name": "Bilecik",
-    "cities": [
-      "Merkez",
-      "Bozüyük",
-      "Osmaneli",
-      "Söğüt",
-      "Gölpazarı",
-      "Pazaryeri",
-      "İnhisar",
-      "Yenipazar"
-    ]
-  },
-  {
-    "name": "Bingöl",
-    "cities": [
-      "Merkez",
-      "Genç",
-      "Solhan",
-      "Karlıova",
-      "Adaklı",
-      "Kiğı",
-      "Yedisu",
-      "Yayladere"
-    ]
-  },
-  {
-    "name": "Bitlis",
-    "cities": [
-      "Tatvan",
-      "Merkez",
-      "Güroymak",
-      "Ahlat",
-      "Hizan",
-      "Mutki",
-      "Adilcevaz"
-    ]
-  },
-  {
-    "name": "Bolu",
-    "cities": [
-      "Merkez",
-      "Gerede",
-      "Mudurnu",
-      "Göynük",
-      "Mengen",
-      "Yeniçağa",
-      "Dörtdivan",
-      "Seben",
-      "Kıbrıscık"
-    ]
-  },
-  {
-    "name": "Burdur",
-    "cities": [
-      "Merkez",
-      "Bucak",
-      "Gölhisar",
-      "Yeşilova",
-      "Çavdır",
-      "Tefenni",
-      "Ağlasun",
-      "Karamanlı",
-      "Altınyayla",
-      "Çeltikçi",
-      "Kemer"
-    ]
-  },
-  {
-    "name": "Bursa",
-    "cities": [
-      "Osmangazi",
-      "Yıldırım",
-      "Nilüfer",
-      "İnegöl",
-      "Gemlik",
-      "Mustafakemalpa",
-      "Mudanya",
-      "Gürsu",
-      "Karacabey",
-      "Orhangazi",
-      "Kestel",
-      "Yenişehir",
-      "İznik",
-      "Orhaneli",
-      "Keles",
-      "Büyükorhan",
-      "Harmancık"
-    ]
-  },
-  {
-    "name": "Çanakkale",
-    "cities": [
-      "Merkez",
-      "Biga",
-      "Çan",
-      "Gelibolu",
-      "Ayvacık",
-      "Ezine",
-      "Yenice",
-      "Bayramiç",
-      "Lapseki",
-      "Gökçeada",
-      "Eceabat",
-      "Bozcaada"
-    ]
-  },
-  {
-    "name": "Çankırı",
-    "cities": [
-      "Merkez",
-      "Orta",
-      "Çerkeş",
-      "Ilgaz",
-      "Şabanözü",
-      "Kurşunlu",
-      "Yapraklı",
-      "Kızılırmak",
-      "Eldivan",
-      "Atkaracalar",
-      "Korgun",
-      "Bayramören"
-    ]
-  },
-  {
-    "name": "Çorum",
-    "cities": [
-      "Merkez",
-      "Sungurlu",
-      "Osmancık",
-      "İskilip",
-      "Alaca",
-      "Bayat",
-      "Kargı",
-      "Mecitözü",
-      "Ortaköy",
-      "Uğurludağ",
-      "Dodurga",
-      "Oğuzlar",
-      "Laçin",
-      "Boğazkale"
-    ]
-  },
-  {
-    "name": "Adıyaman",
-    "cities": [
-      "Merkez",
-      "Kahta",
-      "Besni",
-      "Gölbaşı",
-      "Gerger",
-      "Sincik",
-      "Çelikhan",
-      "Tut",
-      "Samsat"
-    ]
-  },
-  {
-    "name": "Deni̇zli̇",
-    "cities": [
-      "Pamukkale",
-      "Merkezefendi",
-      "Çivril",
-      "Acıpayam",
-      "Tavas",
-      "Honaz",
-      "Sarayköy",
-      "Buldan",
-      "Kale",
-      "Çal",
-      "Çameli",
-      "Serinhisar",
-      "Bozkurt",
-      "Güney",
-      "Çardak",
-      "Bekilli",
-      "Beyağaç",
-      "Babadağ",
-      "Baklan"
-    ]
-  },
-  {
-    "name": "Di̇yarbakır",
-    "cities": [
-      "Bağlar",
-      "Kayapınar",
-      "Yenişehir",
-      "Ergani",
-      "Bismil",
-      "Sur",
-      "Silvan",
-      "Çınar",
-      "Çermik",
-      "Dicle",
-      "Kulp",
-      "Hani",
-      "Lice",
-      "Eğil",
-      "Hazro",
-      "Kocaköy",
-      "Çüngüş"
-    ]
-  },
-  {
-    "name": "Edi̇rne",
-    "cities": [
-      "Merkez",
-      "Keşan",
-      "Uzunköprü",
-      "İpsala",
-      "Havsa",
-      "Meriç",
-      "Enez",
-      "Süloğlu",
-      "Lalapaşa"
-    ]
-  },
-  {
-    "name": "Elâzığ",
-    "cities": [
-      "Merkez",
-      "Kovancılar",
-      "Karakoçan",
-      "Palu",
-      "Baskil",
-      "Arıcak",
-      "Maden",
-      "Sivrice",
-      "Keban",
-      "Alacakaya",
-      "Ağın"
-    ]
-  },
-  {
-    "name": "Erzi̇ncan",
-    "cities": [
-      "Merkez",
-      "Tercan",
-      "Üzümlü",
-      "Refahiye",
-      "Çayırlı",
-      "İliç",
-      "Kemah",
-      "Kemaliye",
-      "Otlukbeli"
-    ]
-  },
-  {
-    "name": "Erzurum",
-    "cities": [
-      "Yakutiye",
-      "Palandöken",
-      "Aziziye",
-      "Horasan",
-      "Oltu",
-      "Pasinler",
-      "Karayazı",
-      "Hınıs",
-      "Tekman",
-      "Aşkale",
-      "Karaçoban",
-      "Şenkaya",
-      "Çat",
-      "Tortum",
-      "Köprüköy",
-      "İspir",
-      "Narman",
-      "Uzundere",
-      "Olur",
-      "Pazaryolu"
-    ]
-  },
-  {
-    "name": "Eski̇şehi̇r",
-    "cities": [
-      "Odunpazarı",
-      "Tepebaşı",
-      "Sivrihisar",
-      "Çifteler",
-      "Seyitgazi",
-      "Alpu",
-      "Mihalıççık",
-      "Mahmudiye",
-      "Beylikova",
-      "İnönü",
-      "Günyüzü",
-      "Sarıcakaya",
-      "Mihalgazi",
-      "Han"
-    ]
-  },
-  {
-    "name": "Gazi̇antep",
-    "cities": [
-      "Şahinbey",
-      "Şehitkamil",
-      "Nizip",
-      "İslahiye",
-      "Nurdağı",
-      "Araban",
-      "Oğuzeli",
-      "Yavuzeli",
-      "Karkamış"
-    ]
-  },
-  {
-    "name": "Gi̇resun",
-    "cities": [
-      "Merkez",
-      "Bulancak",
-      "Espiye",
-      "Görele",
-      "Tirebolu",
-      "Şebinkarahisar",
-      "Keşap",
-      "Dereli",
-      "Yağlıdere",
-      "Piraziz",
-      "Eynesil",
-      "Alucra",
-      "Çamoluk",
-      "Güce",
-      "Doğankent",
-      "Çanakçı"
-    ]
-  },
-  {
-    "name": "Gümüşhane",
-    "cities": [
-      "Merkez",
-      "Kelkit",
-      "Şiran",
-      "Kürtün",
-      "Torul",
-      "Köse"
-    ]
-  },
-  {
-    "name": "Afyonkarahi̇sar",
-    "cities": [
-      "Merkez",
-      "Sandıklı",
-      "Dinar",
-      "Bolvadin",
-      "Sinanpaşa",
-      "Emirdağ",
-      "Şuhut",
-      "Çay",
-      "İhsaniye",
-      "İscehisar",
-      "Sultandağı",
-      "Çobanlar",
-      "Dazkırı",
-      "Başmakçı",
-      "Hocalar",
-      "Bayat",
-      "Evciler",
-      "Kızılören"
-    ]
-  },
-  {
-    "name": "Hakkâri̇",
-    "cities": [
-      "Yüksekova",
-      "Merkez",
-      "Şemdinli",
-      "Derecik",
-      "Çukurca"
-    ]
-  },
-  {
-    "name": "Hatay",
-    "cities": [
-      "Antakya",
-      "İskenderun",
-      "Defne",
-      "Dörtyol",
-      "Samandağ",
-      "Kırıkhan",
-      "Reyhanlı",
-      "Arsuz",
-      "Altınözü",
-      "Hassa",
-      "Payas",
-      "Erzin",
-      "Yayladağı",
-      "Belen",
-      "Kumlu"
-    ]
-  },
-  {
-    "name": "Isparta",
-    "cities": [
-      "Merkez",
-      "Yalvaç",
-      "Eğirdir",
-      "Şarkikaraağaç",
-      "Gelendost",
-      "Keçiborlu",
-      "Senirkent",
-      "Sütçüler",
-      "Gönen",
-      "Uluborlu",
-      "Atabey",
-      "Aksu",
-      "Yenişarbademli"
-    ]
-  },
-  {
-    "name": "Mersi̇n",
-    "cities": [
-      "Tarsus",
-      "Toroslar",
-      "Akdeniz",
-      "Yenişehir",
-      "Mezitli",
-      "Erdemli",
-      "Silifke",
-      "Anamur",
-      "Mut",
-      "Bozyazı",
-      "Gülnar",
-      "Aydıncık",
-      "Çamlıyayla"
-    ]
-  },
-  {
-    "name": "İ̇stanbul",
-    "cities": [
-      "Esenyurt",
-      "Küçükçekmece",
-      "Bağcılar",
-      "Pendik",
-      "Ümraniye",
-      "Bahçelievler",
-      "Üsküdar",
-      "Sultangazi",
-      "Maltepe",
-      "Gaziosmanpaşa",
-      "Kartal",
-      "Kadıköy",
-      "Esenler",
-      "Kağıthane",
-      "Fatih",
-      "Avcılar",
-      "Başakşehir",
-      "Ataşehir",
-      "Sancaktepe",
-      "Eyüp",
-      "Sarıyer",
-      "Beylikdüzü",
-      "Sultanbeyli",
-      "Güngören",
-      "Zeytinburnu",
-      "Şişli",
-      "Bayrampaşa",
-      "Arnavutköy",
-      "Tuzla",
-      "Çekmeköy",
-      "Büyükçekmece",
-      "Beykoz",
-      "Beyoğlu",
-      "Bakırköy",
-      "Silivri",
-      "Beşiktaş",
-      "Çatalca",
-      "Şile",
-      "Adalar"
-    ]
-  },
-  {
-    "name": "İ̇zmi̇r",
-    "cities": [
-      "Buca",
-      "Karabağlar",
-      "Bornova",
-      "Konak",
-      "Karşıyaka",
-      "Bayraklı",
-      "Çiğli",
-      "Torbalı",
-      "Menemen",
-      "Gaziemir",
-      "Ödemiş",
-      "Kemalpaşa",
-      "Bergama",
-      "Aliağa",
-      "Menderes",
-      "Tire",
-      "Balçova",
-      "Urla",
-      "Narlıdere",
-      "Dikili",
-      "Kiraz",
-      "Seferihisar",
-      "Çeşme",
-      "Bayındır",
-      "Selçuk",
-      "Foça",
-      "Güzelbahçe",
-      "Kınık",
-      "Beydağ",
-      "Karaburun"
-    ]
-  },
-  {
-    "name": "Kars",
-    "cities": [
-      "Merkez",
-      "Kağızman",
-      "Sarıkamış",
-      "Selim",
-      "Digor",
-      "Arpaçay",
-      "Akyaka",
-      "Susuz"
-    ]
-  },
-  {
-    "name": "Kastamonu",
-    "cities": [
-      "Merkez",
-      "Tosya",
-      "Taşköprü",
-      "Cide",
-      "İnebolu",
-      "Araç",
-      "Bozkurt",
-      "Daday",
-      "Azdavay",
-      "Çatalzeytin",
-      "Doğanyurt",
-      "Küre",
-      "Pınarbaşı",
-      "İhsangazi",
-      "Şenpazar",
-      "Abana",
-      "Hanönü",
-      "Seydiler",
-      "Ağlı"
-    ]
-  },
-  {
-    "name": "Kayseri̇",
-    "cities": [
-      "Melikgazi",
-      "Kocasinan",
-      "Talas",
-      "Develi",
-      "Yahyalı",
-      "Bünyan",
-      "Pınarbaşı",
-      "Tomarza",
-      "Yeşilhisar",
-      "Sarıoğlan",
-      "Hacılar",
-      "Sarız",
-      "Felahiye",
-      "Akkışla",
-      "Özvatan"
-    ]
-  },
-  {
-    "name": "Kırklareli",
-    "cities": [
-      "Lüleburgaz",
-      "Merkez",
-      "Babaeski",
-      "Vize",
-      "Pınarhisar",
-      "Demirköy",
-      "Pehlivanköy",
-      "Kofçaz"
-    ]
-  },
-  {
-    "name": "Ağrı",
-    "cities": [
-      "Merkez",
-      "Patnos",
-      "Doğubayazıt",
-      "Diyadin",
-      "Eleşkirt",
-      "Tutak",
-      "Taşlıçay",
-      "Hamur"
-    ]
-  },
-  {
-    "name": "Kırşehir",
-    "cities": [
-      "Merkez",
-      "Kaman",
-      "Mucur",
-      "Çiçekdağı",
-      "Akpınar",
-      "Boztepe",
-      "Akçakent"
-    ]
-  },
-  {
-    "name": "Kocaeli̇",
-    "cities": [
-      "Gebze",
-      "İzmit",
-      "Darıca",
-      "Körfez",
-      "Gölcük",
-      "Derince",
-      "Çayırova",
-      "Kartepe",
-      "Başiskele",
-      "Karamürsel",
-      "Kandıra",
-      "Dilovası"
-    ]
-  },
-  {
-    "name": "Konya",
-    "cities": [
-      "Selçuklu",
-      "Meram",
-      "Karatay",
-      "Ereğli",
-      "Akşehir",
-      "Beyşehir",
-      "Çumra",
-      "Seydişehir",
-      "Ilgın",
-      "Cihanbeyli",
-      "Kulu",
-      "Karapınar",
-      "Kadınhanı",
-      "Sarayönü",
-      "Bozkır",
-      "Yunak",
-      "Hüyük",
-      "Doğanhisar",
-      "Altınekin",
-      "Hadim",
-      "Çeltik",
-      "Güneysınır",
-      "Emirgazi",
-      "Taşkent",
-      "Tuzlukçu",
-      "Derebucak",
-      "Akören",
-      "Ahırlı",
-      "Derbent",
-      "Halkapınar",
-      "Yalıhüyük"
-    ]
-  },
-  {
-    "name": "Kütahya",
-    "cities": [
-      "Merkez",
-      "Tavşanlı",
-      "Simav",
-      "Gediz",
-      "Emet",
-      "Altıntaş",
-      "Domaniç",
-      "Hisarcık",
-      "Aslanapa",
-      "Çavdarhisar",
-      "Şaphane",
-      "Pazarlar",
-      "Dumlupınar"
-    ]
-  },
-  {
-    "name": "Malatya",
-    "cities": [
-      "Yeşilyurt",
-      "Battalgazi",
-      "Doğanşehir",
-      "Akçadağ",
-      "Darende",
-      "Hekimhan",
-      "Yazıhan",
-      "Pütürge",
-      "Arapgir",
-      "Kuluncak",
-      "Arguvan",
-      "Kale",
-      "Doğanyol"
-    ]
-  },
-  {
-    "name": "Mani̇sa",
-    "cities": [
-      "Yunusemre",
-      "Akhisar",
-      "Şehzadeler",
-      "Turgutlu",
-      "Salihli",
-      "Soma",
-      "Alaşehir",
-      "Saruhanlı",
-      "Kula",
-      "Demirci",
-      "Kırıkağaç",
-      "Sarıgöl",
-      "Gördes",
-      "Selendi",
-      "Ahmetli",
-      "Gölmarmara",
-      "Köprübaşı"
-    ]
-  },
-  {
-    "name": "Kahramanmaraş",
-    "cities": [
-      "Onikişubat",
-      "Dulkadiroğlu",
-      "Elbistan",
-      "Afşin",
-      "Türkoğlu",
-      "Pazarcık",
-      "Göksun",
-      "Andırın",
-      "Çağlayancerit",
-      "Nurhak",
-      "Ekinözü"
-    ]
-  },
-  {
-    "name": "Mardi̇n",
-    "cities": [
-      "Kızıltepe",
-      "Artuklu",
-      "Midyat",
-      "Nusaybin",
-      "Derik",
-      "Mazıdağı",
-      "Dargeçit",
-      "Savur",
-      "Yeşilli",
-      "Ömerli"
-    ]
-  },
-  {
-    "name": "Muğla",
-    "cities": [
-      "Bodrum",
-      "Fethiye",
-      "Milas",
-      "Menteşe",
-      "Marmaris",
-      "Seydikemer",
-      "Ortaca",
-      "Yatağan",
-      "Dalaman",
-      "Köyceğiz",
-      "Ula",
-      "Datça",
-      "Kavaklıdere"
-    ]
-  },
-  {
-    "name": "Muş",
-    "cities": [
-      "Merkez",
-      "Bulanık",
-      "Malazgirt",
-      "Varto",
-      "Korkut",
-      "Hasköy"
-    ]
-  },
-  {
-    "name": "Amasya",
-    "cities": [
-      "Merkez",
-      "Merzifon",
-      "Suluova",
-      "Taşova",
-      "Göynücek",
-      "Hamamözü"
-    ]
-  },
-  {
-    "name": "Nevşehi̇r",
-    "cities": [
-      "Merkez",
-      "Ürgüp",
-      "Avanos",
-      "Gülşehir",
-      "Derinkuyu",
-      "Acıgöl",
-      "Kozaklı",
-      "Hacıbektaş"
-    ]
-  },
-  {
-    "name": "Ni̇ğde",
-    "cities": [
-      "Merkez",
-      "Bor",
-      "Çiftlik",
-      "Ulukışla",
-      "Altunhisar",
-      "Çamardı"
-    ]
-  },
-  {
-    "name": "Ordu",
-    "cities": [
-      "Altınordu",
-      "Ünye",
-      "Fatsa",
-      "Perşembe",
-      "Kumru",
-      "Korgan",
-      "Gölköy",
-      "Ulubey",
-      "Mesudiye",
-      "Akkuş",
-      "Aybastı",
-      "Gürgentepe",
-      "İkizce",
-      "Çatalpınar",
-      "Çaybaşı",
-      "Çamaş",
-      "Kabataş",
-      "Kabadüz",
-      "Gülyalı"
-    ]
-  },
-  {
-    "name": "Ri̇ze",
-    "cities": [
-      "Merkez",
-      "Çayeli",
-      "Ardeşen",
-      "Pazar",
-      "Fındıklı",
-      "Kalkandere",
-      "Güneysu",
-      "İyidere",
-      "İkizdere",
-      "Derepazarı",
-      "Çamlıhemşin",
-      "Hemşin"
-    ]
-  },
-  {
-    "name": "Sakarya",
-    "cities": [
-      "Adapazarı",
-      "Serdivan",
-      "Akyazı",
-      "Erenler",
-      "Hendek",
-      "Karasu",
-      "Geyve",
-      "Arifiye",
-      "Sapanca",
-      "Pamukova",
-      "Ferizli",
-      "Kocaali",
-      "Kaynarca",
-      "Söğütlü",
-      "Karapürçek",
-      "Taraklı"
-    ]
-  },
-  {
-    "name": "Samsun",
-    "cities": [
-      "İlkadım",
-      "Atakum",
-      "Bafra",
-      "Çarşamba",
-      "Canik",
-      "Vezirköprü",
-      "Terme",
-      "Tekkeköy",
-      "Havza",
-      "19 Mayıs",
-      "Alaçam",
-      "Salıpazarı",
-      "Ayvacık",
-      "Kavak",
-      "Asarcık",
-      "Ladik",
-      "Yakakent"
-    ]
-  },
-  {
-    "name": "Si̇i̇rt",
-    "cities": [
-      "Merkez",
-      "Kurtalan",
-      "Pervari",
-      "Baykan",
-      "Şirvan",
-      "Eruh",
-      "Tillo"
-    ]
-  },
-  {
-    "name": "Si̇nop",
-    "cities": [
-      "Merkez",
-      "Boyabat",
-      "Gerze",
-      "Ayancık",
-      "Durağan",
-      "Türkeli",
-      "Erfelek",
-      "Saraydüzü",
-      "Dikmen"
-    ]
-  },
-  {
-    "name": "Si̇vas",
-    "cities": [
-      "Merkez",
-      "Şarkışla",
-      "Yıldızeli",
-      "Suşehri",
-      "Gemerek",
-      "Zara",
-      "Kangal",
-      "Gürün",
-      "Divriği",
-      "Koyulhisar",
-      "Hafik",
-      "Ulaş",
-      "Altınyayla",
-      "İmranlı",
-      "Akıncılar",
-      "Gölova",
-      "Doğanşar"
-    ]
-  },
-  {
-    "name": "Teki̇rdağ",
-    "cities": [
-      "Çorlu",
-      "Süleymanpaşa",
-      "Çerkezköy",
-      "Kapaklı",
-      "Ergene",
-      "Malkara",
-      "Saray",
-      "Şarköy",
-      "Hayrabolu",
-      "Muratlı",
-      "Marmaraereğlisi"
-    ]
-  },
-  {
-    "name": "Ankara",
-    "cities": [
-      "Çankaya",
-      "Keçiören",
-      "Yenimahalle",
-      "Mamak",
-      "Etimesgut",
-      "Sincan",
-      "Altındağ",
-      "Pursaklar",
-      "Gölbaşı",
-      "Polatlı",
-      "Çubuk",
-      "Kahramankazan",
-      "Beypazarı",
-      "Haymana",
-      "Elmadağ",
-      "Akyurt",
-      "Şereflikoçhisar",
-      "Bala",
-      "Kızılcahamam",
-      "Nallıhan",
-      "Ayaş",
-      "Çamlıdere",
-      "Kalecik",
-      "Güdül",
-      "Evren"
-    ]
-  },
-  {
-    "name": "Tokat",
-    "cities": [
-      "Merkez",
-      "Erbaa",
-      "Turhal",
-      "Niksar",
-      "Zile",
-      "Reşadiye",
-      "Almus",
-      "Pazar",
-      "Yeşilyurt",
-      "Artova",
-      "Sulusaray",
-      "Başçiftlik"
-    ]
-  },
-  {
-    "name": "Trabzon",
-    "cities": [
-      "Ortahisar",
-      "Akçaabat",
-      "Araklı",
-      "Of",
-      "Yomra",
-      "Arsin",
-      "Vakfıkebir",
-      "Sürmene",
-      "Maçka",
-      "Beşikdüzü",
-      "Çarşıbaşı",
-      "Çaykara",
-      "Tonya",
-      "Düzköy",
-      "Şalpazarı",
-      "Hayrat",
-      "Köprübaşı",
-      "Dernekpazarı"
-    ]
-  },
-  {
-    "name": "Tunceli̇",
-    "cities": [
-      "Merkez",
-      "Pertek",
-      "Mazgirt",
-      "Çemişgezek",
-      "Ovacık",
-      "Hozat",
-      "Pülümür",
-      "Nazımiye"
-    ]
-  },
-  {
-    "name": "Şanlıurfa",
-    "cities": [
-      "Eyyübiye",
-      "Haliliye",
-      "Siverek",
-      "Viranşehir",
-      "Karaköprü",
-      "Akçakale",
-      "Suruç",
-      "Birecik",
-      "Harran",
-      "Ceylanpınar",
-      "Bozova",
-      "Hilvan"
-    ]
-  },
-  {
-    "name": "Uşak",
-    "cities": [
-      "Merkez",
-      "Banaz",
-      "Eşme",
-      "Sivaslı",
-      "Ulubey",
-      "Karahallı"
-    ]
-  },
-  {
-    "name": "Van",
-    "cities": [
-      "İpekyolu",
-      "Erciş",
-      "Tuşba",
-      "Edremit",
-      "Özalp",
-      "Çaldıran",
-      "Başkale",
-      "Muradiye",
-      "Gürpınar",
-      "Gevaş",
-      "Saray",
-      "Çatak",
-      "Bahçesaray"
-    ]
-  },
-  {
-    "name": "Yozgat",
-    "cities": [
-      "Merkez",
-      "Sorgun",
-      "Akdağmadeni",
-      "Yerköy",
-      "Boğazlıyan",
-      "Sarıkaya",
-      "Çekerek",
-      "Şefaatli",
-      "Saraykent",
-      "Çayıralan",
-      "Kadışehri",
-      "Aydıncık",
-      "Yenifakılı",
-      "Çandır"
-    ]
-  },
-  {
-    "name": "Zonguldak",
-    "cities": [
-      "Ereğli",
-      "Merkez",
-      "Çaycuma",
-      "Devrek",
-      "Kozlu",
-      "Alaplı",
-      "Kilimli",
-      "Gökçebey"
-    ]
-  },
-  {
-    "name": "Aksaray",
-    "cities": [
-      "Merkez",
-      "Ortaköy",
-      "Eskil",
-      "Gülağaç",
-      "Güzelyurt",
-      "Sultanhanı",
-      "Ağaçören",
-      "Sarıyahşi"
-    ]
-  },
-  {
-    "name": "Bayburt",
-    "cities": [
-      "Merkez",
-      "Demirözü",
-      "Aydıntepe"
-    ]
-  },
-  {
-    "name": "Antalya",
-    "cities": [
-      "Kepez",
-      "Muratpaşa",
-      "Alanya",
-      "Manavgat",
-      "Konyaaltı",
-      "Serik",
-      "Aksu",
-      "Kumluca",
-      "Döşemealtı",
-      "Kaş",
-      "Korkuteli",
-      "Gazipaşa",
-      "Finike",
-      "Kemer",
-      "Elmalı",
-      "Demre",
-      "Akseki",
-      "Gündoğmuş",
-      "İbradi"
-    ]
-  },
-  {
-    "name": "Karaman",
-    "cities": [
-      "Merkez",
-      "Ermenek",
-      "Sarıveliler",
-      "Ayrancı",
-      "Kazımkarabekir",
-      "Başyayla"
-    ]
-  },
-  {
-    "name": "Kırıkkale",
-    "cities": [
-      "Merkez",
-      "Yahşihan",
-      "Keskin",
-      "Delice",
-      "Sulakyurt",
-      "Bahşili",
-      "Balışeyh",
-      "Karakeçili",
-      "Çelebi"
-    ]
-  },
-  {
-    "name": "Batman",
-    "cities": [
-      "Merkez",
-      "Kozluk",
-      "Sason",
-      "Beşiri",
-      "Gercüş",
-      "Hasankeyf"
-    ]
-  },
-  {
-    "name": "Şırnak",
-    "cities": [
-      "Cizre",
-      "Silopi",
-      "Merkez",
-      "İdil",
-      "Uludere",
-      "Beytüşşebap",
-      "Güçlükonak"
-    ]
-  },
-  {
-    "name": "Bartın",
-    "cities": [
-      "Merkez",
-      "Ulus",
-      "Amasra",
-      "Kurucaşile"
-    ]
-  },
-  {
-    "name": "Ardahan",
-    "cities": [
-      "Merkez",
-      "Göle",
-      "Çıldır",
-      "Hanak",
-      "Posof",
-      "Damal"
-    ]
-  },
-  {
-    "name": "Iğdır",
-    "cities": [
-      "Merkez",
-      "Tuzluca",
-      "Aralık",
-      "Karakoyunlu"
-    ]
-  },
-  {
-    "name": "Yalova",
-    "cities": [
-      "Merkez",
-      "Çiftlikköy",
-      "Çınarcık",
-      "Altınova",
-      "Armutlu",
-      "Termal"
-    ]
-  },
-  {
-    "name": "Karabük",
-    "cities": [
-      "Merkez",
-      "Safranbolu",
-      "Yenice",
-      "Eskipazar",
-      "Eflani",
-      "Ovacık"
-    ]
-  },
-  {
-    "name": "Ki̇li̇s",
-    "cities": [
-      "Merkez",
-      "Musabeyli",
-      "Elbeyli",
-      "Polateli"
-    ]
-  },
-  {
-    "name": "Artvi̇n",
-    "cities": [
-      "Merkez",
-      "Hopa",
-      "Borçka",
-      "Arhavi",
-      "Yusufeli",
-      "Şavşat",
-      "Aksu",
-      "Kumluca",
-      "Ardanuç",
-      "Kemalpaşa",
-      "Murgul"
-    ]
-  },
-  {
-    "name": "Osmani̇ye",
-    "cities": [
-      "Merkez",
-      "Kadirli",
-      "Düziçi",
-      "Bahçe",
-      "Toprakkale",
-      "Sumbas",
-      "Hasanbeyli"
-    ]
-  },
-  {
-    "name": "Düzce",
-    "cities": [
-      "Merkez",
-      "Akçakoca",
-      "Kaynaşlı",
-      "Gölyaka",
-      "Çilimli",
-      "Yığılca",
-      "Gümüşova",
-      "Cumayeri"
-    ]
-  },
-  {
-    "name": "Aydın",
-    "cities": [
-      "Efeler",
-      "Nazilli",
-      "Söke",
-      "Kuşadası",
-      "Didim",
-      "İncirliova",
-      "Çine",
-      "Germencik",
-      "Bozdoğan",
-      "Köşk",
-      "Kuyucak",
-      "Koçarlı",
-      "Sultanhisar",
-      "Karacasu",
-      "Buharkent",
-      "Yenipazar",
-      "Karpuzlu"
-    ]
-  }
+    {
+        "name": "Adana",
+        "cities": [
+            "Aladağ",
+            "Seyhan",
+            "Yüreğir",
+            "Çukurova",
+            "Sarıçam",
+            "Ceyhan",
+            "Kozan",
+            "İmamoğlu",
+            "Karataş",
+            "Karaisalı",
+            "Pozantı",
+            "Yumurtalık",
+            "Tufanbeyli",
+            "Feke",
+            "Saimbeyli"
+        ]
+    },
+    {
+        "name": "Balıkesir",
+        "cities": [
+            "Altıeylül",
+            "Karesi",
+            "Edremit",
+            "Bandırma",
+            "Gönen",
+            "Ayvalık",
+            "Burhaniye",
+            "Bigadiç",
+            "Susurluk",
+            "Dursunbey",
+            "Sındırgı",
+            "Erdek",
+            "İvrindi",
+            "Havran",
+            "Kepsut",
+            "Manyas",
+            "Savaştepe",
+            "Gömeç",
+            "Balya",
+            "Marmara"
+        ]
+    },
+    {
+        "name": "Bilecik",
+        "cities": [
+            "Merkez",
+            "Bozüyük",
+            "Osmaneli",
+            "Söğüt",
+            "Gölpazarı",
+            "Pazaryeri",
+            "İnhisar",
+            "Yenipazar"
+        ]
+    },
+    {
+        "name": "Bingöl",
+        "cities": [
+            "Merkez",
+            "Genç",
+            "Solhan",
+            "Karlıova",
+            "Adaklı",
+            "Kiğı",
+            "Yedisu",
+            "Yayladere"
+        ]
+    },
+    {
+        "name": "Bitlis",
+        "cities": [
+            "Tatvan",
+            "Merkez",
+            "Güroymak",
+            "Ahlat",
+            "Hizan",
+            "Mutki",
+            "Adilcevaz"
+        ]
+    },
+    {
+        "name": "Bolu",
+        "cities": [
+            "Merkez",
+            "Gerede",
+            "Mudurnu",
+            "Göynük",
+            "Mengen",
+            "Yeniçağa",
+            "Dörtdivan",
+            "Seben",
+            "Kıbrıscık"
+        ]
+    },
+    {
+        "name": "Burdur",
+        "cities": [
+            "Merkez",
+            "Bucak",
+            "Gölhisar",
+            "Yeşilova",
+            "Çavdır",
+            "Tefenni",
+            "Ağlasun",
+            "Karamanlı",
+            "Altınyayla",
+            "Çeltikçi",
+            "Kemer"
+        ]
+    },
+    {
+        "name": "Bursa",
+        "cities": [
+            "Osmangazi",
+            "Yıldırım",
+            "Nilüfer",
+            "İnegöl",
+            "Gemlik",
+            "Mustafakemalpa",
+            "Mudanya",
+            "Gürsu",
+            "Karacabey",
+            "Orhangazi",
+            "Kestel",
+            "Yenişehir",
+            "İznik",
+            "Orhaneli",
+            "Keles",
+            "Büyükorhan",
+            "Harmancık"
+        ]
+    },
+    {
+        "name": "Çanakkale",
+        "cities": [
+            "Merkez",
+            "Biga",
+            "Çan",
+            "Gelibolu",
+            "Ayvacık",
+            "Ezine",
+            "Yenice",
+            "Bayramiç",
+            "Lapseki",
+            "Gökçeada",
+            "Eceabat",
+            "Bozcaada"
+        ]
+    },
+    {
+        "name": "Çankırı",
+        "cities": [
+            "Merkez",
+            "Orta",
+            "Çerkeş",
+            "Ilgaz",
+            "Şabanözü",
+            "Kurşunlu",
+            "Yapraklı",
+            "Kızılırmak",
+            "Eldivan",
+            "Atkaracalar",
+            "Korgun",
+            "Bayramören"
+        ]
+    },
+    {
+        "name": "Çorum",
+        "cities": [
+            "Merkez",
+            "Sungurlu",
+            "Osmancık",
+            "İskilip",
+            "Alaca",
+            "Bayat",
+            "Kargı",
+            "Mecitözü",
+            "Ortaköy",
+            "Uğurludağ",
+            "Dodurga",
+            "Oğuzlar",
+            "Laçin",
+            "Boğazkale"
+        ]
+    },
+    {
+        "name": "Adıyaman",
+        "cities": [
+            "Merkez",
+            "Kahta",
+            "Besni",
+            "Gölbaşı",
+            "Gerger",
+            "Sincik",
+            "Çelikhan",
+            "Tut",
+            "Samsat"
+        ]
+    },
+    {
+        "name": "Deni̇zli̇",
+        "cities": [
+            "Pamukkale",
+            "Merkezefendi",
+            "Çivril",
+            "Acıpayam",
+            "Tavas",
+            "Honaz",
+            "Sarayköy",
+            "Buldan",
+            "Kale",
+            "Çal",
+            "Çameli",
+            "Serinhisar",
+            "Bozkurt",
+            "Güney",
+            "Çardak",
+            "Bekilli",
+            "Beyağaç",
+            "Babadağ",
+            "Baklan"
+        ]
+    },
+    {
+        "name": "Di̇yarbakır",
+        "cities": [
+            "Bağlar",
+            "Kayapınar",
+            "Yenişehir",
+            "Ergani",
+            "Bismil",
+            "Sur",
+            "Silvan",
+            "Çınar",
+            "Çermik",
+            "Dicle",
+            "Kulp",
+            "Hani",
+            "Lice",
+            "Eğil",
+            "Hazro",
+            "Kocaköy",
+            "Çüngüş"
+        ]
+    },
+    {
+        "name": "Edi̇rne",
+        "cities": [
+            "Merkez",
+            "Keşan",
+            "Uzunköprü",
+            "İpsala",
+            "Havsa",
+            "Meriç",
+            "Enez",
+            "Süloğlu",
+            "Lalapaşa"
+        ]
+    },
+    {
+        "name": "Elâzığ",
+        "cities": [
+            "Merkez",
+            "Kovancılar",
+            "Karakoçan",
+            "Palu",
+            "Baskil",
+            "Arıcak",
+            "Maden",
+            "Sivrice",
+            "Keban",
+            "Alacakaya",
+            "Ağın"
+        ]
+    },
+    {
+        "name": "Erzi̇ncan",
+        "cities": [
+            "Merkez",
+            "Tercan",
+            "Üzümlü",
+            "Refahiye",
+            "Çayırlı",
+            "İliç",
+            "Kemah",
+            "Kemaliye",
+            "Otlukbeli"
+        ]
+    },
+    {
+        "name": "Erzurum",
+        "cities": [
+            "Yakutiye",
+            "Palandöken",
+            "Aziziye",
+            "Horasan",
+            "Oltu",
+            "Pasinler",
+            "Karayazı",
+            "Hınıs",
+            "Tekman",
+            "Aşkale",
+            "Karaçoban",
+            "Şenkaya",
+            "Çat",
+            "Tortum",
+            "Köprüköy",
+            "İspir",
+            "Narman",
+            "Uzundere",
+            "Olur",
+            "Pazaryolu"
+        ]
+    },
+    {
+        "name": "Eski̇şehi̇r",
+        "cities": [
+            "Odunpazarı",
+            "Tepebaşı",
+            "Sivrihisar",
+            "Çifteler",
+            "Seyitgazi",
+            "Alpu",
+            "Mihalıççık",
+            "Mahmudiye",
+            "Beylikova",
+            "İnönü",
+            "Günyüzü",
+            "Sarıcakaya",
+            "Mihalgazi",
+            "Han"
+        ]
+    },
+    {
+        "name": "Gazi̇antep",
+        "cities": [
+            "Şahinbey",
+            "Şehitkamil",
+            "Nizip",
+            "İslahiye",
+            "Nurdağı",
+            "Araban",
+            "Oğuzeli",
+            "Yavuzeli",
+            "Karkamış"
+        ]
+    },
+    {
+        "name": "Gi̇resun",
+        "cities": [
+            "Merkez",
+            "Bulancak",
+            "Espiye",
+            "Görele",
+            "Tirebolu",
+            "Şebinkarahisar",
+            "Keşap",
+            "Dereli",
+            "Yağlıdere",
+            "Piraziz",
+            "Eynesil",
+            "Alucra",
+            "Çamoluk",
+            "Güce",
+            "Doğankent",
+            "Çanakçı"
+        ]
+    },
+    {
+        "name": "Gümüşhane",
+        "cities": [
+            "Merkez",
+            "Kelkit",
+            "Şiran",
+            "Kürtün",
+            "Torul",
+            "Köse"
+        ]
+    },
+    {
+        "name": "Afyonkarahi̇sar",
+        "cities": [
+            "Merkez",
+            "Sandıklı",
+            "Dinar",
+            "Bolvadin",
+            "Sinanpaşa",
+            "Emirdağ",
+            "Şuhut",
+            "Çay",
+            "İhsaniye",
+            "İscehisar",
+            "Sultandağı",
+            "Çobanlar",
+            "Dazkırı",
+            "Başmakçı",
+            "Hocalar",
+            "Bayat",
+            "Evciler",
+            "Kızılören"
+        ]
+    },
+    {
+        "name": "Hakkâri̇",
+        "cities": [
+            "Yüksekova",
+            "Merkez",
+            "Şemdinli",
+            "Derecik",
+            "Çukurca"
+        ]
+    },
+    {
+        "name": "Hatay",
+        "cities": [
+            "Antakya",
+            "İskenderun",
+            "Defne",
+            "Dörtyol",
+            "Samandağ",
+            "Kırıkhan",
+            "Reyhanlı",
+            "Arsuz",
+            "Altınözü",
+            "Hassa",
+            "Payas",
+            "Erzin",
+            "Yayladağı",
+            "Belen",
+            "Kumlu"
+        ]
+    },
+    {
+        "name": "Isparta",
+        "cities": [
+            "Merkez",
+            "Yalvaç",
+            "Eğirdir",
+            "Şarkikaraağaç",
+            "Gelendost",
+            "Keçiborlu",
+            "Senirkent",
+            "Sütçüler",
+            "Gönen",
+            "Uluborlu",
+            "Atabey",
+            "Aksu",
+            "Yenişarbademli"
+        ]
+    },
+    {
+        "name": "Mersi̇n",
+        "cities": [
+            "Tarsus",
+            "Toroslar",
+            "Akdeniz",
+            "Yenişehir",
+            "Mezitli",
+            "Erdemli",
+            "Silifke",
+            "Anamur",
+            "Mut",
+            "Bozyazı",
+            "Gülnar",
+            "Aydıncık",
+            "Çamlıyayla"
+        ]
+    },
+    {
+        "name": "İ̇stanbul",
+        "cities": [
+            "Esenyurt",
+            "Küçükçekmece",
+            "Bağcılar",
+            "Pendik",
+            "Ümraniye",
+            "Bahçelievler",
+            "Üsküdar",
+            "Sultangazi",
+            "Maltepe",
+            "Gaziosmanpaşa",
+            "Kartal",
+            "Kadıköy",
+            "Esenler",
+            "Kağıthane",
+            "Fatih",
+            "Avcılar",
+            "Başakşehir",
+            "Ataşehir",
+            "Sancaktepe",
+            "Eyüp",
+            "Sarıyer",
+            "Beylikdüzü",
+            "Sultanbeyli",
+            "Güngören",
+            "Zeytinburnu",
+            "Şişli",
+            "Bayrampaşa",
+            "Arnavutköy",
+            "Tuzla",
+            "Çekmeköy",
+            "Büyükçekmece",
+            "Beykoz",
+            "Beyoğlu",
+            "Bakırköy",
+            "Silivri",
+            "Beşiktaş",
+            "Çatalca",
+            "Şile",
+            "Adalar"
+        ]
+    },
+    {
+        "name": "İ̇zmi̇r",
+        "cities": [
+            "Buca",
+            "Karabağlar",
+            "Bornova",
+            "Konak",
+            "Karşıyaka",
+            "Bayraklı",
+            "Çiğli",
+            "Torbalı",
+            "Menemen",
+            "Gaziemir",
+            "Ödemiş",
+            "Kemalpaşa",
+            "Bergama",
+            "Aliağa",
+            "Menderes",
+            "Tire",
+            "Balçova",
+            "Urla",
+            "Narlıdere",
+            "Dikili",
+            "Kiraz",
+            "Seferihisar",
+            "Çeşme",
+            "Bayındır",
+            "Selçuk",
+            "Foça",
+            "Güzelbahçe",
+            "Kınık",
+            "Beydağ",
+            "Karaburun"
+        ]
+    },
+    {
+        "name": "Kars",
+        "cities": [
+            "Merkez",
+            "Kağızman",
+            "Sarıkamış",
+            "Selim",
+            "Digor",
+            "Arpaçay",
+            "Akyaka",
+            "Susuz"
+        ]
+    },
+    {
+        "name": "Kastamonu",
+        "cities": [
+            "Merkez",
+            "Tosya",
+            "Taşköprü",
+            "Cide",
+            "İnebolu",
+            "Araç",
+            "Bozkurt",
+            "Daday",
+            "Azdavay",
+            "Çatalzeytin",
+            "Doğanyurt",
+            "Küre",
+            "Pınarbaşı",
+            "İhsangazi",
+            "Şenpazar",
+            "Abana",
+            "Hanönü",
+            "Seydiler",
+            "Ağlı"
+        ]
+    },
+    {
+        "name": "Kayseri̇",
+        "cities": [
+            "Melikgazi",
+            "Kocasinan",
+            "Talas",
+            "Develi",
+            "Yahyalı",
+            "Bünyan",
+            "Pınarbaşı",
+            "Tomarza",
+            "Yeşilhisar",
+            "Sarıoğlan",
+            "Hacılar",
+            "Sarız",
+            "Felahiye",
+            "Akkışla",
+            "Özvatan"
+        ]
+    },
+    {
+        "name": "Kırklareli",
+        "cities": [
+            "Lüleburgaz",
+            "Merkez",
+            "Babaeski",
+            "Vize",
+            "Pınarhisar",
+            "Demirköy",
+            "Pehlivanköy",
+            "Kofçaz"
+        ]
+    },
+    {
+        "name": "Ağrı",
+        "cities": [
+            "Merkez",
+            "Patnos",
+            "Doğubayazıt",
+            "Diyadin",
+            "Eleşkirt",
+            "Tutak",
+            "Taşlıçay",
+            "Hamur"
+        ]
+    },
+    {
+        "name": "Kırşehir",
+        "cities": [
+            "Merkez",
+            "Kaman",
+            "Mucur",
+            "Çiçekdağı",
+            "Akpınar",
+            "Boztepe",
+            "Akçakent"
+        ]
+    },
+    {
+        "name": "Kocaeli̇",
+        "cities": [
+            "Gebze",
+            "İzmit",
+            "Darıca",
+            "Körfez",
+            "Gölcük",
+            "Derince",
+            "Çayırova",
+            "Kartepe",
+            "Başiskele",
+            "Karamürsel",
+            "Kandıra",
+            "Dilovası"
+        ]
+    },
+    {
+        "name": "Konya",
+        "cities": [
+            "Selçuklu",
+            "Meram",
+            "Karatay",
+            "Ereğli",
+            "Akşehir",
+            "Beyşehir",
+            "Çumra",
+            "Seydişehir",
+            "Ilgın",
+            "Cihanbeyli",
+            "Kulu",
+            "Karapınar",
+            "Kadınhanı",
+            "Sarayönü",
+            "Bozkır",
+            "Yunak",
+            "Hüyük",
+            "Doğanhisar",
+            "Altınekin",
+            "Hadim",
+            "Çeltik",
+            "Güneysınır",
+            "Emirgazi",
+            "Taşkent",
+            "Tuzlukçu",
+            "Derebucak",
+            "Akören",
+            "Ahırlı",
+            "Derbent",
+            "Halkapınar",
+            "Yalıhüyük"
+        ]
+    },
+    {
+        "name": "Kütahya",
+        "cities": [
+            "Merkez",
+            "Tavşanlı",
+            "Simav",
+            "Gediz",
+            "Emet",
+            "Altıntaş",
+            "Domaniç",
+            "Hisarcık",
+            "Aslanapa",
+            "Çavdarhisar",
+            "Şaphane",
+            "Pazarlar",
+            "Dumlupınar"
+        ]
+    },
+    {
+        "name": "Malatya",
+        "cities": [
+            "Yeşilyurt",
+            "Battalgazi",
+            "Doğanşehir",
+            "Akçadağ",
+            "Darende",
+            "Hekimhan",
+            "Yazıhan",
+            "Pütürge",
+            "Arapgir",
+            "Kuluncak",
+            "Arguvan",
+            "Kale",
+            "Doğanyol"
+        ]
+    },
+    {
+        "name": "Mani̇sa",
+        "cities": [
+            "Yunusemre",
+            "Akhisar",
+            "Şehzadeler",
+            "Turgutlu",
+            "Salihli",
+            "Soma",
+            "Alaşehir",
+            "Saruhanlı",
+            "Kula",
+            "Demirci",
+            "Kırıkağaç",
+            "Sarıgöl",
+            "Gördes",
+            "Selendi",
+            "Ahmetli",
+            "Gölmarmara",
+            "Köprübaşı"
+        ]
+    },
+    {
+        "name": "Kahramanmaraş",
+        "cities": [
+            "Onikişubat",
+            "Dulkadiroğlu",
+            "Elbistan",
+            "Afşin",
+            "Türkoğlu",
+            "Pazarcık",
+            "Göksun",
+            "Andırın",
+            "Çağlayancerit",
+            "Nurhak",
+            "Ekinözü"
+        ]
+    },
+    {
+        "name": "Mardi̇n",
+        "cities": [
+            "Kızıltepe",
+            "Artuklu",
+            "Midyat",
+            "Nusaybin",
+            "Derik",
+            "Mazıdağı",
+            "Dargeçit",
+            "Savur",
+            "Yeşilli",
+            "Ömerli"
+        ]
+    },
+    {
+        "name": "Muğla",
+        "cities": [
+            "Bodrum",
+            "Fethiye",
+            "Milas",
+            "Menteşe",
+            "Marmaris",
+            "Seydikemer",
+            "Ortaca",
+            "Yatağan",
+            "Dalaman",
+            "Köyceğiz",
+            "Ula",
+            "Datça",
+            "Kavaklıdere"
+        ]
+    },
+    {
+        "name": "Muş",
+        "cities": [
+            "Merkez",
+            "Bulanık",
+            "Malazgirt",
+            "Varto",
+            "Korkut",
+            "Hasköy"
+        ]
+    },
+    {
+        "name": "Amasya",
+        "cities": [
+            "Merkez",
+            "Merzifon",
+            "Suluova",
+            "Taşova",
+            "Göynücek",
+            "Hamamözü"
+        ]
+    },
+    {
+        "name": "Nevşehi̇r",
+        "cities": [
+            "Merkez",
+            "Ürgüp",
+            "Avanos",
+            "Gülşehir",
+            "Derinkuyu",
+            "Acıgöl",
+            "Kozaklı",
+            "Hacıbektaş"
+        ]
+    },
+    {
+        "name": "Ni̇ğde",
+        "cities": [
+            "Merkez",
+            "Bor",
+            "Çiftlik",
+            "Ulukışla",
+            "Altunhisar",
+            "Çamardı"
+        ]
+    },
+    {
+        "name": "Ordu",
+        "cities": [
+            "Altınordu",
+            "Ünye",
+            "Fatsa",
+            "Perşembe",
+            "Kumru",
+            "Korgan",
+            "Gölköy",
+            "Ulubey",
+            "Mesudiye",
+            "Akkuş",
+            "Aybastı",
+            "Gürgentepe",
+            "İkizce",
+            "Çatalpınar",
+            "Çaybaşı",
+            "Çamaş",
+            "Kabataş",
+            "Kabadüz",
+            "Gülyalı"
+        ]
+    },
+    {
+        "name": "Ri̇ze",
+        "cities": [
+            "Merkez",
+            "Çayeli",
+            "Ardeşen",
+            "Pazar",
+            "Fındıklı",
+            "Kalkandere",
+            "Güneysu",
+            "İyidere",
+            "İkizdere",
+            "Derepazarı",
+            "Çamlıhemşin",
+            "Hemşin"
+        ]
+    },
+    {
+        "name": "Sakarya",
+        "cities": [
+            "Adapazarı",
+            "Serdivan",
+            "Akyazı",
+            "Erenler",
+            "Hendek",
+            "Karasu",
+            "Geyve",
+            "Arifiye",
+            "Sapanca",
+            "Pamukova",
+            "Ferizli",
+            "Kocaali",
+            "Kaynarca",
+            "Söğütlü",
+            "Karapürçek",
+            "Taraklı"
+        ]
+    },
+    {
+        "name": "Samsun",
+        "cities": [
+            "İlkadım",
+            "Atakum",
+            "Bafra",
+            "Çarşamba",
+            "Canik",
+            "Vezirköprü",
+            "Terme",
+            "Tekkeköy",
+            "Havza",
+            "19 Mayıs",
+            "Alaçam",
+            "Salıpazarı",
+            "Ayvacık",
+            "Kavak",
+            "Asarcık",
+            "Ladik",
+            "Yakakent"
+        ]
+    },
+    {
+        "name": "Si̇i̇rt",
+        "cities": [
+            "Merkez",
+            "Kurtalan",
+            "Pervari",
+            "Baykan",
+            "Şirvan",
+            "Eruh",
+            "Tillo"
+        ]
+    },
+    {
+        "name": "Si̇nop",
+        "cities": [
+            "Merkez",
+            "Boyabat",
+            "Gerze",
+            "Ayancık",
+            "Durağan",
+            "Türkeli",
+            "Erfelek",
+            "Saraydüzü",
+            "Dikmen"
+        ]
+    },
+    {
+        "name": "Si̇vas",
+        "cities": [
+            "Merkez",
+            "Şarkışla",
+            "Yıldızeli",
+            "Suşehri",
+            "Gemerek",
+            "Zara",
+            "Kangal",
+            "Gürün",
+            "Divriği",
+            "Koyulhisar",
+            "Hafik",
+            "Ulaş",
+            "Altınyayla",
+            "İmranlı",
+            "Akıncılar",
+            "Gölova",
+            "Doğanşar"
+        ]
+    },
+    {
+        "name": "Teki̇rdağ",
+        "cities": [
+            "Çorlu",
+            "Süleymanpaşa",
+            "Çerkezköy",
+            "Kapaklı",
+            "Ergene",
+            "Malkara",
+            "Saray",
+            "Şarköy",
+            "Hayrabolu",
+            "Muratlı",
+            "Marmaraereğlisi"
+        ]
+    },
+    {
+        "name": "Ankara",
+        "cities": [
+            "Çankaya",
+            "Keçiören",
+            "Yenimahalle",
+            "Mamak",
+            "Etimesgut",
+            "Sincan",
+            "Altındağ",
+            "Pursaklar",
+            "Gölbaşı",
+            "Polatlı",
+            "Çubuk",
+            "Kahramankazan",
+            "Beypazarı",
+            "Haymana",
+            "Elmadağ",
+            "Akyurt",
+            "Şereflikoçhisar",
+            "Bala",
+            "Kızılcahamam",
+            "Nallıhan",
+            "Ayaş",
+            "Çamlıdere",
+            "Kalecik",
+            "Güdül",
+            "Evren"
+        ]
+    },
+    {
+        "name": "Tokat",
+        "cities": [
+            "Merkez",
+            "Erbaa",
+            "Turhal",
+            "Niksar",
+            "Zile",
+            "Reşadiye",
+            "Almus",
+            "Pazar",
+            "Yeşilyurt",
+            "Artova",
+            "Sulusaray",
+            "Başçiftlik"
+        ]
+    },
+    {
+        "name": "Trabzon",
+        "cities": [
+            "Ortahisar",
+            "Akçaabat",
+            "Araklı",
+            "Of",
+            "Yomra",
+            "Arsin",
+            "Vakfıkebir",
+            "Sürmene",
+            "Maçka",
+            "Beşikdüzü",
+            "Çarşıbaşı",
+            "Çaykara",
+            "Tonya",
+            "Düzköy",
+            "Şalpazarı",
+            "Hayrat",
+            "Köprübaşı",
+            "Dernekpazarı"
+        ]
+    },
+    {
+        "name": "Tunceli̇",
+        "cities": [
+            "Merkez",
+            "Pertek",
+            "Mazgirt",
+            "Çemişgezek",
+            "Ovacık",
+            "Hozat",
+            "Pülümür",
+            "Nazımiye"
+        ]
+    },
+    {
+        "name": "Şanlıurfa",
+        "cities": [
+            "Eyyübiye",
+            "Haliliye",
+            "Siverek",
+            "Viranşehir",
+            "Karaköprü",
+            "Akçakale",
+            "Suruç",
+            "Birecik",
+            "Harran",
+            "Ceylanpınar",
+            "Bozova",
+            "Hilvan"
+        ]
+    },
+    {
+        "name": "Uşak",
+        "cities": [
+            "Merkez",
+            "Banaz",
+            "Eşme",
+            "Sivaslı",
+            "Ulubey",
+            "Karahallı"
+        ]
+    },
+    {
+        "name": "Van",
+        "cities": [
+            "İpekyolu",
+            "Erciş",
+            "Tuşba",
+            "Edremit",
+            "Özalp",
+            "Çaldıran",
+            "Başkale",
+            "Muradiye",
+            "Gürpınar",
+            "Gevaş",
+            "Saray",
+            "Çatak",
+            "Bahçesaray"
+        ]
+    },
+    {
+        "name": "Yozgat",
+        "cities": [
+            "Merkez",
+            "Sorgun",
+            "Akdağmadeni",
+            "Yerköy",
+            "Boğazlıyan",
+            "Sarıkaya",
+            "Çekerek",
+            "Şefaatli",
+            "Saraykent",
+            "Çayıralan",
+            "Kadışehri",
+            "Aydıncık",
+            "Yenifakılı",
+            "Çandır"
+        ]
+    },
+    {
+        "name": "Zonguldak",
+        "cities": [
+            "Ereğli",
+            "Merkez",
+            "Çaycuma",
+            "Devrek",
+            "Kozlu",
+            "Alaplı",
+            "Kilimli",
+            "Gökçebey"
+        ]
+    },
+    {
+        "name": "Aksaray",
+        "cities": [
+            "Merkez",
+            "Ortaköy",
+            "Eskil",
+            "Gülağaç",
+            "Güzelyurt",
+            "Sultanhanı",
+            "Ağaçören",
+            "Sarıyahşi"
+        ]
+    },
+    {
+        "name": "Bayburt",
+        "cities": [
+            "Merkez",
+            "Demirözü",
+            "Aydıntepe"
+        ]
+    },
+    {
+        "name": "Antalya",
+        "cities": [
+            "Kepez",
+            "Muratpaşa",
+            "Alanya",
+            "Manavgat",
+            "Konyaaltı",
+            "Serik",
+            "Aksu",
+            "Kumluca",
+            "Döşemealtı",
+            "Kaş",
+            "Korkuteli",
+            "Gazipaşa",
+            "Finike",
+            "Kemer",
+            "Elmalı",
+            "Demre",
+            "Akseki",
+            "Gündoğmuş",
+            "İbradi"
+        ]
+    },
+    {
+        "name": "Karaman",
+        "cities": [
+            "Merkez",
+            "Ermenek",
+            "Sarıveliler",
+            "Ayrancı",
+            "Kazımkarabekir",
+            "Başyayla"
+        ]
+    },
+    {
+        "name": "Kırıkkale",
+        "cities": [
+            "Merkez",
+            "Yahşihan",
+            "Keskin",
+            "Delice",
+            "Sulakyurt",
+            "Bahşili",
+            "Balışeyh",
+            "Karakeçili",
+            "Çelebi"
+        ]
+    },
+    {
+        "name": "Batman",
+        "cities": [
+            "Merkez",
+            "Kozluk",
+            "Sason",
+            "Beşiri",
+            "Gercüş",
+            "Hasankeyf"
+        ]
+    },
+    {
+        "name": "Şırnak",
+        "cities": [
+            "Cizre",
+            "Silopi",
+            "Merkez",
+            "İdil",
+            "Uludere",
+            "Beytüşşebap",
+            "Güçlükonak"
+        ]
+    },
+    {
+        "name": "Bartın",
+        "cities": [
+            "Merkez",
+            "Ulus",
+            "Amasra",
+            "Kurucaşile"
+        ]
+    },
+    {
+        "name": "Ardahan",
+        "cities": [
+            "Merkez",
+            "Göle",
+            "Çıldır",
+            "Hanak",
+            "Posof",
+            "Damal"
+        ]
+    },
+    {
+        "name": "Iğdır",
+        "cities": [
+            "Merkez",
+            "Tuzluca",
+            "Aralık",
+            "Karakoyunlu"
+        ]
+    },
+    {
+        "name": "Yalova",
+        "cities": [
+            "Merkez",
+            "Çiftlikköy",
+            "Çınarcık",
+            "Altınova",
+            "Armutlu",
+            "Termal"
+        ]
+    },
+    {
+        "name": "Karabük",
+        "cities": [
+            "Merkez",
+            "Safranbolu",
+            "Yenice",
+            "Eskipazar",
+            "Eflani",
+            "Ovacık"
+        ]
+    },
+    {
+        "name": "Ki̇li̇s",
+        "cities": [
+            "Merkez",
+            "Musabeyli",
+            "Elbeyli",
+            "Polateli"
+        ]
+    },
+    {
+        "name": "Artvi̇n",
+        "cities": [
+            "Merkez",
+            "Hopa",
+            "Borçka",
+            "Arhavi",
+            "Yusufeli",
+            "Şavşat",
+            "Aksu",
+            "Kumluca",
+            "Ardanuç",
+            "Kemalpaşa",
+            "Murgul"
+        ]
+    },
+    {
+        "name": "Osmani̇ye",
+        "cities": [
+            "Merkez",
+            "Kadirli",
+            "Düziçi",
+            "Bahçe",
+            "Toprakkale",
+            "Sumbas",
+            "Hasanbeyli"
+        ]
+    },
+    {
+        "name": "Düzce",
+        "cities": [
+            "Merkez",
+            "Akçakoca",
+            "Kaynaşlı",
+            "Gölyaka",
+            "Çilimli",
+            "Yığılca",
+            "Gümüşova",
+            "Cumayeri"
+        ]
+    },
+    {
+        "name": "Aydın",
+        "cities": [
+            "Efeler",
+            "Nazilli",
+            "Söke",
+            "Kuşadası",
+            "Didim",
+            "İncirliova",
+            "Çine",
+            "Germencik",
+            "Bozdoğan",
+            "Köşk",
+            "Kuyucak",
+            "Koçarlı",
+            "Sultanhisar",
+            "Karacasu",
+            "Buharkent",
+            "Yenipazar",
+            "Karpuzlu"
+        ]
+    }
 ]

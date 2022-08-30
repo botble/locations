@@ -1,488 +1,512 @@
 [
     {
-        "name": "Adana",
+        "name": "Адыгея",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Balıkesir",
+        "name": "Алтай",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Bilecik",
+        "name": "Алтайский край",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Bingöl",
+        "name": "Амурская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Bitlis",
+        "name": "Архангельская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Bolu",
+        "name": "Астраханская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Burdur",
+        "name": "Башкортостан",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Bursa",
+        "name": "Белгородская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Çanakkale",
+        "name": "Брянская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Çankırı",
+        "name": "Бурятия",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Çorum",
+        "name": "Владимирская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Adıyaman",
+        "name": "Волгоградская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Deni̇zli̇",
+        "name": "Вологодская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Di̇yarbakır",
+        "name": "Воронежская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Edi̇rne",
+        "name": "Дагестан",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Elâzığ",
+        "name": "Еврейская АО",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Erzi̇ncan",
+        "name": "Забайкальский край",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Erzurum",
+        "name": "Ивановская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Eski̇şehi̇r",
+        "name": "Ингушетия",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Gazi̇antep",
+        "name": "Иркутская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Gi̇resun",
+        "name": "Кабардино-Балкария",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Gümüşhane",
+        "name": "Калининградская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Afyonkarahi̇sar",
+        "name": "Калмыкия",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Hakkâri̇",
+        "name": "Калужская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Hatay",
+        "name": "Камчатский край",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Isparta",
+        "name": "Карачаево-Черкесия",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Mersi̇n",
+        "name": "Карелия",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "İ̇stanbul",
+        "name": "Кемеровская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "İ̇zmi̇r",
+        "name": "Кировская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Kars",
+        "name": "Коми",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Kastamonu",
+        "name": "Костромская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Kayseri̇",
+        "name": "Краснодарский край",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Kırklareli",
+        "name": "Красноярский край",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Ağrı",
+        "name": "Крым",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Kırşehir",
+        "name": "Курганская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Kocaeli̇",
+        "name": "Курская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Konya",
+        "name": "Ленинградская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Kütahya",
+        "name": "Липецкая область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Malatya",
+        "name": "Магаданская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Mani̇sa",
+        "name": "Марий Эл",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Kahramanmaraş",
+        "name": "Мордовия",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Mardi̇n",
+        "name": "Москва",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Muğla",
+        "name": "Московская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Muş",
+        "name": "Мурманская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Amasya",
+        "name": "Ненецкий АО",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Nevşehi̇r",
+        "name": "Нижегородская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Ni̇ğde",
+        "name": "Новгородская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Ordu",
+        "name": "Новосибирская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Ri̇ze",
+        "name": "Омская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Sakarya",
+        "name": "Оренбургская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Samsun",
+        "name": "Орловская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Si̇i̇rt",
+        "name": "Пензенская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Si̇nop",
+        "name": "Пермский край",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Si̇vas",
+        "name": "Приморский край",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Teki̇rdağ",
+        "name": "Псковская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Ankara",
+        "name": "Ростовская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Tokat",
+        "name": "Рязанская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Trabzon",
+        "name": "Самарская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Tunceli̇",
+        "name": "Санкт-Петербург",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Şanlıurfa",
+        "name": "Саратовская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Uşak",
+        "name": "Сахалинская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Van",
+        "name": "Свердловская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Yozgat",
+        "name": "Севастополь",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Zonguldak",
+        "name": "Северная Осетия — Алания",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Aksaray",
+        "name": "Смоленская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Bayburt",
+        "name": "Ставропольский край",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Antalya",
+        "name": "Тамбовская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Karaman",
+        "name": "Татарстан",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Kırıkkale",
+        "name": "Тверская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Batman",
+        "name": "Томская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Şırnak",
+        "name": "Тульская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Bartın",
+        "name": "Тыва",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Ardahan",
+        "name": "Тюменская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Iğdır",
+        "name": "Удмуртия",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Yalova",
+        "name": "Ульяновская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Karabük",
+        "name": "Хабаровский край",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Ki̇li̇s",
+        "name": "Хакасия",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Artvi̇n",
+        "name": "Ханты-Мансийский АО — Югра",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Osmani̇ye",
+        "name": "Челябинская область",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Düzce",
+        "name": "Чечня",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Aydın",
+        "name": "Чувашия",
         "abbreviation": null,
         "order": 0,
+        "is_default": 0
+    },
+    {
+        "name": "Чукотский АО",
+        "abbreviation": null,
+        "order": 0,
+        "is_default": 0
+    },
+    {
+        "name": "Якутия",
+        "abbreviation": null,
+        "order": 0,
+        "is_default": 0
+    },
+    {
+        "name": "Ямало-Ненецкий АО",
+        "abbreviation": null,
+        "order": 1,
+        "is_default": 0
+    },
+    {
+        "name": "Ярославская область",
+        "abbreviation": null,
+        "order": 2,
         "is_default": 0
     }
 ]
