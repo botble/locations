@@ -1,7 +1,7 @@
 {
     "name": "Chile",
     "nationality": "Chilena",
-    "code": null,
+    "code": "CL",
     "is_default": 0,
     "status": "published",
     "order": 0
