@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Región Metropolitana",
+        "abbreviation": "ME",
+        "order": 13,
+        "is_default": 0
+    },
+    {
+        "name": "Biobío",
+        "abbreviation": "BI",
+        "order": 8,
+        "is_default": 0
+    },
+    {
+        "name": "Antofagasta",
+        "abbreviation": "AN",
+        "order": 2,
+        "is_default": 0
+    },
+    {
+        "name": "Valparaíso",
+        "abbreviation": "VA",
+        "order": 5,
+        "is_default": 0
+    },
+    {
+        "name": "Araucanía",
+        "abbreviation": "AR",
+        "order": 9,
+        "is_default": 0
+    },
+    {
+        "name": "Libertador General Bernardo O’Higgins",
+        "abbreviation": "LI",
+        "order": 6,
+        "is_default": 0
+    },
+    {
+        "name": "Maule",
+        "abbreviation": "MA",
+        "order": 7,
+        "is_default": 0
+    },
+    {
+        "name": "Coquimbo",
+        "abbreviation": "CO",
+        "order": 4,
+        "is_default": 0
+    },
+    {
+        "name": "Arica y Parinacota",
+        "abbreviation": "AR",
+        "order": 15,
+        "is_default": 0
+    },
+    {
+        "name": "Tarapacá",
+        "abbreviation": "TA",
+        "order": 1,
+        "is_default": 0
+    },
+    {
+        "name": "Los Lagos",
+        "abbreviation": "LA",
+        "order": 10,
+        "is_default": 0
+    },
+    {
+        "name": "Atacama",
+        "abbreviation": "AT",
+        "order": 3,
+        "is_default": 0
+    },
+    {
+        "name": "Los Ríos",
+        "abbreviation": "RI",
+        "order": 14,
+        "is_default": 0
+    },
+    {
+        "name": "Magallanes y de la Antártica Chilena",
+        "abbreviation": "MA",
+        "order": 12,
+        "is_default": 0
+    },
+    {
+        "name": "Aysén",
+        "abbreviation": "AY",
+        "order": 11,
+        "is_default": 0
+    },
+    {
+        "name": "Ñuble",
+        "abbreviation": "ÑU",
+        "order": 16,
+        "is_default": 0
+    }
+]

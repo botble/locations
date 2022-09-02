@@ -1,0 +1,200 @@
+[
+    {
+        "name": "Región Metropolitana",
+        "cities": [
+            "Santiago",
+            "Puente Alto",
+            "Maipú",
+            "La Florida",
+            "San Bernardo",
+            "Las Condes",
+            "Colina",
+            "La Granja",
+            "Lo Barnechea",
+            "Espejo",
+            "Buin",
+            "San Joaquín",
+            "La Reina",
+            "Peñaflor",
+            "Talagante",
+            "Lampa",
+            "Isla de Maipo",
+            "Melipilla"
+        ]
+    },
+    {
+        "name": "Biobío",
+        "cities": [
+            "Concepción",
+            "Chillán",
+            "Talcahuano",
+            "Los Ángeles",
+            "Coronel",
+            "Chiguayante",
+            "Penco",
+            "Lota",
+            "Tomé",
+            "Cañete",
+            "Curanilahue",
+            "Chillán Viejo",
+            "Lebu",
+            "Hualqui"
+        ]
+    },
+    {
+        "name": "Antofagasta",
+        "cities": [
+            "Antofagasta",
+            "Calama",
+            "Tocopilla",
+            "Taltal"
+        ]
+    },
+    {
+        "name": "Valparaíso",
+        "cities": [
+            "Viña del Mar",
+            "Valparaíso",
+            "Quilpué",
+            "Villa Alemana",
+            "San Antonio",
+            "Quillota",
+            "San Felipe",
+            "Los Andes",
+            "La Calera",
+            "Placilla de Peñuelas",
+            "Concón",
+            "Quintero",
+            "Cartagena",
+            "La Cruz",
+            "Casablanca",
+            "La Ligua",
+            "Hanga Roa",
+            "Putaendo"
+        ]
+    },
+    {
+        "name": "Araucanía",
+        "cities": [
+            "Temuco",
+            "Villarrica",
+            "Angol",
+            "Victoria",
+            "Nueva Imperial",
+            "Pucón",
+            "Carahue"
+        ]
+    },
+    {
+        "name": "Libertador General Bernardo O’Higgins",
+        "cities": [
+            "Rancagua",
+            "San Fernando",
+            "Las Cabras",
+            "Pichidegua",
+            "Pichilemu"
+        ]
+    },
+    {
+        "name": "Maule",
+        "cities": [
+            "Talca",
+            "Curicó",
+            "Linares",
+            "Parral",
+            "Constitución",
+            "Cauquenes",
+            "San Javier"
+        ]
+    },
+    {
+        "name": "Coquimbo",
+        "cities": [
+            "Coquimbo",
+            "La Serena",
+            "Ovalle",
+            "Salamanca",
+            "Los Vilos",
+            "Illapel",
+            "Vicuña",
+            "Andacollo",
+            "Tongoy",
+            "Canela",
+            "Combarbalá",
+            "Monte Patria"
+        ]
+    },
+    {
+        "name": "Arica y Parinacota",
+        "cities": [
+            "Arica",
+            "Putre"
+        ]
+    },
+    {
+        "name": "Tarapacá",
+        "cities": [
+            "Iquique",
+            "Alto Hospicio",
+            "Pozo Almonte"
+        ]
+    },
+    {
+        "name": "Los Lagos",
+        "cities": [
+            "Puerto Montt",
+            "Osorno",
+            "Alerce",
+            "Ancud",
+            "Castro",
+            "Puerto Varas",
+            "Purranque",
+            "Chaitén",
+            "Río Negro",
+            "Frutillar"
+        ]
+    },
+    {
+        "name": "Atacama",
+        "cities": [
+            "Copiapó",
+            "Vallenar",
+            "Chañaral",
+            "Huasco",
+            "Tierra Amarilla",
+            "Caldera.",
+            "Diego de Almagro",
+            "El Salvador."
+        ]
+    },
+    {
+        "name": "Los Ríos",
+        "cities": [
+            "Valdivia",
+            "La Unión",
+            "Río Bueno"
+        ]
+    },
+    {
+        "name": "Magallanes y de la Antártica Chilena",
+        "cities": [
+            "Punta Arenas",
+            "Puerto Natales",
+            "Porvenir",
+            "Puerto Williams"
+        ]
+    },
+    {
+        "name": "Aysén",
+        "cities": [
+            "Coyhaique",
+            "Puerto Aysén",
+            "Chile Chico",
+            "Cochrane"
+        ]
+    },
+    {
+        "name": "Ñuble",
+        "cities": []
+    }
+]
