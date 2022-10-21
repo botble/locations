@@ -1,0 +1,201 @@
+[
+    {
+        "name": "Addis Ababa",
+        "cities": [
+            "Addis Ababa"
+        ]
+    },
+    {
+        "name": "Afar Region",
+        "cities": [
+            "Administrative Zone 2",
+            "Administrative Zone 3",
+            "Asaita",
+            "Āwash",
+            "Dubti",
+            "Gewanē",
+            "Semera"
+        ]
+    },
+    {
+        "name": "Amhara Region",
+        "cities": [
+            "Abomsa",
+            "Addiet Canna",
+            "Ādīs Zemen",
+            "Bahir Dar",
+            "Batī",
+            "Bichena",
+            "Burē",
+            "Dabat",
+            "Debark’",
+            "Debre Birhan",
+            "Debre Mark’os",
+            "Debre Sīna",
+            "Debre Tabor",
+            "Debre Werk’",
+            "Dejen",
+            "Desē",
+            "Finote Selam",
+            "Gondar",
+            "Kemisē",
+            "Kombolcha",
+            "Lalībela",
+            "North Shewa Zone",
+            "North Wollo Zone",
+            "Robīt",
+            "South Gondar Zone",
+            "South Wollo Zone",
+            "Wag Hemra Zone",
+            "Were Īlu",
+            "Werota"
+        ]
+    },
+    {
+        "name": "Benishangul-Gumuz Region",
+        "cities": [
+            "Asosa",
+            "Metekel"
+        ]
+    },
+    {
+        "name": "Dire Dawa",
+        "cities": [
+            "Dire Dawa"
+        ]
+    },
+    {
+        "name": "Gambela Region",
+        "cities": [
+            "Administrative Zone 1",
+            "Gambēla"
+        ]
+    },
+    {
+        "name": "Harari Region",
+        "cities": [
+            "Harar"
+        ]
+    },
+    {
+        "name": "Oromia Region",
+        "cities": [
+            "Ādīs ‘Alem",
+            "Āgaro",
+            "Arsi Zone",
+            "Āsasa",
+            "Āsbe Teferī",
+            "Bedelē",
+            "Bedēsa",
+            "Bishoftu",
+            "Deder",
+            "Dembī Dolo",
+            "Dodola",
+            "East Harerghe Zone",
+            "East Shewa Zone",
+            "East Wellega Zone",
+            "Fichē",
+            "Gebre Guracha",
+            "Gēdo",
+            "Gelemso",
+            "Genet",
+            "Gimbi",
+            "Ginir",
+            "Goba",
+            "Gorē",
+            "Guji Zone",
+            "Hāgere Hiywet",
+            "Hagere Maryam",
+            "Hīrna",
+            "Huruta",
+            "Illubabor Zone",
+            "Jimma",
+            "Jimma Zone",
+            "Kibre Mengist",
+            "Kofelē",
+            "Mēga",
+            "Mendī",
+            "Metahāra",
+            "Metu",
+            "Mojo",
+            "Nazrēt",
+            "Nejo",
+            "North Shewa Zone",
+            "Sebeta",
+            "Sendafa",
+            "Shakiso",
+            "Shambu",
+            "Shashemenē",
+            "Sirre",
+            "Tulu Bolo",
+            "Waliso",
+            "Wenjī",
+            "West Harerghe Zone",
+            "West Wellega Zone",
+            "Yabēlo",
+            "Ziway"
+        ]
+    },
+    {
+        "name": "Somali Region",
+        "cities": [
+            "Afder Zone",
+            "Degehabur Zone",
+            "Gode Zone",
+            "Jijiga",
+            "Liben zone",
+            "Shinile Zone"
+        ]
+    },
+    {
+        "name": "Southern Nations, Nationalities, and Peoples' Region",
+        "cities": [
+            "Alaba Special Wereda",
+            "Arba Minch",
+            "Āreka",
+            "Bako",
+            "Bench Maji Zone",
+            "Bodītī",
+            "Bonga",
+            "Butajīra",
+            "Dīla",
+            "Felege Neway",
+            "Gedeo Zone",
+            "Gīdolē",
+            "Guraghe Zone",
+            "Hadiya Zone",
+            "Hāgere Selam",
+            "Hawassa",
+            "Hosa’ina",
+            "Jinka",
+            "K’olīto",
+            "Kembata Alaba Tembaro Zone",
+            "Konso",
+            "Leku",
+            "Lobuni",
+            "Mīzan Teferī",
+            "Sheka Zone",
+            "Sidama Zone",
+            "Sodo",
+            "Tippi",
+            "Turmi",
+            "Wendo",
+            "Wolayita Zone",
+            "Yem",
+            "Yirga ‘Alem"
+        ]
+    },
+    {
+        "name": "Tigray Region",
+        "cities": [
+            "Ādīgrat",
+            "Axum",
+            "Inda Silasē",
+            "Korem",
+            "Maych’ew",
+            "Mek'ele",
+            "Southeastern Tigray Zone",
+            "Southern Tigray Zone"
+        ]
+    }
+]

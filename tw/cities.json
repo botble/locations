@@ -1,0 +1,150 @@
+[
+    {
+        "name": "Changhua",
+        "cities": [
+            "Changhua",
+            "Yuanlin"
+        ]
+    },
+    {
+        "name": "Chiayi",
+        "cities": [
+            "Chiayi",
+            "Pizitou"
+        ]
+    },
+    {
+        "name": "Chiayi",
+        "cities": [
+            "Chiayi County"
+        ]
+    },
+    {
+        "name": "Hsinchu",
+        "cities": [
+            "Hsinchu"
+        ]
+    },
+    {
+        "name": "Hsinchu",
+        "cities": [
+            "Hsinchu County"
+        ]
+    },
+    {
+        "name": "Hualien",
+        "cities": [
+            "Hualien",
+            "Hualien City"
+        ]
+    },
+    {
+        "name": "Kaohsiung",
+        "cities": [
+            "Kaohsiung"
+        ]
+    },
+    {
+        "name": "Keelung",
+        "cities": []
+    },
+    {
+        "name": "Kinmen",
+        "cities": [
+            "Jincheng",
+            "Kinmen County"
+        ]
+    },
+    {
+        "name": "Lienchiang",
+        "cities": [
+            "Lienchiang",
+            "Nangan"
+        ]
+    },
+    {
+        "name": "Miaoli",
+        "cities": [
+            "Miaoli"
+        ]
+    },
+    {
+        "name": "Nantou",
+        "cities": [
+            "Lugu",
+            "Nantou",
+            "Puli",
+            "Zhongxing New Village"
+        ]
+    },
+    {
+        "name": "New Taipei",
+        "cities": []
+    },
+    {
+        "name": "Penghu",
+        "cities": [
+            "Magong",
+            "Penghu County"
+        ]
+    },
+    {
+        "name": "Pingtung",
+        "cities": [
+            "Donggang",
+            "Hengchun",
+            "Pingtung"
+        ]
+    },
+    {
+        "name": "Taichung",
+        "cities": [
+            "Taichung",
+            "Taichung City"
+        ]
+    },
+    {
+        "name": "Tainan",
+        "cities": [
+            "Tainan",
+            "Yujing"
+        ]
+    },
+    {
+        "name": "Taipei",
+        "cities": [
+            "Banqiao",
+            "Jiufen",
+            "Taipei",
+            "Taipei City"
+        ]
+    },
+    {
+        "name": "Taitung",
+        "cities": [
+            "Taitung",
+            "Taitung City"
+        ]
+    },
+    {
+        "name": "Taoyuan",
+        "cities": [
+            "Daxi",
+            "Taoyuan",
+            "Taoyuan City"
+        ]
+    },
+    {
+        "name": "Yilan",
+        "cities": [
+            "Yilan"
+        ]
+    },
+    {
+        "name": "Yunlin",
+        "cities": [
+            "Douliu",
+            "Yunlin"
+        ]
+    }
+]

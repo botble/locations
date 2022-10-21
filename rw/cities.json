@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Eastern Province",
+        "cities": [
+            "Kibungo",
+            "Rwamagana"
+        ]
+    },
+    {
+        "name": "Kigali district",
+        "cities": [
+            "Kigali"
+        ]
+    },
+    {
+        "name": "Northern Province",
+        "cities": [
+            "Byumba",
+            "Musanze"
+        ]
+    },
+    {
+        "name": "Southern Province",
+        "cities": [
+            "Butare",
+            "Eglise Catholique Centrale GIKO",
+            "Gitarama",
+            "Nzega"
+        ]
+    },
+    {
+        "name": "Western Province",
+        "cities": [
+            "Cyangugu",
+            "Gisenyi",
+            "Kibuye"
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Christ Church",
+        "cities": [
+            "Oistins"
+        ]
+    },
+    {
+        "name": "Saint Andrew",
+        "cities": [
+            "Greenland"
+        ]
+    },
+    {
+        "name": "Saint George",
+        "cities": []
+    },
+    {
+        "name": "Saint James",
+        "cities": [
+            "Holetown"
+        ]
+    },
+    {
+        "name": "Saint John",
+        "cities": []
+    },
+    {
+        "name": "Saint Joseph",
+        "cities": [
+            "Bathsheba"
+        ]
+    },
+    {
+        "name": "Saint Lucy",
+        "cities": []
+    },
+    {
+        "name": "Saint Michael",
+        "cities": [
+            "Bridgetown"
+        ]
+    },
+    {
+        "name": "Saint Peter",
+        "cities": [
+            "Speightstown"
+        ]
+    },
+    {
+        "name": "Saint Philip",
+        "cities": [
+            "Crane"
+        ]
+    },
+    {
+        "name": "Saint Thomas",
+        "cities": []
+    }
+]

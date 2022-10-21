@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Ad Dakhiliyah",
+        "cities": [
+            "Adam",
+            "Bahlā’",
+            "Bidbid",
+            "Izkī",
+            "Nizwá",
+            "Sufālat Samā’il"
+        ]
+    },
+    {
+        "name": "Ad Dhahirah",
+        "cities": [
+            "‘Ibrī",
+            "Yanqul"
+        ]
+    },
+    {
+        "name": "Al Batinah North",
+        "cities": [
+            "Al Khābūrah",
+            "As Suwayq",
+            "Liwá",
+            "Şaḩam",
+            "Shināş",
+            "Sohar"
+        ]
+    },
+    {
+        "name": "Al Batinah Region",
+        "cities": [
+            "Barkā’",
+            "Bayt al ‘Awābī",
+            "Oman Smart Future City",
+            "Rustaq"
+        ]
+    },
+    {
+        "name": "Al Batinah South",
+        "cities": []
+    },
+    {
+        "name": "Al Buraimi",
+        "cities": [
+            "Al Buraymī"
+        ]
+    },
+    {
+        "name": "Al Wusta",
+        "cities": [
+            "Haymā’"
+        ]
+    },
+    {
+        "name": "Ash Sharqiyah North",
+        "cities": []
+    },
+    {
+        "name": "Ash Sharqiyah Region",
+        "cities": [
+            "Sur"
+        ]
+    },
+    {
+        "name": "Ash Sharqiyah South",
+        "cities": []
+    },
+    {
+        "name": "Dhofar",
+        "cities": [
+            "Şalālah"
+        ]
+    },
+    {
+        "name": "Musandam",
+        "cities": [
+            "Dib Dibba",
+            "Khasab",
+            "Madḩā’ al Jadīdah"
+        ]
+    },
+    {
+        "name": "Muscat",
+        "cities": [
+            "Bawshar",
+            "Muscat",
+            "Seeb"
+        ]
+    }
+]

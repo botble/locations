@@ -1,0 +1,166 @@
+[
+    {
+        "name": "Bahr el Gazel",
+        "cities": [
+            "Moussoro"
+        ]
+    },
+    {
+        "name": "Batha",
+        "cities": [
+            "Ati",
+            "Oum Hadjer"
+        ]
+    },
+    {
+        "name": "Borkou",
+        "cities": [
+            "Faya-Largeau"
+        ]
+    },
+    {
+        "name": "Chari-Baguirmi",
+        "cities": [
+            "Baguirmi Department",
+            "Bousso",
+            "Chari Department",
+            "Dababa",
+            "Gaoui",
+            "Linia",
+            "Mandjafa",
+            "Massenya"
+        ]
+    },
+    {
+        "name": "Ennedi-Est",
+        "cities": []
+    },
+    {
+        "name": "Ennedi-Ouest",
+        "cities": [
+            "Fada"
+        ]
+    },
+    {
+        "name": "Guéra",
+        "cities": [
+            "Bitkine",
+            "Melfi",
+            "Mongo"
+        ]
+    },
+    {
+        "name": "Hadjer-Lamis",
+        "cities": [
+            "Bokoro",
+            "Massaguet",
+            "Massakory"
+        ]
+    },
+    {
+        "name": "Kanem",
+        "cities": [
+            "Mao"
+        ]
+    },
+    {
+        "name": "Lac",
+        "cities": [
+            "Bol"
+        ]
+    },
+    {
+        "name": "Logone Occidental",
+        "cities": [
+            "Beïnamar",
+            "Benoy",
+            "Lac Wey",
+            "Moundou"
+        ]
+    },
+    {
+        "name": "Logone Oriental",
+        "cities": [
+            "Bébédja",
+            "Béboto",
+            "Doba"
+        ]
+    },
+    {
+        "name": "Mandoul",
+        "cities": [
+            "Goundi",
+            "Koumra",
+            "Moïssala"
+        ]
+    },
+    {
+        "name": "Mayo-Kebbi Est",
+        "cities": [
+            "Bongor",
+            "Gounou Gaya",
+            "Guelendeng"
+        ]
+    },
+    {
+        "name": "Mayo-Kebbi Ouest",
+        "cities": [
+            "Mboursou Léré",
+            "Pala"
+        ]
+    },
+    {
+        "name": "Moyen-Chari",
+        "cities": [
+            "Kyabé",
+            "Sarh"
+        ]
+    },
+    {
+        "name": "N'Djamena",
+        "cities": [
+            "N'Djamena"
+        ]
+    },
+    {
+        "name": "Ouaddaï",
+        "cities": [
+            "Abéché",
+            "Adré",
+            "Goz Béïda"
+        ]
+    },
+    {
+        "name": "Salamat",
+        "cities": [
+            "Am Timan"
+        ]
+    },
+    {
+        "name": "Sila",
+        "cities": [
+            "Goz Beïda"
+        ]
+    },
+    {
+        "name": "Tandjilé",
+        "cities": [
+            "Béré",
+            "Kelo",
+            "Laï"
+        ]
+    },
+    {
+        "name": "Tibesti",
+        "cities": [
+            "Aozou"
+        ]
+    },
+    {
+        "name": "Wadi Fira",
+        "cities": [
+            "Biltine",
+            "Iriba"
+        ]
+    }
+]

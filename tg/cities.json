@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Centrale Region",
+        "cities": [
+            "Sokodé",
+            "Sotouboua",
+            "Tchamba"
+        ]
+    },
+    {
+        "name": "Kara Region",
+        "cities": [
+            "Bafilo",
+            "Bassar",
+            "Kandé",
+            "Kara",
+            "Niamtougou",
+            "Pagouda",
+            "Préfecture de Bassar"
+        ]
+    },
+    {
+        "name": "Maritime",
+        "cities": [
+            "Aného",
+            "Lomé",
+            "Tabligbo",
+            "Tsévié",
+            "Vogan"
+        ]
+    },
+    {
+        "name": "Plateaux Region",
+        "cities": [
+            "Amlamé",
+            "Atakpamé",
+            "Badou",
+            "Kpalimé",
+            "Notsé"
+        ]
+    },
+    {
+        "name": "Savanes Region",
+        "cities": [
+            "Dapaong",
+            "Sansanné-Mango"
+        ]
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Erongo Region",
+        "cities": [
+            "Arandis",
+            "Hentiesbaai",
+            "Karibib",
+            "Omaruru",
+            "Otjimbingwe",
+            "Swakopmund",
+            "Swakopmund Constituency",
+            "Usakos",
+            "Walvis Bay"
+        ]
+    },
+    {
+        "name": "Hardap Region",
+        "cities": [
+            "Aranos",
+            "Hoachanas",
+            "Maltahöhe",
+            "Mariental",
+            "Rehoboth"
+        ]
+    },
+    {
+        "name": "Karas Region",
+        "cities": [
+            "Bethanie",
+            "Karasburg",
+            "Keetmanshoop",
+            "Lüderitz",
+            "Oranjemund",
+            "Tses",
+            "Warmbad"
+        ]
+    },
+    {
+        "name": "Kavango East Region",
+        "cities": [
+            "Rundu"
+        ]
+    },
+    {
+        "name": "Kavango West Region",
+        "cities": []
+    },
+    {
+        "name": "Khomas Region",
+        "cities": [
+            "Katutura",
+            "Windhoek"
+        ]
+    },
+    {
+        "name": "Kunene Region",
+        "cities": [
+            "Epupa Constituency",
+            "Khorixas",
+            "Khorixas Constituency",
+            "Opuwo",
+            "Opuwo Constituency",
+            "Outjo",
+            "Sesfontein Constituency"
+        ]
+    },
+    {
+        "name": "Ohangwena Region",
+        "cities": [
+            "Oshikango"
+        ]
+    },
+    {
+        "name": "Omaheke Region",
+        "cities": [
+            "Gobabis"
+        ]
+    },
+    {
+        "name": "Omusati Region",
+        "cities": [
+            "Okahao",
+            "Ongandjera",
+            "Outapi"
+        ]
+    },
+    {
+        "name": "Oshana Region",
+        "cities": [
+            "Ondangwa",
+            "Ongwediva",
+            "Oshakati"
+        ]
+    },
+    {
+        "name": "Oshikoto Region",
+        "cities": [
+            "Omuthiya",
+            "Tsumeb"
+        ]
+    },
+    {
+        "name": "Otjozondjupa Region",
+        "cities": [
+            "Grootfontein",
+            "Okahandja",
+            "Okakarara",
+            "Otavi",
+            "Otjiwarongo"
+        ]
+    },
+    {
+        "name": "Zambezi Region",
+        "cities": [
+            "Bagani",
+            "Katima Mulilo"
+        ]
+    }
+]

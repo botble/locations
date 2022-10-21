@@ -1,0 +1,144 @@
+[
+    {
+        "name": "Arkhangai Province",
+        "cities": [
+            "Tsetserleg"
+        ]
+    },
+    {
+        "name": "Bayan-Ölgii Province",
+        "cities": [
+            "Altay",
+            "Ölgii",
+            "Tsengel"
+        ]
+    },
+    {
+        "name": "Bayankhongor Province",
+        "cities": [
+            "Bayanhongor"
+        ]
+    },
+    {
+        "name": "Bulgan Province",
+        "cities": [
+            "Bulgan"
+        ]
+    },
+    {
+        "name": "Darkhan-Uul Province",
+        "cities": [
+            "Darhan"
+        ]
+    },
+    {
+        "name": "Dornod Province",
+        "cities": [
+            "Choibalsan",
+            "Ereencav"
+        ]
+    },
+    {
+        "name": "Dornogovi Province",
+        "cities": []
+    },
+    {
+        "name": "Dundgovi Province",
+        "cities": [
+            "Mandalgovi"
+        ]
+    },
+    {
+        "name": "Govi-Altai Province",
+        "cities": [
+            "Altai"
+        ]
+    },
+    {
+        "name": "Govisümber Province",
+        "cities": [
+            "Choyr"
+        ]
+    },
+    {
+        "name": "Khentii Province",
+        "cities": [
+            "Undurkhaan"
+        ]
+    },
+    {
+        "name": "Khovd Province",
+        "cities": [
+            "Khovd",
+            "Möst",
+            "Üyönch"
+        ]
+    },
+    {
+        "name": "Khövsgöl Province",
+        "cities": [
+            "Hanh",
+            "Murun-kuren",
+            "Tsengel",
+            "Turt"
+        ]
+    },
+    {
+        "name": "Ömnögovi Province",
+        "cities": [
+            "Dalandzadgad",
+            "Hanhongor",
+            "Nomgon Sum"
+        ]
+    },
+    {
+        "name": "Orkhon Province",
+        "cities": [
+            "Erdenet"
+        ]
+    },
+    {
+        "name": "Övörkhangai Province",
+        "cities": [
+            "Arvayheer",
+            "Harhorin",
+            "Hovd",
+            "Kharkhorin",
+            "Nariynteel"
+        ]
+    },
+    {
+        "name": "Selenge Province",
+        "cities": [
+            "Dzüünharaa",
+            "Sühbaatar"
+        ]
+    },
+    {
+        "name": "Sükhbaatar Province",
+        "cities": [
+            "Baruun-Urt"
+        ]
+    },
+    {
+        "name": "Töv Province",
+        "cities": [
+            "Dzuunmod",
+            "Möngönmorĭt",
+            "Ulaanhudag",
+            "Зуунмод"
+        ]
+    },
+    {
+        "name": "Uvs Province",
+        "cities": [
+            "Ulaangom"
+        ]
+    },
+    {
+        "name": "Zavkhan Province",
+        "cities": [
+            "Uliastay"
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Carriacou and Petite Martinique",
+        "cities": [
+            "Hillsborough"
+        ]
+    },
+    {
+        "name": "Saint Andrew Parish",
+        "cities": [
+            "Grenville"
+        ]
+    },
+    {
+        "name": "Saint David Parish",
+        "cities": [
+            "Saint David’s"
+        ]
+    },
+    {
+        "name": "Saint George Parish",
+        "cities": [
+            "Saint George's"
+        ]
+    },
+    {
+        "name": "Saint John Parish",
+        "cities": [
+            "Gouyave"
+        ]
+    },
+    {
+        "name": "Saint Mark Parish",
+        "cities": [
+            "Victoria"
+        ]
+    },
+    {
+        "name": "Saint Patrick Parish",
+        "cities": [
+            "Sauteurs"
+        ]
+    }
+]

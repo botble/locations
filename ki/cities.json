@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Gilbert Islands",
+        "cities": [
+            "Abaiang",
+            "Abemama",
+            "Ambo Village",
+            "Aranuka",
+            "Arorae",
+            "Bairiki Village",
+            "Banaba",
+            "Banraeaba Village",
+            "Beru",
+            "Betio Village",
+            "Bikenibeu Village",
+            "Bonriki Village",
+            "Buota Village",
+            "Butaritari",
+            "Eita Village",
+            "Kuria",
+            "Maiana",
+            "Makin",
+            "Makin Village",
+            "Marakei",
+            "Nawerewere Village",
+            "Nikunau",
+            "Nonouti",
+            "Onotoa",
+            "Rawannawi Village",
+            "Tabiteuea",
+            "Tamana",
+            "Tarawa",
+            "Teaoraereke Village",
+            "Temaiku Village"
+        ]
+    },
+    {
+        "name": "Line Islands",
+        "cities": [
+            "Banana Village",
+            "Kiritimati",
+            "London Village",
+            "Napari Village",
+            "Tabuaeran",
+            "Tabwakea Village",
+            "Teraina"
+        ]
+    },
+    {
+        "name": "Phoenix Islands",
+        "cities": [
+            "Kanton"
+        ]
+    }
+]

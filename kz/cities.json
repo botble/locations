@@ -1,0 +1,347 @@
+[
+    {
+        "name": "Akmola Region",
+        "cities": [
+            "Akkol",
+            "Akkol’",
+            "Aksu",
+            "Astrakhan",
+            "Atbasar",
+            "Balkashino",
+            "Bestobe",
+            "Derzhavīnsk",
+            "Egindiköl",
+            "Esil",
+            "Kokshetau",
+            "Krasnogorskiy",
+            "Makinsk",
+            "Shantobe",
+            "Shchuchinsk",
+            "Shortandy",
+            "Stepnogorsk",
+            "Stepnyak",
+            "Yermentau",
+            "Zavodskoy",
+            "Zhaqsy",
+            "Zholymbet"
+        ]
+    },
+    {
+        "name": "Aktobe Region",
+        "cities": [
+            "Aktobe",
+            "Batamshinskiy",
+            "Bayganin",
+            "Embi",
+            "Kandyagash",
+            "Khromtau",
+            "Martuk",
+            "Shalqar",
+            "Shubarkuduk",
+            "Shubarshi",
+            "Temir",
+            "Yrghyz"
+        ]
+    },
+    {
+        "name": "Almaty",
+        "cities": [
+            "Almaty"
+        ]
+    },
+    {
+        "name": "Almaty Region",
+        "cities": [
+            "Bakanas",
+            "Balpyk Bī",
+            "Burunday",
+            "Chemolgan",
+            "Druzhba",
+            "Esik",
+            "Kapshagay",
+            "Kegen",
+            "Lepsy",
+            "Matay",
+            "Otegen Batyra",
+            "Pervomayka",
+            "Sarkand",
+            "Saryozek",
+            "Taldykorgan",
+            "Talghar",
+            "Tekeli",
+            "Turgen",
+            "Ülken",
+            "Ush-Tyube",
+            "Zharkent"
+        ]
+    },
+    {
+        "name": "Atyrau Region",
+        "cities": [
+            "Akkol’",
+            "Atyrau",
+            "Balykshi",
+            "Bayshonas",
+            "Dossor",
+            "Inderbor",
+            "Makhambet",
+            "Maloye Ganyushkino",
+            "Maqat",
+            "Miyaly",
+            "Qaraton",
+            "Qulsary",
+            "Shalkar"
+        ]
+    },
+    {
+        "name": "Baikonur",
+        "cities": [
+            "Baikonur"
+        ]
+    },
+    {
+        "name": "East Kazakhstan Region",
+        "cities": [
+            "Altayskiy",
+            "Aqtoghay",
+            "Asūbulaq",
+            "Auezov",
+            "Ayagoz",
+            "Belogorskīy",
+            "Belousovka",
+            "Borodulikha",
+            "Georgīevka",
+            "Glubokoye",
+            "Kurchatov",
+            "Kurchum",
+            "Maleyevsk",
+            "Ognevka",
+            "Priisk Boko",
+            "Qaraūyl",
+            "Ridder",
+            "Semey",
+            "Shar",
+            "Shemonaīkha",
+            "Suykbulak",
+            "Tūghyl",
+            "Urzhar",
+            "Ust-Kamenogorsk",
+            "Ūst’-Talovka",
+            "Zaysan",
+            "Zhalghyztobe",
+            "Zhanga Buqtyrma",
+            "Zhezkent",
+            "Zyryanovsk"
+        ]
+    },
+    {
+        "name": "Jambyl Region",
+        "cities": [
+            "Aqbaqay",
+            "Chu",
+            "Georgiyevka",
+            "Granitogorsk",
+            "Karatau",
+            "Khantaū",
+            "Lugovoy",
+            "Lugovoye",
+            "Merke",
+            "Moyynkum",
+            "Mynaral",
+            "Oytal",
+            "Sarykemer",
+            "Shyghanaq",
+            "Taraz",
+            "Zhangatas"
+        ]
+    },
+    {
+        "name": "Karaganda Region",
+        "cities": [
+            "Abay",
+            "Abay Qalasy",
+            "Aksu-Ayuly",
+            "Aktas",
+            "Aktau",
+            "Aktogay",
+            "Aqadyr",
+            "Aqshataū",
+            "Aqtoghay Aūdany",
+            "Atasū",
+            "Balqash",
+            "Bukhar-Zhyrau",
+            "Dolinka",
+            "Karagandy",
+            "Kīevka",
+            "Koktal",
+            "Kushoky",
+            "Kyzylzhar",
+            "Moyynty",
+            "Novodolinskiy",
+            "Osakarovka",
+            "Prigorodnoye",
+            "Priozersk",
+            "Qarazhal",
+            "Qarqaraly",
+            "Saryshaghan",
+            "Sayaq",
+            "Shakhan",
+            "Shakhtinsk",
+            "Shashūbay",
+            "Shubarköl",
+            "Soran",
+            "Temirtau",
+            "Tokarevka",
+            "Verkhniye Kayrakty",
+            "Zhambyl",
+            "Zharyk",
+            "Zhezqazghan"
+        ]
+    },
+    {
+        "name": "Kostanay Region",
+        "cities": [
+            "Arkalyk",
+            "Ayat",
+            "Borovskoy",
+            "Dzhetygara",
+            "Fyodorovka",
+            "Karasu",
+            "Komsomolets",
+            "Kostanay",
+            "Lisakovsk",
+            "Ordzhonikidze",
+            "Qashar",
+            "Qusmuryn",
+            "Rudnyy",
+            "Tobol",
+            "Torghay",
+            "Troyebratskiy"
+        ]
+    },
+    {
+        "name": "Kyzylorda Region",
+        "cities": [
+            "Aral",
+            "Ayteke Bi",
+            "Belköl",
+            "Dzhalagash",
+            "Kyzylorda",
+            "Qazaly",
+            "Sekseūil",
+            "Shalqīya",
+            "Shīeli",
+            "Tasböget",
+            "Terenozek",
+            "Yanykurgan",
+            "Zhosaly"
+        ]
+    },
+    {
+        "name": "Mangystau Region",
+        "cities": [
+            "Aktau",
+            "Baūtīno",
+            "Beyneu",
+            "Fort-Shevchenko",
+            "Munayshy",
+            "Ömirzaq",
+            "Sayötesh",
+            "Shetpe",
+            "Taūshyq",
+            "Yeraliyev",
+            "Zhanaozen",
+            "Zhetibay"
+        ]
+    },
+    {
+        "name": "North Kazakhstan Region",
+        "cities": [
+            "Birlestik",
+            "Bishkul",
+            "Bulayevo",
+            "Būrabay",
+            "Kzyltu",
+            "Novoishimskiy",
+            "Petropavl",
+            "Sergeyevka",
+            "Smirnovo",
+            "Taiynsha",
+            "Talshik",
+            "Timiryazevo",
+            "Volodarskoye",
+            "Yavlenka"
+        ]
+    },
+    {
+        "name": "Nur-Sultan",
+        "cities": [
+            "Nur-Sultan"
+        ]
+    },
+    {
+        "name": "Pavlodar Region",
+        "cities": [
+            "Aksu",
+            "Bayanaul",
+            "Belogor’ye",
+            "Ekibastuz",
+            "Irtyshsk",
+            "Kalkaman",
+            "Leninskiy",
+            "Mayqayyng",
+            "Pavlodar",
+            "Qashyr",
+            "Zhelezinka"
+        ]
+    },
+    {
+        "name": "Turkestan Region",
+        "cities": [
+            "Arys",
+            "Ashchysay",
+            "Asyqata",
+            "Atakent",
+            "Bayzhansay",
+            "Belyye Vody",
+            "Chardara",
+            "Chayan",
+            "Chulakkurgan",
+            "Kantagi",
+            "Kentau",
+            "Kokterek",
+            "Lenger",
+            "Leninskoye",
+            "Maqtaaral Aūdany",
+            "Myrzakent",
+            "Qogham",
+            "Saryaghash",
+            "Saryaghash Aūdany",
+            "Sastobe",
+            "Sozaq Aūdany",
+            "Temirlanovka",
+            "Turar Ryskulov",
+            "Turkestan",
+            "Tyul’kubas",
+            "Zhabagly"
+        ]
+    },
+    {
+        "name": "West Kazakhstan Province",
+        "cities": [
+            "Aqsay",
+            "Burlin",
+            "Chapaev",
+            "Chingirlau",
+            "Dzhambeyty",
+            "Fedorovka",
+            "Kaztalovka",
+            "Krūgloozernoe",
+            "Oral",
+            "Peremetnoe",
+            "Saykhin",
+            "Tasqala",
+            "Zhänibek"
+        ]
+    }
+]

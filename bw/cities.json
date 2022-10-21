@@ -1,0 +1,126 @@
+[
+    {
+        "name": "Central District",
+        "cities": [
+            "Gobojango",
+            "Gweta",
+            "Kalamare",
+            "Letlhakane",
+            "Letsheng",
+            "Maapi",
+            "Machaneng",
+            "Mahalapye",
+            "Makobeng",
+            "Makwata",
+            "Mathakola",
+            "Mathambgwane",
+            "Mathathane",
+            "Maunatlala",
+            "Mogapi",
+            "Moijabana",
+            "Mookane",
+            "Mopipi",
+            "Mosetse",
+            "Nata",
+            "Orapa",
+            "Palapye",
+            "Pilikwe",
+            "Rakops",
+            "Ramokgonami",
+            "Ratholo",
+            "Sefophe",
+            "Serowe",
+            "Sua",
+            "Tamasane",
+            "Tobane",
+            "Tonota"
+        ]
+    },
+    {
+        "name": "Ghanzi District",
+        "cities": [
+            "Dekar",
+            "Ghanzi"
+        ]
+    },
+    {
+        "name": "Kgalagadi District",
+        "cities": [
+            "Hukuntsi",
+            "Kang",
+            "Lehututu",
+            "Manyana",
+            "Tshabong",
+            "Werda"
+        ]
+    },
+    {
+        "name": "Kgatleng District",
+        "cities": [
+            "Bokaa",
+            "Mmathubudukwane",
+            "Mochudi",
+            "Pilane"
+        ]
+    },
+    {
+        "name": "Kweneng District",
+        "cities": [
+            "Botlhapatlou",
+            "Dutlwe",
+            "Gabane",
+            "Gaphatshwe",
+            "Khudumelapye",
+            "Lenchwe Le Tau",
+            "Letlhakeng",
+            "Metsemotlhaba",
+            "Mmopone",
+            "Mogoditshane",
+            "Molepolole",
+            "Nkoyaphiri",
+            "Thamaga"
+        ]
+    },
+    {
+        "name": "Ngamiland",
+        "cities": []
+    },
+    {
+        "name": "North-East District",
+        "cities": [
+            "Dukwe",
+            "Makaleng",
+            "Masunga",
+            "Sebina"
+        ]
+    },
+    {
+        "name": "North-West District",
+        "cities": [
+            "Maun",
+            "Nokaneng",
+            "Pandamatenga",
+            "Sehithwa",
+            "Shakawe"
+        ]
+    },
+    {
+        "name": "South-East District",
+        "cities": [
+            "Gaborone",
+            "Janeng",
+            "Kopong",
+            "Otse",
+            "Ramotswa"
+        ]
+    },
+    {
+        "name": "Southern District",
+        "cities": [
+            "Kanye",
+            "Khakhea",
+            "Mosopa",
+            "Sekoma"
+        ]
+    }
+]

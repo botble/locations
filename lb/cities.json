@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Akkar",
+        "cities": [
+            "Caza de Aakkar"
+        ]
+    },
+    {
+        "name": "Baalbek-Hermel",
+        "cities": [
+            "Baalbek",
+            "Caza de Baalbek"
+        ]
+    },
+    {
+        "name": "Beirut",
+        "cities": [
+            "Beirut",
+            "Ra’s Bayrūt"
+        ]
+    },
+    {
+        "name": "Beqaa",
+        "cities": [
+            "Aanjar",
+            "Zahlé"
+        ]
+    },
+    {
+        "name": "Mount Lebanon",
+        "cities": [
+            "Baabda",
+            "Bhamdoun",
+            "Bhamdoûn el Mhatta",
+            "Caza de Baabda",
+            "Jbaïl",
+            "Jounieh"
+        ]
+    },
+    {
+        "name": "Nabatieh",
+        "cities": [
+            "Ain Ebel",
+            "Caza de Bent Jbaïl",
+            "Caza de Nabatîyé",
+            "Habboûch",
+            "Marjayoûn",
+            "Nabatîyé et Tahta"
+        ]
+    },
+    {
+        "name": "North",
+        "cities": [
+            "Batroûn",
+            "Bcharré",
+            "Tripoli"
+        ]
+    },
+    {
+        "name": "South",
+        "cities": [
+            "En Nâqoûra",
+            "Ghazieh",
+            "Sidon",
+            "Tyre"
+        ]
+    }
+]

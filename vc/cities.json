@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Charlotte Parish",
+        "cities": [
+            "Biabou",
+            "Byera Village",
+            "Georgetown"
+        ]
+    },
+    {
+        "name": "Grenadines Parish",
+        "cities": [
+            "Port Elizabeth"
+        ]
+    },
+    {
+        "name": "Saint Andrew Parish",
+        "cities": [
+            "Layou"
+        ]
+    },
+    {
+        "name": "Saint David Parish",
+        "cities": [
+            "Chateaubelair"
+        ]
+    },
+    {
+        "name": "Saint George Parish",
+        "cities": [
+            "Kingstown",
+            "Kingstown Park"
+        ]
+    },
+    {
+        "name": "Saint Patrick Parish",
+        "cities": [
+            "Barrouallie"
+        ]
+    }
+]

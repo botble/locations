@@ -1,0 +1,144 @@
+[
+    {
+        "name": "Addu Atoll",
+        "cities": [
+            "Hithadhoo",
+            "Meedhoo"
+        ]
+    },
+    {
+        "name": "Alif Alif Atoll",
+        "cities": []
+    },
+    {
+        "name": "Alif Dhaal Atoll",
+        "cities": []
+    },
+    {
+        "name": "Central Province",
+        "cities": []
+    },
+    {
+        "name": "Dhaalu Atoll",
+        "cities": [
+            "Kudahuvadhoo"
+        ]
+    },
+    {
+        "name": "Faafu Atoll",
+        "cities": []
+    },
+    {
+        "name": "Gaafu Alif Atoll",
+        "cities": [
+            "Viligili"
+        ]
+    },
+    {
+        "name": "Gaafu Dhaalu Atoll",
+        "cities": [
+            "Thinadhoo"
+        ]
+    },
+    {
+        "name": "Gnaviyani Atoll",
+        "cities": [
+            "Fuvahmulah"
+        ]
+    },
+    {
+        "name": "Haa Alif Atoll",
+        "cities": [
+            "Dhidhdhoo"
+        ]
+    },
+    {
+        "name": "Haa Dhaalu Atoll",
+        "cities": [
+            "Kulhudhuffushi"
+        ]
+    },
+    {
+        "name": "Kaafu Atoll",
+        "cities": [
+            "Guraidhoo",
+            "Hulhumale",
+            "Maafushi",
+            "Male"
+        ]
+    },
+    {
+        "name": "Laamu Atoll",
+        "cities": [
+            "Fonadhoo"
+        ]
+    },
+    {
+        "name": "Lhaviyani Atoll",
+        "cities": [
+            "Naifaru"
+        ]
+    },
+    {
+        "name": "Malé",
+        "cities": []
+    },
+    {
+        "name": "Meemu Atoll",
+        "cities": [
+            "Muli"
+        ]
+    },
+    {
+        "name": "Noonu Atoll",
+        "cities": [
+            "Manadhoo"
+        ]
+    },
+    {
+        "name": "North Central Province",
+        "cities": []
+    },
+    {
+        "name": "North Province",
+        "cities": []
+    },
+    {
+        "name": "Raa Atoll",
+        "cities": [
+            "Ugoofaaru"
+        ]
+    },
+    {
+        "name": "Shaviyani Atoll",
+        "cities": [
+            "Funadhoo"
+        ]
+    },
+    {
+        "name": "South Central Province",
+        "cities": [
+            "Mahibadhoo"
+        ]
+    },
+    {
+        "name": "South Province",
+        "cities": []
+    },
+    {
+        "name": "Thaa Atoll",
+        "cities": [
+            "Veymandoo"
+        ]
+    },
+    {
+        "name": "Upper South Province",
+        "cities": []
+    },
+    {
+        "name": "Vaavu Atoll",
+        "cities": [
+            "Felidhoo"
+        ]
+    }
+]

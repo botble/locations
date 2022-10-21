@@ -1,0 +1,344 @@
+[
+    {
+        "name": "Baringo",
+        "cities": [
+            "Baringo",
+            "Eldama Ravine",
+            "Kabarnet"
+        ]
+    },
+    {
+        "name": "Bomet",
+        "cities": [
+            "Sotik",
+            "Sotik Post"
+        ]
+    },
+    {
+        "name": "Bungoma",
+        "cities": [
+            "Bungoma",
+            "Malikisi",
+            "Webuye"
+        ]
+    },
+    {
+        "name": "Busia",
+        "cities": [
+            "Busia",
+            "Luanda",
+            "Lugulu",
+            "Malaba",
+            "Nambare",
+            "Port Victoria"
+        ]
+    },
+    {
+        "name": "Elgeyo-Marakwet",
+        "cities": []
+    },
+    {
+        "name": "Embu",
+        "cities": [
+            "Embu"
+        ]
+    },
+    {
+        "name": "Garissa",
+        "cities": [
+            "Garissa"
+        ]
+    },
+    {
+        "name": "Homa Bay",
+        "cities": [
+            "Homa Bay",
+            "Oyugis",
+            "Rachuonyo District"
+        ]
+    },
+    {
+        "name": "Isiolo",
+        "cities": [
+            "Isiolo"
+        ]
+    },
+    {
+        "name": "Kajiado",
+        "cities": [
+            "Kajiado",
+            "Magadi",
+            "Ngong"
+        ]
+    },
+    {
+        "name": "Kakamega",
+        "cities": [
+            "Butere",
+            "Kakamega",
+            "Mumias"
+        ]
+    },
+    {
+        "name": "Kericho",
+        "cities": [
+            "Kericho",
+            "Kipkelion",
+            "Litein",
+            "Londiani"
+        ]
+    },
+    {
+        "name": "Kiambu",
+        "cities": [
+            "Kiambu",
+            "Kikuyu",
+            "Limuru",
+            "Thika"
+        ]
+    },
+    {
+        "name": "Kilifi",
+        "cities": [
+            "Iten",
+            "Kapsowar",
+            "Kilifi",
+            "Malindi",
+            "Mariakani",
+            "Takaungu"
+        ]
+    },
+    {
+        "name": "Kirinyaga",
+        "cities": [
+            "Kerugoya",
+            "Sagana"
+        ]
+    },
+    {
+        "name": "Kisii",
+        "cities": [
+            "Kisii",
+            "Ogembo"
+        ]
+    },
+    {
+        "name": "Kisumu",
+        "cities": [
+            "Ahero",
+            "Kisumu",
+            "Muhoroni"
+        ]
+    },
+    {
+        "name": "Kitui",
+        "cities": [
+            "Kitui",
+            "Mwingi"
+        ]
+    },
+    {
+        "name": "Kwale",
+        "cities": [
+            "Gazi",
+            "Kinango",
+            "Kwale",
+            "Sawa Sawa",
+            "Shimoni"
+        ]
+    },
+    {
+        "name": "Laikipia",
+        "cities": [
+            "Nanyuki",
+            "Nyahururu",
+            "Rumuruti"
+        ]
+    },
+    {
+        "name": "Lamu",
+        "cities": [
+            "Lamu",
+            "Witu"
+        ]
+    },
+    {
+        "name": "Machakos",
+        "cities": [
+            "Athi River",
+            "Kangundo",
+            "Konza",
+            "Machakos"
+        ]
+    },
+    {
+        "name": "Makueni",
+        "cities": [
+            "Makueni Boma",
+            "Mtito Andei",
+            "Wote"
+        ]
+    },
+    {
+        "name": "Mandera",
+        "cities": [
+            "Mandera"
+        ]
+    },
+    {
+        "name": "Marsabit",
+        "cities": [
+            "Marsabit",
+            "Moyale"
+        ]
+    },
+    {
+        "name": "Meru",
+        "cities": [
+            "Maua",
+            "Meru"
+        ]
+    },
+    {
+        "name": "Migori",
+        "cities": [
+            "Kihancha",
+            "Migori"
+        ]
+    },
+    {
+        "name": "Mombasa",
+        "cities": [
+            "Mombasa"
+        ]
+    },
+    {
+        "name": "Murang'a",
+        "cities": [
+            "Kangema",
+            "Karuri",
+            "Maragua",
+            "Murang’a"
+        ]
+    },
+    {
+        "name": "Nairobi City",
+        "cities": [
+            "Nairobi",
+            "Pumwani"
+        ]
+    },
+    {
+        "name": "Nakuru",
+        "cities": [
+            "Kijabe",
+            "Molo",
+            "Naivasha",
+            "Nakuru",
+            "Rongai"
+        ]
+    },
+    {
+        "name": "Nandi",
+        "cities": [
+            "Kapsabet",
+            "Nandi Hills"
+        ]
+    },
+    {
+        "name": "Narok",
+        "cities": [
+            "Narok"
+        ]
+    },
+    {
+        "name": "Nyamira",
+        "cities": [
+            "Keroka",
+            "Nyamira"
+        ]
+    },
+    {
+        "name": "Nyandarua",
+        "cities": [
+            "Ol Kalou"
+        ]
+    },
+    {
+        "name": "Nyeri",
+        "cities": [
+            "Naro Moru",
+            "Nyeri",
+            "Othaya"
+        ]
+    },
+    {
+        "name": "Samburu",
+        "cities": [
+            "Maralal"
+        ]
+    },
+    {
+        "name": "Siaya",
+        "cities": [
+            "Bondo",
+            "Siaya",
+            "Yala"
+        ]
+    },
+    {
+        "name": "Taita–Taveta",
+        "cities": []
+    },
+    {
+        "name": "Tana River",
+        "cities": [
+            "Hola",
+            "Kipini"
+        ]
+    },
+    {
+        "name": "Tharaka-Nithi",
+        "cities": [
+            "Chuka"
+        ]
+    },
+    {
+        "name": "Trans Nzoia",
+        "cities": [
+            "Kitale"
+        ]
+    },
+    {
+        "name": "Turkana",
+        "cities": [
+            "Lodwar"
+        ]
+    },
+    {
+        "name": "Uasin Gishu",
+        "cities": [
+            "Eldoret"
+        ]
+    },
+    {
+        "name": "Vihiga",
+        "cities": []
+    },
+    {
+        "name": "Wajir",
+        "cities": [
+            "Wajir"
+        ]
+    },
+    {
+        "name": "West Pokot",
+        "cities": [
+            "Chepareria",
+            "Kapenguria",
+            "Taveta",
+            "Voi",
+            "Wundanyi"
+        ]
+    }
+]

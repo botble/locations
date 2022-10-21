@@ -1,0 +1,161 @@
+[
+    {
+        "name": "Bulawayo Province",
+        "cities": [
+            "Bulawayo"
+        ]
+    },
+    {
+        "name": "Harare Province",
+        "cities": [
+            "Chitungwiza",
+            "Epworth",
+            "Harare"
+        ]
+    },
+    {
+        "name": "Manicaland",
+        "cities": [
+            "Buhera District",
+            "Chimanimani",
+            "Chimanimani District",
+            "Chipinge",
+            "Chipinge District",
+            "Dorowa Mining Lease",
+            "Headlands",
+            "Makoni District",
+            "Mutare",
+            "Mutare District",
+            "Mutasa District",
+            "Nyanga",
+            "Nyanga District",
+            "Nyazura",
+            "Odzi",
+            "Penhalonga",
+            "Rusape"
+        ]
+    },
+    {
+        "name": "Mashonaland Central Province",
+        "cities": [
+            "Bindura",
+            "Bindura District",
+            "Centenary",
+            "Centenary District",
+            "Concession",
+            "Glendale",
+            "Guruve District",
+            "Mazowe",
+            "Mazowe District",
+            "Mount Darwin",
+            "Mvurwi",
+            "Rushinga District",
+            "Shamva",
+            "Shamva District"
+        ]
+    },
+    {
+        "name": "Mashonaland East Province",
+        "cities": [
+            "Beatrice",
+            "Chivhu",
+            "Goromonzi District",
+            "Macheke",
+            "Marondera",
+            "Marondera District",
+            "Mudzi District",
+            "Murehwa",
+            "Murehwa District",
+            "Mutoko",
+            "Ruwa"
+        ]
+    },
+    {
+        "name": "Mashonaland West Province",
+        "cities": [
+            "Banket",
+            "Chakari",
+            "Chegutu",
+            "Chegutu District",
+            "Chinhoyi",
+            "Chirundu",
+            "Hurungwe District",
+            "Kadoma",
+            "Kadoma District",
+            "Kariba",
+            "Kariba District",
+            "Karoi",
+            "Makonde District",
+            "Mhangura",
+            "Norton",
+            "Raffingora"
+        ]
+    },
+    {
+        "name": "Masvingo Province",
+        "cities": [
+            "Bikita District",
+            "Chiredzi",
+            "Chiredzi District",
+            "Chivi District",
+            "Gutu District",
+            "Mashava",
+            "Masvingo",
+            "Masvingo District",
+            "Mwenezi District",
+            "Zvishavane"
+        ]
+    },
+    {
+        "name": "Matabeleland North Province",
+        "cities": [
+            "Binga",
+            "Binga District",
+            "Bubi District",
+            "Dete",
+            "Hwange",
+            "Hwange District",
+            "Inyati",
+            "Kamativi Mine",
+            "Lupane",
+            "Lupane District",
+            "Nkayi District",
+            "Victoria Falls"
+        ]
+    },
+    {
+        "name": "Matabeleland South Province",
+        "cities": [
+            "Beitbridge",
+            "Beitbridge District",
+            "Esigodini",
+            "Filabusi",
+            "Gwanda",
+            "Gwanda District",
+            "Insiza",
+            "Insiza District",
+            "Mangwe District",
+            "Matobo",
+            "Plumtree",
+            "Umzingwane District"
+        ]
+    },
+    {
+        "name": "Midlands Province",
+        "cities": [
+            "Gokwe",
+            "Gweru",
+            "Gweru District",
+            "Kwekwe",
+            "Kwekwe District",
+            "Lalapanzi",
+            "Mberengwa District",
+            "Mvuma",
+            "Redcliff",
+            "Shangani",
+            "Shurugwi",
+            "Shurugwi District",
+            "Zvishavane District"
+        ]
+    }
+]

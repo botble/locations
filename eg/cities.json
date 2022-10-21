@@ -1,0 +1,294 @@
+[
+    {
+        "name": "Alexandria",
+        "cities": [
+            "Abu Qir",
+            "Agami",
+            "Alexandria",
+            "Ar-Raml",
+            "Borg El Arab",
+            "Montaza",
+            "New Borg El Arab",
+            "Sidi Bishr"
+        ]
+    },
+    {
+        "name": "Aswan",
+        "cities": [
+            "Abu Simbel",
+            "Aswan",
+            "Idfū",
+            "Kawm Umbū"
+        ]
+    },
+    {
+        "name": "Asyut",
+        "cities": [
+            "Abnūb",
+            "Abū Tīj",
+            "Al Badārī",
+            "Al Qūşīyah",
+            "Asyūţ",
+            "Dayrūţ",
+            "Manfalūţ"
+        ]
+    },
+    {
+        "name": "Beheira",
+        "cities": [
+            "Abū al Maţāmīr",
+            "Ad Dilinjāt",
+            "Damanhūr",
+            "Ḩawsh ‘Īsá",
+            "Idkū",
+            "Kafr ad Dawwār",
+            "Kawm Ḩamādah",
+            "Rosetta"
+        ]
+    },
+    {
+        "name": "Beni Suef",
+        "cities": [
+            "Al Fashn",
+            "Banī Suwayf",
+            "Būsh",
+            "Sumusţā as Sulţānī"
+        ]
+    },
+    {
+        "name": "Cairo",
+        "cities": [
+            "Badr",
+            "Bulaq",
+            "Cairo",
+            "El Mataria",
+            "Fustat",
+            "Hadayek El Kobba",
+            "Heliopolis",
+            "Helwan",
+            "Maadi",
+            "Musturud",
+            "New Administrative Capital of Egypt",
+            "Shubra",
+            "Tura"
+        ]
+    },
+    {
+        "name": "Dakahlia",
+        "cities": [
+            "‘Izbat al Burj",
+            "Ajā",
+            "Al Jammālīyah",
+            "Al Manşūrah",
+            "Al Manzalah",
+            "Al Maţarīyah",
+            "Bilqās",
+            "Dikirnis",
+            "Minyat an Naşr",
+            "Shirbīn",
+            "Ţalkhā"
+        ]
+    },
+    {
+        "name": "Damietta",
+        "cities": [
+            "Az Zarqā",
+            "Damietta",
+            "Fāraskūr"
+        ]
+    },
+    {
+        "name": "Faiyum",
+        "cities": [
+            "Al Fayyūm",
+            "Al Wāsiţah",
+            "Ibshawāy",
+            "Iţsā",
+            "Ţāmiyah"
+        ]
+    },
+    {
+        "name": "Gharbia",
+        "cities": [
+            "Al Maḩallah al Kubrá",
+            "Basyūn",
+            "Kafr az Zayyāt",
+            "Quţūr",
+            "Samannūd",
+            "Tanda",
+            "Zefta"
+        ]
+    },
+    {
+        "name": "Giza",
+        "cities": [
+            "Al ‘Ayyāţ",
+            "Al Bawīţī",
+            "Al Ḩawāmidīyah",
+            "Aş Şaff",
+            "Awsīm",
+            "Giza",
+            "Madīnat Sittah Uktūbar"
+        ]
+    },
+    {
+        "name": "Ismailia",
+        "cities": [
+            "Ismailia"
+        ]
+    },
+    {
+        "name": "Kafr el-Sheikh",
+        "cities": [
+            "Al Ḩāmūl",
+            "Disūq",
+            "Fuwwah",
+            "Kafr ash Shaykh",
+            "Markaz Disūq",
+            "Munshāt ‘Alī Āghā",
+            "Sīdī Sālim"
+        ]
+    },
+    {
+        "name": "Luxor",
+        "cities": [
+            "Luxor",
+            "Markaz al Uqşur"
+        ]
+    },
+    {
+        "name": "Matrouh",
+        "cities": [
+            "Al ‘Alamayn",
+            "Mersa Matruh",
+            "Siwa Oasis"
+        ]
+    },
+    {
+        "name": "Minya",
+        "cities": [
+            "Abū Qurqāş",
+            "Al Minyā",
+            "Banī Mazār",
+            "Dayr Mawās",
+            "Mallawī",
+            "Maţāy",
+            "Samālūţ"
+        ]
+    },
+    {
+        "name": "Monufia",
+        "cities": [
+            "Al Bājūr",
+            "Ash Shuhadā’",
+            "Ashmūn",
+            "Munūf",
+            "Quwaysinā",
+            "Shibīn al Kawm",
+            "Talā"
+        ]
+    },
+    {
+        "name": "New Valley",
+        "cities": [
+            "Al Khārijah",
+            "Qaşr al Farāfirah"
+        ]
+    },
+    {
+        "name": "North Sinai",
+        "cities": [
+            "Arish"
+        ]
+    },
+    {
+        "name": "Port Said",
+        "cities": [
+            "Port Said"
+        ]
+    },
+    {
+        "name": "Qalyubia",
+        "cities": [
+            "Al Khānkah",
+            "Al Qanāţir al Khayrīyah",
+            "Banhā",
+            "Qalyūb",
+            "Shibīn al Qanāṭir",
+            "Toukh"
+        ]
+    },
+    {
+        "name": "Qena",
+        "cities": [
+            "Dishnā",
+            "Farshūţ",
+            "Isnā",
+            "Kousa",
+            "Naja' Ḥammādī",
+            "Qinā"
+        ]
+    },
+    {
+        "name": "Red Sea",
+        "cities": [
+            "Al Quşayr",
+            "El Gouna",
+            "Hurghada",
+            "Makadi Bay",
+            "Marsa Alam",
+            "Ras Gharib",
+            "Safaga"
+        ]
+    },
+    {
+        "name": "Sharqia",
+        "cities": [
+            "10th of Ramadan",
+            "Al Qurein",
+            "Awlad Saqr",
+            "Bilbeis",
+            "Diyarb Negm",
+            "El Husseiniya",
+            "Faqous",
+            "Hihya",
+            "Kafr Saqr",
+            "Markaz Abū Ḩammād",
+            "Mashtoul El Souk",
+            "Minya El Qamh",
+            "New Salhia",
+            "Zagazig"
+        ]
+    },
+    {
+        "name": "Sohag",
+        "cities": [
+            "Akhmīm",
+            "Al Balyanā",
+            "Al Manshāh",
+            "Jirjā",
+            "Juhaynah",
+            "Markaz Jirjā",
+            "Markaz Sūhāj",
+            "Sohag",
+            "Ţahţā"
+        ]
+    },
+    {
+        "name": "South Sinai",
+        "cities": [
+            "Dahab",
+            "El-Tor",
+            "Nuwaybi‘a",
+            "Saint Catherine",
+            "Sharm el-Sheikh"
+        ]
+    },
+    {
+        "name": "Suez",
+        "cities": [
+            "Ain Sukhna",
+            "Suez"
+        ]
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "name": "Adamawa",
+        "cities": [
+            "Bankim",
+            "Banyo",
+            "Bélel",
+            "Djohong",
+            "Kontcha",
+            "Mayo-Banyo",
+            "Meïganga",
+            "Ngaoundéré",
+            "Somié",
+            "Tibati",
+            "Tignère",
+            "Vina"
+        ]
+    },
+    {
+        "name": "Centre",
+        "cities": [
+            "Akono",
+            "Akonolinga",
+            "Bafia",
+            "Eséka",
+            "Essé",
+            "Évodoula",
+            "Mbalmayo",
+            "Mbam-Et-Inoubou",
+            "Mbandjok",
+            "Mbankomo",
+            "Mefou-et-Akono",
+            "Mfoundi",
+            "Minta",
+            "Nanga Eboko",
+            "Ndikiniméki",
+            "Ngomedzap",
+            "Ngoro",
+            "Nkoteng",
+            "Ntui",
+            "Obala",
+            "Okoa",
+            "Okola",
+            "Ombésa",
+            "Saa",
+            "Yaoundé",
+            "Yoko"
+        ]
+    },
+    {
+        "name": "East",
+        "cities": [
+            "Abong Mbang",
+            "Batouri",
+            "Bélabo",
+            "Bertoua",
+            "Bétaré Oya",
+            "Dimako",
+            "Doumé",
+            "Garoua Boulaï",
+            "Mbang",
+            "Ndelele",
+            "Yokadouma"
+        ]
+    },
+    {
+        "name": "Far North",
+        "cities": [
+            "Bogo",
+            "Kaélé",
+            "Kousséri",
+            "Koza",
+            "Makary",
+            "Maroua",
+            "Mayo-Sava",
+            "Mayo-Tsanaga",
+            "Mindif",
+            "Mokolo",
+            "Mora",
+            "Yagoua"
+        ]
+    },
+    {
+        "name": "Littoral",
+        "cities": [
+            "Bonabéri",
+            "Diang",
+            "Dibombari",
+            "Dizangué",
+            "Douala",
+            "Edéa",
+            "Loum",
+            "Manjo",
+            "Mbanga",
+            "Melong",
+            "Mouanko",
+            "Ndom",
+            "Ngambé",
+            "Nkongsamba",
+            "Penja",
+            "Yabassi"
+        ]
+    },
+    {
+        "name": "North",
+        "cities": [
+            "Faro Department",
+            "Garoua",
+            "Guider",
+            "Lagdo",
+            "Mayo-Louti",
+            "Mayo-Rey",
+            "Pitoa",
+            "Poli",
+            "Rey Bouba",
+            "Tcholliré"
+        ]
+    },
+    {
+        "name": "Northwest",
+        "cities": [
+            "Babanki",
+            "Bali",
+            "Bamenda",
+            "Batibo",
+            "Belo",
+            "Boyo",
+            "Fundong",
+            "Jakiri",
+            "Kumbo",
+            "Mbengwi",
+            "Mme-Bafumen",
+            "Njinikom",
+            "Wum"
+        ]
+    },
+    {
+        "name": "South",
+        "cities": [
+            "Akom II",
+            "Ambam",
+            "Ébolowa",
+            "Kribi",
+            "Lolodorf",
+            "Mvangué",
+            "Mvila",
+            "Sangmélima"
+        ]
+    },
+    {
+        "name": "Southwest",
+        "cities": [
+            "Bamusso",
+            "Bekondo",
+            "Buea",
+            "Fako Division",
+            "Fontem",
+            "Kumba",
+            "Lebialem",
+            "Limbe",
+            "Mamfe",
+            "Mundemba",
+            "Mutengene",
+            "Muyuka",
+            "Nguti",
+            "Tiko"
+        ]
+    },
+    {
+        "name": "West",
+        "cities": [
+            "Bafang",
+            "Bafoussam",
+            "Bamendjou",
+            "Bana",
+            "Bandjoun",
+            "Bangangté",
+            "Bansoa",
+            "Bazou",
+            "Dschang",
+            "Foumban",
+            "Foumbot",
+            "Hauts-Plateaux",
+            "Koung-Khi",
+            "Mbouda",
+            "Ngou",
+            "Noun",
+            "Tonga"
+        ]
+    }
+]

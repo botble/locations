@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Arima",
+        "cities": [
+            "Arima"
+        ]
+    },
+    {
+        "name": "Chaguanas",
+        "cities": [
+            "Chaguanas",
+            "Ward of Chaguanas"
+        ]
+    },
+    {
+        "name": "Couva-Tabaquite-Talparo Regional Corporation",
+        "cities": [
+            "Couva",
+            "Tabaquite"
+        ]
+    },
+    {
+        "name": "Diego Martin Regional Corporation",
+        "cities": [
+            "Petit Valley",
+            "Ward of Diego Martin"
+        ]
+    },
+    {
+        "name": "Eastern Tobago",
+        "cities": [
+            "Scarborough"
+        ]
+    },
+    {
+        "name": "Penal-Debe Regional Corporation",
+        "cities": [
+            "Debe",
+            "Peñal"
+        ]
+    },
+    {
+        "name": "Point Fortin",
+        "cities": [
+            "Point Fortin"
+        ]
+    },
+    {
+        "name": "Port of Spain",
+        "cities": [
+            "Mucurapo",
+            "Port of Spain"
+        ]
+    },
+    {
+        "name": "Princes Town Regional Corporation",
+        "cities": [
+            "Princes Town"
+        ]
+    },
+    {
+        "name": "Rio Claro-Mayaro Regional Corporation",
+        "cities": []
+    },
+    {
+        "name": "San Fernando",
+        "cities": [
+            "Marabella",
+            "Mon Repos",
+            "San Fernando"
+        ]
+    },
+    {
+        "name": "San Juan-Laventille Regional Corporation",
+        "cities": [
+            "Laventille"
+        ]
+    },
+    {
+        "name": "Sangre Grande Regional Corporation",
+        "cities": [
+            "Sangre Grande"
+        ]
+    },
+    {
+        "name": "Siparia Regional Corporation",
+        "cities": [
+            "Siparia",
+            "Ward of Siparia"
+        ]
+    },
+    {
+        "name": "Tunapuna-Piarco Regional Corporation",
+        "cities": [
+            "Arouca",
+            "Paradise",
+            "Tunapuna"
+        ]
+    },
+    {
+        "name": "Western Tobago",
+        "cities": [
+            "Rio Claro"
+        ]
+    }
+]

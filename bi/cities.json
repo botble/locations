@@ -1,0 +1,108 @@
+[
+    {
+        "name": "Bubanza Province",
+        "cities": [
+            "Bubanza"
+        ]
+    },
+    {
+        "name": "Bujumbura Mairie Province",
+        "cities": [
+            "Bujumbura"
+        ]
+    },
+    {
+        "name": "Bujumbura Rural Province",
+        "cities": []
+    },
+    {
+        "name": "Bururi Province",
+        "cities": [
+            "Bururi"
+        ]
+    },
+    {
+        "name": "Cankuzo Province",
+        "cities": [
+            "Cankuzo"
+        ]
+    },
+    {
+        "name": "Cibitoke Province",
+        "cities": [
+            "Cibitoke"
+        ]
+    },
+    {
+        "name": "Gitega Province",
+        "cities": [
+            "Gitega"
+        ]
+    },
+    {
+        "name": "Karuzi Province",
+        "cities": [
+            "Karuzi"
+        ]
+    },
+    {
+        "name": "Kayanza Province",
+        "cities": [
+            "Kayanza"
+        ]
+    },
+    {
+        "name": "Kirundo Province",
+        "cities": [
+            "Kirundo"
+        ]
+    },
+    {
+        "name": "Makamba Province",
+        "cities": [
+            "Makamba"
+        ]
+    },
+    {
+        "name": "Muramvya Province",
+        "cities": [
+            "Muramvya"
+        ]
+    },
+    {
+        "name": "Muyinga Province",
+        "cities": [
+            "Muyinga"
+        ]
+    },
+    {
+        "name": "Mwaro Province",
+        "cities": [
+            "Mwaro"
+        ]
+    },
+    {
+        "name": "Ngozi Province",
+        "cities": [
+            "Ngozi"
+        ]
+    },
+    {
+        "name": "Rumonge Province",
+        "cities": [
+            "Rumonge"
+        ]
+    },
+    {
+        "name": "Rutana Province",
+        "cities": [
+            "Rutana"
+        ]
+    },
+    {
+        "name": "Ruyigi Province",
+        "cities": [
+            "Ruyigi"
+        ]
+    }
+]

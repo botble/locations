@@ -1,0 +1,144 @@
+[
+    {
+        "name": "Ajloun",
+        "cities": [
+            "‘Ajlūn",
+            "‘Anjarah",
+            "‘Ayn Jannah",
+            "Ḩalāwah",
+            "Şakhrah"
+        ]
+    },
+    {
+        "name": "Amman",
+        "cities": [
+            "Al Jīzah",
+            "Al Jubayhah",
+            "Amman",
+            "Ḩayy al Bunayyāt",
+            "Ḩayy al Quwaysimah",
+            "Jāwā",
+            "Saḩāb",
+            "Umm as Summāq",
+            "Wādī as Sīr"
+        ]
+    },
+    {
+        "name": "Aqaba",
+        "cities": [
+            "Aqaba",
+            "Tala Bay"
+        ]
+    },
+    {
+        "name": "Balqa",
+        "cities": [
+            "Al Karāmah",
+            "As Salţ",
+            "Yarqā"
+        ]
+    },
+    {
+        "name": "Irbid",
+        "cities": [
+            "Ar Ramthā",
+            "Ash Shajarah",
+            "Aţ Ţayyibah",
+            "Aţ Ţurrah",
+            "Aydūn",
+            "Bayt Īdis",
+            "Bayt Yāfā",
+            "Dayr Yūsuf",
+            "Ḩakamā",
+            "Ḩātim",
+            "Irbid",
+            "Judita",
+            "Kafr Abīl",
+            "Kafr Asad",
+            "Kafr Sawm",
+            "Kharjā",
+            "Kitim",
+            "Kurayyimah",
+            "Malkā",
+            "Qumaym",
+            "Saḩam al Kaffārāt",
+            "Sāl",
+            "Şammā",
+            "Tibnah",
+            "Umm Qays",
+            "Waqqāş",
+            "Zaḩar"
+        ]
+    },
+    {
+        "name": "Jerash",
+        "cities": [
+            "Al Kittah",
+            "Balīlā",
+            "Burmā",
+            "Jarash",
+            "Qafqafā",
+            "Raymūn",
+            "Sakib",
+            "Sūf"
+        ]
+    },
+    {
+        "name": "Karak",
+        "cities": [
+            "‘Ayy",
+            "‘Izrā",
+            "Adir",
+            "Al Khinzīrah",
+            "Al Mazār al Janūbī",
+            "Al Qaşr",
+            "Ar Rabbah",
+            "Karak City",
+            "Safi"
+        ]
+    },
+    {
+        "name": "Ma'an",
+        "cities": [
+            "Al Jafr",
+            "Al Quwayrah",
+            "Ash Shawbak",
+            "Aţ Ţayyibah",
+            "Ma'an",
+            "Petra",
+            "Qīr Moāv"
+        ]
+    },
+    {
+        "name": "Madaba",
+        "cities": [
+            "Mādabā"
+        ]
+    },
+    {
+        "name": "Mafraq",
+        "cities": [
+            "Al Ḩamrā’",
+            "Mafraq",
+            "Rehab",
+            "Rukban",
+            "Şabḩā",
+            "Umm al Qiţţayn"
+        ]
+    },
+    {
+        "name": "Tafilah",
+        "cities": [
+            "Aţ Ţafīlah",
+            "Buşayrā"
+        ]
+    },
+    {
+        "name": "Zarqa",
+        "cities": [
+            "Al Azraq ash Shamālī",
+            "Russeifa",
+            "Zarqa"
+        ]
+    }
+]

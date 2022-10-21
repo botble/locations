@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Central Province",
+        "cities": [
+            "Tulagi"
+        ]
+    },
+    {
+        "name": "Choiseul Province",
+        "cities": []
+    },
+    {
+        "name": "Guadalcanal Province",
+        "cities": [
+            "Honiara"
+        ]
+    },
+    {
+        "name": "Honiara",
+        "cities": []
+    },
+    {
+        "name": "Isabel Province",
+        "cities": [
+            "Buala"
+        ]
+    },
+    {
+        "name": "Makira-Ulawa Province",
+        "cities": [
+            "Kirakira"
+        ]
+    },
+    {
+        "name": "Malaita Province",
+        "cities": [
+            "Auki"
+        ]
+    },
+    {
+        "name": "Rennell and Bellona Province",
+        "cities": []
+    },
+    {
+        "name": "Temotu Province",
+        "cities": [
+            "Lata"
+        ]
+    },
+    {
+        "name": "Western Province",
+        "cities": [
+            "Gizo"
+        ]
+    }
+]

@@ -1,0 +1,245 @@
+[
+    {
+        "name": "Auckland Region",
+        "cities": [
+            "Auckland",
+            "Mangere",
+            "Manukau City",
+            "Muriwai Beach",
+            "Murrays Bay",
+            "North Shore",
+            "Pakuranga",
+            "Papakura",
+            "Parakai",
+            "Pukekohe East",
+            "Red Hill",
+            "Rosebank",
+            "Rothesay Bay",
+            "Takanini",
+            "Tamaki",
+            "Titirangi",
+            "Waitakere",
+            "Waiuku",
+            "Warkworth",
+            "Wellsford",
+            "Wiri"
+        ]
+    },
+    {
+        "name": "Bay of Plenty Region",
+        "cities": [
+            "Edgecumbe",
+            "Katikati",
+            "Kawerau",
+            "Maketu",
+            "Murupara",
+            "Opotiki",
+            "Rotorua",
+            "Tauranga",
+            "Waihi Beach",
+            "Whakatane"
+        ]
+    },
+    {
+        "name": "Canterbury Region",
+        "cities": [
+            "Amberley",
+            "Ashburton",
+            "Ashburton District",
+            "Burnham",
+            "Christchurch",
+            "Christchurch City",
+            "Darfield",
+            "Geraldine",
+            "Kaiapoi",
+            "Leeston",
+            "Lincoln",
+            "Mackenzie District",
+            "Methven",
+            "Oxford",
+            "Pleasant Point",
+            "Prebbleton",
+            "Rakaia",
+            "Rolleston",
+            "Selwyn District",
+            "Timaru",
+            "Timaru District",
+            "Tinwald",
+            "Waimakariri District",
+            "Woodend"
+        ]
+    },
+    {
+        "name": "Chatham Islands",
+        "cities": [
+            "Waitangi"
+        ]
+    },
+    {
+        "name": "Gisborne District",
+        "cities": [
+            "Gisborne"
+        ]
+    },
+    {
+        "name": "Hawke's Bay Region",
+        "cities": [
+            "Hastings",
+            "Napier",
+            "Taradale",
+            "Wairoa"
+        ]
+    },
+    {
+        "name": "Manawatu-Wanganui Region",
+        "cities": [
+            "Bulls",
+            "Foxton",
+            "Horowhenua District",
+            "Levin",
+            "Manawatu District",
+            "Palmerston North",
+            "Waiouru",
+            "Wanganui"
+        ]
+    },
+    {
+        "name": "Marlborough Region",
+        "cities": [
+            "Blenheim",
+            "Picton"
+        ]
+    },
+    {
+        "name": "Nelson Region",
+        "cities": [
+            "Nelson"
+        ]
+    },
+    {
+        "name": "Northland Region",
+        "cities": [
+            "Ahipara",
+            "Dargaville",
+            "Far North District",
+            "Kaipara District",
+            "Kaitaia",
+            "Kawakawa",
+            "Kerikeri",
+            "Maungatapere",
+            "Moerewa",
+            "Ngunguru",
+            "Paihia",
+            "Ruakaka",
+            "Taipa",
+            "Waimate North",
+            "Whangarei"
+        ]
+    },
+    {
+        "name": "Otago Region",
+        "cities": [
+            "Arrowtown",
+            "Balclutha",
+            "Clutha District",
+            "Cromwell",
+            "Dunedin",
+            "Kingston",
+            "Milton",
+            "Oamaru",
+            "Papatowai",
+            "Portobello",
+            "Queenstown",
+            "Wanaka"
+        ]
+    },
+    {
+        "name": "Southland Region",
+        "cities": [
+            "Bluff",
+            "Gore",
+            "Invercargill",
+            "Riverton",
+            "Southland District",
+            "Te Anau",
+            "Winton"
+        ]
+    },
+    {
+        "name": "Taranaki Region",
+        "cities": [
+            "Eltham",
+            "Hawera",
+            "New Plymouth",
+            "New Plymouth District",
+            "Opunake",
+            "Patea",
+            "South Taranaki District",
+            "Waitara"
+        ]
+    },
+    {
+        "name": "Tasman District",
+        "cities": [
+            "Brightwater",
+            "Mapua",
+            "Motueka",
+            "Richmond",
+            "Takaka",
+            "Wakefield"
+        ]
+    },
+    {
+        "name": "Waikato Region",
+        "cities": [
+            "Cambridge",
+            "Coromandel",
+            "Hamilton",
+            "Matamata",
+            "Ngaruawahia",
+            "Ngatea",
+            "Otorohanga",
+            "Paeroa",
+            "Raglan",
+            "South Waikato District",
+            "Tairua",
+            "Taupo",
+            "Te Kauwhata",
+            "Thames",
+            "Tokoroa",
+            "Turangi",
+            "Waihi",
+            "Whangamata",
+            "Whitianga"
+        ]
+    },
+    {
+        "name": "Wellington Region",
+        "cities": [
+            "Brooklyn",
+            "Castlepoint",
+            "Kapiti Coast District",
+            "Kelburn",
+            "Khandallah",
+            "Lower Hutt",
+            "Masterton",
+            "Otaki",
+            "Paraparaumu",
+            "Petone",
+            "Porirua",
+            "South Wairarapa District",
+            "Upper Hutt",
+            "Waipawa",
+            "Wellington",
+            "Wellington City"
+        ]
+    },
+    {
+        "name": "West Coast Region",
+        "cities": [
+            "Greymouth",
+            "Hokitika",
+            "Westport"
+        ]
+    }
+]

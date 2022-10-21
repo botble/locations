@@ -1,0 +1,145 @@
+[
+    {
+        "name": "Andrijevica Municipality",
+        "cities": [
+            "Andrijevica"
+        ]
+    },
+    {
+        "name": "Bar Municipality",
+        "cities": [
+            "Bar",
+            "Stari Bar",
+            "Šušanj",
+            "Sutomore"
+        ]
+    },
+    {
+        "name": "Berane Municipality",
+        "cities": [
+            "Berane"
+        ]
+    },
+    {
+        "name": "Bijelo Polje Municipality",
+        "cities": [
+            "Bijelo Polje"
+        ]
+    },
+    {
+        "name": "Budva Municipality",
+        "cities": [
+            "Budva",
+            "Petrovac na Moru"
+        ]
+    },
+    {
+        "name": "Danilovgrad Municipality",
+        "cities": [
+            "Danilovgrad",
+            "Spuž"
+        ]
+    },
+    {
+        "name": "Gusinje Municipality",
+        "cities": [
+            "Gusinje"
+        ]
+    },
+    {
+        "name": "Kolašin Municipality",
+        "cities": [
+            "Kolašin"
+        ]
+    },
+    {
+        "name": "Kotor Municipality",
+        "cities": [
+            "Dobrota",
+            "Kotor",
+            "Prčanj",
+            "Risan"
+        ]
+    },
+    {
+        "name": "Mojkovac Municipality",
+        "cities": [
+            "Mojkovac"
+        ]
+    },
+    {
+        "name": "Nikšić Municipality",
+        "cities": [
+            "Nikšić"
+        ]
+    },
+    {
+        "name": "Old Royal Capital Cetinje",
+        "cities": [
+            "Cetinje"
+        ]
+    },
+    {
+        "name": "Petnjica Municipality",
+        "cities": []
+    },
+    {
+        "name": "Plav Municipality",
+        "cities": [
+            "Plav"
+        ]
+    },
+    {
+        "name": "Pljevlja Municipality",
+        "cities": [
+            "Pljevlja"
+        ]
+    },
+    {
+        "name": "Plužine Municipality",
+        "cities": [
+            "Plužine"
+        ]
+    },
+    {
+        "name": "Podgorica Municipality",
+        "cities": [
+            "Golubovci",
+            "Goričani",
+            "Mataguži",
+            "Mojanovići",
+            "Podgorica",
+            "Tuzi"
+        ]
+    },
+    {
+        "name": "Rožaje Municipality",
+        "cities": [
+            "Rožaje"
+        ]
+    },
+    {
+        "name": "Šavnik Municipality",
+        "cities": [
+            "Šavnik"
+        ]
+    },
+    {
+        "name": "Tivat Municipality",
+        "cities": [
+            "Tivat"
+        ]
+    },
+    {
+        "name": "Ulcinj Municipality",
+        "cities": [
+            "Ulcinj"
+        ]
+    },
+    {
+        "name": "Žabljak Municipality",
+        "cities": [
+            "Žabljak"
+        ]
+    }
+]

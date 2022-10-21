@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Central and Western District",
+        "cities": []
+    },
+    {
+        "name": "Eastern",
+        "cities": []
+    },
+    {
+        "name": "Islands District",
+        "cities": []
+    },
+    {
+        "name": "Kowloon City",
+        "cities": []
+    },
+    {
+        "name": "Kwai Tsing",
+        "cities": []
+    },
+    {
+        "name": "Kwun Tong",
+        "cities": []
+    },
+    {
+        "name": "North",
+        "cities": []
+    },
+    {
+        "name": "Sai Kung District",
+        "cities": []
+    },
+    {
+        "name": "Sha Tin",
+        "cities": []
+    },
+    {
+        "name": "Sham Shui Po",
+        "cities": []
+    },
+    {
+        "name": "Southern",
+        "cities": []
+    },
+    {
+        "name": "Tai Po District",
+        "cities": []
+    },
+    {
+        "name": "Tsuen Wan District",
+        "cities": []
+    },
+    {
+        "name": "Tuen Mun",
+        "cities": []
+    },
+    {
+        "name": "Wan Chai",
+        "cities": []
+    },
+    {
+        "name": "Wong Tai Sin",
+        "cities": []
+    },
+    {
+        "name": "Yau Tsim Mong",
+        "cities": []
+    },
+    {
+        "name": "Yuen Long District",
+        "cities": []
+    }
+]

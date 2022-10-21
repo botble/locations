@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Cabo Delgado Province",
+        "cities": [
+            "Chiure",
+            "Mocímboa",
+            "Montepuez",
+            "Pemba"
+        ]
+    },
+    {
+        "name": "Gaza Province",
+        "cities": [
+            "Chibuto",
+            "Chokwé",
+            "Macia",
+            "Xai-Xai"
+        ]
+    },
+    {
+        "name": "Inhambane Province",
+        "cities": [
+            "Inhambane",
+            "Maxixe"
+        ]
+    },
+    {
+        "name": "Manica Province",
+        "cities": [
+            "Chimoio"
+        ]
+    },
+    {
+        "name": "Maputo",
+        "cities": [
+            "KaTembe",
+            "Maputo"
+        ]
+    },
+    {
+        "name": "Maputo Province",
+        "cities": [
+            "Boane District",
+            "Concelho de Matola",
+            "Magude District",
+            "Manhica",
+            "Marracuene District",
+            "Matola",
+            "Matutiune District",
+            "Moamba District",
+            "Namaacha District",
+            "Ressano Garcia"
+        ]
+    },
+    {
+        "name": "Nampula Province",
+        "cities": [
+            "António Enes",
+            "Ilha de Moçambique",
+            "Mutuáli",
+            "Nacala",
+            "Nampula"
+        ]
+    },
+    {
+        "name": "Niassa Province",
+        "cities": [
+            "Cuamba",
+            "Lichinga",
+            "Mandimba"
+        ]
+    },
+    {
+        "name": "Sofala Province",
+        "cities": [
+            "Beira",
+            "Dondo",
+            "Nhamatanda District"
+        ]
+    },
+    {
+        "name": "Tete Province",
+        "cities": [
+            "Tete"
+        ]
+    },
+    {
+        "name": "Zambezia Province",
+        "cities": [
+            "Alto Molócuè",
+            "Chinde",
+            "Quelimane"
+        ]
+    }
+]

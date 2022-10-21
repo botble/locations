@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Adjara",
+        "cities": [
+            "Akhaldaba",
+            "Batumi",
+            "Chakvi",
+            "Dioknisi",
+            "Khelvachauri",
+            "Khulo",
+            "Kobuleti",
+            "Makhinjauri",
+            "Ochkhamuri",
+            "Shuakhevi",
+            "Tsikhisdziri"
+        ]
+    },
+    {
+        "name": "Autonomous Republic of Abkhazia",
+        "cities": [
+            "Bich’vinta",
+            "Dranda",
+            "Gagra",
+            "Gali",
+            "Gantiadi",
+            "Gudauta",
+            "Kelasuri",
+            "Och’amch’ire",
+            "P’rimorsk’oe",
+            "Sokhumi",
+            "Stantsiya Novyy Afon",
+            "Tqvarch'eli"
+        ]
+    },
+    {
+        "name": "Guria",
+        "cities": [
+            "Lanchkhuti",
+            "Naruja",
+            "Ozurgeti",
+            "Urek’i"
+        ]
+    },
+    {
+        "name": "Imereti",
+        "cities": [
+            "Baghdatis Munitsip’alit’et’i",
+            "Chiat’ura",
+            "K’alak’i Chiat’ura",
+            "K’ulashi",
+            "Kharagauli",
+            "Khoni",
+            "Kutaisi",
+            "Sach’khere",
+            "Samtredia",
+            "Shorapani",
+            "Tqibuli",
+            "Tsqaltubo",
+            "Vani",
+            "Zestap’oni"
+        ]
+    },
+    {
+        "name": "Kakheti",
+        "cities": [
+            "Akhmet’a",
+            "Akhmet’is Munitsip’alit’et’i",
+            "Gurjaani",
+            "Lagodekhi",
+            "Qvareli",
+            "Sagarejo",
+            "Sighnaghi",
+            "Sighnaghis Munitsip’alit’et’i",
+            "Telavi",
+            "Tsinandali",
+            "Tsnori"
+        ]
+    },
+    {
+        "name": "Khelvachauri Municipality",
+        "cities": []
+    },
+    {
+        "name": "Kvemo Kartli",
+        "cities": [
+            "Bolnisi",
+            "Bolnisis Munitsip’alit’et’i",
+            "Didi Lilo",
+            "Dmanisis Munitsip’alit’et’i",
+            "Gardabani",
+            "Gardabnis Munitsip’alit’et’i",
+            "Manglisi",
+            "Marneuli",
+            "Marneulis Munitsip’alit’et’i",
+            "Naghvarevi",
+            "Rust’avi",
+            "T’et’ri Tsqaro",
+            "Tetrits’q’alos Munitsip’alit’et’i",
+            "Ts’alk’is Munitsip’alit’et’i",
+            "Tsalka"
+        ]
+    },
+    {
+        "name": "Mtskheta-Mtianeti",
+        "cities": [
+            "Akhalgori",
+            "Dzegvi",
+            "Gudauri",
+            "Java",
+            "Mtskheta",
+            "P’asanauri",
+            "Step’antsminda",
+            "Zhinvali"
+        ]
+    },
+    {
+        "name": "Racha-Lechkhumi and Kvemo Svaneti",
+        "cities": [
+            "Ambrolauri",
+            "Ambrolauris Munitsip’alit’et’i",
+            "Lent’ekhi",
+            "Oni"
+        ]
+    },
+    {
+        "name": "Samegrelo-Zemo Svaneti",
+        "cities": [
+            "Abasha",
+            "Jvari",
+            "Khobi",
+            "Kveda Chkhorots’q’u",
+            "Mart’vili",
+            "Mest’ia",
+            "Mest’iis Munitsip’alit’et’i",
+            "Orsant’ia",
+            "P’ot’i",
+            "Senak’i",
+            "Tsalenjikha",
+            "Zugdidi"
+        ]
+    },
+    {
+        "name": "Samtskhe-Javakheti",
+        "cities": [
+            "Adigeni",
+            "Adigeni Municipality",
+            "Akhaldaba",
+            "Akhalk’alak’i",
+            "Akhaltsikhe",
+            "Akhaltsikhis Munitsip’alit’et’i",
+            "Asp’indzis Munitsip’alit’et’i",
+            "Aspindza",
+            "Bakuriani",
+            "Borjomi",
+            "Ninotsminda",
+            "Tsaghveri",
+            "Vale"
+        ]
+    },
+    {
+        "name": "Senaki Municipality",
+        "cities": []
+    },
+    {
+        "name": "Shida Kartli",
+        "cities": [
+            "Agara",
+            "Gori",
+            "Goris Munitsip’alit’et’i",
+            "Kaspi",
+            "Khashuri",
+            "Surami",
+            "Ts’khinvali"
+        ]
+    },
+    {
+        "name": "Tbilisi",
+        "cities": [
+            "Tbilisi"
+        ]
+    }
+]

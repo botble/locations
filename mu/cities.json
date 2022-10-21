@@ -1,0 +1,179 @@
+[
+    {
+        "name": "Agaléga",
+        "cities": [
+            "Vingt Cinq"
+        ]
+    },
+    {
+        "name": "Beau Bassin-Rose Hill",
+        "cities": []
+    },
+    {
+        "name": "Cargados Carajos",
+        "cities": [
+            "Cargados Carajos"
+        ]
+    },
+    {
+        "name": "Curepipe",
+        "cities": []
+    },
+    {
+        "name": "Flacq District",
+        "cities": [
+            "Bel Air Rivière Sèche",
+            "Bon Accueil",
+            "Brisée Verdière",
+            "Camp de Masque",
+            "Camp Ithier",
+            "Centre de Flacq",
+            "Clémencia",
+            "Ecroignard",
+            "Grande Rivière Sud Est",
+            "Lalmatie",
+            "Laventure",
+            "Mare La Chaux",
+            "Olivia",
+            "Poste de Flacq",
+            "Quatre Cocos",
+            "Quatre Soeurs",
+            "Queen Victoria",
+            "Saint Julien",
+            "Sebastopol"
+        ]
+    },
+    {
+        "name": "Grand Port District",
+        "cities": [
+            "Bambous Virieux",
+            "Beau Vallon",
+            "Bois des Amourettes",
+            "Cluny",
+            "Grand Sable",
+            "Mahébourg",
+            "New Grove",
+            "Nouvelle France",
+            "Plaine Magnien",
+            "Rose Belle",
+            "Saint Hubert"
+        ]
+    },
+    {
+        "name": "Moka District",
+        "cities": [
+            "Camp Thorel",
+            "Dagotière",
+            "Dubreuil",
+            "Melrose",
+            "Moka",
+            "Pailles",
+            "Providence",
+            "Quartier Militaire",
+            "Saint Pierre",
+            "Verdun"
+        ]
+    },
+    {
+        "name": "Pamplemousses District",
+        "cities": [
+            "Arsenal",
+            "Calebasses",
+            "Congomah",
+            "Crève Coeur",
+            "Fond du Sac",
+            "Le Hochet",
+            "Long Mountain",
+            "Morcellement Saint André",
+            "Notre Dame",
+            "Pamplemousses",
+            "Plaine des Papayes",
+            "Pointe aux Piments",
+            "Terre Rouge",
+            "Triolet"
+        ]
+    },
+    {
+        "name": "Plaines Wilhems District",
+        "cities": [
+            "Beau Bassin-Rose Hill",
+            "Curepipe",
+            "Ebene",
+            "Midlands",
+            "Quatre Bornes",
+            "Vacoas"
+        ]
+    },
+    {
+        "name": "Port Louis",
+        "cities": []
+    },
+    {
+        "name": "Port Louis District",
+        "cities": [
+            "Port Louis"
+        ]
+    },
+    {
+        "name": "Quatre Bornes",
+        "cities": []
+    },
+    {
+        "name": "Rivière du Rempart District",
+        "cities": [
+            "Amaury",
+            "Cap Malheureux",
+            "Cottage",
+            "Espérance Trébuchet",
+            "Goodlands",
+            "Grand Baie",
+            "Grand Gaube",
+            "Mapou",
+            "Petit Raffray",
+            "Piton",
+            "Plaines des Roches",
+            "Rivière du Rempart",
+            "Roche Terre",
+            "Roches Noire",
+            "The Vale"
+        ]
+    },
+    {
+        "name": "Rivière Noire District",
+        "cities": [
+            "Albion",
+            "Bambous",
+            "Cascavelle",
+            "Flic en Flac",
+            "Grande Rivière Noire",
+            "Gros Cailloux",
+            "Petite Case Noyale",
+            "Petite Rivière",
+            "Tamarin"
+        ]
+    },
+    {
+        "name": "Rodrigues",
+        "cities": [
+            "Baie aux Huîtres",
+            "Port Mathurin"
+        ]
+    },
+    {
+        "name": "Savanne District",
+        "cities": [
+            "Camp Diable",
+            "Chamouny",
+            "Chemin Grenier",
+            "Grand Bois",
+            "Rivière des Anguilles",
+            "Saint Aubin",
+            "Souillac",
+            "Surinam"
+        ]
+    },
+    {
+        "name": "Vacoas-Phoenix",
+        "cities": []
+    }
+]

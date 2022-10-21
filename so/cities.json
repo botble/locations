@@ -1,0 +1,127 @@
+[
+    {
+        "name": "Awdal Region",
+        "cities": []
+    },
+    {
+        "name": "Bakool",
+        "cities": [
+            "Tayeeglow",
+            "Waajid",
+            "Xuddur",
+            "Yeed"
+        ]
+    },
+    {
+        "name": "Banaadir",
+        "cities": [
+            "Mogadishu"
+        ]
+    },
+    {
+        "name": "Bari",
+        "cities": [
+            "Bandarbeyla",
+            "Bargaal",
+            "Bereeda",
+            "Bosaso",
+            "Caluula",
+            "Iskushuban",
+            "Qandala"
+        ]
+    },
+    {
+        "name": "Bay",
+        "cities": [
+            "Baidoa",
+            "Buurhakaba"
+        ]
+    },
+    {
+        "name": "Galguduud",
+        "cities": [
+            "Ceelbuur",
+            "Ceeldheer",
+            "Dhuusamarreeb"
+        ]
+    },
+    {
+        "name": "Gedo",
+        "cities": [
+            "Baardheere",
+            "Garbahaarrey",
+            "Luuq"
+        ]
+    },
+    {
+        "name": "Hiran",
+        "cities": [
+            "Beledweyne",
+            "Buulobarde",
+            "Jalalaqsi"
+        ]
+    },
+    {
+        "name": "Lower Juba",
+        "cities": [
+            "Buur Gaabo",
+            "Jamaame",
+            "Kismayo"
+        ]
+    },
+    {
+        "name": "Lower Shebelle",
+        "cities": [
+            "Afgooye",
+            "Marka",
+            "Qoryooley",
+            "Wanlaweyn"
+        ]
+    },
+    {
+        "name": "Middle Juba",
+        "cities": [
+            "Dujuuma",
+            "Jilib",
+            "Saacow"
+        ]
+    },
+    {
+        "name": "Middle Shebelle",
+        "cities": [
+            "Cadale",
+            "Jawhar",
+            "Mahaddayweyne"
+        ]
+    },
+    {
+        "name": "Mudug",
+        "cities": [
+            "Gaalkacyo",
+            "Hobyo",
+            "Xarardheere"
+        ]
+    },
+    {
+        "name": "Nugal",
+        "cities": [
+            "Eyl",
+            "Garoowe"
+        ]
+    },
+    {
+        "name": "Sanaag Region",
+        "cities": [
+            "Ceerigaabo",
+            "Las Khorey"
+        ]
+    },
+    {
+        "name": "Togdheer Region",
+        "cities": [
+            "Burao",
+            "Ceek",
+            "Oodweyne"
+        ]
+    }
+]

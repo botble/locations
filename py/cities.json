@@ -1,0 +1,227 @@
+[
+    {
+        "name": "Alto Paraguay Department",
+        "cities": [
+            "Capitán Pablo Lagerenza",
+            "Fuerte Olimpo"
+        ]
+    },
+    {
+        "name": "Alto Paraná Department",
+        "cities": [
+            "Cedrales",
+            "Ciudad del Este",
+            "Colonia Minga Porá",
+            "Doctor Juan León Mallorquín",
+            "Itakyry",
+            "Naranjal",
+            "Presidente Franco",
+            "San Alberto",
+            "Santa Rita",
+            "Yguazú"
+        ]
+    },
+    {
+        "name": "Amambay Department",
+        "cities": [
+            "Bella Vista",
+            "Capitán Bado",
+            "Pedro Juan Caballero"
+        ]
+    },
+    {
+        "name": "Boquerón Department",
+        "cities": [
+            "Colonia Menno",
+            "Colonia Neuland",
+            "Filadelfia"
+        ]
+    },
+    {
+        "name": "Caaguazú",
+        "cities": [
+            "Caaguazú",
+            "Carayaó",
+            "Cecilio Baez",
+            "Colonia General Alfredo Stroessner",
+            "Coronel Oviedo",
+            "Doctor Juan Manuel Frutos",
+            "Mbutuý",
+            "Repatriación",
+            "San Joaquín",
+            "San José",
+            "Yhú"
+        ]
+    },
+    {
+        "name": "Caazapá",
+        "cities": [
+            "Abaí",
+            "Buena Vista",
+            "Caazapá",
+            "General Higinio Morínigo",
+            "San Juan Nepomuceno",
+            "Yegros",
+            "Yuty"
+        ]
+    },
+    {
+        "name": "Canindeyú",
+        "cities": [
+            "Colonia Catuete",
+            "Corpus Christi",
+            "La Paloma",
+            "Nueva Esperanza",
+            "Salto del Guairá",
+            "San Isidro de Curuguaty",
+            "Ygatimi"
+        ]
+    },
+    {
+        "name": "Central Department",
+        "cities": [
+            "Areguá",
+            "Capiatá",
+            "Fernando de la Mora",
+            "Guarambaré",
+            "Itá",
+            "Itauguá",
+            "Lambaré",
+            "Limpio",
+            "Mariano Roque Alonso",
+            "Nemby",
+            "Nueva Italia",
+            "San Antonio",
+            "San Lorenzo",
+            "Villa Elisa",
+            "Ypacarai"
+        ]
+    },
+    {
+        "name": "Concepción Department",
+        "cities": [
+            "Belén",
+            "Concepción",
+            "Horqueta"
+        ]
+    },
+    {
+        "name": "Cordillera Department",
+        "cities": [
+            "Altos",
+            "Arroyos y Esteros",
+            "Atyrá",
+            "Caacupé",
+            "Caraguatay",
+            "Emboscada",
+            "Eusebio Ayala",
+            "Isla Pucú",
+            "Itacurubí de la Cordillera",
+            "Piribebuy",
+            "San Bernardino",
+            "Santa Elena",
+            "Tobatí"
+        ]
+    },
+    {
+        "name": "Guairá Department",
+        "cities": [
+            "Colonia Mauricio José Troche",
+            "Coronel Martínez",
+            "Independencia",
+            "Itapé",
+            "Iturbe",
+            "Mbocayaty",
+            "Natalicio Talavera",
+            "Villarrica"
+        ]
+    },
+    {
+        "name": "Itapúa",
+        "cities": [
+            "Arquitecto Tomás Romero Pereira",
+            "Bella Vista",
+            "Capitán Miranda",
+            "Carmen del Paraná",
+            "Colonia Carlos Antonio López",
+            "Colonia San Lorenzo",
+            "Edelira",
+            "Encarnación",
+            "Fram",
+            "General Artigas",
+            "General Delgado",
+            "Hohenau",
+            "Jesús",
+            "Natalio",
+            "Obligado",
+            "Pirapó",
+            "Puerto Mayor Otaño",
+            "San Cosme y Damián",
+            "San Juan del Paraná",
+            "San Pedro del Paraná",
+            "Trinidad"
+        ]
+    },
+    {
+        "name": "Misiones Department",
+        "cities": [
+            "Juan de Ayolas",
+            "San Juan Bautista",
+            "San Miguel",
+            "San Patricio",
+            "Santa María",
+            "Santa Rosa Misiones",
+            "Santiago",
+            "Villa Florida"
+        ]
+    },
+    {
+        "name": "Ñeembucú Department",
+        "cities": [
+            "Cerrito",
+            "General José Eduvigis Díaz",
+            "Pilar"
+        ]
+    },
+    {
+        "name": "Paraguarí Department",
+        "cities": [
+            "Acahay",
+            "Caapucú",
+            "Carapeguá",
+            "La Colmena",
+            "Mbuyapey",
+            "Paraguarí",
+            "Pirayú",
+            "Quiindy",
+            "Sapucaí",
+            "Yaguarón",
+            "Ybycuí"
+        ]
+    },
+    {
+        "name": "Presidente Hayes Department",
+        "cities": [
+            "Benjamín Aceval",
+            "Nanawua",
+            "Villa Hayes"
+        ]
+    },
+    {
+        "name": "San Pedro Department",
+        "cities": [
+            "Antequera",
+            "Capiíbary",
+            "Colonia Nueva Germania",
+            "General Elizardo Aquino",
+            "Guayaybi",
+            "Itacurubí del Rosario",
+            "Lima",
+            "Puerto Rosario",
+            "San Pedro de Ycuamandiyú",
+            "Tacuatí",
+            "Unión",
+            "Yataity del Norte"
+        ]
+    }
+]

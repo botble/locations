@@ -1,0 +1,139 @@
+[
+    {
+        "name": "Barlavento Islands",
+        "cities": []
+    },
+    {
+        "name": "Boa Vista",
+        "cities": [
+            "Sal Rei"
+        ]
+    },
+    {
+        "name": "Brava",
+        "cities": [
+            "Nova Sintra"
+        ]
+    },
+    {
+        "name": "Maio Municipality",
+        "cities": [
+            "Vila do Maio"
+        ]
+    },
+    {
+        "name": "Mosteiros",
+        "cities": [
+            "Igreja"
+        ]
+    },
+    {
+        "name": "Paul",
+        "cities": [
+            "Pombas"
+        ]
+    },
+    {
+        "name": "Porto Novo",
+        "cities": [
+            "Porto Novo"
+        ]
+    },
+    {
+        "name": "Praia",
+        "cities": [
+            "Praia"
+        ]
+    },
+    {
+        "name": "Ribeira Brava Municipality",
+        "cities": [
+            "Ribeira Brava"
+        ]
+    },
+    {
+        "name": "Ribeira Grande",
+        "cities": [
+            "Ponta do Sol",
+            "Ribeira Grande"
+        ]
+    },
+    {
+        "name": "Ribeira Grande de Santiago",
+        "cities": [
+            "Cidade Velha"
+        ]
+    },
+    {
+        "name": "Sal",
+        "cities": [
+            "Espargos",
+            "Santa Maria"
+        ]
+    },
+    {
+        "name": "Santa Catarina",
+        "cities": [
+            "Assomada"
+        ]
+    },
+    {
+        "name": "Santa Catarina do Fogo",
+        "cities": [
+            "Cova Figueira"
+        ]
+    },
+    {
+        "name": "Santa Cruz",
+        "cities": [
+            "Pedra Badejo",
+            "Santa Cruz"
+        ]
+    },
+    {
+        "name": "São Domingos",
+        "cities": [
+            "São Domingos"
+        ]
+    },
+    {
+        "name": "São Filipe",
+        "cities": [
+            "São Filipe"
+        ]
+    },
+    {
+        "name": "São Lourenço dos Órgãos",
+        "cities": [
+            "João Teves"
+        ]
+    },
+    {
+        "name": "São Miguel",
+        "cities": [
+            "Calheta"
+        ]
+    },
+    {
+        "name": "São Vicente",
+        "cities": [
+            "Mindelo"
+        ]
+    },
+    {
+        "name": "Sotavento Islands",
+        "cities": []
+    },
+    {
+        "name": "Tarrafal",
+        "cities": [
+            "Tarrafal"
+        ]
+    },
+    {
+        "name": "Tarrafal de São Nicolau",
+        "cities": [
+            "Tarrafal de São Nicolau"
+        ]
+    }
+]

@@ -1,0 +1,237 @@
+[
+    {
+        "name": "Azuay",
+        "cities": [
+            "Cantón San Fernando",
+            "Cuenca",
+            "Gualaceo",
+            "La Unión",
+            "Llacao",
+            "Nulti"
+        ]
+    },
+    {
+        "name": "Bolívar",
+        "cities": [
+            "Guaranda",
+            "San Miguel"
+        ]
+    },
+    {
+        "name": "Cañar",
+        "cities": [
+            "Azogues",
+            "Cañar",
+            "La Troncal"
+        ]
+    },
+    {
+        "name": "Carchi",
+        "cities": [
+            "El Ángel",
+            "San Gabriel",
+            "Tulcán"
+        ]
+    },
+    {
+        "name": "Chimborazo",
+        "cities": [
+            "Alausí",
+            "Guano",
+            "Riobamba"
+        ]
+    },
+    {
+        "name": "Cotopaxi",
+        "cities": [
+            "La Maná",
+            "Latacunga",
+            "Pujilí",
+            "San Miguel de Salcedo",
+            "Saquisilí"
+        ]
+    },
+    {
+        "name": "El Oro",
+        "cities": [
+            "Huaquillas",
+            "Machala",
+            "Pasaje",
+            "Piñas",
+            "Portovelo",
+            "Puerto Bolívar",
+            "Santa Rosa",
+            "Zaruma"
+        ]
+    },
+    {
+        "name": "Esmeraldas",
+        "cities": [
+            "Esmeraldas",
+            "Muisne",
+            "Pampanal de Bolívar",
+            "Rio Verde",
+            "Rosa Zarate",
+            "San Lorenzo de Esmeraldas",
+            "Valdez"
+        ]
+    },
+    {
+        "name": "Galápagos",
+        "cities": [
+            "Puerto Ayora",
+            "Puerto Baquerizo Moreno",
+            "Puerto Villamil"
+        ]
+    },
+    {
+        "name": "Guayas",
+        "cities": [
+            "Alfredo Baquerizo Moreno",
+            "Baláo",
+            "Balzar",
+            "Colimes",
+            "Coronel Marcelino Maridueña",
+            "El Triunfo",
+            "Eloy Alfaro",
+            "Guayaquil",
+            "Lomas de Sargentillo",
+            "Milagro",
+            "Naranjal",
+            "Naranjito",
+            "Palestina",
+            "Pedro Carbo",
+            "Playas",
+            "Samborondón",
+            "Santa Lucía",
+            "Velasco Ibarra",
+            "Yaguachi Nuevo"
+        ]
+    },
+    {
+        "name": "Imbabura",
+        "cities": [
+            "Atuntaqui",
+            "Cotacachi",
+            "Ibarra",
+            "Otavalo",
+            "Pimampiro"
+        ]
+    },
+    {
+        "name": "Loja",
+        "cities": [
+            "Loja"
+        ]
+    },
+    {
+        "name": "Los Ríos",
+        "cities": [
+            "Babahoyo",
+            "Catarama",
+            "Montalvo",
+            "Palenque",
+            "Quevedo",
+            "Ventanas",
+            "Vinces"
+        ]
+    },
+    {
+        "name": "Manabí",
+        "cities": [
+            "Bahía de Caráquez",
+            "Calceta",
+            "Cantón Portoviejo",
+            "Chone",
+            "Jipijapa",
+            "Junín",
+            "Manta",
+            "Montecristi",
+            "Paján",
+            "Pedernales",
+            "Portoviejo",
+            "Rocafuerte",
+            "San Vicente",
+            "Santa Ana",
+            "Sucre",
+            "Tosagua"
+        ]
+    },
+    {
+        "name": "Morona-Santiago",
+        "cities": [
+            "Gualaquiza",
+            "Macas",
+            "Palora",
+            "Sucúa"
+        ]
+    },
+    {
+        "name": "Napo",
+        "cities": [
+            "Archidona",
+            "Tena"
+        ]
+    },
+    {
+        "name": "Orellana",
+        "cities": [
+            "Boca Suno",
+            "Francisco de Orellana Canton",
+            "Loreto Canton",
+            "Puerto Francisco de Orellana"
+        ]
+    },
+    {
+        "name": "Pastaza",
+        "cities": [
+            "Puyo"
+        ]
+    },
+    {
+        "name": "Pichincha",
+        "cities": [
+            "Cayambe",
+            "Machachi",
+            "Quito",
+            "Sangolquí",
+            "Tutamandahostel"
+        ]
+    },
+    {
+        "name": "Santa Elena",
+        "cities": [
+            "La Libertad",
+            "Salinas",
+            "Santa Elena"
+        ]
+    },
+    {
+        "name": "Santo Domingo de los Tsáchilas",
+        "cities": [
+            "Santo Domingo de los Colorados"
+        ]
+    },
+    {
+        "name": "Sucumbíos",
+        "cities": [
+            "Nueva Loja"
+        ]
+    },
+    {
+        "name": "Tungurahua",
+        "cities": [
+            "Ambato",
+            "Baños",
+            "Pelileo",
+            "Píllaro"
+        ]
+    },
+    {
+        "name": "Zamora Chinchipe",
+        "cities": [
+            "Yantzaza",
+            "Zamora"
+        ]
+    }
+]

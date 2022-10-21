@@ -1,0 +1,151 @@
+[
+    {
+        "name": "Ayeyarwady Region",
+        "cities": [
+            "Bogale",
+            "Hinthada",
+            "Kyaiklat",
+            "Maubin",
+            "Mawlamyinegyunn",
+            "Myanaung",
+            "Nyaungdon",
+            "Pathein",
+            "Pyapon",
+            "Wakema"
+        ]
+    },
+    {
+        "name": "Bago",
+        "cities": [
+            "Bago",
+            "Letpandan",
+            "Nyaunglebin",
+            "Paungde",
+            "Pyay",
+            "Pyu",
+            "Taungoo",
+            "Thanatpin",
+            "Tharyarwady"
+        ]
+    },
+    {
+        "name": "Chin State",
+        "cities": [
+            "Falam",
+            "Hakha"
+        ]
+    },
+    {
+        "name": "Kachin State",
+        "cities": [
+            "Bhamo",
+            "Myitkyina"
+        ]
+    },
+    {
+        "name": "Kayah State",
+        "cities": [
+            "Loikaw"
+        ]
+    },
+    {
+        "name": "Kayin State",
+        "cities": [
+            "Dellok",
+            "Hpa-An",
+            "Klonhtoug",
+            "Kyain Seikgyi Township",
+            "Mikenaungea",
+            "Myawadi",
+            "Pulei",
+            "Tagondaing",
+            "Tamoowoug"
+        ]
+    },
+    {
+        "name": "Magway Region",
+        "cities": [
+            "Chauk",
+            "Magway",
+            "Minbu",
+            "Myaydo",
+            "Pakokku",
+            "Taungdwingyi",
+            "Thayetmyo",
+            "Yenangyaung"
+        ]
+    },
+    {
+        "name": "Mandalay Region",
+        "cities": [
+            "Kyaukse",
+            "Mandalay",
+            "Meiktila",
+            "Mogok",
+            "Myingyan",
+            "Nyaungshwe",
+            "Pyin Oo Lwin",
+            "Yamethin"
+        ]
+    },
+    {
+        "name": "Mon State",
+        "cities": [
+            "Kyaikkami",
+            "Kyaikto",
+            "Martaban",
+            "Mawlamyine",
+            "Mudon",
+            "Thaton"
+        ]
+    },
+    {
+        "name": "Naypyidaw Union Territory",
+        "cities": [
+            "Nay Pyi Taw",
+            "Pyinmana"
+        ]
+    },
+    {
+        "name": "Rakhine State",
+        "cities": [
+            "Sittwe"
+        ]
+    },
+    {
+        "name": "Sagaing Region",
+        "cities": [
+            "Mawlaik",
+            "Monywa",
+            "Sagaing",
+            "Shwebo"
+        ]
+    },
+    {
+        "name": "Shan State",
+        "cities": [
+            "Lashio",
+            "Tachilek",
+            "Taunggyi"
+        ]
+    },
+    {
+        "name": "Tanintharyi Region",
+        "cities": [
+            "Dawei",
+            "Kawthoung",
+            "Myeik"
+        ]
+    },
+    {
+        "name": "Yangon Region",
+        "cities": [
+            "Kanbe",
+            "Kayan",
+            "Syriam",
+            "Thongwa",
+            "Twante",
+            "Yangon"
+        ]
+    }
+]

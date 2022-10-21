@@ -1,0 +1,227 @@
+[
+    {
+        "name": "Al Anbar",
+        "cities": [
+            "‘Anah",
+            "‘Anat al Qadīmah",
+            "Al Fallūjah",
+            "Ar Ruţbah",
+            "Ḩadīthah",
+            "Hīt",
+            "Hīt District",
+            "Ramadi",
+            "Rāwah"
+        ]
+    },
+    {
+        "name": "Al Muthanna",
+        "cities": [
+            "Ar Rumaythah",
+            "As Samawah"
+        ]
+    },
+    {
+        "name": "Al-Qādisiyyah",
+        "cities": [
+            "‘Afak",
+            "Ad Dīwānīyah",
+            "Ash Shāmīyah",
+            "Nāḩiyat ash Shināfīyah",
+            "Nahiyat Ghammas"
+        ]
+    },
+    {
+        "name": "Babylon",
+        "cities": [
+            "Al Ḩillah",
+            "Al Musayyib",
+            "Imam Qasim",
+            "Nāḩīyat Saddat al Hindīyah"
+        ]
+    },
+    {
+        "name": "Baghdad",
+        "cities": [
+            "Abu Ghraib District",
+            "Abū Ghurayb",
+            "Adamiyah",
+            "Al Adel",
+            "Al Baladiyat",
+            "Al Jamaa",
+            "Al Saadoon Park",
+            "Al Salhiah",
+            "Al Za'franiya",
+            "Al-Ubaidi",
+            "Al-Wahda",
+            "Ameria",
+            "Amil District",
+            "Amin",
+            "Arasat AlHindiya",
+            "At Taifiya",
+            "Bab Al Moatham",
+            "Bab Al Sharqi",
+            "Baghdad",
+            "Baghdad Al Jadeeda",
+            "Baijai",
+            "Bataween",
+            "Bayaa",
+            "Binouk",
+            "Bo'aitha",
+            "Camp Sarah",
+            "Daoudi",
+            "Dora",
+            "Ghadeer",
+            "Ghazaliya",
+            "Gherai'at",
+            "Green Zone",
+            "Habibiya",
+            "Harthiya",
+            "Hurriya",
+            "Iskan",
+            "Jadriyah",
+            "Jamila",
+            "Jihad",
+            "Kadhimiya",
+            "Kamaliyah",
+            "Karada",
+            "Khadra",
+            "Mansour",
+            "Mashtal",
+            "Mustansiriya",
+            "Qadisiyah",
+            "Sadr City",
+            "Saidiya",
+            "Sha'ab",
+            "Sheik Maaruf",
+            "Shorjah",
+            "Suleikh",
+            "Ur District",
+            "Wazireya",
+            "Yarmouk",
+            "Ziyouna"
+        ]
+    },
+    {
+        "name": "Basra",
+        "cities": [
+            "Al Başrah al Qadīmah",
+            "Al Fāw",
+            "Al Hārithah",
+            "Az Zubayr",
+            "Basrah",
+            "Umm Qaşr"
+        ]
+    },
+    {
+        "name": "Dhi Qar",
+        "cities": [
+            "Ash Shaţrah",
+            "Nāḩiyat al Fuhūd",
+            "Nasiriyah"
+        ]
+    },
+    {
+        "name": "Diyala",
+        "cities": [
+            "Al Miqdādīyah",
+            "Baladrūz",
+            "Baqubah",
+            "Khāliş",
+            "Kifrī",
+            "Mandalī",
+            "Qaḑā’ Kifrī"
+        ]
+    },
+    {
+        "name": "Dohuk",
+        "cities": [
+            "Al ‘Amādīyah",
+            "Batifa",
+            "Dihok",
+            "Sīnah",
+            "Zaxo"
+        ]
+    },
+    {
+        "name": "Erbil",
+        "cities": [
+            "Arbil",
+            "Erbil",
+            "Koysinceq",
+            "Ruwāndiz",
+            "Shaqlāwah",
+            "Soran"
+        ]
+    },
+    {
+        "name": "Karbala",
+        "cities": [
+            "Al Hindīyah",
+            "Karbala"
+        ]
+    },
+    {
+        "name": "Kirkuk",
+        "cities": [
+            "Kirkuk"
+        ]
+    },
+    {
+        "name": "Maysan",
+        "cities": [
+            "‘Alī al Gharbī",
+            "Al ‘Amārah",
+            "Al-Mejar Al-Kabi District"
+        ]
+    },
+    {
+        "name": "Najaf",
+        "cities": [
+            "Al Mishkhāb",
+            "Kufa",
+            "Najaf"
+        ]
+    },
+    {
+        "name": "Nineveh",
+        "cities": [
+            "‘Aqrah",
+            "Al Mawşil al Jadīdah",
+            "Al-Hamdaniya",
+            "Ash Shaykhān",
+            "Mosul",
+            "Sinjar",
+            "Tall ‘Afar",
+            "Tallkayf"
+        ]
+    },
+    {
+        "name": "Saladin",
+        "cities": [
+            "Ad Dujayl",
+            "Balad",
+            "Bayjī",
+            "Sāmarrā’",
+            "Tikrīt",
+            "Tozkhurmato"
+        ]
+    },
+    {
+        "name": "Sulaymaniyah",
+        "cities": [
+            "As Sulaymānīyah",
+            "Baynjiwayn",
+            "Ḩalabjah",
+            "Jamjamāl"
+        ]
+    },
+    {
+        "name": "Wasit",
+        "cities": [
+            "Al ‘Azīzīyah",
+            "Al Ḩayy",
+            "Al Kūt",
+            "Aş Şuwayrah"
+        ]
+    }
+]

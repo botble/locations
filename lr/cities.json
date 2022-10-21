@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Bomi County",
+        "cities": [
+            "Tubmanburg"
+        ]
+    },
+    {
+        "name": "Bong County",
+        "cities": [
+            "Gbarnga"
+        ]
+    },
+    {
+        "name": "Gbarpolu County",
+        "cities": [
+            "Bopolu"
+        ]
+    },
+    {
+        "name": "Grand Bassa County",
+        "cities": [
+            "Buchanan"
+        ]
+    },
+    {
+        "name": "Grand Cape Mount County",
+        "cities": [
+            "Robertsport"
+        ]
+    },
+    {
+        "name": "Grand Gedeh County",
+        "cities": [
+            "Zwedru"
+        ]
+    },
+    {
+        "name": "Grand Kru County",
+        "cities": [
+            "Barclayville"
+        ]
+    },
+    {
+        "name": "Lofa County",
+        "cities": [
+            "Voinjama"
+        ]
+    },
+    {
+        "name": "Margibi County",
+        "cities": [
+            "Kakata"
+        ]
+    },
+    {
+        "name": "Maryland County",
+        "cities": [
+            "Harper"
+        ]
+    },
+    {
+        "name": "Montserrado County",
+        "cities": [
+            "Bensonville",
+            "Monrovia"
+        ]
+    },
+    {
+        "name": "Nimba",
+        "cities": [
+            "Ganta",
+            "New Yekepa",
+            "Sanniquellie"
+        ]
+    },
+    {
+        "name": "River Cess County",
+        "cities": [
+            "Cestos City"
+        ]
+    },
+    {
+        "name": "River Gee County",
+        "cities": [
+            "Fish Town"
+        ]
+    },
+    {
+        "name": "Sinoe County",
+        "cities": [
+            "Greenville"
+        ]
+    }
+]

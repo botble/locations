@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Haʻapai",
+        "cities": [
+            "Pangai"
+        ]
+    },
+    {
+        "name": "ʻEua",
+        "cities": [
+            "‘Ohonua"
+        ]
+    },
+    {
+        "name": "Niuas",
+        "cities": [
+            "Hihifo"
+        ]
+    },
+    {
+        "name": "Tongatapu",
+        "cities": [
+            "Haveluloto",
+            "Kolonga",
+            "Nuku‘alofa",
+            "Vaini"
+        ]
+    },
+    {
+        "name": "Vavaʻu",
+        "cities": [
+            "Neiafu"
+        ]
+    }
+]

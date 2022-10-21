@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Bamako",
+        "cities": [
+            "Bamako"
+        ]
+    },
+    {
+        "name": "Gao Region",
+        "cities": [
+            "Ansongo",
+            "Cercle de Bourem",
+            "Gao",
+            "Gao Cercle",
+            "Inékar"
+        ]
+    },
+    {
+        "name": "Kayes Region",
+        "cities": [
+            "Bafoulabé",
+            "Kayes",
+            "Kita",
+            "Kokofata",
+            "Sagalo"
+        ]
+    },
+    {
+        "name": "Kidal Region",
+        "cities": [
+            "Abeïbara",
+            "Cercle d’Abeïbara",
+            "Kidal"
+        ]
+    },
+    {
+        "name": "Koulikoro Region",
+        "cities": [
+            "Banamba",
+            "Kangaba",
+            "Kati",
+            "Kolokani",
+            "Koulikoro"
+        ]
+    },
+    {
+        "name": "Ménaka Region",
+        "cities": []
+    },
+    {
+        "name": "Mopti Region",
+        "cities": [
+            "Bandiagara",
+            "Djénné",
+            "Douentza",
+            "Douentza Cercle",
+            "Mopti",
+            "Ténenkou"
+        ]
+    },
+    {
+        "name": "Ségou Region",
+        "cities": [
+            "Baroueli",
+            "Cercle de San",
+            "Ké-Macina",
+            "Kinmparana",
+            "Markala",
+            "San",
+            "Ségou",
+            "Sokolo"
+        ]
+    },
+    {
+        "name": "Sikasso Region",
+        "cities": [
+            "Bougouni",
+            "Kolondiéba",
+            "Koutiala",
+            "Koutiala Cercle",
+            "Ntossoni",
+            "Sikasso",
+            "Yorosso"
+        ]
+    },
+    {
+        "name": "Taoudénit Region",
+        "cities": []
+    },
+    {
+        "name": "Tombouctou Region",
+        "cities": [
+            "Araouane",
+            "Cercle de Goundam",
+            "Dire",
+            "Goundam",
+            "Gourma-Rharous Cercle",
+            "Niafunké",
+            "Timbuktu"
+        ]
+    }
+]

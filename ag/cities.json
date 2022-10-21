@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Barbuda",
+        "cities": [
+            "Codrington"
+        ]
+    },
+    {
+        "name": "Redonda",
+        "cities": []
+    },
+    {
+        "name": "Saint George Parish",
+        "cities": [
+            "Piggotts"
+        ]
+    },
+    {
+        "name": "Saint John Parish",
+        "cities": [
+            "Potters Village",
+            "Saint John’s"
+        ]
+    },
+    {
+        "name": "Saint Mary Parish",
+        "cities": [
+            "Bolands"
+        ]
+    },
+    {
+        "name": "Saint Paul Parish",
+        "cities": [
+            "Falmouth",
+            "Liberta"
+        ]
+    },
+    {
+        "name": "Saint Peter Parish",
+        "cities": [
+            "All Saints",
+            "Parham"
+        ]
+    },
+    {
+        "name": "Saint Philip Parish",
+        "cities": []
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Bouenza Department",
+        "cities": [
+            "Kayes",
+            "Madingou"
+        ]
+    },
+    {
+        "name": "Brazzaville",
+        "cities": [
+            "Brazzaville"
+        ]
+    },
+    {
+        "name": "Cuvette Department",
+        "cities": [
+            "Makoua",
+            "Owando"
+        ]
+    },
+    {
+        "name": "Cuvette-Ouest Department",
+        "cities": [
+            "Ewo"
+        ]
+    },
+    {
+        "name": "Kouilou Department",
+        "cities": []
+    },
+    {
+        "name": "Lékoumou Department",
+        "cities": [
+            "Sibiti"
+        ]
+    },
+    {
+        "name": "Likouala Department",
+        "cities": [
+            "Impfondo"
+        ]
+    },
+    {
+        "name": "Niari Department",
+        "cities": [
+            "Dolisie",
+            "Mossendjo"
+        ]
+    },
+    {
+        "name": "Plateaux Department",
+        "cities": [
+            "Djambala",
+            "Gamboma"
+        ]
+    },
+    {
+        "name": "Pointe-Noire",
+        "cities": [
+            "Loandjili",
+            "Pointe-Noire"
+        ]
+    },
+    {
+        "name": "Pool Department",
+        "cities": [
+            "Kinkala"
+        ]
+    },
+    {
+        "name": "Sangha Department",
+        "cities": [
+            "Ouésso",
+            "Sémbé"
+        ]
+    }
+]

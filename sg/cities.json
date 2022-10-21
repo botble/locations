@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Central Singapore Community Development Council",
+        "cities": [
+            "Singapore"
+        ]
+    },
+    {
+        "name": "North East Community Development Council",
+        "cities": []
+    },
+    {
+        "name": "North West Community Development Council",
+        "cities": [
+            "Woodlands"
+        ]
+    },
+    {
+        "name": "South East Community Development Council",
+        "cities": []
+    },
+    {
+        "name": "South West Community Development Council",
+        "cities": []
+    }
+]

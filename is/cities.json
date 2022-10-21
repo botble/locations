@@ -1,0 +1,116 @@
+[
+    {
+        "name": "Capital Region",
+        "cities": [
+            "Álftanes",
+            "Garðabær",
+            "Hafnarfjörður",
+            "Kjósarhreppur",
+            "Kópavogur",
+            "Mosfellsbaer",
+            "Mosfellsbær",
+            "Reykjavík",
+            "Seltjarnarnes"
+        ]
+    },
+    {
+        "name": "Eastern Region",
+        "cities": [
+            "Borgarfjarðarhreppur",
+            "Breiðdalshreppur",
+            "Egilsstaðir",
+            "Eskifjörður",
+            "Fjarðabyggð",
+            "Fljótsdalshérað",
+            "Fljótsdalshreppur",
+            "Höfn",
+            "Neskaupstaður",
+            "Reyðarfjörður"
+        ]
+    },
+    {
+        "name": "Northeastern Region",
+        "cities": [
+            "Akureyri",
+            "Dalvík",
+            "Dalvíkurbyggð",
+            "Eyjafjarðarsveit",
+            "Fjallabyggð",
+            "Grýtubakkahreppur",
+            "Hörgársveit",
+            "Húsavík",
+            "Langanesbyggð",
+            "Laugar",
+            "Siglufjörður",
+            "Skútustaðahreppur",
+            "Svalbarðsstrandarhreppur",
+            "Tjörneshreppur",
+            "Þingeyjarsveit"
+        ]
+    },
+    {
+        "name": "Northwestern Region",
+        "cities": [
+            "Akrahreppur",
+            "Húnaþing Vestra",
+            "Sauðárkrókur",
+            "Skagabyggð",
+            "Sveitarfélagið Skagafjörður"
+        ]
+    },
+    {
+        "name": "Southern Peninsula Region",
+        "cities": [
+            "Garður",
+            "Grindavík",
+            "Keflavík",
+            "Reykjanesbær",
+            "Sandgerði",
+            "Vogar"
+        ]
+    },
+    {
+        "name": "Southern Region",
+        "cities": [
+            "Ásahreppur",
+            "Bláskógabyggð",
+            "Flóahreppur",
+            "Grímsnes- og Grafningshreppur",
+            "Hrunamannahreppur",
+            "Hveragerði",
+            "Mýrdalshreppur",
+            "Selfoss",
+            "Skaftárhreppur",
+            "Skeiða- og Gnúpverjahreppur",
+            "Vestmannaeyjabær",
+            "Vestmannaeyjar",
+            "Þorlákshöfn"
+        ]
+    },
+    {
+        "name": "Western Region",
+        "cities": [
+            "Akranes",
+            "Borgarbyggð",
+            "Borgarnes",
+            "Dalabyggð",
+            "Eyja- og Miklaholtshreppur",
+            "Helgafellssveit",
+            "Hvalfjarðarsveit",
+            "Ólafsvík",
+            "Skorradalshreppur",
+            "Snæfellsbær",
+            "Stykkishólmur"
+        ]
+    },
+    {
+        "name": "Westfjords",
+        "cities": [
+            "Ísafjarðarbær",
+            "Ísafjörður",
+            "Reykhólahreppur",
+            "Strandabyggð",
+            "Tálknafjarðarhreppur"
+        ]
+    }
+]

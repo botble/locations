@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Belait District",
+        "cities": [
+            "Kuala Belait",
+            "Seria"
+        ]
+    },
+    {
+        "name": "Brunei-Muara District",
+        "cities": [
+            "Bandar Seri Begawan",
+            "Berakas A",
+            "Kapok",
+            "Mentiri",
+            "Serasa"
+        ]
+    },
+    {
+        "name": "Temburong District",
+        "cities": [
+            "Bangar"
+        ]
+    },
+    {
+        "name": "Tutong District",
+        "cities": [
+            "Tutong"
+        ]
+    }
+]

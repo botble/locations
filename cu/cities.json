@@ -1,0 +1,269 @@
+[
+    {
+        "name": "Artemisa Province",
+        "cities": [
+            "Alquízar",
+            "Artemisa",
+            "Bahía Honda",
+            "Bauta",
+            "Cabañas",
+            "Candelaria",
+            "Guanajay",
+            "Güira de Melena",
+            "Mariel",
+            "Municipio de Artemisa",
+            "Municipio de Bauta",
+            "Municipio de Guanajay",
+            "Municipio de Mariel",
+            "Municipio de San Cristóbal",
+            "San Antonio de los Baños",
+            "San Cristobal",
+            "Soroa"
+        ]
+    },
+    {
+        "name": "Camagüey Province",
+        "cities": [
+            "Camagüey",
+            "El Caney",
+            "Esmeralda",
+            "Florida",
+            "Guáimaro",
+            "Jimaguayú",
+            "Minas",
+            "Municipio de Florida",
+            "Municipio de Nuevitas",
+            "Nuevitas",
+            "Santa Cruz del Sur",
+            "Sibanicú",
+            "Vertientes"
+        ]
+    },
+    {
+        "name": "Ciego de Ávila Province",
+        "cities": [
+            "Baraguá",
+            "Chambas",
+            "Ciego de Ávila",
+            "Ciro Redondo",
+            "Florencia",
+            "Morón",
+            "Municipio de Ciego de Ávila",
+            "Municipio de Morón",
+            "Primero de Enero",
+            "Venezuela"
+        ]
+    },
+    {
+        "name": "Cienfuegos Province",
+        "cities": [
+            "Abreus",
+            "Aguada de Pasajeros",
+            "Cienfuegos",
+            "Cruces",
+            "Cumanayagua",
+            "Lajas",
+            "Municipio de Abreus",
+            "Municipio de Cienfuegos",
+            "Palmira",
+            "Rodas"
+        ]
+    },
+    {
+        "name": "Granma Province",
+        "cities": [
+            "Bartolomé Masó",
+            "Bayamo",
+            "Campechuela",
+            "Cauto Cristo",
+            "Guisa",
+            "Jiguaní",
+            "Manzanillo",
+            "Media Luna",
+            "Municipio de Bayamo",
+            "Municipio de Manzanillo",
+            "Municipio de Niquero",
+            "Niquero",
+            "Río Cauto",
+            "Yara"
+        ]
+    },
+    {
+        "name": "Guantánamo Province",
+        "cities": [
+            "Baracoa",
+            "Guantánamo",
+            "Maisí",
+            "Municipio de Guantánamo",
+            "Río Guayabal de Yateras",
+            "San Antonio del Sur"
+        ]
+    },
+    {
+        "name": "Havana Province",
+        "cities": [
+            "Alamar",
+            "Arroyo Naranjo",
+            "Boyeros",
+            "Centro Habana",
+            "Cerro",
+            "Diez de Octubre",
+            "Guanabacoa",
+            "Habana del Este",
+            "Havana",
+            "La Habana Vieja",
+            "Regla",
+            "San Miguel del Padrón",
+            "Santiago de las Vegas"
+        ]
+    },
+    {
+        "name": "Holguín Province",
+        "cities": [
+            "Banes",
+            "Cacocum",
+            "Cueto",
+            "Gibara",
+            "Holguín",
+            "Jobabo",
+            "Moa",
+            "Municipio de Banes",
+            "Municipio de Holguín",
+            "Sagua de Tánamo",
+            "San Germán"
+        ]
+    },
+    {
+        "name": "Isla de la Juventud",
+        "cities": [
+            "Nueva Gerona"
+        ]
+    },
+    {
+        "name": "Las Tunas Province",
+        "cities": [
+            "Amancio",
+            "Colombia",
+            "Jesús Menéndez",
+            "Jobabo",
+            "Las Tunas",
+            "Manatí",
+            "Puerto Padre"
+        ]
+    },
+    {
+        "name": "Matanzas Province",
+        "cities": [
+            "Alacranes",
+            "Bolondrón",
+            "Calimete",
+            "Cárdenas",
+            "Colón",
+            "Jagüey Grande",
+            "Jovellanos",
+            "Limonar",
+            "Los Arabos",
+            "Manguito",
+            "Martí",
+            "Matanzas",
+            "Municipio de Cárdenas",
+            "Municipio de Matanzas",
+            "Pedro Betancourt",
+            "Perico",
+            "Unión de Reyes",
+            "Varadero"
+        ]
+    },
+    {
+        "name": "Mayabeque Province",
+        "cities": [
+            "Batabanó",
+            "Bejucal",
+            "Güines",
+            "Jamaica",
+            "Jaruco",
+            "La Salud",
+            "Madruga",
+            "Municipio de Güines",
+            "Municipio de Melena del Sur",
+            "Quivicán",
+            "San José de las Lajas",
+            "San Nicolás de Bari",
+            "Santa Cruz del Norte"
+        ]
+    },
+    {
+        "name": "Pinar del Río Province",
+        "cities": [
+            "Consolación del Sur",
+            "Guane",
+            "Los Palacios",
+            "Mantua",
+            "Minas de Matahambre",
+            "Municipio de Consolación del Sur",
+            "Municipio de Guane",
+            "Municipio de La Palma",
+            "Municipio de Los Palacios",
+            "Pinar del Río",
+            "Puerto Esperanza",
+            "San Diego de Los Baños",
+            "San Luis",
+            "Viñales"
+        ]
+    },
+    {
+        "name": "Sancti Spíritus Province",
+        "cities": [
+            "Cabaiguán",
+            "Condado",
+            "Fomento",
+            "Guayos",
+            "Jatibonico",
+            "La Sierpe",
+            "Municipio de Cabaiguán",
+            "Municipio de Jatibonico",
+            "Municipio de Sancti Spíritus",
+            "Municipio de Trinidad",
+            "Sancti Spíritus",
+            "Topes de Collantes",
+            "Trinidad",
+            "Yaguajay",
+            "Zaza del Medio"
+        ]
+    },
+    {
+        "name": "Santiago de Cuba Province",
+        "cities": [
+            "Contramaestre",
+            "El Cobre",
+            "Municipio de Palma Soriano",
+            "Municipio de Santiago de Cuba",
+            "Palma Soriano",
+            "San Luis",
+            "Santiago de Cuba"
+        ]
+    },
+    {
+        "name": "Villa Clara Province",
+        "cities": [
+            "Caibarién",
+            "Calabazar de Sagua",
+            "Camajuaní",
+            "Cifuentes",
+            "Corralillo",
+            "Encrucijada",
+            "Esperanza",
+            "Isabela de Sagua",
+            "Manicaragua",
+            "Municipio de Placetas",
+            "Municipio de Santa Clara",
+            "Placetas",
+            "Quemado de Güines",
+            "Rancho Veloz",
+            "Ranchuelo",
+            "Sagua la Grande",
+            "Santa Clara",
+            "Santo Domingo"
+        ]
+    }
+]

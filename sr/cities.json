@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Brokopondo District",
+        "cities": [
+            "Brokopondo",
+            "Brownsweg"
+        ]
+    },
+    {
+        "name": "Commewijne District",
+        "cities": [
+            "Mariënburg",
+            "Nieuw Amsterdam"
+        ]
+    },
+    {
+        "name": "Coronie District",
+        "cities": [
+            "Totness"
+        ]
+    },
+    {
+        "name": "Marowijne District",
+        "cities": [
+            "Albina",
+            "Moengo"
+        ]
+    },
+    {
+        "name": "Nickerie District",
+        "cities": [
+            "Nieuw Nickerie",
+            "Wageningen"
+        ]
+    },
+    {
+        "name": "Para District",
+        "cities": [
+            "Onverwacht"
+        ]
+    },
+    {
+        "name": "Paramaribo District",
+        "cities": [
+            "Paramaribo"
+        ]
+    },
+    {
+        "name": "Saramacca District",
+        "cities": [
+            "Groningen"
+        ]
+    },
+    {
+        "name": "Sipaliwini District",
+        "cities": []
+    },
+    {
+        "name": "Wanica District",
+        "cities": [
+            "Lelydorp"
+        ]
+    }
+]

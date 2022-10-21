@@ -1,0 +1,597 @@
+[
+    {
+        "name": "Abim District",
+        "cities": []
+    },
+    {
+        "name": "Adjumani District",
+        "cities": []
+    },
+    {
+        "name": "Agago District",
+        "cities": []
+    },
+    {
+        "name": "Alebtong District",
+        "cities": []
+    },
+    {
+        "name": "Amolatar District",
+        "cities": []
+    },
+    {
+        "name": "Amudat District",
+        "cities": []
+    },
+    {
+        "name": "Amuria District",
+        "cities": []
+    },
+    {
+        "name": "Amuru District",
+        "cities": []
+    },
+    {
+        "name": "Apac District",
+        "cities": []
+    },
+    {
+        "name": "Arua District",
+        "cities": []
+    },
+    {
+        "name": "Budaka District",
+        "cities": []
+    },
+    {
+        "name": "Bududa District",
+        "cities": []
+    },
+    {
+        "name": "Bugiri District",
+        "cities": []
+    },
+    {
+        "name": "Buhweju District",
+        "cities": []
+    },
+    {
+        "name": "Buikwe District",
+        "cities": []
+    },
+    {
+        "name": "Bukedea District",
+        "cities": []
+    },
+    {
+        "name": "Bukomansimbi District",
+        "cities": []
+    },
+    {
+        "name": "Bukwo District",
+        "cities": []
+    },
+    {
+        "name": "Bulambuli District",
+        "cities": []
+    },
+    {
+        "name": "Buliisa District",
+        "cities": []
+    },
+    {
+        "name": "Bundibugyo District",
+        "cities": []
+    },
+    {
+        "name": "Bunyangabu District",
+        "cities": []
+    },
+    {
+        "name": "Bushenyi District",
+        "cities": []
+    },
+    {
+        "name": "Busia District",
+        "cities": []
+    },
+    {
+        "name": "Butaleja District",
+        "cities": []
+    },
+    {
+        "name": "Butambala District",
+        "cities": []
+    },
+    {
+        "name": "Butebo District",
+        "cities": []
+    },
+    {
+        "name": "Buvuma District",
+        "cities": []
+    },
+    {
+        "name": "Buyende District",
+        "cities": []
+    },
+    {
+        "name": "Central Region",
+        "cities": [
+            "Bukomansimbi District",
+            "Buvuma District",
+            "Bweyogerere",
+            "Byakabanda",
+            "Entebbe",
+            "Gomba District",
+            "Kajansi",
+            "Kampala",
+            "Kampala District",
+            "Kanoni",
+            "Kayunga",
+            "Kiboga",
+            "Kireka",
+            "Kyotera",
+            "Lugazi",
+            "Luwero",
+            "Lyantonde",
+            "Masaka",
+            "Mityana",
+            "Mpigi",
+            "Mubende",
+            "Mubende District",
+            "Mukono",
+            "Nakasongola",
+            "Namasuba",
+            "Njeru",
+            "Sembabule",
+            "Wakiso",
+            "Wakiso District",
+            "Wobulenzi"
+        ]
+    },
+    {
+        "name": "Dokolo District",
+        "cities": []
+    },
+    {
+        "name": "Eastern Region",
+        "cities": [
+            "Bugembe",
+            "Bugiri",
+            "Bukwa District",
+            "Bulambuli District",
+            "Busembatia",
+            "Busia",
+            "Buwenge",
+            "Iganga",
+            "Jinja",
+            "Kamuli",
+            "Kapchorwa",
+            "Kibuku District",
+            "Kumi",
+            "Mayuge",
+            "Mbale",
+            "Pallisa",
+            "Sironko",
+            "Soroti",
+            "Tororo"
+        ]
+    },
+    {
+        "name": "Gomba District",
+        "cities": []
+    },
+    {
+        "name": "Gulu District",
+        "cities": []
+    },
+    {
+        "name": "Ibanda District",
+        "cities": []
+    },
+    {
+        "name": "Iganga District",
+        "cities": []
+    },
+    {
+        "name": "Isingiro District",
+        "cities": []
+    },
+    {
+        "name": "Jinja District",
+        "cities": []
+    },
+    {
+        "name": "Kaabong District",
+        "cities": []
+    },
+    {
+        "name": "Kabale District",
+        "cities": []
+    },
+    {
+        "name": "Kabarole District",
+        "cities": []
+    },
+    {
+        "name": "Kaberamaido District",
+        "cities": []
+    },
+    {
+        "name": "Kagadi District",
+        "cities": []
+    },
+    {
+        "name": "Kakumiro District",
+        "cities": []
+    },
+    {
+        "name": "Kalangala District",
+        "cities": []
+    },
+    {
+        "name": "Kaliro District",
+        "cities": []
+    },
+    {
+        "name": "Kalungu District",
+        "cities": []
+    },
+    {
+        "name": "Kampala District",
+        "cities": []
+    },
+    {
+        "name": "Kamuli District",
+        "cities": []
+    },
+    {
+        "name": "Kamwenge District",
+        "cities": []
+    },
+    {
+        "name": "Kanungu District",
+        "cities": []
+    },
+    {
+        "name": "Kapchorwa District",
+        "cities": []
+    },
+    {
+        "name": "Kasese District",
+        "cities": []
+    },
+    {
+        "name": "Katakwi District",
+        "cities": []
+    },
+    {
+        "name": "Kayunga District",
+        "cities": []
+    },
+    {
+        "name": "Kibaale District",
+        "cities": []
+    },
+    {
+        "name": "Kiboga District",
+        "cities": []
+    },
+    {
+        "name": "Kibuku District",
+        "cities": []
+    },
+    {
+        "name": "Kiruhura District",
+        "cities": []
+    },
+    {
+        "name": "Kiryandongo District",
+        "cities": []
+    },
+    {
+        "name": "Kisoro District",
+        "cities": []
+    },
+    {
+        "name": "Kitgum District",
+        "cities": []
+    },
+    {
+        "name": "Koboko District",
+        "cities": []
+    },
+    {
+        "name": "Kole District",
+        "cities": []
+    },
+    {
+        "name": "Kotido District",
+        "cities": []
+    },
+    {
+        "name": "Kumi District",
+        "cities": []
+    },
+    {
+        "name": "Kween District",
+        "cities": []
+    },
+    {
+        "name": "Kyankwanzi District",
+        "cities": []
+    },
+    {
+        "name": "Kyegegwa District",
+        "cities": []
+    },
+    {
+        "name": "Kyenjojo District",
+        "cities": []
+    },
+    {
+        "name": "Kyotera District",
+        "cities": []
+    },
+    {
+        "name": "Lamwo District",
+        "cities": []
+    },
+    {
+        "name": "Lira District",
+        "cities": []
+    },
+    {
+        "name": "Luuka District",
+        "cities": []
+    },
+    {
+        "name": "Luwero District",
+        "cities": []
+    },
+    {
+        "name": "Lwengo District",
+        "cities": []
+    },
+    {
+        "name": "Lyantonde District",
+        "cities": []
+    },
+    {
+        "name": "Manafwa District",
+        "cities": []
+    },
+    {
+        "name": "Maracha District",
+        "cities": []
+    },
+    {
+        "name": "Masaka District",
+        "cities": []
+    },
+    {
+        "name": "Masindi District",
+        "cities": []
+    },
+    {
+        "name": "Mayuge District",
+        "cities": []
+    },
+    {
+        "name": "Mbale District",
+        "cities": []
+    },
+    {
+        "name": "Mbarara District",
+        "cities": []
+    },
+    {
+        "name": "Mitooma District",
+        "cities": []
+    },
+    {
+        "name": "Mityana District",
+        "cities": []
+    },
+    {
+        "name": "Moroto District",
+        "cities": []
+    },
+    {
+        "name": "Moyo District",
+        "cities": []
+    },
+    {
+        "name": "Mpigi District",
+        "cities": []
+    },
+    {
+        "name": "Mubende District",
+        "cities": []
+    },
+    {
+        "name": "Mukono District",
+        "cities": []
+    },
+    {
+        "name": "Nakapiripirit District",
+        "cities": []
+    },
+    {
+        "name": "Nakaseke District",
+        "cities": []
+    },
+    {
+        "name": "Nakasongola District",
+        "cities": []
+    },
+    {
+        "name": "Namayingo District",
+        "cities": []
+    },
+    {
+        "name": "Namisindwa District",
+        "cities": []
+    },
+    {
+        "name": "Namutumba District",
+        "cities": []
+    },
+    {
+        "name": "Napak District",
+        "cities": []
+    },
+    {
+        "name": "Nebbi District",
+        "cities": []
+    },
+    {
+        "name": "Ngora District",
+        "cities": []
+    },
+    {
+        "name": "Northern Region",
+        "cities": [
+            "Adjumani",
+            "Amudat",
+            "Apac",
+            "Arua",
+            "Gulu",
+            "Kitgum",
+            "Kotido",
+            "Lira",
+            "Moroto",
+            "Moyo",
+            "Nebbi",
+            "Otuke District",
+            "Oyam District",
+            "Pader",
+            "Pader Palwo",
+            "Paidha",
+            "Yumbe"
+        ]
+    },
+    {
+        "name": "Ntoroko District",
+        "cities": []
+    },
+    {
+        "name": "Ntungamo District",
+        "cities": []
+    },
+    {
+        "name": "Nwoya District",
+        "cities": []
+    },
+    {
+        "name": "Omoro District",
+        "cities": []
+    },
+    {
+        "name": "Otuke District",
+        "cities": []
+    },
+    {
+        "name": "Oyam District",
+        "cities": []
+    },
+    {
+        "name": "Pader District",
+        "cities": []
+    },
+    {
+        "name": "Pakwach District",
+        "cities": []
+    },
+    {
+        "name": "Pallisa District",
+        "cities": []
+    },
+    {
+        "name": "Rakai District",
+        "cities": []
+    },
+    {
+        "name": "Rubanda District",
+        "cities": []
+    },
+    {
+        "name": "Rubirizi District",
+        "cities": []
+    },
+    {
+        "name": "Rukiga District",
+        "cities": []
+    },
+    {
+        "name": "Rukungiri District",
+        "cities": []
+    },
+    {
+        "name": "Sembabule District",
+        "cities": []
+    },
+    {
+        "name": "Serere District",
+        "cities": []
+    },
+    {
+        "name": "Sheema District",
+        "cities": []
+    },
+    {
+        "name": "Sironko District",
+        "cities": []
+    },
+    {
+        "name": "Soroti District",
+        "cities": []
+    },
+    {
+        "name": "Tororo District",
+        "cities": []
+    },
+    {
+        "name": "Wakiso District",
+        "cities": []
+    },
+    {
+        "name": "Western Region",
+        "cities": [
+            "Bundibugyo",
+            "Bwizibwera",
+            "Fort Portal",
+            "Hoima",
+            "Ibanda",
+            "Ibanda District",
+            "Kabale",
+            "Kagadi",
+            "Kamwenge",
+            "Kanungu",
+            "Kasese",
+            "Kibale",
+            "Kigorobya",
+            "Kilembe",
+            "Kiruhura",
+            "Kisoro",
+            "Kyenjojo",
+            "Margherita",
+            "Masindi",
+            "Masindi Port",
+            "Mbarara",
+            "Muhororo",
+            "Ntungamo",
+            "Nyachera",
+            "Rukungiri"
+        ]
+    },
+    {
+        "name": "Yumbe District",
+        "cities": []
+    },
+    {
+        "name": "Zombo District",
+        "cities": []
+    }
+]

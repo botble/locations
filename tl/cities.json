@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Aileu municipality",
+        "cities": [
+            "Aileu",
+            "Lequidoe",
+            "Remexio"
+        ]
+    },
+    {
+        "name": "Ainaro Municipality",
+        "cities": [
+            "Ainaro",
+            "Hato-Udo"
+        ]
+    },
+    {
+        "name": "Baucau Municipality",
+        "cities": [
+            "Baguia",
+            "Baucau",
+            "Baukau",
+            "Laga",
+            "Quelicai",
+            "Vemasse",
+            "Venilale"
+        ]
+    },
+    {
+        "name": "Bobonaro Municipality",
+        "cities": [
+            "Maliana"
+        ]
+    },
+    {
+        "name": "Cova Lima Municipality",
+        "cities": [
+            "Fatumean",
+            "Fohorem",
+            "Maucatar",
+            "Suai",
+            "Tilomar"
+        ]
+    },
+    {
+        "name": "Dili municipality",
+        "cities": [
+            "Atauro Island",
+            "Cristo Rei",
+            "Dili",
+            "Metinaro"
+        ]
+    },
+    {
+        "name": "Ermera District",
+        "cities": [
+            "Ermera Villa",
+            "Gleno",
+            "Hatulia",
+            "Letefoho",
+            "Railaco"
+        ]
+    },
+    {
+        "name": "Lautém Municipality",
+        "cities": [
+            "Iliomar",
+            "Lautem",
+            "Lospalos",
+            "Luro",
+            "Tutuala"
+        ]
+    },
+    {
+        "name": "Liquiçá Municipality",
+        "cities": [
+            "Bazartete",
+            "Likisá",
+            "Maubara"
+        ]
+    },
+    {
+        "name": "Manatuto District",
+        "cities": [
+            "Barique",
+            "Laclo",
+            "Laclubar",
+            "Manatuto",
+            "Manatutu",
+            "Soibada"
+        ]
+    },
+    {
+        "name": "Manufahi Municipality",
+        "cities": [
+            "Alas",
+            "Fatuberliu",
+            "Same",
+            "Turiscai"
+        ]
+    },
+    {
+        "name": "Viqueque Municipality",
+        "cities": [
+            "Lacluta",
+            "Ossu",
+            "Uatocarabau",
+            "Uatolari",
+            "Viqueque"
+        ]
+    }
+]

@@ -1,0 +1,261 @@
+[
+    {
+        "name": "Johor",
+        "cities": [
+            "Bakri",
+            "Batu Pahat",
+            "Buloh Kasap",
+            "Chaah",
+            "Daerah Batu Pahat",
+            "Daerah Johor Baharu",
+            "Daerah Keluang",
+            "Daerah Kota Tinggi",
+            "Daerah Mersing",
+            "Daerah Muar",
+            "Daerah Pontian",
+            "Daerah Segamat",
+            "Johor Bahru",
+            "Kampung Pasir Gudang Baru",
+            "Kampung Simpang Renggam",
+            "Kelapa Sawit",
+            "Kluang",
+            "Kota Tinggi",
+            "Kulai",
+            "Labis",
+            "Mersing",
+            "Muar",
+            "Parit Raja",
+            "Pekan Nenas",
+            "Pontian Kechil",
+            "Segamat",
+            "Skudai",
+            "Taman Senai",
+            "Tangkak",
+            "Ulu Tiram",
+            "Yong Peng"
+        ]
+    },
+    {
+        "name": "Kedah",
+        "cities": [
+            "Alor Setar",
+            "Ayer Hangat",
+            "Bedong",
+            "Gurun",
+            "Jitra",
+            "Kampung Kilim",
+            "Kampung Kok",
+            "Kuah",
+            "Kuala Kedah",
+            "Kuala Teriang",
+            "Kulim",
+            "Langkawi",
+            "Padang Mat Sirat",
+            "Sungai Petani"
+        ]
+    },
+    {
+        "name": "Kelantan",
+        "cities": [
+            "Gua Musang",
+            "Kampong Kadok",
+            "Kampong Pangkal Kalong",
+            "Kota Bharu",
+            "Pasir Mas",
+            "Peringat",
+            "Tumpat"
+        ]
+    },
+    {
+        "name": "Kuala Lumpur",
+        "cities": [
+            "Kuala Lumpur"
+        ]
+    },
+    {
+        "name": "Labuan",
+        "cities": [
+            "Labuan"
+        ]
+    },
+    {
+        "name": "Malacca",
+        "cities": [
+            "Alor Gajah",
+            "Batu Berendam",
+            "Bemban",
+            "Bukit Rambai",
+            "Kampong Masjid Tanah",
+            "Kampung Ayer Keroh",
+            "Kampung Ayer Molek",
+            "Kampung Bukit Baharu",
+            "Klebang Besar",
+            "Kuala Sungai Baru",
+            "Malacca",
+            "Pulau Sebang",
+            "Sungai Udang"
+        ]
+    },
+    {
+        "name": "Negeri Sembilan",
+        "cities": [
+            "Bahau",
+            "Kampung Baharu Nilai",
+            "Kuala Pilah",
+            "Port Dickson",
+            "Seremban",
+            "Tampin"
+        ]
+    },
+    {
+        "name": "Pahang",
+        "cities": [
+            "Bentong Town",
+            "Jerantut",
+            "Kampung Bukit Tinggi Bentong",
+            "Kampung Tekek",
+            "Kuala Lipis",
+            "Kuantan",
+            "Mentekab",
+            "Pekan",
+            "Raub",
+            "Tanah Rata",
+            "Temerluh"
+        ]
+    },
+    {
+        "name": "Penang",
+        "cities": [
+            "Batu Feringgi",
+            "Bukit Mertajam",
+            "Butterworth",
+            "George Town",
+            "Juru",
+            "Kampung Batu Feringgi",
+            "Kampung Sungai Ara",
+            "Kepala Batas",
+            "Nibong Tebal",
+            "Perai",
+            "Permatang Kuching",
+            "Seberang Perai",
+            "Tanjung Tokong",
+            "Tasek Glugor",
+            "Telaga Batu"
+        ]
+    },
+    {
+        "name": "Perak",
+        "cities": [
+            "Bagan Serai",
+            "Batu Gajah",
+            "Bidur",
+            "Ipoh",
+            "Kampar",
+            "Kampong Dungun",
+            "Kuala Kangsar",
+            "Lumut",
+            "Pantai Remis",
+            "Parit Buntar",
+            "Simpang Empat",
+            "Taiping",
+            "Tapah Road",
+            "Teluk Intan"
+        ]
+    },
+    {
+        "name": "Perlis",
+        "cities": [
+            "Kangar",
+            "Kuala Perlis",
+            "Pantai Cenang"
+        ]
+    },
+    {
+        "name": "Putrajaya",
+        "cities": [
+            "Putrajaya"
+        ]
+    },
+    {
+        "name": "Sabah",
+        "cities": [
+            "Bandar Labuan",
+            "Beaufort",
+            "Donggongon",
+            "Keningau",
+            "Kinarut",
+            "Kota Belud",
+            "Kota Kinabalu",
+            "Kudat",
+            "Lahad Datu",
+            "Papar",
+            "Putatan",
+            "Ranau",
+            "Sandakan",
+            "Semporna",
+            "Taman Rajawali",
+            "Tawau"
+        ]
+    },
+    {
+        "name": "Sarawak",
+        "cities": [
+            "Bintulu",
+            "Data Kakus",
+            "Kapit",
+            "Kuching",
+            "Lawas",
+            "Lidung Jelo",
+            "Limbang",
+            "Long Ampan Aing or Abanang",
+            "Marudi",
+            "Miri",
+            "Mukah",
+            "Sarikei",
+            "Sibu",
+            "Simanggang"
+        ]
+    },
+    {
+        "name": "Selangor",
+        "cities": [
+            "Ampang",
+            "Bagan Pulau Ketam",
+            "Banting",
+            "Batang Berjuntai",
+            "Batu Arang",
+            "Jenjarum",
+            "Kampong Baharu Balakong",
+            "Kampung Baru Subang",
+            "Kampung Tanjung Karang",
+            "Klang",
+            "Kuala Selangor",
+            "Kuang",
+            "Ladang Seri Kundang",
+            "Pelabuhan Klang",
+            "Petaling Jaya",
+            "Putra Heights",
+            "Rawang",
+            "Semenyih",
+            "Serendah",
+            "Shah Alam",
+            "Subang Jaya",
+            "Sungai Besar",
+            "Sungai Pelek New Village",
+            "Tanjung Sepat"
+        ]
+    },
+    {
+        "name": "Terengganu",
+        "cities": [
+            "Cukai",
+            "Jertih",
+            "Kampung Kuala Besut",
+            "Kertih",
+            "Kuala Besut",
+            "Kuala Terengganu",
+            "Marang",
+            "Paka"
+        ]
+    }
+]

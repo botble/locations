@@ -1,0 +1,227 @@
+[
+    {
+        "name": "Banteay Meanchey",
+        "cities": [
+            "Mongkol Borei",
+            "Paoy Paet",
+            "Sisophon",
+            "Srŏk Malai",
+            "Srŏk Svay Chék"
+        ]
+    },
+    {
+        "name": "Battambang",
+        "cities": [
+            "Battambang",
+            "Srŏk Âk Phnŭm",
+            "Srŏk Banăn",
+            "Srŏk Bâvĭl",
+            "Srŏk Rotanak Mondol"
+        ]
+    },
+    {
+        "name": "Kampong Cham",
+        "cities": [
+            "Cheung Prey",
+            "Kampong Cham",
+            "Srŏk Bathéay"
+        ]
+    },
+    {
+        "name": "Kampong Chhnang",
+        "cities": [
+            "Baribour",
+            "Kampong Chhnang",
+            "Rolea B'ier",
+            "Srŏk Chol Kiri",
+            "Srŏk Sameakki Mean Chey"
+        ]
+    },
+    {
+        "name": "Kampong Speu",
+        "cities": [
+            "Kampong Speu",
+            "Krŏng Chbar Mon",
+            "Srŏk Basedth",
+            "Srŏk Kông Pĭsei",
+            "Srŏk Ŏdŏngk"
+        ]
+    },
+    {
+        "name": "Kampong Thom",
+        "cities": []
+    },
+    {
+        "name": "Kampot",
+        "cities": [
+            "Angkor Chey",
+            "Banteay Meas",
+            "Chhouk District",
+            "Kampong Bay",
+            "Kampong Tranch",
+            "Kampot",
+            "Srŏk Chŭm Kiri",
+            "Srŏk Dângtóng",
+            "Srok Tuek Chhou"
+        ]
+    },
+    {
+        "name": "Kandal",
+        "cities": [
+            "Krŏng Ta Khmau",
+            "Srŏk Khsăch Kândal",
+            "Ta Khmau"
+        ]
+    },
+    {
+        "name": "Kep",
+        "cities": [
+            "Krong Kep",
+            "Srŏk Dâmnăk Châng’aeur"
+        ]
+    },
+    {
+        "name": "Koh Kong",
+        "cities": [
+            "Koh Kong",
+            "Smach Mean Chey",
+            "Srae Ambel",
+            "Srŏk Batum Sakôr",
+            "Srŏk Môndôl Seima"
+        ]
+    },
+    {
+        "name": "Kratie",
+        "cities": [
+            "Kracheh",
+            "Kratié",
+            "Snuol"
+        ]
+    },
+    {
+        "name": "Mondulkiri",
+        "cities": [
+            "Krŏng Sênmônoŭrôm",
+            "Sen Monorom",
+            "Srŏk Kaev Seima",
+            "Srŏk Pech Chreada"
+        ]
+    },
+    {
+        "name": "Oddar Meanchey",
+        "cities": [
+            "Samraong",
+            "Srŏk Bântéay Âmpĭl",
+            "Srŏk Sâmraông",
+            "Srŏk Trâpeăng Prasat"
+        ]
+    },
+    {
+        "name": "Pailin",
+        "cities": [
+            "Khan Sala Krau",
+            "Pailin"
+        ]
+    },
+    {
+        "name": "Phnom Penh",
+        "cities": [
+            "Khan 7 Makara",
+            "Khan Châmkar Mon",
+            "Khan Dângkaô",
+            "Khan Duŏn Pénh",
+            "Khan Méan Chey",
+            "Khan Russey Keo",
+            "Khan Saen Sokh",
+            "Phnom Penh"
+        ]
+    },
+    {
+        "name": "Preah Vihear",
+        "cities": [
+            "Sangkom Thmei",
+            "Srŏk Ch’êh Sên",
+            "Srŏk Chhêb",
+            "Srŏk Kulén",
+            "Srŏk Rôviĕng",
+            "Srŏk Tbêng Méanchey",
+            "Tbeng Meanchey"
+        ]
+    },
+    {
+        "name": "Prey Veng",
+        "cities": [
+            "Prey Veng",
+            "Srŏk Kâmpóng Léav",
+            "Srŏk Mésang",
+            "Srŏk Preăh Sdéch"
+        ]
+    },
+    {
+        "name": "Pursat",
+        "cities": [
+            "Bakan",
+            "Krakor",
+            "Pursat",
+            "Sampov Meas",
+            "Srŏk Kândiĕng",
+            "Srŏk Véal Vêng"
+        ]
+    },
+    {
+        "name": "Ratanakiri",
+        "cities": [
+            "Banlung",
+            "Lumphat",
+            "Srŏk Ândong Méas",
+            "Srŏk Bâ Kêv",
+            "Srŏk Ban Lŭng",
+            "Srŏk Koun Mom",
+            "Srŏk Ou Chum",
+            "Srŏk Ou Ya Dav",
+            "Srŏk Ta Vêng"
+        ]
+    },
+    {
+        "name": "Siem Reap",
+        "cities": [
+            "Siem Reap",
+            "Srŏk Ângkôr Thum",
+            "Srŏk Prasat Bakong",
+            "Svay Leu",
+            "Varin"
+        ]
+    },
+    {
+        "name": "Sihanoukville",
+        "cities": [
+            "Sihanoukville",
+            "Srok Stueng Hav"
+        ]
+    },
+    {
+        "name": "Stung Treng",
+        "cities": [
+            "Srŏk Srêsén",
+            "Stueng Traeng",
+            "Stung Treng"
+        ]
+    },
+    {
+        "name": "Svay Rieng",
+        "cities": [
+            "Srŏk Svay Chrŭm",
+            "Svay Rieng"
+        ]
+    },
+    {
+        "name": "Takeo",
+        "cities": [
+            "Krŏng Doun Kaev",
+            "Phumĭ Véal Srê",
+            "Srŏk Ângkôr Borei",
+            "Srŏk Borei Cholsar",
+            "Takeo"
+        ]
+    }
+]

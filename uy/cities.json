@@ -1,0 +1,252 @@
+[
+    {
+        "name": "Artigas Department",
+        "cities": [
+            "Artigas",
+            "Baltasar Brum",
+            "Bella Unión",
+            "Las Piedras",
+            "Tomás Gomensoro"
+        ]
+    },
+    {
+        "name": "Canelones Department",
+        "cities": [
+            "Aguas Corrientes",
+            "Atlántida",
+            "Barra de Carrasco",
+            "Barros Blancos",
+            "Canelones",
+            "Colonia Nicolich",
+            "Empalme Olmos",
+            "Joaquín Suárez",
+            "Juanicó",
+            "La Floresta",
+            "La Paz",
+            "Las Piedras",
+            "Las Toscas",
+            "Los Cerrillos",
+            "Migues",
+            "Montes",
+            "Pando",
+            "Paso de Carrasco",
+            "Progreso",
+            "San Antonio",
+            "San Bautista",
+            "San Jacinto",
+            "San Ramón",
+            "Santa Lucía",
+            "Santa Rosa",
+            "Sauce",
+            "Soca",
+            "Tala",
+            "Toledo"
+        ]
+    },
+    {
+        "name": "Cerro Largo Department",
+        "cities": [
+            "Aceguá",
+            "Isidoro Noblía",
+            "Melo",
+            "Río Branco",
+            "Tupambaé"
+        ]
+    },
+    {
+        "name": "Colonia Department",
+        "cities": [
+            "Carmelo",
+            "Colonia del Sacramento",
+            "Florencio Sánchez",
+            "Juan L. Lacaze",
+            "Nueva Helvecia",
+            "Nueva Palmira",
+            "Ombúes de Lavalle",
+            "Rosario",
+            "Tarariras"
+        ]
+    },
+    {
+        "name": "Durazno Department",
+        "cities": [
+            "Blanquillo",
+            "Carlos Reyles",
+            "Durazno",
+            "La Paloma",
+            "Santa Bernardina",
+            "Sarandí del Yi",
+            "Villa del Carmen"
+        ]
+    },
+    {
+        "name": "Flores Department",
+        "cities": [
+            "Trinidad"
+        ]
+    },
+    {
+        "name": "Florida Department",
+        "cities": [
+            "25 de Agosto",
+            "25 de Mayo",
+            "Alejandro Gallinal",
+            "Cardal",
+            "Casupá",
+            "Florida",
+            "Sarandí Grande"
+        ]
+    },
+    {
+        "name": "Lavalleja Department",
+        "cities": [
+            "José Batlle y Ordóñez",
+            "José Pedro Varela",
+            "Mariscala",
+            "Minas",
+            "Solís de Mataojo"
+        ]
+    },
+    {
+        "name": "Maldonado Department",
+        "cities": [
+            "Aiguá",
+            "Maldonado",
+            "Pan de Azúcar",
+            "Piriápolis",
+            "Punta del Este",
+            "San Carlos"
+        ]
+    },
+    {
+        "name": "Montevideo Department",
+        "cities": [
+            "Bella Vista",
+            "Belvedere",
+            "Buceo",
+            "Capurro (Montevideo)",
+            "Carrasco",
+            "Casabó",
+            "Centro",
+            "Cerrito Montevideo",
+            "Colón Centro y Noroeste",
+            "Colón Sudeste",
+            "Conciliación",
+            "Cordón",
+            "Flor de Maroñas",
+            "Ituzaingó",
+            "La Unión",
+            "Malvín",
+            "Manga",
+            "Maroñas",
+            "Montevideo",
+            "Nuevo París",
+            "Pajas Blancas",
+            "Paso del Molino",
+            "Peñarol",
+            "Piedras Blancas",
+            "Pocitos",
+            "Punta Carretas",
+            "Punta Gorda",
+            "Reducto",
+            "Santiago Vázquez",
+            "Sayage",
+            "Tres Cruces",
+            "Villa del Cerro",
+            "Villa Española",
+            "Villa García",
+            "Villa Muñoz"
+        ]
+    },
+    {
+        "name": "Paysandú Department",
+        "cities": [
+            "Estación Porvenir",
+            "Guichón",
+            "Paysandú",
+            "Piedras Coloradas",
+            "Quebracho",
+            "San Félix"
+        ]
+    },
+    {
+        "name": "Río Negro Department",
+        "cities": [
+            "Fray Bentos",
+            "Nuevo Berlín",
+            "San Javier",
+            "Young"
+        ]
+    },
+    {
+        "name": "Rivera Department",
+        "cities": [
+            "Minas de Corrales",
+            "Rivera",
+            "Tranqueras",
+            "Vichadero"
+        ]
+    },
+    {
+        "name": "Rocha Department",
+        "cities": [
+            "Castillos",
+            "Cebollatí",
+            "Chui",
+            "Dieciocho de Julio",
+            "La Paloma",
+            "Lascano",
+            "Rocha",
+            "Velázquez"
+        ]
+    },
+    {
+        "name": "Salto Department",
+        "cities": [
+            "Belén",
+            "Salto",
+            "Villa Constitución"
+        ]
+    },
+    {
+        "name": "San José Department",
+        "cities": [
+            "Delta del Tigre",
+            "Ecilda Paullier",
+            "Libertad",
+            "Puntas de Valdéz",
+            "Rafael Perazza",
+            "Rodríguez",
+            "San José de Mayo"
+        ]
+    },
+    {
+        "name": "Soriano Department",
+        "cities": [
+            "Cardona",
+            "Dolores",
+            "José Enrique Rodó",
+            "Mercedes",
+            "Palmitas",
+            "Santa Catalina",
+            "Villa Soriano"
+        ]
+    },
+    {
+        "name": "Tacuarembó Department",
+        "cities": [
+            "Curtina",
+            "Paso de los Toros",
+            "Tacuarembó"
+        ]
+    },
+    {
+        "name": "Treinta y Tres Department",
+        "cities": [
+            "Santa Clara de Olimar",
+            "Treinta y Tres",
+            "Vergara",
+            "Villa Sara"
+        ]
+    }
+]

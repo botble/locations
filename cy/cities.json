@@ -1,0 +1,127 @@
+[
+    {
+        "name": "Famagusta District (Mağusa)",
+        "cities": [
+            "Acherítou",
+            "Áchna",
+            "Ammochostos Municipality",
+            "Avgórou",
+            "Ayia Napa",
+            "Derýneia",
+            "Famagusta",
+            "Frénaros",
+            "Lefkónoiko",
+            "Leonárisso",
+            "Liopétri",
+            "Paralímni",
+            "Protaras",
+            "Rizokárpaso",
+            "Tríkomo"
+        ]
+    },
+    {
+        "name": "Kyrenia District (Keryneia)",
+        "cities": [
+            "Kyrenia",
+            "Kyrenia Municipality",
+            "Lápithos"
+        ]
+    },
+    {
+        "name": "Larnaca District (Larnaka)",
+        "cities": [
+            "Aradíppou",
+            "Athíenou",
+            "Dhromolaxia",
+            "Kíti",
+            "Kofínou",
+            "Kolossi",
+            "Kórnos",
+            "Larnaca",
+            "Livádia",
+            "Meneou",
+            "Mosfilotí",
+            "Pérgamos",
+            "Perivólia",
+            "Psevdás",
+            "Pýla",
+            "Tersefánou",
+            "Troúlloi",
+            "Voróklini",
+            "Xylofágou",
+            "Xylotymbou"
+        ]
+    },
+    {
+        "name": "Limassol District (Leymasun)",
+        "cities": [
+            "Ágios Tomás",
+            "Ágios Týchon",
+            "Erími",
+            "Germasógeia",
+            "Kyperoúnta",
+            "Lemesós",
+            "Limassol",
+            "Mouttagiáka",
+            "Páchna",
+            "Páno Polemídia",
+            "Parekklisha",
+            "Peléndri",
+            "Pissoúri",
+            "Pyrgos",
+            "Sotíra",
+            "Soúni-Zanakiá",
+            "Ýpsonas"
+        ]
+    },
+    {
+        "name": "Nicosia District (Lefkoşa)",
+        "cities": [
+            "Akáki",
+            "Alámpra",
+            "Aredioú",
+            "Astromerítis",
+            "Dáli",
+            "Ergátes",
+            "Géri",
+            "Kakopetriá",
+            "Káto Defterá",
+            "Káto Pýrgos",
+            "Klírou",
+            "Kokkinotrimithiá",
+            "Léfka",
+            "Lýmpia",
+            "Lythrodóntas",
+            "Mámmari",
+            "Méniko",
+            "Mórfou",
+            "Nicosia",
+            "Nicosia Municipality",
+            "Páno Defterá",
+            "Péra",
+            "Peristeróna",
+            "Psimolofou",
+            "Tséri"
+        ]
+    },
+    {
+        "name": "Paphos District (Pafos)",
+        "cities": [
+            "Argáka",
+            "Chlórakas",
+            "Emba",
+            "Geroskipou",
+            "Geroskípou (quarter)",
+            "Geroskípou Municipality",
+            "Kissonerga",
+            "Koloni",
+            "Konia",
+            "Mesógi",
+            "Paphos",
+            "Pégeia",
+            "Pólis",
+            "Tála",
+            "Tsáda"
+        ]
+    }
+]

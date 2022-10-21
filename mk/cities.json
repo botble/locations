@@ -1,0 +1,613 @@
+[
+    {
+        "name": "Aerodrom Municipality",
+        "cities": []
+    },
+    {
+        "name": "Aračinovo Municipality",
+        "cities": [
+            "Арачиново"
+        ]
+    },
+    {
+        "name": "Berovo Municipality",
+        "cities": [
+            "Berovo",
+            "Rusinovo",
+            "Vladimirovo"
+        ]
+    },
+    {
+        "name": "Bitola Municipality",
+        "cities": [
+            "Bistrica",
+            "Bitola",
+            "Capari",
+            "Dolno Orizari",
+            "Gorno Orizari",
+            "Kukurečani",
+            "Logovardi"
+        ]
+    },
+    {
+        "name": "Bogdanci Municipality",
+        "cities": [
+            "Bogdanci",
+            "Stojakovo"
+        ]
+    },
+    {
+        "name": "Bogovinje Municipality",
+        "cities": [
+            "Bogovinje",
+            "Dolno Palčište",
+            "Gradec",
+            "Kamenjane"
+        ]
+    },
+    {
+        "name": "Bosilovo Municipality",
+        "cities": [
+            "Bosilovo",
+            "Ilovica",
+            "Sekirnik"
+        ]
+    },
+    {
+        "name": "Brvenica Municipality",
+        "cities": [
+            "Brvenica",
+            "Čelopek",
+            "Gurgurnica",
+            "Miletino"
+        ]
+    },
+    {
+        "name": "Butel Municipality",
+        "cities": [
+            "Butel",
+            "Radishani"
+        ]
+    },
+    {
+        "name": "Čair Municipality",
+        "cities": [
+            "Čair"
+        ]
+    },
+    {
+        "name": "Čaška Municipality",
+        "cities": [
+            "Bogomila",
+            "Čaška"
+        ]
+    },
+    {
+        "name": "Centar Municipality",
+        "cities": []
+    },
+    {
+        "name": "Centar Župa Municipality",
+        "cities": [
+            "Centar Župa"
+        ]
+    },
+    {
+        "name": "Češinovo-Obleševo Municipality",
+        "cities": [
+            "Češinovo",
+            "Oblesevo"
+        ]
+    },
+    {
+        "name": "Čučer-Sandevo Municipality",
+        "cities": [
+            "Чучер - Сандево"
+        ]
+    },
+    {
+        "name": "Debarca Municipality",
+        "cities": [
+            "Belčišta",
+            "Mešeišta"
+        ]
+    },
+    {
+        "name": "Delčevo Municipality",
+        "cities": [
+            "Delcevo"
+        ]
+    },
+    {
+        "name": "Demir Hisar Municipality",
+        "cities": [
+            "Demir Hisar",
+            "Slepče",
+            "Sopotnica"
+        ]
+    },
+    {
+        "name": "Demir Kapija Municipality",
+        "cities": [
+            "Demir Kapija"
+        ]
+    },
+    {
+        "name": "Dojran Municipality",
+        "cities": [
+            "Star Dojran"
+        ]
+    },
+    {
+        "name": "Dolneni Municipality",
+        "cities": [
+            "Crnilište",
+            "Desovo",
+            "Dolneni",
+            "Lažani",
+            "Žitoše"
+        ]
+    },
+    {
+        "name": "Drugovo Municipality",
+        "cities": []
+    },
+    {
+        "name": "Gazi Baba Municipality",
+        "cities": [
+            "Cresevo"
+        ]
+    },
+    {
+        "name": "Gevgelija Municipality",
+        "cities": [
+            "Gevgelija",
+            "Miravci"
+        ]
+    },
+    {
+        "name": "Gjorče Petrov Municipality",
+        "cities": [
+            "Gjorče Petro"
+        ]
+    },
+    {
+        "name": "Gostivar Municipality",
+        "cities": [
+            "Cegrane",
+            "Dolna Banjica",
+            "Forino",
+            "Gostivar",
+            "Srbinovo",
+            "Vrutok"
+        ]
+    },
+    {
+        "name": "Gradsko Municipality",
+        "cities": [
+            "Gradsko"
+        ]
+    },
+    {
+        "name": "Greater Skopje",
+        "cities": [
+            "Bojane",
+            "Dračevo",
+            "Ljubin",
+            "Saraj",
+            "Usje"
+        ]
+    },
+    {
+        "name": "Ilinden Municipality",
+        "cities": [
+            "Ilinden",
+            "Kadino",
+            "Marino",
+            "Miladinovci",
+            "Идризово",
+            "Јурумлери"
+        ]
+    },
+    {
+        "name": "Jegunovce Municipality",
+        "cities": [
+            "Jegunovce",
+            "Vratnica"
+        ]
+    },
+    {
+        "name": "Karbinci",
+        "cities": [
+            "Karbinci"
+        ]
+    },
+    {
+        "name": "Karpoš Municipality",
+        "cities": [
+            "Skopje"
+        ]
+    },
+    {
+        "name": "Kavadarci Municipality",
+        "cities": [
+            "Kavadarci",
+            "Vataša"
+        ]
+    },
+    {
+        "name": "Kičevo Municipality",
+        "cities": [
+            "Drugovo",
+            "Kičevo",
+            "Srbica",
+            "Strelci",
+            "Tuin",
+            "Vraneštica",
+            "Zajas"
+        ]
+    },
+    {
+        "name": "Kisela Voda Municipality",
+        "cities": [
+            "Kisela Voda"
+        ]
+    },
+    {
+        "name": "Kočani Municipality",
+        "cities": [
+            "Kochani",
+            "Orizari"
+        ]
+    },
+    {
+        "name": "Konče Municipality",
+        "cities": [
+            "Konče"
+        ]
+    },
+    {
+        "name": "Kratovo Municipality",
+        "cities": [
+            "Kratovo"
+        ]
+    },
+    {
+        "name": "Kriva Palanka Municipality",
+        "cities": [
+            "Kriva Palanka"
+        ]
+    },
+    {
+        "name": "Krivogaštani Municipality",
+        "cities": [
+            "Krivogashtani",
+            "Obršani",
+            "Клечовце"
+        ]
+    },
+    {
+        "name": "Kruševo Municipality",
+        "cities": [
+            "Bučin",
+            "Krusevo"
+        ]
+    },
+    {
+        "name": "Kumanovo Municipality",
+        "cities": [
+            "Bedinje",
+            "Kumanovo",
+            "Romanovci"
+        ]
+    },
+    {
+        "name": "Lipkovo Municipality",
+        "cities": [
+            "Izvor",
+            "Lipkovo",
+            "Lojane",
+            "Matejce",
+            "Otlja",
+            "Vaksince",
+            "Слупчане"
+        ]
+    },
+    {
+        "name": "Lozovo Municipality",
+        "cities": [
+            "Lozovo"
+        ]
+    },
+    {
+        "name": "Makedonska Kamenica Municipality",
+        "cities": [
+            "Makedonska Kamenica"
+        ]
+    },
+    {
+        "name": "Makedonski Brod Municipality",
+        "cities": [
+            "Makedonski Brod",
+            "Samokov"
+        ]
+    },
+    {
+        "name": "Mavrovo and Rostuša Municipality",
+        "cities": [
+            "Rostusa"
+        ]
+    },
+    {
+        "name": "Mogila Municipality",
+        "cities": [
+            "Beranci",
+            "Dobruševo",
+            "Dolno Srpci",
+            "Mogila"
+        ]
+    },
+    {
+        "name": "Negotino Municipality",
+        "cities": [
+            "Negotino"
+        ]
+    },
+    {
+        "name": "Novaci Municipality",
+        "cities": [
+            "Novaci"
+        ]
+    },
+    {
+        "name": "Novo Selo Municipality",
+        "cities": [
+            "Novo Selo",
+            "Sušica"
+        ]
+    },
+    {
+        "name": "Ohrid Municipality",
+        "cities": [
+            "Kosel",
+            "Ohrid",
+            "Ohrid Opština"
+        ]
+    },
+    {
+        "name": "Oslomej Municipality",
+        "cities": []
+    },
+    {
+        "name": "Pehčevo Municipality",
+        "cities": [
+            "Pehčevo"
+        ]
+    },
+    {
+        "name": "Petrovec Municipality",
+        "cities": [
+            "Sredno Konjare",
+            "Петровец"
+        ]
+    },
+    {
+        "name": "Plasnica Municipality",
+        "cities": [
+            "Lisičani",
+            "Plasnica"
+        ]
+    },
+    {
+        "name": "Prilep Municipality",
+        "cities": [
+            "Kanatlarci",
+            "Markov Grad",
+            "Prilep",
+            "Topolčani"
+        ]
+    },
+    {
+        "name": "Probištip Municipality",
+        "cities": [
+            "Probishtip",
+            "Zletovo"
+        ]
+    },
+    {
+        "name": "Radoviš Municipality",
+        "cities": [
+            "Oraovica",
+            "Podareš",
+            "Radovis"
+        ]
+    },
+    {
+        "name": "Rankovce Municipality",
+        "cities": [
+            "Ранковце"
+        ]
+    },
+    {
+        "name": "Resen Municipality",
+        "cities": [
+            "Grnčari",
+            "Jankovec",
+            "Krani",
+            "Resen"
+        ]
+    },
+    {
+        "name": "Rosoman Municipality",
+        "cities": [
+            "Rosoman"
+        ]
+    },
+    {
+        "name": "Saraj Municipality",
+        "cities": [
+            "Bukovik",
+            "Grčec",
+            "Kondovo",
+            "Krušopek"
+        ]
+    },
+    {
+        "name": "Sopište Municipality",
+        "cities": [
+            "Сопиште"
+        ]
+    },
+    {
+        "name": "Staro Nagoričane Municipality",
+        "cities": [
+            "Старо Нагоричане"
+        ]
+    },
+    {
+        "name": "Štip Municipality",
+        "cities": [
+            "Shtip"
+        ]
+    },
+    {
+        "name": "Struga Municipality",
+        "cities": [
+            "Delogožda",
+            "Labunista",
+            "Lukovo",
+            "Mislesevo",
+            "Oktisi",
+            "Radolista",
+            "Struga",
+            "Velesta"
+        ]
+    },
+    {
+        "name": "Strumica Municipality",
+        "cities": [
+            "Kuklis",
+            "Murtino",
+            "Strumica",
+            "Veljusa"
+        ]
+    },
+    {
+        "name": "Studeničani Municipality",
+        "cities": [
+            "Batinci",
+            "Dolno Količani",
+            "Morani",
+            "Studeničane"
+        ]
+    },
+    {
+        "name": "Šuto Orizari Municipality",
+        "cities": [
+            "Šuto Orizare"
+        ]
+    },
+    {
+        "name": "Sveti Nikole Municipality",
+        "cities": [
+            "Gorobinci",
+            "Sveti Nikole"
+        ]
+    },
+    {
+        "name": "Tearce Municipality",
+        "cities": [
+            "Nerašte",
+            "Orashac",
+            "Pršovce",
+            "Slatino",
+            "Tearce"
+        ]
+    },
+    {
+        "name": "Tetovo Municipality",
+        "cities": [
+            "Dobrošte",
+            "Džepčište",
+            "Golema Rečica",
+            "Pirok",
+            "Poroj",
+            "Selce",
+            "Šipkovica",
+            "Tetovo"
+        ]
+    },
+    {
+        "name": "Valandovo Municipality",
+        "cities": [
+            "Pirava",
+            "Valandovo"
+        ]
+    },
+    {
+        "name": "Vasilevo Municipality",
+        "cities": [
+            "Vasilevo"
+        ]
+    },
+    {
+        "name": "Veles Municipality",
+        "cities": [
+            "Gorno Orizari",
+            "Ivankovci",
+            "Veles"
+        ]
+    },
+    {
+        "name": "Vevčani Municipality",
+        "cities": [
+            "Vevčani"
+        ]
+    },
+    {
+        "name": "Vinica Municipality",
+        "cities": [
+            "Blatec",
+            "Gradec",
+            "Vinica"
+        ]
+    },
+    {
+        "name": "Vraneštica Municipality",
+        "cities": []
+    },
+    {
+        "name": "Vrapčište Municipality",
+        "cities": [
+            "Dobri Dol",
+            "Negotino",
+            "Vrapčište"
+        ]
+    },
+    {
+        "name": "Zajas Municipality",
+        "cities": []
+    },
+    {
+        "name": "Zelenikovo Municipality",
+        "cities": [
+            "Zelenikovo"
+        ]
+    },
+    {
+        "name": "Želino Municipality",
+        "cities": [
+            "Dobarce",
+            "Larce",
+            "Sedlarevo",
+            "Strimnica",
+            "Zelino"
+        ]
+    },
+    {
+        "name": "Zrnovci Municipality",
+        "cities": [
+            "Zrnovci"
+        ]
+    }
+]

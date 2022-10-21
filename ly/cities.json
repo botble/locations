@@ -1,0 +1,158 @@
+[
+    {
+        "name": "Al Wahat District",
+        "cities": [
+            "Ajdabiya",
+            "Al Burayqah",
+            "Awjilah",
+            "Az Zuwaytīnah",
+            "Gialo",
+            "Marādah"
+        ]
+    },
+    {
+        "name": "Benghazi",
+        "cities": [
+            "Benghazi",
+            "Qaryat Sulūq"
+        ]
+    },
+    {
+        "name": "Derna District",
+        "cities": [
+            "Al Qubbah",
+            "Darnah"
+        ]
+    },
+    {
+        "name": "Ghat District",
+        "cities": [
+            "Ghat"
+        ]
+    },
+    {
+        "name": "Jabal al Akhdar",
+        "cities": [
+            "Al Bayḑā’"
+        ]
+    },
+    {
+        "name": "Jabal al Gharbi District",
+        "cities": [
+            "Gharyan",
+            "Giado",
+            "Mizdah",
+            "Yafran",
+            "Zintan"
+        ]
+    },
+    {
+        "name": "Jafara",
+        "cities": [
+            "Al ‘Azīzīyah"
+        ]
+    },
+    {
+        "name": "Jufra",
+        "cities": [
+            "Hūn",
+            "Waddān"
+        ]
+    },
+    {
+        "name": "Kufra District",
+        "cities": [
+            "Al Jawf",
+            "At Tāj"
+        ]
+    },
+    {
+        "name": "Marj District",
+        "cities": [
+            "Al Abyār",
+            "Al Marj",
+            "Tūkrah"
+        ]
+    },
+    {
+        "name": "Misrata District",
+        "cities": [
+            "Bani Walid",
+            "Mişrātah",
+            "Zliten"
+        ]
+    },
+    {
+        "name": "Murqub",
+        "cities": [
+            "Al Khums",
+            "Masallātah",
+            "Tarhuna"
+        ]
+    },
+    {
+        "name": "Murzuq District",
+        "cities": [
+            "Al Qaţrūn",
+            "Murzuq"
+        ]
+    },
+    {
+        "name": "Nalut District",
+        "cities": [
+            "Ghadāmis",
+            "Nālūt"
+        ]
+    },
+    {
+        "name": "Nuqat al Khams",
+        "cities": [
+            "Al Ajaylat",
+            "Zalţan",
+            "Zuwārah"
+        ]
+    },
+    {
+        "name": "Sabha District",
+        "cities": [
+            "Al Jadīd",
+            "Sabhā"
+        ]
+    },
+    {
+        "name": "Sirte District",
+        "cities": [
+            "Qasr Abu Hadi",
+            "Sirte"
+        ]
+    },
+    {
+        "name": "Tripoli District",
+        "cities": [
+            "Tagiura",
+            "Tripoli"
+        ]
+    },
+    {
+        "name": "Wadi al Hayaa District",
+        "cities": [
+            "Ubari"
+        ]
+    },
+    {
+        "name": "Wadi al Shatii District",
+        "cities": [
+            "Brak",
+            "Idrī"
+        ]
+    },
+    {
+        "name": "Zawiya District",
+        "cities": [
+            "Az Zāwīyah",
+            "Şabrātah",
+            "Şurmān",
+            "Zawiya"
+        ]
+    }
+]

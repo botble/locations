@@ -1,0 +1,214 @@
+[
+    {
+        "name": "Al-Hasakah",
+        "cities": [
+            "Ad Darbāsīyah",
+            "Al Ḩasakah",
+            "Al Mālikīyah",
+            "Al Qāmishlī",
+            "Al-Malikiyah District",
+            "Amude"
+        ]
+    },
+    {
+        "name": "Al-Raqqah",
+        "cities": [
+            "Al-Thawrah District",
+            "Ar Raqqah",
+            "Ar-Raqqah District",
+            "Ath Thawrah",
+            "Tall Abyaḑ",
+            "Tell Abyad District"
+        ]
+    },
+    {
+        "name": "Aleppo",
+        "cities": [
+            "‘Afrīn",
+            "‘Ayn al ‘Arab",
+            "Afrin District",
+            "Al Atārib",
+            "Al Bāb",
+            "Al-Bab District",
+            "Aleppo",
+            "As Safīrah",
+            "Azaz District",
+            "Dayr Ḩāfir",
+            "I‘zāz",
+            "Jarābulus",
+            "Kafr Şaghīr",
+            "Khanāşir",
+            "Manbij",
+            "Manbij District",
+            "Mount Simeon District",
+            "Nubl",
+            "Şūrān",
+            "Tādif",
+            "Tall Rif‘at"
+        ]
+    },
+    {
+        "name": "As-Suwayda",
+        "cities": [
+            "As-Suwayda",
+            "As-Suwayda District",
+            "Şalākhid",
+            "Şalkhad",
+            "Salkhad District",
+            "Shahbā",
+            "Shahba District"
+        ]
+    },
+    {
+        "name": "Damascus",
+        "cities": [
+            "Damascus"
+        ]
+    },
+    {
+        "name": "Daraa",
+        "cities": [
+            "Al Ḩarāk",
+            "Al Muzayrīb",
+            "Al-Sanamayn District",
+            "Aş Şanamayn",
+            "Ash Shaykh Miskīn",
+            "Buşrá ash Shām",
+            "Dar‘ā",
+            "Ghabāghib",
+            "Inkhil",
+            "Izra District",
+            "Izra‘",
+            "Jāsim",
+            "Nawá",
+            "Ţafas",
+            "Tasīl"
+        ]
+    },
+    {
+        "name": "Deir ez-Zor",
+        "cities": [
+            "Al Mayādīn",
+            "Ālbū Kamāl",
+            "Deir ez-Zor",
+            "Hajīn",
+            "Subaykhān"
+        ]
+    },
+    {
+        "name": "Hama",
+        "cities": [
+            "Al-Salamiyah District",
+            "As Salamīyah",
+            "As Suqaylibīyah",
+            "Ḩalfāyā",
+            "Hama District",
+            "Ḩamāh",
+            "Kafr Zaytā",
+            "Maşyāf",
+            "Masyaf District",
+            "Mūrak",
+            "Souran",
+            "Tall Salḩab",
+            "Ţayyibat al Imām",
+            "Tremseh"
+        ]
+    },
+    {
+        "name": "Homs",
+        "cities": [
+            "Al Ghanţū",
+            "Al Qaryatayn",
+            "Al Quşayr",
+            "Al-Rastan District",
+            "Ar Rastan",
+            "Hisya",
+            "Homs",
+            "Kafr Lāhā",
+            "Mukharram al Fawqānī",
+            "Şadad",
+            "Tadmur",
+            "Tadmur District",
+            "Tallbīsah",
+            "Tallkalakh"
+        ]
+    },
+    {
+        "name": "Idlib",
+        "cities": [
+            "Ad Dānā",
+            "Arīḩā",
+            "Armanāz",
+            "Binnish",
+            "Darkūsh",
+            "Harem District",
+            "Ḩārim",
+            "Idlib",
+            "Jisr al-Shughur District",
+            "Jisr ash Shughūr",
+            "Kafr Takhārīm",
+            "Kafranbel",
+            "Khān Shaykhūn",
+            "Ma‘arratmişrīn",
+            "Maarrat al-Nu'man District",
+            "Salqīn",
+            "Sarāqib",
+            "Sarmīn",
+            "Taftanāz"
+        ]
+    },
+    {
+        "name": "Latakia",
+        "cities": [
+            "Al-Haffah District",
+            "Jablah",
+            "Jableh District",
+            "Kassab",
+            "Latakia",
+            "Latakia District",
+            "Qardaha District",
+            "Şlinfah"
+        ]
+    },
+    {
+        "name": "Quneitra",
+        "cities": [
+            "Al Qunayţirah"
+        ]
+    },
+    {
+        "name": "Rif Dimashq",
+        "cities": [
+            "‘Irbīn",
+            "Al Kiswah",
+            "Al Quţayfah",
+            "Al-Zabadani District",
+            "An Nabk",
+            "At Tall",
+            "Az Zabadānī",
+            "Dārayyā",
+            "Dayr al ‘Aşāfīr",
+            "Douma",
+            "Ḩarastā",
+            "Jaramānā",
+            "Jayrūd",
+            "Ma‘lūlā",
+            "Medaya",
+            "Qārah",
+            "Qaţanā",
+            "Şaydnāyā",
+            "Yabrūd"
+        ]
+    },
+    {
+        "name": "Tartus",
+        "cities": [
+            "Ad Duraykīsh",
+            "Bāniyās",
+            "Kaff al-Jaa",
+            "Safita District",
+            "Satita",
+            "Tartouss"
+        ]
+    }
+]

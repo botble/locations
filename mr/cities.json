@@ -1,0 +1,115 @@
+[
+    {
+        "name": "Adrar",
+        "cities": [
+            "Atar",
+            "Azougui",
+            "Chingueṭṭi",
+            "Ksar el Khali"
+        ]
+    },
+    {
+        "name": "Assaba",
+        "cities": [
+            "Barkéwol",
+            "Kiffa"
+        ]
+    },
+    {
+        "name": "Brakna",
+        "cities": [
+            "’Elb el Jmel",
+            "Aleg",
+            "Bofal",
+            "Sori Malé"
+        ]
+    },
+    {
+        "name": "Dakhlet Nouadhibou",
+        "cities": [
+            "Cansado",
+            "Iouik",
+            "Nouadhibou"
+        ]
+    },
+    {
+        "name": "Gorgol",
+        "cities": [
+            "Kaédi"
+        ]
+    },
+    {
+        "name": "Guidimaka",
+        "cities": [
+            "Sélibaby"
+        ]
+    },
+    {
+        "name": "Hodh Ech Chargui",
+        "cities": [
+            "Diade",
+            "Kataouane",
+            "Néma",
+            "Timbedra"
+        ]
+    },
+    {
+        "name": "Hodh El Gharbi",
+        "cities": [
+            "Aioun",
+            "Ayoun el Atrous",
+            "Togba"
+        ]
+    },
+    {
+        "name": "Inchiri",
+        "cities": [
+            "Akjoujt"
+        ]
+    },
+    {
+        "name": "Nouakchott-Nord",
+        "cities": [
+            "Dar-Naim",
+            "Teyarett",
+            "Toujouonine"
+        ]
+    },
+    {
+        "name": "Nouakchott-Ouest",
+        "cities": [
+            "Ksar",
+            "Sebkha",
+            "Tevragh-Zeina"
+        ]
+    },
+    {
+        "name": "Nouakchott-Sud",
+        "cities": [
+            "Arafat",
+            "Riyad"
+        ]
+    },
+    {
+        "name": "Tagant",
+        "cities": []
+    },
+    {
+        "name": "Tiris Zemmour",
+        "cities": [
+            "Ain Ben Tili",
+            "Chegga",
+            "Fderîck",
+            "Zouérat",
+            "Zouerate"
+        ]
+    },
+    {
+        "name": "Trarza",
+        "cities": [
+            "Legat",
+            "Rosso",
+            "Tékane"
+        ]
+    }
+]

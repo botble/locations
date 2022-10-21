@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Aiwo District",
+        "cities": [
+            "Arijejen"
+        ]
+    },
+    {
+        "name": "Anabar District",
+        "cities": [
+            "Anabar"
+        ]
+    },
+    {
+        "name": "Anetan District",
+        "cities": []
+    },
+    {
+        "name": "Anibare District",
+        "cities": []
+    },
+    {
+        "name": "Baiti District",
+        "cities": [
+            "Baiti"
+        ]
+    },
+    {
+        "name": "Boe District",
+        "cities": []
+    },
+    {
+        "name": "Buada District",
+        "cities": []
+    },
+    {
+        "name": "Denigomodu District",
+        "cities": []
+    },
+    {
+        "name": "Ewa District",
+        "cities": []
+    },
+    {
+        "name": "Ijuw District",
+        "cities": [
+            "Ijuw"
+        ]
+    },
+    {
+        "name": "Meneng District",
+        "cities": [
+            "Menen"
+        ]
+    },
+    {
+        "name": "Nibok District",
+        "cities": []
+    },
+    {
+        "name": "Uaboe District",
+        "cities": [
+            "Uaboe"
+        ]
+    },
+    {
+        "name": "Yaren District",
+        "cities": [
+            "Yaren"
+        ]
+    }
+]

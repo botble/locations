@@ -1,0 +1,172 @@
+[
+    {
+        "name": "Ahuachapán Department",
+        "cities": [
+            "Ahuachapán",
+            "Atiquizaya",
+            "Concepción de Ataco",
+            "Guaymango",
+            "Jujutla",
+            "San Francisco Menéndez",
+            "Tacuba"
+        ]
+    },
+    {
+        "name": "Cabañas Department",
+        "cities": [
+            "Sensuntepeque",
+            "Victoria"
+        ]
+    },
+    {
+        "name": "Chalatenango Department",
+        "cities": [
+            "Chalatenango",
+            "Nueva Concepción"
+        ]
+    },
+    {
+        "name": "Cuscatlán Department",
+        "cities": [
+            "Cojutepeque",
+            "San Martín",
+            "Suchitoto",
+            "Tecoluca",
+            "Tenancingo"
+        ]
+    },
+    {
+        "name": "La Libertad Department",
+        "cities": [
+            "Antiguo Cuscatlán",
+            "Ciudad Arce",
+            "La Libertad",
+            "Nuevo Cuscatlán",
+            "Quezaltepeque",
+            "San Juan Opico",
+            "San Pablo Tacachico",
+            "Santa Tecla",
+            "Zaragoza"
+        ]
+    },
+    {
+        "name": "La Paz Department",
+        "cities": [
+            "El Rosario",
+            "Olocuilta",
+            "San Pedro Masahuat",
+            "Santiago Nonualco",
+            "Zacatecoluca"
+        ]
+    },
+    {
+        "name": "La Unión Department",
+        "cities": [
+            "Anamorós",
+            "Conchagua",
+            "Intipucá",
+            "La Unión",
+            "Nueva Esparta",
+            "Pasaquina",
+            "San Alejo",
+            "Santa Rosa de Lima"
+        ]
+    },
+    {
+        "name": "Morazán Department",
+        "cities": [
+            "Cacaopera",
+            "Corinto",
+            "Guatajiagua",
+            "Jocoro",
+            "San Francisco",
+            "Sociedad"
+        ]
+    },
+    {
+        "name": "San Miguel Department",
+        "cities": [
+            "Chapeltique",
+            "Chinameca",
+            "Chirilagua",
+            "Ciudad Barrios",
+            "El Tránsito",
+            "Lolotique",
+            "Moncagua",
+            "Nueva Guadalupe",
+            "San Miguel",
+            "San Rafael Oriente",
+            "Sesori"
+        ]
+    },
+    {
+        "name": "San Salvador Department",
+        "cities": [
+            "Aguilares",
+            "Apopa",
+            "Ayutuxtepeque",
+            "Cuscatancingo",
+            "Delgado",
+            "El Paisnal",
+            "Guazapa",
+            "Ilopango",
+            "Mejicanos",
+            "Panchimalco",
+            "Rosario de Mora",
+            "San Marcos",
+            "San Salvador",
+            "Santo Tomás",
+            "Soyapango",
+            "Tonacatepeque"
+        ]
+    },
+    {
+        "name": "San Vicente Department",
+        "cities": [
+            "Apastepeque",
+            "San Sebastián",
+            "San Vicente"
+        ]
+    },
+    {
+        "name": "Santa Ana Department",
+        "cities": [
+            "Candelaria de La Frontera",
+            "Chalchuapa",
+            "Coatepeque",
+            "El Congo",
+            "Metapán",
+            "Santa Ana",
+            "Texistepeque"
+        ]
+    },
+    {
+        "name": "Sonsonate Department",
+        "cities": [
+            "Acajutla",
+            "Armenia",
+            "Izalco",
+            "Juayúa",
+            "Nahuizalco",
+            "San Antonio del Monte",
+            "Sonsonate",
+            "Sonzacate"
+        ]
+    },
+    {
+        "name": "Usulután Department",
+        "cities": [
+            "Berlín",
+            "Concepción Batres",
+            "Jiquilisco",
+            "Jucuapa",
+            "Jucuarán",
+            "Ozatlán",
+            "Puerto El Triunfo",
+            "San Agustín",
+            "Santa Elena",
+            "Santiago de María",
+            "Usulután"
+        ]
+    }
+]

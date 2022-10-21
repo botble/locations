@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Alibori Department",
+        "cities": [
+            "Banikoara",
+            "Kandi",
+            "Malanville"
+        ]
+    },
+    {
+        "name": "Atakora Department",
+        "cities": [
+            "Guilmaro",
+            "Natitingou",
+            "Tanguieta"
+        ]
+    },
+    {
+        "name": "Atlantique Department",
+        "cities": [
+            "Abomey-Calavi",
+            "Allada",
+            "Hévié",
+            "Hinvi",
+            "Ouidah"
+        ]
+    },
+    {
+        "name": "Borgou Department",
+        "cities": [
+            "Bembèrèkè",
+            "Bétérou",
+            "Nikki",
+            "Parakou",
+            "Tchaourou"
+        ]
+    },
+    {
+        "name": "Collines Department",
+        "cities": [
+            "Comé",
+            "Dassa-Zoumé",
+            "Savalou",
+            "Savé"
+        ]
+    },
+    {
+        "name": "Donga Department",
+        "cities": [
+            "Bassila",
+            "Commune of Djougou",
+            "Djougou"
+        ]
+    },
+    {
+        "name": "Kouffo Department",
+        "cities": [
+            "Djakotomey",
+            "Dogbo"
+        ]
+    },
+    {
+        "name": "Littoral Department",
+        "cities": [
+            "Cotonou"
+        ]
+    },
+    {
+        "name": "Mono Department",
+        "cities": [
+            "Commune of Athieme",
+            "Lokossa"
+        ]
+    },
+    {
+        "name": "Ouémé Department",
+        "cities": [
+            "Porto-Novo"
+        ]
+    },
+    {
+        "name": "Plateau Department",
+        "cities": [
+            "Kétou",
+            "Pobé",
+            "Sakété"
+        ]
+    },
+    {
+        "name": "Zou Department",
+        "cities": [
+            "Abomey",
+            "Bohicon",
+            "Commune of Agbangnizoun",
+            "Cové"
+        ]
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "name": "Chagang Province",
+        "cities": [
+            "Changgang-gun",
+            "Chasŏng",
+            "Kanggye",
+            "Manp’o"
+        ]
+    },
+    {
+        "name": "Kangwon Province",
+        "cities": [
+            "Anbyŏn-ŭp",
+            "Hoeyang",
+            "Kosan",
+            "T’ongch’ŏn-ŭp",
+            "Wŏnsan"
+        ]
+    },
+    {
+        "name": "North Hamgyong Province",
+        "cities": [
+            "Aoji",
+            "Chongjin",
+            "Hau-ri",
+            "Hoemul-li",
+            "Hoeryŏng",
+            "Kilju",
+            "Kimch’aek-si",
+            "Komusan Il-tong",
+            "Kyŏngsŏng",
+            "Kyŏngwŏn",
+            "Musan-ŭp",
+            "Namyang-dong",
+            "Nanam",
+            "Onsŏng",
+            "Puryŏng",
+            "Sŭngam-nodongjagu"
+        ]
+    },
+    {
+        "name": "North Hwanghae Province",
+        "cities": [
+            "Anak",
+            "Hŭkkyo-ri",
+            "Hwangju-ŭp",
+            "Koksan",
+            "Sariwŏn",
+            "Sinmak",
+            "Songnim"
+        ]
+    },
+    {
+        "name": "North Pyongan Province",
+        "cities": [
+            "Chŏngju",
+            "Chŏngju-gun",
+            "Kujang-ŭp",
+            "Kusŏng",
+            "Kwaksan",
+            "Panghyŏn-dong",
+            "Pukchil-lodongjagu",
+            "Sakchu-ŭp",
+            "Sinŭiju",
+            "Ŭiju",
+            "Yŏmju-ŭp",
+            "Yŏngbyŏn"
+        ]
+    },
+    {
+        "name": "Pyongyang",
+        "cities": [
+            "Chunghwa",
+            "Kangdong-ŭp",
+            "Pyongyang",
+            "Sunan",
+            "Sŭngho 1-tong"
+        ]
+    },
+    {
+        "name": "Rason",
+        "cities": [
+            "Sŏnbong",
+            "Ungsang-nodongjagu"
+        ]
+    },
+    {
+        "name": "Ryanggang Province",
+        "cities": [
+            "Hyesan",
+            "Hyesan-dong",
+            "Kapsan-ŭp",
+            "Sŭngjibaegam"
+        ]
+    },
+    {
+        "name": "South Hamgyong Province",
+        "cities": [
+            "Hamhŭng",
+            "Hongwŏn",
+            "Hŭngnam",
+            "Iwŏn-ŭp",
+            "Kowŏn-ŭp",
+            "Samho-rodongjagu",
+            "Sinsang-ni",
+            "Yŏnggwang-ŭp",
+            "Yuktae-dong"
+        ]
+    },
+    {
+        "name": "South Hwanghae Province",
+        "cities": [
+            "Ayang-ni",
+            "Chaeryŏng-ŭp",
+            "Changyŏn",
+            "Haeju",
+            "Kaesŏng",
+            "Ongjin",
+            "Pyŏksŏng-ŭp",
+            "Yŏnan-ŭp"
+        ]
+    },
+    {
+        "name": "South Pyongan Province",
+        "cities": [
+            "Anju",
+            "Namp’o",
+            "P’yŏngsŏng",
+            "Sangsŏng-ni",
+            "Sil-li",
+            "Sinanju",
+            "Sunch’ŏn",
+            "Yonggang-ŭp"
+        ]
+    }
+]

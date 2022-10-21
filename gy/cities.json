@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Barima-Waini",
+        "cities": [
+            "Mabaruma"
+        ]
+    },
+    {
+        "name": "Cuyuni-Mazaruni",
+        "cities": [
+            "Bartica"
+        ]
+    },
+    {
+        "name": "Demerara-Mahaica",
+        "cities": [
+            "Georgetown",
+            "Mahaica Village"
+        ]
+    },
+    {
+        "name": "East Berbice-Corentyne",
+        "cities": [
+            "New Amsterdam",
+            "Skeldon"
+        ]
+    },
+    {
+        "name": "Essequibo Islands-West Demerara",
+        "cities": [
+            "Parika",
+            "Vreed-en-Hoop"
+        ]
+    },
+    {
+        "name": "Mahaica-Berbice",
+        "cities": [
+            "Mahaicony Village",
+            "Rosignol"
+        ]
+    },
+    {
+        "name": "Pomeroon-Supenaam",
+        "cities": [
+            "Anna Regina"
+        ]
+    },
+    {
+        "name": "Potaro-Siparuni",
+        "cities": [
+            "Mahdia"
+        ]
+    },
+    {
+        "name": "Upper Demerara-Berbice",
+        "cities": [
+            "Linden"
+        ]
+    },
+    {
+        "name": "Upper Takutu-Upper Essequibo",
+        "cities": [
+            "Lethem"
+        ]
+    }
+]

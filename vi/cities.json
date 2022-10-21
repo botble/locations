@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Saint Croix",
+        "cities": [
+            "Christiansted",
+            "East End",
+            "Frederiksted",
+            "Good Hope",
+            "Northcentral",
+            "Northwest",
+            "Sion Farm",
+            "Southcentral",
+            "Southwest"
+        ]
+    },
+    {
+        "name": "Saint John",
+        "cities": [
+            "Central",
+            "Coral Bay",
+            "Cruz Bay",
+            "East End"
+        ]
+    },
+    {
+        "name": "Saint Thomas",
+        "cities": [
+            "Charlotte Amalie",
+            "East End",
+            "Northside",
+            "Southside",
+            "Tutu",
+            "Water Island",
+            "West End"
+        ]
+    }
+]

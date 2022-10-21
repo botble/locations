@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Príncipe Province",
+        "cities": [
+            "Santo António"
+        ]
+    },
+    {
+        "name": "São Tomé Province",
+        "cities": [
+            "Cantagalo District",
+            "Caué District",
+            "São Tomé",
+            "Trindade"
+        ]
+    }
+]

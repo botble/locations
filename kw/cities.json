@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Al Ahmadi",
+        "cities": [
+            "Al Aḩmadī",
+            "Al Faḩāḩīl",
+            "Al Finţās",
+            "Al Mahbūlah",
+            "Al Manqaf",
+            "Al Wafrah",
+            "Ar Riqqah"
+        ]
+    },
+    {
+        "name": "Al Farwaniyah",
+        "cities": [
+            "Al Farwānīyah",
+            "Janūb as Surrah"
+        ]
+    },
+    {
+        "name": "Al Jahra",
+        "cities": [
+            "Al Jahrā’"
+        ]
+    },
+    {
+        "name": "Capital",
+        "cities": [
+            "Ad Dasmah",
+            "Ar Rābiyah",
+            "Ash Shāmīyah",
+            "Az Zawr",
+            "Kuwait City"
+        ]
+    },
+    {
+        "name": "Hawalli",
+        "cities": [
+            "Ar Rumaythīyah",
+            "As Sālimīyah",
+            "Bayān",
+            "Ḩawallī",
+            "Salwá"
+        ]
+    },
+    {
+        "name": "Mubarak Al-Kabeer",
+        "cities": [
+            "Abu Al Hasaniya",
+            "Abu Fatira",
+            "Al Funayţīs",
+            "Al-Masayel",
+            "Şabāḩ as Sālim"
+        ]
+    }
+]

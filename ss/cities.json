@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Central Equatoria",
+        "cities": []
+    },
+    {
+        "name": "Eastern Equatoria",
+        "cities": []
+    },
+    {
+        "name": "Jonglei State",
+        "cities": []
+    },
+    {
+        "name": "Lakes",
+        "cities": [
+            "Yirol"
+        ]
+    },
+    {
+        "name": "Northern Bahr el Ghazal",
+        "cities": []
+    },
+    {
+        "name": "Unity",
+        "cities": []
+    },
+    {
+        "name": "Upper Nile",
+        "cities": []
+    },
+    {
+        "name": "Warrap",
+        "cities": []
+    },
+    {
+        "name": "Western Bahr el Ghazal",
+        "cities": []
+    },
+    {
+        "name": "Western Equatoria",
+        "cities": []
+    }
+]

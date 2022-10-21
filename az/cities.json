@@ -1,0 +1,547 @@
+[
+    {
+        "name": "Absheron District",
+        "cities": [
+            "Ceyranbatan",
+            "Digah",
+            "Gyuzdek",
+            "Khirdalan",
+            "Qobu",
+            "Saray"
+        ]
+    },
+    {
+        "name": "Agdam District",
+        "cities": [
+            "Ağdam"
+        ]
+    },
+    {
+        "name": "Agdash District",
+        "cities": [
+            "Ağdaş"
+        ]
+    },
+    {
+        "name": "Aghjabadi District",
+        "cities": [
+            "Agdzhabedy",
+            "Avşar"
+        ]
+    },
+    {
+        "name": "Agstafa District",
+        "cities": [
+            "Aghstafa",
+            "Saloğlu",
+            "Vurğun"
+        ]
+    },
+    {
+        "name": "Agsu District",
+        "cities": [
+            "Aghsu"
+        ]
+    },
+    {
+        "name": "Astara District",
+        "cities": [
+            "Astara",
+            "Kizhaba"
+        ]
+    },
+    {
+        "name": "Babek District",
+        "cities": []
+    },
+    {
+        "name": "Baku",
+        "cities": [
+            "Amirdzhan",
+            "Badamdar",
+            "Bakıxanov",
+            "Baku",
+            "Balakhani",
+            "Bilajari",
+            "Bilajer",
+            "Binagadi",
+            "Biny Selo",
+            "Buzovna",
+            "Hövsan",
+            "Khodzhi-Gasan",
+            "Korgöz",
+            "Lökbatan",
+            "Mardakan",
+            "Maştağa",
+            "Nardaran",
+            "Nizami Rayonu",
+            "Pirallahı",
+            "Puta",
+            "Qala",
+            "Qaraçuxur",
+            "Qobustan",
+            "Ramana",
+            "Sabunçu",
+            "Sanqaçal",
+            "Türkan",
+            "Yeni Suraxanı",
+            "Zabrat",
+            "Zyrya"
+        ]
+    },
+    {
+        "name": "Balakan District",
+        "cities": [
+            "Belokany",
+            "Qabaqçöl"
+        ]
+    },
+    {
+        "name": "Barda District",
+        "cities": [
+            "Barda",
+            "Samuxlu"
+        ]
+    },
+    {
+        "name": "Beylagan District",
+        "cities": [
+            "Beylagan",
+            "Birinci Aşıqlı",
+            "Dünyamalılar",
+            "Orjonikidze",
+            "Yuxarı Aran"
+        ]
+    },
+    {
+        "name": "Bilasuvar District",
+        "cities": [
+            "Pushkino"
+        ]
+    },
+    {
+        "name": "Dashkasan District",
+        "cities": [
+            "Verkhniy Dashkesan",
+            "Yukhary-Dashkesan"
+        ]
+    },
+    {
+        "name": "Fizuli District",
+        "cities": [
+            "Fizuli",
+            "Horadiz"
+        ]
+    },
+    {
+        "name": "Ganja",
+        "cities": [
+            "Ganja"
+        ]
+    },
+    {
+        "name": "Gədəbəy",
+        "cities": [
+            "Arıqdam",
+            "Arıqıran",
+            "Böyük Qaramurad",
+            "Kyadabek",
+            "Novosaratovka"
+        ]
+    },
+    {
+        "name": "Gobustan District",
+        "cities": [
+            "Qobustan"
+        ]
+    },
+    {
+        "name": "Goranboy District",
+        "cities": [
+            "Goranboy",
+            "Qızılhacılı"
+        ]
+    },
+    {
+        "name": "Goychay",
+        "cities": [
+            "Geoktschai"
+        ]
+    },
+    {
+        "name": "Goygol District",
+        "cities": [
+            "Yelenendorf"
+        ]
+    },
+    {
+        "name": "Hajigabul District",
+        "cities": [
+            "Hacıqabul",
+            "Mughan"
+        ]
+    },
+    {
+        "name": "Imishli District",
+        "cities": [
+            "Imishli"
+        ]
+    },
+    {
+        "name": "Ismailli District",
+        "cities": [
+            "Basqal",
+            "İsmayıllı"
+        ]
+    },
+    {
+        "name": "Jabrayil District",
+        "cities": [
+            "Jebrail"
+        ]
+    },
+    {
+        "name": "Jalilabad District",
+        "cities": [
+            "Jalilabad",
+            "Prishibinskoye"
+        ]
+    },
+    {
+        "name": "Julfa District",
+        "cities": []
+    },
+    {
+        "name": "Kalbajar District",
+        "cities": [
+            "Kerbakhiar",
+            "Vank"
+        ]
+    },
+    {
+        "name": "Kangarli District",
+        "cities": []
+    },
+    {
+        "name": "Khachmaz District",
+        "cities": [
+            "Xaçmaz",
+            "Xudat"
+        ]
+    },
+    {
+        "name": "Khizi District",
+        "cities": [
+            "Altıağac",
+            "Khyzy",
+            "Kilyazi",
+            "Şuraabad"
+        ]
+    },
+    {
+        "name": "Khojali District",
+        "cities": [
+            "Askyaran",
+            "Xocalı"
+        ]
+    },
+    {
+        "name": "Kurdamir District",
+        "cities": [
+            "Kyurdarmir"
+        ]
+    },
+    {
+        "name": "Lachin District",
+        "cities": [
+            "Laçın"
+        ]
+    },
+    {
+        "name": "Lankaran",
+        "cities": []
+    },
+    {
+        "name": "Lankaran District",
+        "cities": [
+            "Haftoni",
+            "Lankaran"
+        ]
+    },
+    {
+        "name": "Lerik District",
+        "cities": [
+            "Lerik"
+        ]
+    },
+    {
+        "name": "Martuni",
+        "cities": [
+            "Hadrut",
+            "Novyy Karanlug",
+            "Qırmızı Bazar"
+        ]
+    },
+    {
+        "name": "Masally District",
+        "cities": [
+            "Boradigah",
+            "Masally"
+        ]
+    },
+    {
+        "name": "Mingachevir",
+        "cities": [
+            "Mingelchaur"
+        ]
+    },
+    {
+        "name": "Nakhchivan Autonomous Republic",
+        "cities": [
+            "Cahri",
+            "Çalxanqala",
+            "Culfa",
+            "Deste",
+            "Heydarabad",
+            "Julfa Rayon",
+            "Nakhchivan",
+            "Oğlanqala",
+            "Ordubad",
+            "Ordubad Rayon",
+            "Qıvraq",
+            "Şahbuz",
+            "Sedarak",
+            "Shahbuz Rayon",
+            "Sharur City",
+            "Sumbatan-diza",
+            "Tazakend",
+            "Yaycı"
+        ]
+    },
+    {
+        "name": "Neftchala District",
+        "cities": [
+            "Neftçala",
+            "Severo-Vostotchnyi Bank",
+            "Sovetabad",
+            "Xıllı"
+        ]
+    },
+    {
+        "name": "Oghuz District",
+        "cities": [
+            "Oğuz"
+        ]
+    },
+    {
+        "name": "Ordubad District",
+        "cities": []
+    },
+    {
+        "name": "Qabala District",
+        "cities": [
+            "Qutqashen"
+        ]
+    },
+    {
+        "name": "Qakh District",
+        "cities": [
+            "Çinarlı",
+            "Qax",
+            "Qax İngiloy",
+            "Qaxbaş"
+        ]
+    },
+    {
+        "name": "Qazakh District",
+        "cities": [
+            "Qazax"
+        ]
+    },
+    {
+        "name": "Quba District",
+        "cities": [
+            "Hacıhüseynli",
+            "Quba"
+        ]
+    },
+    {
+        "name": "Qubadli District",
+        "cities": [
+            "Qubadlı"
+        ]
+    },
+    {
+        "name": "Qusar District",
+        "cities": [
+            "Qusar",
+            "Samur"
+        ]
+    },
+    {
+        "name": "Saatly District",
+        "cities": [
+            "Əhmədbəyli",
+            "Saatlı"
+        ]
+    },
+    {
+        "name": "Sabirabad District",
+        "cities": [
+            "Sabirabad"
+        ]
+    },
+    {
+        "name": "Sadarak District",
+        "cities": []
+    },
+    {
+        "name": "Salyan District",
+        "cities": [
+            "Qaraçala",
+            "Salyan"
+        ]
+    },
+    {
+        "name": "Samukh District",
+        "cities": [
+            "Qarayeri",
+            "Qırmızı Samux",
+            "Samux"
+        ]
+    },
+    {
+        "name": "Shabran District",
+        "cities": [
+            "Divichibazar"
+        ]
+    },
+    {
+        "name": "Shahbuz District",
+        "cities": []
+    },
+    {
+        "name": "Shaki",
+        "cities": [
+            "Sheki"
+        ]
+    },
+    {
+        "name": "Shaki District",
+        "cities": [
+            "Baş Göynük"
+        ]
+    },
+    {
+        "name": "Shamakhi District",
+        "cities": [
+            "Shamakhi"
+        ]
+    },
+    {
+        "name": "Shamkir District",
+        "cities": [
+            "Dolyar",
+            "Dzagam",
+            "Qasım İsmayılov",
+            "Shamkhor"
+        ]
+    },
+    {
+        "name": "Sharur District",
+        "cities": []
+    },
+    {
+        "name": "Shirvan",
+        "cities": [
+            "Şirvan"
+        ]
+    },
+    {
+        "name": "Shusha District",
+        "cities": [
+            "Shushi"
+        ]
+    },
+    {
+        "name": "Siazan District",
+        "cities": [
+            "Gilgilçay",
+            "Kyzyl-Burun"
+        ]
+    },
+    {
+        "name": "Sumqayit",
+        "cities": [
+            "Corat",
+            "Hacı Zeynalabdin",
+            "Sumqayıt"
+        ]
+    },
+    {
+        "name": "Tartar District",
+        "cities": [
+            "Martakert",
+            "Terter"
+        ]
+    },
+    {
+        "name": "Tovuz District",
+        "cities": [
+            "Çatax",
+            "Çobansığnaq",
+            "Dondar Quşçu",
+            "Qaraxanlı",
+            "Tovuz",
+            "Yanıqlı"
+        ]
+    },
+    {
+        "name": "Ujar District",
+        "cities": [
+            "Ujar"
+        ]
+    },
+    {
+        "name": "Yardymli District",
+        "cities": [
+            "Yardımlı"
+        ]
+    },
+    {
+        "name": "Yevlakh",
+        "cities": [
+            "Yevlakh"
+        ]
+    },
+    {
+        "name": "Yevlakh District",
+        "cities": [
+            "Aran",
+            "Qaramanlı"
+        ]
+    },
+    {
+        "name": "Zangilan District",
+        "cities": [
+            "Mincivan",
+            "Zangilan"
+        ]
+    },
+    {
+        "name": "Zaqatala District",
+        "cities": [
+            "Aliabad",
+            "Faldarlı",
+            "Mamrux",
+            "Qandax",
+            "Zaqatala"
+        ]
+    },
+    {
+        "name": "Zardab District",
+        "cities": [
+            "Zardob"
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Anse Boileau",
+        "cities": [
+            "Anse Boileau"
+        ]
+    },
+    {
+        "name": "Anse Royale",
+        "cities": [
+            "Anse Royale"
+        ]
+    },
+    {
+        "name": "Anse-aux-Pins",
+        "cities": []
+    },
+    {
+        "name": "Au Cap",
+        "cities": []
+    },
+    {
+        "name": "Baie Lazare",
+        "cities": []
+    },
+    {
+        "name": "Baie Sainte Anne",
+        "cities": []
+    },
+    {
+        "name": "Beau Vallon",
+        "cities": [
+            "Beau Vallon"
+        ]
+    },
+    {
+        "name": "Bel Air",
+        "cities": []
+    },
+    {
+        "name": "Bel Ombre",
+        "cities": [
+            "Bel Ombre"
+        ]
+    },
+    {
+        "name": "Cascade",
+        "cities": [
+            "Cascade"
+        ]
+    },
+    {
+        "name": "Glacis",
+        "cities": []
+    },
+    {
+        "name": "Grand'Anse Mahé",
+        "cities": []
+    },
+    {
+        "name": "Grand'Anse Praslin",
+        "cities": []
+    },
+    {
+        "name": "La Digue",
+        "cities": []
+    },
+    {
+        "name": "La Rivière Anglaise",
+        "cities": [
+            "Victoria"
+        ]
+    },
+    {
+        "name": "Les Mamelles",
+        "cities": []
+    },
+    {
+        "name": "Mont Buxton",
+        "cities": []
+    },
+    {
+        "name": "Mont Fleuri",
+        "cities": []
+    },
+    {
+        "name": "Plaisance",
+        "cities": []
+    },
+    {
+        "name": "Pointe La Rue",
+        "cities": []
+    },
+    {
+        "name": "Port Glaud",
+        "cities": [
+            "Port Glaud"
+        ]
+    },
+    {
+        "name": "Roche Caiman",
+        "cities": []
+    },
+    {
+        "name": "Saint Louis",
+        "cities": []
+    },
+    {
+        "name": "Takamaka",
+        "cities": [
+            "Takamaka"
+        ]
+    }
+]

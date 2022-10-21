@@ -1,0 +1,145 @@
+[
+    {
+        "name": "Dakar",
+        "cities": [
+            "Dakar",
+            "Dakar Department",
+            "Guédiawaye Department",
+            "Mermoz Boabab",
+            "N’diareme limamoulaye",
+            "Pikine",
+            "Pikine Department",
+            "Rufisque Department"
+        ]
+    },
+    {
+        "name": "Diourbel Region",
+        "cities": [
+            "Mbacké",
+            "Mbaké",
+            "Tiébo",
+            "Touba"
+        ]
+    },
+    {
+        "name": "Fatick",
+        "cities": [
+            "Diofior",
+            "Fatick Department",
+            "Foundiougne",
+            "Guinguinéo",
+            "Passi",
+            "Pourham",
+            "Sokone"
+        ]
+    },
+    {
+        "name": "Kaffrine",
+        "cities": [
+            "Kaffrine",
+            "Koungheul"
+        ]
+    },
+    {
+        "name": "Kaolack",
+        "cities": [
+            "Gandiaye",
+            "Kaolack",
+            "Ndofane",
+            "Nioro du Rip"
+        ]
+    },
+    {
+        "name": "Kédougou",
+        "cities": [
+            "Département de Salémata",
+            "Kédougou",
+            "Kédougou Department",
+            "Saraya"
+        ]
+    },
+    {
+        "name": "Kolda",
+        "cities": [
+            "Kolda",
+            "Kolda Department",
+            "Marsassoum",
+            "Vélingara"
+        ]
+    },
+    {
+        "name": "Louga",
+        "cities": [
+            "Dara",
+            "Guéoul",
+            "Linguere Department",
+            "Louga",
+            "Ndibène Dahra"
+        ]
+    },
+    {
+        "name": "Matam",
+        "cities": [
+            "Diawara",
+            "Kanel",
+            "Matam",
+            "Matam Department",
+            "Ouro Sogui",
+            "Ranérou",
+            "Sémé",
+            "Waoundé"
+        ]
+    },
+    {
+        "name": "Saint-Louis",
+        "cities": [
+            "Goléré",
+            "Ndioum",
+            "Polel Diaoubé",
+            "Richard-Toll",
+            "Rosso",
+            "Saint-Louis"
+        ]
+    },
+    {
+        "name": "Sédhiou",
+        "cities": [
+            "Goudomp Department",
+            "Sédhiou"
+        ]
+    },
+    {
+        "name": "Tambacounda Region",
+        "cities": [
+            "Tambacounda",
+            "Tambacounda Department"
+        ]
+    },
+    {
+        "name": "Thiès Region",
+        "cities": [
+            "Joal-Fadiout",
+            "Kayar",
+            "Khombole",
+            "Mbour",
+            "Mékhé",
+            "Nguékhokh",
+            "Pout",
+            "Thiès",
+            "Thiès Nones",
+            "Tiadiaye",
+            "Tivaouane",
+            "Warang"
+        ]
+    },
+    {
+        "name": "Ziguinchor",
+        "cities": [
+            "Adéane",
+            "Bignona",
+            "Oussouye",
+            "Tionk Essil",
+            "Ziguinchor"
+        ]
+    }
+]

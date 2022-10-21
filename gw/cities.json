@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Bafatá",
+        "cities": [
+            "Bafatá",
+            "Contuboel Sector"
+        ]
+    },
+    {
+        "name": "Biombo Region",
+        "cities": [
+            "Quinhámel"
+        ]
+    },
+    {
+        "name": "Bolama Region",
+        "cities": [
+            "Bolama",
+            "Bubaque"
+        ]
+    },
+    {
+        "name": "Cacheu Region",
+        "cities": [
+            "Cacheu",
+            "Canchungo"
+        ]
+    },
+    {
+        "name": "Gabú Region",
+        "cities": [
+            "Gabú"
+        ]
+    },
+    {
+        "name": "Leste Province",
+        "cities": []
+    },
+    {
+        "name": "Norte Province",
+        "cities": []
+    },
+    {
+        "name": "Oio Region",
+        "cities": [
+            "Bissorã",
+            "Farim",
+            "Mansôa"
+        ]
+    },
+    {
+        "name": "Quinara Region",
+        "cities": [
+            "Buba"
+        ]
+    },
+    {
+        "name": "Sul Province",
+        "cities": []
+    },
+    {
+        "name": "Tombali Region",
+        "cities": [
+            "Catió",
+            "Quebo"
+        ]
+    }
+]

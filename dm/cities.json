@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Saint Andrew Parish",
+        "cities": [
+            "Calibishie",
+            "Marigot",
+            "Wesley",
+            "Woodford Hill"
+        ]
+    },
+    {
+        "name": "Saint David Parish",
+        "cities": [
+            "Castle Bruce",
+            "Rosalie"
+        ]
+    },
+    {
+        "name": "Saint George Parish",
+        "cities": [
+            "Roseau"
+        ]
+    },
+    {
+        "name": "Saint John Parish",
+        "cities": [
+            "Portsmouth"
+        ]
+    },
+    {
+        "name": "Saint Joseph Parish",
+        "cities": [
+            "Saint Joseph",
+            "Salisbury"
+        ]
+    },
+    {
+        "name": "Saint Luke Parish",
+        "cities": [
+            "Pointe Michel"
+        ]
+    },
+    {
+        "name": "Saint Mark Parish",
+        "cities": [
+            "Soufrière"
+        ]
+    },
+    {
+        "name": "Saint Patrick Parish",
+        "cities": [
+            "Berekua",
+            "La Plaine"
+        ]
+    },
+    {
+        "name": "Saint Paul Parish",
+        "cities": [
+            "Mahaut",
+            "Pont Cassé"
+        ]
+    },
+    {
+        "name": "Saint Peter Parish",
+        "cities": [
+            "Colihaut"
+        ]
+    }
+]

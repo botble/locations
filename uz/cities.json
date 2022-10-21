@@ -1,0 +1,207 @@
+[
+    {
+        "name": "Andijan Region",
+        "cities": [
+            "Andijon",
+            "Andijon Tumani",
+            "Asaka",
+            "Asaka Tumani",
+            "Baliqchi Tumani",
+            "Bo‘z Tumani",
+            "Buloqboshi Tumani",
+            "Izboskan Tumani",
+            "Jalolkuduk Tumani",
+            "Khŭjaobod Tumani",
+            "Marhamat",
+            "Marhamat Tumani",
+            "Oltinkŭl Tumani",
+            "Pakhtaobod Tumani",
+            "Paxtaobod",
+            "Qo‘rg‘ontepa",
+            "Qŭrghontepa Tumani",
+            "Shahrikhon Tumani",
+            "Shahrixon",
+            "Ulug‘nor Tumani",
+            "Xo‘jaobod"
+        ]
+    },
+    {
+        "name": "Bukhara Region",
+        "cities": [
+            "Bukhara",
+            "Galaosiyo",
+            "Gazli",
+            "Ghijduwon",
+            "Karakul’",
+            "Kogon",
+            "Olot",
+            "Peshku Tumani",
+            "Qorako’l",
+            "Qorovulbozor",
+            "Romiton",
+            "Shofirkon",
+            "Wobkent",
+            "Wobkent Tumani"
+        ]
+    },
+    {
+        "name": "Fergana Region",
+        "cities": [
+            "Beshariq",
+            "Fergana",
+            "Hamza",
+            "Kirguli",
+            "Marg‘ilon",
+            "Oltiariq",
+            "Qo‘qon",
+            "Quva",
+            "Quvasoy",
+            "Rishton",
+            "Shohimardon",
+            "So‘x Tumani",
+            "Toshloq",
+            "Yangi Marg‘ilon",
+            "Yaypan"
+        ]
+    },
+    {
+        "name": "Jizzakh Region",
+        "cities": [
+            "Dashtobod",
+            "Dŭstlik",
+            "Gagarin",
+            "Jizzax",
+            "Paxtakor",
+            "Zomin"
+        ]
+    },
+    {
+        "name": "Karakalpakstan",
+        "cities": [
+            "Beruniy",
+            "Kegeyli Shahar",
+            "Khŭjayli",
+            "Manghit",
+            "Mŭynoq",
+            "Novyy Turtkul’",
+            "Nukus",
+            "Oltinko‘l"
+        ]
+    },
+    {
+        "name": "Namangan Region",
+        "cities": [
+            "Chortoq",
+            "Chust",
+            "Haqqulobod",
+            "Kosonsoy",
+            "Namangan",
+            "Pop",
+            "To‘rqao‘rg‘on",
+            "Toshbuloq",
+            "Uchqŭrghon Shahri",
+            "Uychi",
+            "Yangiqo‘rg‘on"
+        ]
+    },
+    {
+        "name": "Navoiy Region",
+        "cities": [
+            "Navoiy",
+            "Nurota",
+            "Qiziltepa",
+            "Yangirabot"
+        ]
+    },
+    {
+        "name": "Qashqadaryo Region",
+        "cities": [
+            "Beshkent",
+            "Chiroqchi",
+            "G‘uzor",
+            "Kitob",
+            "Koson",
+            "Muborak",
+            "Nishon Tumani",
+            "Qarshi",
+            "Shahrisabz"
+        ]
+    },
+    {
+        "name": "Samarqand Region",
+        "cities": [
+            "Bulung’ur",
+            "Charxin",
+            "Chelak",
+            "Daxbet",
+            "Ishtixon",
+            "Jomboy",
+            "Juma",
+            "Kattaqo‘rg‘on",
+            "Oqtosh",
+            "Payshanba",
+            "Samarkand",
+            "Urgut"
+        ]
+    },
+    {
+        "name": "Sirdaryo Region",
+        "cities": [
+            "Guliston",
+            "Sirdaryo",
+            "Yangiyer"
+        ]
+    },
+    {
+        "name": "Surxondaryo Region",
+        "cities": [
+            "Boysun",
+            "Denov",
+            "Sho‘rchi",
+            "Tirmiz"
+        ]
+    },
+    {
+        "name": "Tashkent",
+        "cities": [
+            "Bektemir",
+            "Tashkent"
+        ]
+    },
+    {
+        "name": "Tashkent Region",
+        "cities": [
+            "Angren",
+            "Bekobod",
+            "Bo‘ka",
+            "Chinoz",
+            "Chirchiq",
+            "G‘azalkent",
+            "Iskandar",
+            "Kyzyldzhar",
+            "Ohangaron",
+            "Olmaliq",
+            "Parkent",
+            "Piskent",
+            "Qibray",
+            "Salor",
+            "Tŭytepa",
+            "Ŭrtaowul",
+            "Yangiobod",
+            "Yangiyŭl",
+            "Zafar"
+        ]
+    },
+    {
+        "name": "Xorazm Region",
+        "cities": [
+            "Boghot Tumani",
+            "Gurlan",
+            "Hazorasp",
+            "Khiwa",
+            "Qŭshkŭpir",
+            "Showot",
+            "Urganch"
+        ]
+    }
+]

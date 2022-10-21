@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Andorra la Vella",
+        "cities": [
+            "Andorra la Vella"
+        ]
+    },
+    {
+        "name": "Canillo",
+        "cities": [
+            "Canillo",
+            "El Tarter"
+        ]
+    },
+    {
+        "name": "Encamp",
+        "cities": [
+            "Encamp",
+            "Pas de la Casa"
+        ]
+    },
+    {
+        "name": "Escaldes-Engordany",
+        "cities": [
+            "les Escaldes"
+        ]
+    },
+    {
+        "name": "La Massana",
+        "cities": [
+            "Arinsal",
+            "la Massana"
+        ]
+    },
+    {
+        "name": "Ordino",
+        "cities": [
+            "Ordino"
+        ]
+    },
+    {
+        "name": "Sant Julià de Lòria",
+        "cities": [
+            "Sant Julià de Lòria"
+        ]
+    }
+]

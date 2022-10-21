@@ -1,0 +1,239 @@
+[
+    {
+        "name": "Harju County",
+        "cities": [
+            "Anija vald",
+            "Aruküla",
+            "Haabneeme",
+            "Harku",
+            "Harku vald",
+            "Jõelähtme vald",
+            "Jüri",
+            "Kehra",
+            "Keila",
+            "Kiili",
+            "Kiili vald",
+            "Kose",
+            "Kuusalu",
+            "Laagri",
+            "Loksa",
+            "Loksa linn",
+            "Loo",
+            "Maardu",
+            "Maardu linn",
+            "Paldiski",
+            "Pringi",
+            "Raasiku",
+            "Rae vald",
+            "Riisipere",
+            "Rummu",
+            "Saku",
+            "Saku vald",
+            "Saue",
+            "Saue vald",
+            "Tabasalu",
+            "Tallinn",
+            "Turba",
+            "Vaida",
+            "Viimsi",
+            "Viimsi vald"
+        ]
+    },
+    {
+        "name": "Hiiu County",
+        "cities": [
+            "Kärdla"
+        ]
+    },
+    {
+        "name": "Ida-Viru County",
+        "cities": [
+            "Iisaku",
+            "Jõhvi",
+            "Jõhvi vald",
+            "Kiviõli",
+            "Kohtla-Järve",
+            "Kohtla-Nõmme",
+            "Lüganuse vald",
+            "Narva",
+            "Narva-Jõesuu",
+            "Narva-Jõesuu linn",
+            "Püssi",
+            "Sillamäe",
+            "Toila",
+            "Voka"
+        ]
+    },
+    {
+        "name": "Järva County",
+        "cities": [
+            "Järva-Jaani",
+            "Koeru",
+            "Paide",
+            "Paide linn",
+            "Särevere",
+            "Türi",
+            "Türi vald"
+        ]
+    },
+    {
+        "name": "Jõgeva County",
+        "cities": [
+            "Jõgeva",
+            "Jõgeva vald",
+            "Mustvee",
+            "Põltsamaa",
+            "Põltsamaa vald"
+        ]
+    },
+    {
+        "name": "Lääne County",
+        "cities": [
+            "Haapsalu",
+            "Haapsalu linn",
+            "Hullo",
+            "Lääne-Nigula vald",
+            "Taebla",
+            "Uuemõisa",
+            "Vormsi vald"
+        ]
+    },
+    {
+        "name": "Lääne-Viru County",
+        "cities": [
+            "Aseri",
+            "Haljala",
+            "Haljala vald",
+            "Kadrina",
+            "Kadrina vald",
+            "Kunda",
+            "Pajusti",
+            "Rakke",
+            "Rakvere",
+            "Rakvere vald",
+            "Sõmeru",
+            "Tamsalu",
+            "Tapa",
+            "Tapa vald",
+            "Vaiatu",
+            "Väike-Maarja",
+            "Väike-Maarja vald",
+            "Vinni",
+            "Vinni vald",
+            "Viru-Nigula vald"
+        ]
+    },
+    {
+        "name": "Pärnu County",
+        "cities": [
+            "Audru",
+            "Kihnu vald",
+            "Kilingi-Nõmme",
+            "Lihula",
+            "Linaküla",
+            "Paikuse",
+            "Pärnu",
+            "Pärnu linn",
+            "Pärnu-Jaagupi",
+            "Saarde vald",
+            "Sauga",
+            "Sindi",
+            "Tootsi",
+            "Tori vald",
+            "Uulu",
+            "Vändra"
+        ]
+    },
+    {
+        "name": "Põlva County",
+        "cities": [
+            "Kanepi",
+            "Kanepi vald",
+            "Põlva",
+            "Põlva vald",
+            "Räpina",
+            "Räpina vald"
+        ]
+    },
+    {
+        "name": "Rapla County",
+        "cities": [
+            "Järvakandi",
+            "Kehtna",
+            "Kehtna vald",
+            "Kohila",
+            "Kohila vald",
+            "Märjamaa",
+            "Märjamaa vald",
+            "Rapla",
+            "Rapla vald"
+        ]
+    },
+    {
+        "name": "Saare County",
+        "cities": [
+            "Kuressaare",
+            "Liiva",
+            "Muhu vald",
+            "Orissaare",
+            "Ruhnu",
+            "Ruhnu vald",
+            "Tehumardi"
+        ]
+    },
+    {
+        "name": "Tartu County",
+        "cities": [
+            "Alatskivi",
+            "Elva",
+            "Kallaste",
+            "Kambja vald",
+            "Kõrveküla",
+            "Kurepalu",
+            "Luunja",
+            "Luunja vald",
+            "Nõo",
+            "Nõo vald",
+            "Peipsiääre vald",
+            "Puhja",
+            "Tartu",
+            "Tartu linn",
+            "Tartu vald",
+            "Ülenurme"
+        ]
+    },
+    {
+        "name": "Valga County",
+        "cities": [
+            "Otepää vald",
+            "Tõrva",
+            "Valga"
+        ]
+    },
+    {
+        "name": "Viljandi County",
+        "cities": [
+            "Abja-Paluoja",
+            "Karksi-Nuia",
+            "Mõisaküla",
+            "Suure-Jaani",
+            "Viiratsi",
+            "Viljandi",
+            "Viljandi vald",
+            "Võhma"
+        ]
+    },
+    {
+        "name": "Võru County",
+        "cities": [
+            "Antsla",
+            "Antsla vald",
+            "Rõuge",
+            "Rõuge vald",
+            "Vana-Antsla",
+            "Värska",
+            "Võru",
+            "Võru vald"
+        ]
+    }
+]

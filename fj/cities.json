@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Ba",
+        "cities": []
+    },
+    {
+        "name": "Bua",
+        "cities": []
+    },
+    {
+        "name": "Cakaudrove",
+        "cities": []
+    },
+    {
+        "name": "Central Division",
+        "cities": [
+            "Naitasiri Province",
+            "Namosi Province",
+            "Rewa Province",
+            "Serua Province",
+            "Suva",
+            "Tailevu Province"
+        ]
+    },
+    {
+        "name": "Eastern Division",
+        "cities": [
+            "Kadavu Province",
+            "Lau Province",
+            "Levuka",
+            "Lomaiviti Province"
+        ]
+    },
+    {
+        "name": "Kadavu",
+        "cities": []
+    },
+    {
+        "name": "Lau",
+        "cities": []
+    },
+    {
+        "name": "Lomaiviti",
+        "cities": []
+    },
+    {
+        "name": "Macuata",
+        "cities": []
+    },
+    {
+        "name": "Nadroga-Navosa",
+        "cities": []
+    },
+    {
+        "name": "Naitasiri",
+        "cities": []
+    },
+    {
+        "name": "Namosi",
+        "cities": []
+    },
+    {
+        "name": "Northern Division",
+        "cities": [
+            "Bua Province",
+            "Cakaudrove Province",
+            "Labasa",
+            "Macuata Province"
+        ]
+    },
+    {
+        "name": "Ra",
+        "cities": []
+    },
+    {
+        "name": "Rewa",
+        "cities": []
+    },
+    {
+        "name": "Rotuma",
+        "cities": []
+    },
+    {
+        "name": "Serua",
+        "cities": []
+    },
+    {
+        "name": "Tailevu",
+        "cities": []
+    },
+    {
+        "name": "Western Division",
+        "cities": [
+            "Ba",
+            "Ba Province",
+            "Lautoka",
+            "Nadi",
+            "Nandronga and Navosa Province",
+            "Ra Province"
+        ]
+    }
+]

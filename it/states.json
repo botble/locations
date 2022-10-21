@@ -1,0 +1,380 @@
+[
+    {
+        "name": "Abruzzo"
+    },
+    {
+        "name": "Agrigento"
+    },
+    {
+        "name": "Alessandria"
+    },
+    {
+        "name": "Ancona"
+    },
+    {
+        "name": "Aosta Valley"
+    },
+    {
+        "name": "Apulia"
+    },
+    {
+        "name": "Ascoli Piceno"
+    },
+    {
+        "name": "Asti"
+    },
+    {
+        "name": "Avellino"
+    },
+    {
+        "name": "Bari"
+    },
+    {
+        "name": "Barletta-Andria-Trani"
+    },
+    {
+        "name": "Basilicata"
+    },
+    {
+        "name": "Belluno"
+    },
+    {
+        "name": "Benevento"
+    },
+    {
+        "name": "Bergamo"
+    },
+    {
+        "name": "Biella"
+    },
+    {
+        "name": "Bologna"
+    },
+    {
+        "name": "Brescia"
+    },
+    {
+        "name": "Brindisi"
+    },
+    {
+        "name": "Cagliari"
+    },
+    {
+        "name": "Calabria"
+    },
+    {
+        "name": "Caltanissetta"
+    },
+    {
+        "name": "Campania"
+    },
+    {
+        "name": "Campobasso"
+    },
+    {
+        "name": "Caserta"
+    },
+    {
+        "name": "Catania"
+    },
+    {
+        "name": "Catanzaro"
+    },
+    {
+        "name": "Chieti"
+    },
+    {
+        "name": "Como"
+    },
+    {
+        "name": "Cosenza"
+    },
+    {
+        "name": "Cremona"
+    },
+    {
+        "name": "Crotone"
+    },
+    {
+        "name": "Cuneo"
+    },
+    {
+        "name": "Emilia-Romagna"
+    },
+    {
+        "name": "Enna"
+    },
+    {
+        "name": "Fermo"
+    },
+    {
+        "name": "Ferrara"
+    },
+    {
+        "name": "Florence"
+    },
+    {
+        "name": "Foggia"
+    },
+    {
+        "name": "Forlì-Cesena"
+    },
+    {
+        "name": "Friuli–Venezia Giulia"
+    },
+    {
+        "name": "Frosinone"
+    },
+    {
+        "name": "Genoa"
+    },
+    {
+        "name": "Gorizia"
+    },
+    {
+        "name": "Grosseto"
+    },
+    {
+        "name": "Imperia"
+    },
+    {
+        "name": "Isernia"
+    },
+    {
+        "name": "L'Aquila"
+    },
+    {
+        "name": "La Spezia"
+    },
+    {
+        "name": "Latina"
+    },
+    {
+        "name": "Lazio"
+    },
+    {
+        "name": "Lecce"
+    },
+    {
+        "name": "Lecco"
+    },
+    {
+        "name": "Liguria"
+    },
+    {
+        "name": "Livorno"
+    },
+    {
+        "name": "Lodi"
+    },
+    {
+        "name": "Lombardy"
+    },
+    {
+        "name": "Lucca"
+    },
+    {
+        "name": "Macerata"
+    },
+    {
+        "name": "Mantua"
+    },
+    {
+        "name": "Marche"
+    },
+    {
+        "name": "Massa and Carrara"
+    },
+    {
+        "name": "Matera"
+    },
+    {
+        "name": "Medio Campidano"
+    },
+    {
+        "name": "Messina"
+    },
+    {
+        "name": "Milan"
+    },
+    {
+        "name": "Modena"
+    },
+    {
+        "name": "Molise"
+    },
+    {
+        "name": "Monza and Brianza"
+    },
+    {
+        "name": "Naples"
+    },
+    {
+        "name": "Novara"
+    },
+    {
+        "name": "Nuoro"
+    },
+    {
+        "name": "Oristano"
+    },
+    {
+        "name": "Padua"
+    },
+    {
+        "name": "Palermo"
+    },
+    {
+        "name": "Parma"
+    },
+    {
+        "name": "Pavia"
+    },
+    {
+        "name": "Perugia"
+    },
+    {
+        "name": "Pesaro and Urbino"
+    },
+    {
+        "name": "Pescara"
+    },
+    {
+        "name": "Piacenza"
+    },
+    {
+        "name": "Piedmont"
+    },
+    {
+        "name": "Pisa"
+    },
+    {
+        "name": "Pistoia"
+    },
+    {
+        "name": "Pordenone"
+    },
+    {
+        "name": "Potenza"
+    },
+    {
+        "name": "Prato"
+    },
+    {
+        "name": "Ragusa"
+    },
+    {
+        "name": "Ravenna"
+    },
+    {
+        "name": "Reggio Calabria"
+    },
+    {
+        "name": "Reggio Emilia"
+    },
+    {
+        "name": "Rieti"
+    },
+    {
+        "name": "Rimini"
+    },
+    {
+        "name": "Rome"
+    },
+    {
+        "name": "Rovigo"
+    },
+    {
+        "name": "Salerno"
+    },
+    {
+        "name": "Sardinia"
+    },
+    {
+        "name": "Sassari"
+    },
+    {
+        "name": "Savona"
+    },
+    {
+        "name": "Sicily"
+    },
+    {
+        "name": "Siena"
+    },
+    {
+        "name": "Siracusa"
+    },
+    {
+        "name": "Sondrio"
+    },
+    {
+        "name": "South Sardinia"
+    },
+    {
+        "name": "South Tyrol"
+    },
+    {
+        "name": "Taranto"
+    },
+    {
+        "name": "Teramo"
+    },
+    {
+        "name": "Terni"
+    },
+    {
+        "name": "Trapani"
+    },
+    {
+        "name": "Trentino"
+    },
+    {
+        "name": "Trentino-South Tyrol"
+    },
+    {
+        "name": "Treviso"
+    },
+    {
+        "name": "Trieste"
+    },
+    {
+        "name": "Turin"
+    },
+    {
+        "name": "Tuscany"
+    },
+    {
+        "name": "Udine"
+    },
+    {
+        "name": "Umbria"
+    },
+    {
+        "name": "Varese"
+    },
+    {
+        "name": "Veneto"
+    },
+    {
+        "name": "Venice"
+    },
+    {
+        "name": "Verbano-Cusio-Ossola"
+    },
+    {
+        "name": "Vercelli"
+    },
+    {
+        "name": "Verona"
+    },
+    {
+        "name": "Vibo Valentia"
+    },
+    {
+        "name": "Vicenza"
+    },
+    {
+        "name": "Viterbo"
+    }
+]

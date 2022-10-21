@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Ali Sabieh Region",
+        "cities": [
+            "'Ali Sabieh",
+            "Goubétto",
+            "Holhol"
+        ]
+    },
+    {
+        "name": "Arta Region",
+        "cities": [
+            "Arta"
+        ]
+    },
+    {
+        "name": "Dikhil Region",
+        "cities": [
+            "Dikhil",
+            "Gâlâfi"
+        ]
+    },
+    {
+        "name": "Djibouti",
+        "cities": [
+            "Djibouti",
+            "Loyada"
+        ]
+    },
+    {
+        "name": "Obock Region",
+        "cities": [
+            "Alaïli Ḏaḏḏa‘",
+            "Obock"
+        ]
+    },
+    {
+        "name": "Tadjourah Region",
+        "cities": [
+            "Dorra",
+            "Tadjourah"
+        ]
+    }
+]

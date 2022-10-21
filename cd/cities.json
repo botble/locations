@@ -1,0 +1,199 @@
+[
+    {
+        "name": "Bas-Uélé",
+        "cities": [
+            "Aketi",
+            "Bondo",
+            "Buta"
+        ]
+    },
+    {
+        "name": "Équateur",
+        "cities": [
+            "Gemena",
+            "Lisala",
+            "Lukolela",
+            "Mbandaka"
+        ]
+    },
+    {
+        "name": "Haut-Katanga",
+        "cities": [
+            "Haut Katanga",
+            "Kambove",
+            "Kipushi",
+            "Likasi",
+            "Lubumbashi"
+        ]
+    },
+    {
+        "name": "Haut-Lomami",
+        "cities": [
+            "Bukama",
+            "Kamina"
+        ]
+    },
+    {
+        "name": "Haut-Uélé",
+        "cities": [
+            "Isiro",
+            "Wamba",
+            "Watsa"
+        ]
+    },
+    {
+        "name": "Ituri",
+        "cities": [
+            "Bunia"
+        ]
+    },
+    {
+        "name": "Kasaï",
+        "cities": [
+            "Ilebo",
+            "Luebo",
+            "Mweka",
+            "Tshikapa"
+        ]
+    },
+    {
+        "name": "Kasaï Central",
+        "cities": []
+    },
+    {
+        "name": "Kasaï Oriental",
+        "cities": [
+            "Gandajika",
+            "Kabinda",
+            "Mbuji-Mayi"
+        ]
+    },
+    {
+        "name": "Kinshasa",
+        "cities": [
+            "Kinshasa",
+            "Masina"
+        ]
+    },
+    {
+        "name": "Kongo Central",
+        "cities": [
+            "Boma",
+            "Kasangulu",
+            "Matadi",
+            "Mbanza-Ngungu",
+            "Moanda",
+            "Tshela"
+        ]
+    },
+    {
+        "name": "Kwango",
+        "cities": [
+            "Kasongo-Lunda"
+        ]
+    },
+    {
+        "name": "Kwilu",
+        "cities": [
+            "Bandundu",
+            "Bulungu",
+            "Kikwit",
+            "Mangai"
+        ]
+    },
+    {
+        "name": "Lomami",
+        "cities": [
+            "Lubao",
+            "Mwene-Ditu"
+        ]
+    },
+    {
+        "name": "Lualaba",
+        "cities": []
+    },
+    {
+        "name": "Mai-Ndombe",
+        "cities": [
+            "Bolobo",
+            "Inongo",
+            "Mushie",
+            "Nioki"
+        ]
+    },
+    {
+        "name": "Maniema",
+        "cities": [
+            "Kampene",
+            "Kasongo",
+            "Kindu"
+        ]
+    },
+    {
+        "name": "Mongala",
+        "cities": [
+            "Bumba"
+        ]
+    },
+    {
+        "name": "Nord-Kivu",
+        "cities": [
+            "Beni",
+            "Butembo",
+            "Goma",
+            "Sake"
+        ]
+    },
+    {
+        "name": "Nord-Ubangi",
+        "cities": [
+            "Bosobolo",
+            "Businga",
+            "Gbadolite"
+        ]
+    },
+    {
+        "name": "Sankuru",
+        "cities": [
+            "Lodja",
+            "Lusambo"
+        ]
+    },
+    {
+        "name": "Sud-Kivu",
+        "cities": [
+            "Bukavu",
+            "Kabare",
+            "Uvira"
+        ]
+    },
+    {
+        "name": "Sud-Ubangi",
+        "cities": [
+            "Bongandanga",
+            "Libenge"
+        ]
+    },
+    {
+        "name": "Tanganyika",
+        "cities": [
+            "Kabalo",
+            "Kalemie",
+            "Kongolo"
+        ]
+    },
+    {
+        "name": "Tshopo",
+        "cities": [
+            "Basoko",
+            "Kisangani",
+            "Yangambi"
+        ]
+    },
+    {
+        "name": "Tshuapa",
+        "cities": [
+            "Boende"
+        ]
+    }
+]

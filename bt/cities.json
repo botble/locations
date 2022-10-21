@@ -1,0 +1,120 @@
+[
+    {
+        "name": "Bumthang District",
+        "cities": [
+            "Jakar"
+        ]
+    },
+    {
+        "name": "Chukha District",
+        "cities": [
+            "Daphu",
+            "Phuntsholing",
+            "Tsimasham"
+        ]
+    },
+    {
+        "name": "Dagana District",
+        "cities": [
+            "Daga",
+            "Wangdue Phodrang"
+        ]
+    },
+    {
+        "name": "Gasa District",
+        "cities": [
+            "Gasa"
+        ]
+    },
+    {
+        "name": "Haa District",
+        "cities": [
+            "Ha"
+        ]
+    },
+    {
+        "name": "Lhuntse District",
+        "cities": [
+            "Lhuentse"
+        ]
+    },
+    {
+        "name": "Mongar District",
+        "cities": [
+            "Mongar"
+        ]
+    },
+    {
+        "name": "Paro District",
+        "cities": [
+            "Paro"
+        ]
+    },
+    {
+        "name": "Pemagatshel District",
+        "cities": [
+            "Pemagatshel"
+        ]
+    },
+    {
+        "name": "Punakha District",
+        "cities": [
+            "Pajo",
+            "Punākha"
+        ]
+    },
+    {
+        "name": "Samdrup Jongkhar District",
+        "cities": [
+            "Samdrup Jongkhar"
+        ]
+    },
+    {
+        "name": "Samtse District",
+        "cities": [
+            "Samtse"
+        ]
+    },
+    {
+        "name": "Sarpang District",
+        "cities": [
+            "Sarpang"
+        ]
+    },
+    {
+        "name": "Thimphu District",
+        "cities": [
+            "Thimphu"
+        ]
+    },
+    {
+        "name": "Trashigang District",
+        "cities": [
+            "Trashigang"
+        ]
+    },
+    {
+        "name": "Trongsa District",
+        "cities": []
+    },
+    {
+        "name": "Tsirang District",
+        "cities": [
+            "Trongsa",
+            "Tsirang"
+        ]
+    },
+    {
+        "name": "Wangdue Phodrang District",
+        "cities": [
+            "Trashi Yangtse"
+        ]
+    },
+    {
+        "name": "Zhemgang District",
+        "cities": [
+            "Panbang",
+            "Shemgang"
+        ]
+    }
+]

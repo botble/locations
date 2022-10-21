@@ -1,0 +1,455 @@
+[
+    {
+        "name": "Arusha",
+        "cities": [
+            "Arusha",
+            "Kingori",
+            "Kiratu",
+            "Longido",
+            "Mbuguni",
+            "Merelani",
+            "Meru",
+            "Monduli",
+            "Mto wa Mbu",
+            "Namanga",
+            "Ngorongoro",
+            "Nkoaranga",
+            "Poli",
+            "Usa River"
+        ]
+    },
+    {
+        "name": "Dar es Salaam",
+        "cities": [
+            "Dar es Salaam",
+            "Magomeni"
+        ]
+    },
+    {
+        "name": "Dodoma",
+        "cities": [
+            "Dodoma",
+            "Kibakwe",
+            "Kisasa",
+            "Kondoa",
+            "Kongwa",
+            "Mpwapwa",
+            "Msanga"
+        ]
+    },
+    {
+        "name": "Geita",
+        "cities": [
+            "Buseresere",
+            "Chato",
+            "Geita",
+            "Kasamwa",
+            "Katoro",
+            "Masumbwe",
+            "Ushirombo",
+            "Uyovu"
+        ]
+    },
+    {
+        "name": "Iringa",
+        "cities": [
+            "Ilula",
+            "Iringa",
+            "Izazi",
+            "Mafinga",
+            "Makungu",
+            "Malangali"
+        ]
+    },
+    {
+        "name": "Kagera",
+        "cities": [
+            "Biharamulo",
+            "Bugarama",
+            "Bugene",
+            "Bukoba",
+            "Kabanga",
+            "Kamachumu",
+            "Katerero",
+            "Katoro",
+            "Kyaka",
+            "Ngara",
+            "Nshamba",
+            "Nsunga",
+            "Nyakahanga",
+            "Rulenge"
+        ]
+    },
+    {
+        "name": "Katavi",
+        "cities": [
+            "Inyonga",
+            "Karema",
+            "Mpanda",
+            "Usevia"
+        ]
+    },
+    {
+        "name": "Kigoma",
+        "cities": [
+            "Kakonko",
+            "Kasulu",
+            "Kibondo",
+            "Kigoma",
+            "Mabamba",
+            "Mwandiga",
+            "Nguruka",
+            "Uvinza"
+        ]
+    },
+    {
+        "name": "Kilimanjaro",
+        "cities": [
+            "Hedaru",
+            "Kihurio",
+            "Kisiwani",
+            "Kwakoa",
+            "Lembeni",
+            "Makanya",
+            "Moshi",
+            "Mwembe",
+            "Ndungu",
+            "Same"
+        ]
+    },
+    {
+        "name": "Lindi",
+        "cities": [
+            "Lindi",
+            "Mbekenyera",
+            "Mingoyo",
+            "Mtama",
+            "Nachingwea",
+            "Nyangao",
+            "Ruangwa"
+        ]
+    },
+    {
+        "name": "Manyara",
+        "cities": [
+            "Babati",
+            "Bashanet",
+            "Basotu",
+            "Dareda",
+            "Dongobesh",
+            "Endasak",
+            "Galappo",
+            "Katesh",
+            "Kibaya",
+            "Kirya",
+            "Magugu",
+            "Mbulu",
+            "Naberera",
+            "Nangwa"
+        ]
+    },
+    {
+        "name": "Mara",
+        "cities": [
+            "Bukonyo",
+            "Butiama",
+            "Issenye",
+            "Kibara",
+            "Mugango",
+            "Mugumu",
+            "Muriti",
+            "Musoma",
+            "Nakatunguru",
+            "Nansio",
+            "Nyamuswa",
+            "Sirari"
+        ]
+    },
+    {
+        "name": "Mbeya",
+        "cities": [
+            "Chimala",
+            "Hedaru",
+            "Ibaba",
+            "Ikama",
+            "Ikinga",
+            "Ikolo",
+            "Ikuti",
+            "Ilembo",
+            "Ipinda",
+            "Kabula",
+            "Kahe Tanzania",
+            "Kandete",
+            "Katumba",
+            "Kihurio",
+            "Kisiwani",
+            "Kiwira",
+            "Kwakoa",
+            "Lembeni",
+            "Lupata",
+            "Lusungo",
+            "Machame",
+            "Makanya",
+            "Marangu",
+            "Masukulu",
+            "Mbeya",
+            "Mlowo",
+            "Moshi",
+            "Mpuguso",
+            "Mwansanga",
+            "Mwaya",
+            "Mwembe",
+            "Same",
+            "Tukuyu",
+            "Tunduma",
+            "Ugweno",
+            "Ulanga"
+        ]
+    },
+    {
+        "name": "Morogoro",
+        "cities": [
+            "Geiro",
+            "Ifakara",
+            "Kidatu",
+            "Kidodi",
+            "Kilosa",
+            "Kimamba",
+            "Kisanga",
+            "Lupiro",
+            "Magole",
+            "Mahenge",
+            "Malinyi",
+            "Mikumi",
+            "Mlimba",
+            "Morogoro",
+            "Msowero",
+            "Mtimbira",
+            "Mvomero District",
+            "Ngerengere"
+        ]
+    },
+    {
+        "name": "Mtwara",
+        "cities": [
+            "Chiungutwa",
+            "Kitama",
+            "Kitangari",
+            "Luchingu",
+            "Lukuledi",
+            "Lulindi",
+            "Madimba",
+            "Mahuta",
+            "Masasi",
+            "Masuguru",
+            "Mtwara",
+            "Namalenga",
+            "Namikupa",
+            "Nanganga",
+            "Nangomba",
+            "Nanhyanga",
+            "Nanyamba",
+            "Newala Kisimani",
+            "Tandahimba"
+        ]
+    },
+    {
+        "name": "Mwanza",
+        "cities": [
+            "Ilemela District",
+            "Kihangara",
+            "Malya",
+            "Misasi",
+            "Misungwi",
+            "Mwanza",
+            "Ngudu",
+            "Nyanguge",
+            "Usagara"
+        ]
+    },
+    {
+        "name": "Njombe",
+        "cities": [
+            "Ilembula",
+            "Makumbako",
+            "Manda",
+            "Matamba",
+            "Mlangali",
+            "Mtwango",
+            "Njombe"
+        ]
+    },
+    {
+        "name": "Pemba North",
+        "cities": [
+            "Konde",
+            "Micheweni",
+            "Wete"
+        ]
+    },
+    {
+        "name": "Pemba South",
+        "cities": [
+            "Chake Chake",
+            "Mtambile",
+            "Uwelini"
+        ]
+    },
+    {
+        "name": "Pwani",
+        "cities": [
+            "Bagamoyo",
+            "Bungu",
+            "Chalinze",
+            "Ikwiriri",
+            "Kibaha",
+            "Kibiti",
+            "Kilindoni",
+            "Kisarawe",
+            "Lugoba",
+            "Maneromango",
+            "Mbumi",
+            "Mkuranga",
+            "Mlandizi",
+            "Mvomero",
+            "Utete",
+            "Vikindu"
+        ]
+    },
+    {
+        "name": "Rukwa",
+        "cities": [
+            "Chala",
+            "Kirando",
+            "Laela",
+            "Matai",
+            "Namanyere",
+            "Nkove",
+            "Sumbawanga"
+        ]
+    },
+    {
+        "name": "Ruvuma",
+        "cities": [
+            "Kigonsera",
+            "Liuli",
+            "Mahanje",
+            "Maposeni",
+            "Matiri",
+            "Mbamba Bay",
+            "Mbinga",
+            "Songea",
+            "Tingi"
+        ]
+    },
+    {
+        "name": "Shinyanga",
+        "cities": [
+            "Isaka",
+            "Kahama",
+            "Kishapu",
+            "Mhango",
+            "Mwadui",
+            "Old Shinyanga",
+            "Shinyanga",
+            "Songwa",
+            "Tinde"
+        ]
+    },
+    {
+        "name": "Simiyu",
+        "cities": [
+            "Bariadi",
+            "Kisesa",
+            "Lalago",
+            "Malampaka",
+            "Maswa",
+            "Matonga",
+            "Nyakabindi",
+            "Nyalikungu",
+            "Somanda"
+        ]
+    },
+    {
+        "name": "Singida",
+        "cities": [
+            "Igugunu",
+            "Ikungi",
+            "Ilongero",
+            "Itigi",
+            "Kilimatinde",
+            "Kintinku",
+            "Kiomboi",
+            "Mgandu",
+            "Mtinko",
+            "Mungaa",
+            "Ndago",
+            "Puma",
+            "Sepuka",
+            "Shelui",
+            "Singida"
+        ]
+    },
+    {
+        "name": "Songwe",
+        "cities": []
+    },
+    {
+        "name": "Tabora",
+        "cities": [
+            "Bukene",
+            "Igurubi",
+            "Kaliua",
+            "Mabama",
+            "Sikonge",
+            "Tabora",
+            "Tumbi",
+            "Usoke"
+        ]
+    },
+    {
+        "name": "Tanga",
+        "cities": [
+            "Chanika",
+            "Lushoto",
+            "Magomeni",
+            "Majengo",
+            "Makuyuni",
+            "Maramba",
+            "Matui",
+            "Mazinde",
+            "Mlalo",
+            "Muheza",
+            "Mwanga",
+            "Pangani",
+            "Soni",
+            "Tanga"
+        ]
+    },
+    {
+        "name": "Zanzibar North",
+        "cities": [
+            "Gamba",
+            "Kijini",
+            "Kiwengwa",
+            "Mkokotoni",
+            "Nungwi"
+        ]
+    },
+    {
+        "name": "Zanzibar South",
+        "cities": [
+            "Koani",
+            "Koani Ndogo",
+            "Mahonda",
+            "Nganane",
+            "Sokoni"
+        ]
+    },
+    {
+        "name": "Zanzibar West",
+        "cities": [
+            "Zanzibar"
+        ]
+    }
+]

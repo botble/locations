@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Agadez Region",
+        "cities": [
+            "Agadez",
+            "Alaghsas",
+            "Arlit",
+            "Bilma",
+            "Département de Bilma",
+            "Département de Tchirozérine"
+        ]
+    },
+    {
+        "name": "Diffa Region",
+        "cities": [
+            "Département de Diffa",
+            "Département de Maïné-Soroa",
+            "Département de Nguigmi",
+            "Diffa",
+            "Maïné Soroa",
+            "Nguigmi"
+        ]
+    },
+    {
+        "name": "Dosso Region",
+        "cities": [
+            "Boboye Department",
+            "Département de Dogondoutchi",
+            "Département de Dosso",
+            "Département de Gaya",
+            "Département de Loga",
+            "Dogondoutchi",
+            "Dosso",
+            "Gaya"
+        ]
+    },
+    {
+        "name": "Maradi Region",
+        "cities": [
+            "Aguié",
+            "Dakoro",
+            "Département d’Aguié",
+            "Département de Dakoro",
+            "Département de Mayahi",
+            "Département de Tessaoua",
+            "Guidan Roumdji Department",
+            "Madarounfa",
+            "Maradi",
+            "Mayahi",
+            "Tessaoua",
+            "Tibiri"
+        ]
+    },
+    {
+        "name": "Tahoua Region",
+        "cities": [
+            "Abalak",
+            "Birni N Konni",
+            "Bouza",
+            "Département d' Illéla",
+            "Département de Birni Nkonni",
+            "Département de Bouza",
+            "Département de Keïta",
+            "Département de Madaoua",
+            "Département de Tahoua",
+            "Département de Tchin-Tabaraden",
+            "Illéla",
+            "Keïta",
+            "Madaoua",
+            "Tahoua",
+            "Tchintabaraden"
+        ]
+    },
+    {
+        "name": "Tillabéri Region",
+        "cities": [
+            "Ayorou",
+            "Balleyara",
+            "Département de Filingué",
+            "Département de Ouallam",
+            "Département de Say",
+            "Filingué",
+            "Kollo",
+            "Kollo Department",
+            "Ouallam",
+            "Say",
+            "Téra",
+            "Tera Department",
+            "Tillabéri",
+            "Tillaberi Department"
+        ]
+    },
+    {
+        "name": "Zinder Region",
+        "cities": [
+            "Département de Gouré",
+            "Département de Kantché",
+            "Département de Tânout",
+            "Gouré",
+            "Magaria",
+            "Matamey",
+            "Mirriah",
+            "Tanout",
+            "Zinder"
+        ]
+    }
+]

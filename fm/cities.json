@@ -1,0 +1,103 @@
+[
+    {
+        "name": "Chuuk State",
+        "cities": [
+            "Eot Municipality",
+            "Ettal Municipality",
+            "Fananu Municipality",
+            "Fanapanges Municipality",
+            "Fefen Municipality",
+            "Fonoton Municipality",
+            "Houk Municipality",
+            "Kuttu Municipality",
+            "Lekinioch Municipality",
+            "Losap Municipality",
+            "Makur Municipality",
+            "Moch Municipality",
+            "Murilo",
+            "Murilo Municipality",
+            "Namoluk Municipality",
+            "Nema",
+            "Nema Municipality",
+            "Nomwin Municipality",
+            "Oneop Municipality",
+            "Onou Municipality",
+            "Onoun Municipality",
+            "Paata-Tupunion Municipality",
+            "Parem Municipality",
+            "Piherarh Municipality",
+            "Piis-Emwar Municipality",
+            "Piis-Panewu Municipality",
+            "Pollap Municipality",
+            "Polowat Municipality",
+            "Pwene Municipality",
+            "Ramanum Municipality",
+            "Ruo Municipality",
+            "Satowan Municipality",
+            "Siis Municipality",
+            "Ta Municipality",
+            "Tamatam Municipality",
+            "Tolensom Municipality",
+            "Tonoas Municipality",
+            "Udot-Fonuweisom Municipality",
+            "Uman-Fonuweisom Municipality",
+            "Unanu Municipality",
+            "Weno",
+            "Weno Municipality",
+            "Wonei Municipality"
+        ]
+    },
+    {
+        "name": "Kosrae State",
+        "cities": [
+            "Lelu Municipality",
+            "Malem Municipality",
+            "Tafunsak Municipality",
+            "Tofol",
+            "Utwe Municipality"
+        ]
+    },
+    {
+        "name": "Pohnpei State",
+        "cities": [
+            "Kitti Municipality",
+            "Kolonia",
+            "Kolonia Municipality",
+            "Kolonia Town",
+            "Madolenihm Municipality",
+            "Mokil Municipality",
+            "Nett Municipality",
+            "Ngatik",
+            "Nukuoro Municipality",
+            "Palikir - National Government Center",
+            "Pingelap Municipality",
+            "Sapwuahfik Municipality",
+            "Sokehs Municipality",
+            "U Municipality"
+        ]
+    },
+    {
+        "name": "Yap State",
+        "cities": [
+            "Colonia",
+            "Dalipebinaw Municipality",
+            "Fais",
+            "Fais Municipality",
+            "Fanif Municipality",
+            "Faraulep Municipality",
+            "Gagil Municipality",
+            "Gilman Municipality",
+            "Kanifay Municipality",
+            "Lamotrek Municipality",
+            "Maap Municipality",
+            "Ngulu Municipality",
+            "Rull Municipality",
+            "Rumung Municipality",
+            "Satawal Municipality",
+            "Tomil Municipality",
+            "Ulithi Municipality",
+            "Weloy Municipality",
+            "Woleai Municipality"
+        ]
+    }
+]

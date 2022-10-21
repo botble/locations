@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Hhohho District",
+        "cities": [
+            "Bulembu",
+            "Hhukwini",
+            "Lobamba",
+            "Mbabane",
+            "Nkhaba",
+            "Piggs Peak"
+        ]
+    },
+    {
+        "name": "Lubombo District",
+        "cities": [
+            "Big Bend",
+            "Dvokodvweni Inkhundla",
+            "Lomashasha",
+            "Mhlume",
+            "Nsoko",
+            "Siteki",
+            "Tshaneni",
+            "Vuvulane"
+        ]
+    },
+    {
+        "name": "Manzini District",
+        "cities": [
+            "Bhunya",
+            "Ekukhanyeni",
+            "Kwaluseni",
+            "Malkerns",
+            "Manzini",
+            "Manzini South",
+            "Mhlambanyatsi",
+            "Ngwempisi",
+            "Ntondozi",
+            "Sidvokodvo"
+        ]
+    },
+    {
+        "name": "Shiselweni District",
+        "cities": [
+            "Hlatikulu",
+            "Hluti",
+            "Kubuta",
+            "Lavumisa",
+            "Matsanjeni",
+            "Ngudzeni",
+            "Nhlangano",
+            "Nkwene",
+            "Sigwe Inkhundla",
+            "Zombodze Ikhundla"
+        ]
+    }
+]

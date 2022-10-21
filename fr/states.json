@@ -1,0 +1,371 @@
+[
+    {
+        "name": "Ain"
+    },
+    {
+        "name": "Aisne"
+    },
+    {
+        "name": "Allier"
+    },
+    {
+        "name": "Alpes-de-Haute-Provence"
+    },
+    {
+        "name": "Alpes-Maritimes"
+    },
+    {
+        "name": "Alsace"
+    },
+    {
+        "name": "Ardèche"
+    },
+    {
+        "name": "Ardennes"
+    },
+    {
+        "name": "Ariège"
+    },
+    {
+        "name": "Aube"
+    },
+    {
+        "name": "Aude"
+    },
+    {
+        "name": "Auvergne-Rhône-Alpes"
+    },
+    {
+        "name": "Aveyron"
+    },
+    {
+        "name": "Bas-Rhin"
+    },
+    {
+        "name": "Bouches-du-Rhône"
+    },
+    {
+        "name": "Bourgogne-Franche-Comté"
+    },
+    {
+        "name": "Bretagne"
+    },
+    {
+        "name": "Calvados"
+    },
+    {
+        "name": "Cantal"
+    },
+    {
+        "name": "Centre-Val de Loire"
+    },
+    {
+        "name": "Charente"
+    },
+    {
+        "name": "Charente-Maritime"
+    },
+    {
+        "name": "Cher"
+    },
+    {
+        "name": "Clipperton"
+    },
+    {
+        "name": "Corrèze"
+    },
+    {
+        "name": "Corse"
+    },
+    {
+        "name": "Corse-du-Sud"
+    },
+    {
+        "name": "Côte-d'Or"
+    },
+    {
+        "name": "Côtes-d'Armor"
+    },
+    {
+        "name": "Creuse"
+    },
+    {
+        "name": "Deux-Sèvres"
+    },
+    {
+        "name": "Dordogne"
+    },
+    {
+        "name": "Doubs"
+    },
+    {
+        "name": "Drôme"
+    },
+    {
+        "name": "Essonne"
+    },
+    {
+        "name": "Eure"
+    },
+    {
+        "name": "Eure-et-Loir"
+    },
+    {
+        "name": "Finistère"
+    },
+    {
+        "name": "French Guiana"
+    },
+    {
+        "name": "French Polynesia"
+    },
+    {
+        "name": "French Southern and Antarctic Lands"
+    },
+    {
+        "name": "Gard"
+    },
+    {
+        "name": "Gers"
+    },
+    {
+        "name": "Gironde"
+    },
+    {
+        "name": "Grand-Est"
+    },
+    {
+        "name": "Guadeloupe"
+    },
+    {
+        "name": "Haut-Rhin"
+    },
+    {
+        "name": "Haute-Corse"
+    },
+    {
+        "name": "Haute-Garonne"
+    },
+    {
+        "name": "Haute-Loire"
+    },
+    {
+        "name": "Haute-Marne"
+    },
+    {
+        "name": "Haute-Saône"
+    },
+    {
+        "name": "Haute-Savoie"
+    },
+    {
+        "name": "Haute-Vienne"
+    },
+    {
+        "name": "Hautes-Alpes"
+    },
+    {
+        "name": "Hautes-Pyrénées"
+    },
+    {
+        "name": "Hauts-de-France"
+    },
+    {
+        "name": "Hauts-de-Seine"
+    },
+    {
+        "name": "Hérault"
+    },
+    {
+        "name": "Île-de-France"
+    },
+    {
+        "name": "Ille-et-Vilaine"
+    },
+    {
+        "name": "Indre"
+    },
+    {
+        "name": "Indre-et-Loire"
+    },
+    {
+        "name": "Isère"
+    },
+    {
+        "name": "Jura"
+    },
+    {
+        "name": "La Réunion"
+    },
+    {
+        "name": "Landes"
+    },
+    {
+        "name": "Loir-et-Cher"
+    },
+    {
+        "name": "Loire"
+    },
+    {
+        "name": "Loire-Atlantique"
+    },
+    {
+        "name": "Loiret"
+    },
+    {
+        "name": "Lot"
+    },
+    {
+        "name": "Lot-et-Garonne"
+    },
+    {
+        "name": "Lozère"
+    },
+    {
+        "name": "Maine-et-Loire"
+    },
+    {
+        "name": "Manche"
+    },
+    {
+        "name": "Marne"
+    },
+    {
+        "name": "Martinique"
+    },
+    {
+        "name": "Mayenne"
+    },
+    {
+        "name": "Mayotte"
+    },
+    {
+        "name": "Métropole de Lyon"
+    },
+    {
+        "name": "Meurthe-et-Moselle"
+    },
+    {
+        "name": "Meuse"
+    },
+    {
+        "name": "Morbihan"
+    },
+    {
+        "name": "Moselle"
+    },
+    {
+        "name": "Nièvre"
+    },
+    {
+        "name": "Nord"
+    },
+    {
+        "name": "Normandie"
+    },
+    {
+        "name": "Nouvelle-Aquitaine"
+    },
+    {
+        "name": "Occitanie"
+    },
+    {
+        "name": "Oise"
+    },
+    {
+        "name": "Orne"
+    },
+    {
+        "name": "Paris"
+    },
+    {
+        "name": "Pas-de-Calais"
+    },
+    {
+        "name": "Pays-de-la-Loire"
+    },
+    {
+        "name": "Provence-Alpes-Côte-d’Azur"
+    },
+    {
+        "name": "Puy-de-Dôme"
+    },
+    {
+        "name": "Pyrénées-Atlantiques"
+    },
+    {
+        "name": "Pyrénées-Orientales"
+    },
+    {
+        "name": "Rhône"
+    },
+    {
+        "name": "Saint Pierre and Miquelon"
+    },
+    {
+        "name": "Saint-Barthélemy"
+    },
+    {
+        "name": "Saint-Martin"
+    },
+    {
+        "name": "Saône-et-Loire"
+    },
+    {
+        "name": "Sarthe"
+    },
+    {
+        "name": "Savoie"
+    },
+    {
+        "name": "Seine-et-Marne"
+    },
+    {
+        "name": "Seine-Maritime"
+    },
+    {
+        "name": "Seine-Saint-Denis"
+    },
+    {
+        "name": "Somme"
+    },
+    {
+        "name": "Tarn"
+    },
+    {
+        "name": "Tarn-et-Garonne"
+    },
+    {
+        "name": "Territoire de Belfort"
+    },
+    {
+        "name": "Val-d'Oise"
+    },
+    {
+        "name": "Val-de-Marne"
+    },
+    {
+        "name": "Var"
+    },
+    {
+        "name": "Vaucluse"
+    },
+    {
+        "name": "Vendée"
+    },
+    {
+        "name": "Vienne"
+    },
+    {
+        "name": "Vosges"
+    },
+    {
+        "name": "Wallis and Futuna"
+    },
+    {
+        "name": "Yonne"
+    },
+    {
+        "name": "Yvelines"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "name": "A'ana",
+        "cities": [
+            "Fasito‘outa",
+            "Leulumoega",
+            "Nofoali‘i",
+            "Satapuala"
+        ]
+    },
+    {
+        "name": "Aiga-i-le-Tai",
+        "cities": [
+            "Mulifanua"
+        ]
+    },
+    {
+        "name": "Atua",
+        "cities": [
+            "Falefa",
+            "Lotofagā",
+            "Lufilufi",
+            "Solosolo"
+        ]
+    },
+    {
+        "name": "Fa'asaleleaga",
+        "cities": []
+    },
+    {
+        "name": "Gaga'emauga",
+        "cities": []
+    },
+    {
+        "name": "Gaga'ifomauga",
+        "cities": [
+            "Matavai",
+            "Safotu"
+        ]
+    },
+    {
+        "name": "Palauli",
+        "cities": [
+            "Gataivai",
+            "Vailoa"
+        ]
+    },
+    {
+        "name": "Satupa'itea",
+        "cities": []
+    },
+    {
+        "name": "Tuamasaga",
+        "cities": [
+            "Afega",
+            "Apia",
+            "Malie",
+            "Vailima",
+            "Vaiusu"
+        ]
+    },
+    {
+        "name": "Va'a-o-Fonoti",
+        "cities": [
+            "Samamea"
+        ]
+    },
+    {
+        "name": "Vaisigano",
+        "cities": [
+            "Asau"
+        ]
+    }
+]

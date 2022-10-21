@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Berea District",
+        "cities": [
+            "Teyateyaneng"
+        ]
+    },
+    {
+        "name": "Butha-Buthe District",
+        "cities": [
+            "Butha-Buthe"
+        ]
+    },
+    {
+        "name": "Leribe District",
+        "cities": [
+            "Leribe",
+            "Maputsoe"
+        ]
+    },
+    {
+        "name": "Mafeteng District",
+        "cities": [
+            "Mafeteng"
+        ]
+    },
+    {
+        "name": "Maseru District",
+        "cities": [
+            "Maseru",
+            "Nako"
+        ]
+    },
+    {
+        "name": "Mohale's Hoek District",
+        "cities": [
+            "Mohale’s Hoek"
+        ]
+    },
+    {
+        "name": "Mokhotlong District",
+        "cities": [
+            "Mokhotlong"
+        ]
+    },
+    {
+        "name": "Qacha's Nek District",
+        "cities": [
+            "Qacha’s Nek"
+        ]
+    },
+    {
+        "name": "Quthing District",
+        "cities": [
+            "Quthing"
+        ]
+    },
+    {
+        "name": "Thaba-Tseka District",
+        "cities": [
+            "Thaba-Tseka"
+        ]
+    }
+]

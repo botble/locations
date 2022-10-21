@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Antananarivo Province",
+        "cities": []
+    },
+    {
+        "name": "Antsiranana Province",
+        "cities": [
+            "Ampasimanolotra",
+            "Andovoranto",
+            "Mahanoro",
+            "Mahavelona",
+            "Marolambo",
+            "Toamasina",
+            "Toamasina I",
+            "Toamasina II",
+            "Vohibinany"
+        ]
+    },
+    {
+        "name": "Fianarantsoa Province",
+        "cities": []
+    },
+    {
+        "name": "Mahajanga Province",
+        "cities": []
+    },
+    {
+        "name": "Toamasina Province",
+        "cities": []
+    },
+    {
+        "name": "Toliara Province",
+        "cities": []
+    }
+]

@@ -1,0 +1,364 @@
+[
+    {
+        "name": "Azua Province",
+        "cities": [
+            "Azua",
+            "El Guayabal",
+            "Estebanía",
+            "Las Charcas",
+            "Padre Las Casas",
+            "Palmar de Ocoa",
+            "Peralta",
+            "Pueblo Viejo",
+            "Sabana Yegua",
+            "Tábara Arriba",
+            "Villarpando",
+            "Yayas de Viajama"
+        ]
+    },
+    {
+        "name": "Baoruco Province",
+        "cities": [
+            "El Palmar",
+            "Galván",
+            "La Uvilla",
+            "Los Ríos",
+            "Neiba",
+            "Tamayo",
+            "Villa Jaragua"
+        ]
+    },
+    {
+        "name": "Barahona Province",
+        "cities": [
+            "Cabral",
+            "Cachón",
+            "Canoa",
+            "El Peñón",
+            "Enriquillo",
+            "Fundación",
+            "Jaquimeyes",
+            "La Ciénaga",
+            "Las Salinas",
+            "Paraíso",
+            "Pescadería",
+            "Polo",
+            "Santa Cruz de Barahona",
+            "Vicente Noble"
+        ]
+    },
+    {
+        "name": "Dajabón Province",
+        "cities": [
+            "Dajabón",
+            "El Pino",
+            "Loma de Cabrera",
+            "Partido",
+            "Restauración"
+        ]
+    },
+    {
+        "name": "Distrito Nacional",
+        "cities": [
+            "Bella Vista",
+            "Ciudad Nueva",
+            "Cristo Rey",
+            "Ensanche Luperón",
+            "La Agustina",
+            "La Julia",
+            "San Carlos",
+            "Santo Domingo",
+            "Villa Consuelo",
+            "Villa Francisca"
+        ]
+    },
+    {
+        "name": "Duarte Province",
+        "cities": [
+            "Agua Santa del Yuna",
+            "Arenoso",
+            "Castillo",
+            "Hostos",
+            "Las Guáranas",
+            "Pimentel",
+            "San Francisco de Macorís",
+            "Villa Riva"
+        ]
+    },
+    {
+        "name": "El Seibo Province",
+        "cities": [
+            "Miches",
+            "Pedro Sánchez",
+            "Santa Cruz de El Seibo"
+        ]
+    },
+    {
+        "name": "Espaillat Province",
+        "cities": [
+            "Cayetano Germosén",
+            "Gaspar Hernández",
+            "Jamao al Norte",
+            "Joba Arriba",
+            "Juan López Abajo",
+            "Moca",
+            "San Víctor Arriba",
+            "Veragua Arriba"
+        ]
+    },
+    {
+        "name": "Hato Mayor Province",
+        "cities": [
+            "El Valle",
+            "Guayabo Dulce",
+            "Hato Mayor del Rey",
+            "Sabana de la Mar"
+        ]
+    },
+    {
+        "name": "Hermanas Mirabal Province",
+        "cities": [
+            "Salcedo",
+            "Salsipuedes",
+            "Tenares",
+            "Villa Tapia"
+        ]
+    },
+    {
+        "name": "Independencia",
+        "cities": [
+            "Cristóbal",
+            "Duvergé",
+            "Guayabal",
+            "Jimaní",
+            "La Descubierta",
+            "Mella",
+            "Postrer Río"
+        ]
+    },
+    {
+        "name": "La Altagracia Province",
+        "cities": [
+            "Boca de Yuma",
+            "Higüey",
+            "Otra Banda",
+            "Punta Cana",
+            "Salvaleón de Higüey",
+            "San Rafael del Yuma"
+        ]
+    },
+    {
+        "name": "La Romana Province",
+        "cities": [
+            "Guaymate",
+            "La Romana"
+        ]
+    },
+    {
+        "name": "La Vega Province",
+        "cities": [
+            "Concepción de La Vega",
+            "Constanza",
+            "Jarabacoa",
+            "Jima Abajo",
+            "Rincón",
+            "Río Verde Arriba",
+            "Tireo Arriba"
+        ]
+    },
+    {
+        "name": "María Trinidad Sánchez Province",
+        "cities": [
+            "Arroyo Salado",
+            "Cabrera",
+            "El Factor",
+            "La Entrada",
+            "Nagua",
+            "Río San Juan"
+        ]
+    },
+    {
+        "name": "Monseñor Nouel Province",
+        "cities": [
+            "Bonao",
+            "Juan Adrián",
+            "Maimón",
+            "Piedra Blanca",
+            "Sabana del Puerto"
+        ]
+    },
+    {
+        "name": "Monte Cristi Province",
+        "cities": [
+            "Cana Chapetón",
+            "Castañuelas",
+            "Guayubín",
+            "Hatillo Palma",
+            "Las Matas de Santa Cruz",
+            "Monte Cristi",
+            "Pepillo Salcedo",
+            "San Fernando de Monte Cristi",
+            "Villa Elisa",
+            "Villa Vásquez"
+        ]
+    },
+    {
+        "name": "Monte Plata Province",
+        "cities": [
+            "Bayaguana",
+            "Don Juan",
+            "Esperalvillo",
+            "Gonzalo",
+            "Los Botados",
+            "Majagual",
+            "Monte Plata",
+            "Sabana Grande de Boyá",
+            "Yamasá"
+        ]
+    },
+    {
+        "name": "Pedernales Province",
+        "cities": [
+            "Juancho",
+            "Oviedo",
+            "Pedernales"
+        ]
+    },
+    {
+        "name": "Peravia Province",
+        "cities": [
+            "Baní",
+            "Matanzas",
+            "Nizao",
+            "Paya",
+            "Pizarrete",
+            "Sabana Buey"
+        ]
+    },
+    {
+        "name": "Puerto Plata Province",
+        "cities": [
+            "Altamira",
+            "Cabarete",
+            "Estero Hondo",
+            "Guananico",
+            "Imbert",
+            "Los Hidalgos",
+            "Luperón",
+            "Monte Llano",
+            "Puerto Plata",
+            "Río Grande",
+            "Sosúa",
+            "Villa Isabela"
+        ]
+    },
+    {
+        "name": "Samaná Province",
+        "cities": [
+            "Las Terrenas",
+            "Samaná",
+            "Sánchez"
+        ]
+    },
+    {
+        "name": "San Cristóbal Province",
+        "cities": [
+            "Bajos de Haina",
+            "Cambita Garabitos",
+            "El Cacao",
+            "El Carril",
+            "Sabana Grande de Palenque",
+            "San Cristóbal",
+            "San Gregorio de Nigua",
+            "Villa Altagracia",
+            "Yaguate"
+        ]
+    },
+    {
+        "name": "San José de Ocoa Province",
+        "cities": [
+            "San José de Ocoa"
+        ]
+    },
+    {
+        "name": "San Juan Province",
+        "cities": [
+            "Bohechío",
+            "Cercado Abajo",
+            "El Cercado",
+            "Juan de Herrera",
+            "Las Matas de Farfán",
+            "Matayaya",
+            "Pedro Corto",
+            "San Juan de la Maguana",
+            "Vallejuelo"
+        ]
+    },
+    {
+        "name": "San Pedro de Macorís",
+        "cities": [
+            "El Puerto",
+            "Los Llanos",
+            "Quisqueya",
+            "Ramón Santana",
+            "San Pedro de Macorís"
+        ]
+    },
+    {
+        "name": "Sánchez Ramírez Province",
+        "cities": [
+            "Cevicos",
+            "Cotuí",
+            "Fantino"
+        ]
+    },
+    {
+        "name": "Santiago Province",
+        "cities": [
+            "Baitoa",
+            "Bisonó",
+            "Juncalito Abajo",
+            "La Canela",
+            "Licey al Medio",
+            "Palmar Arriba",
+            "Pedro García",
+            "Sabana Iglesia",
+            "San José de Las Matas",
+            "Santiago de los Caballeros",
+            "Santo Tomás de Jánico",
+            "Tamboril",
+            "Villa Bisonó",
+            "Villa González"
+        ]
+    },
+    {
+        "name": "Santiago Rodríguez Province",
+        "cities": [
+            "Monción",
+            "Sabaneta",
+            "San Ignacio de Sabaneta"
+        ]
+    },
+    {
+        "name": "Santo Domingo Province",
+        "cities": [
+            "Boca Chica",
+            "Santo Domingo Este",
+            "Santo Domingo Oeste"
+        ]
+    },
+    {
+        "name": "Valverde Province",
+        "cities": [
+            "Amina",
+            "Esperanza",
+            "Guatapanal",
+            "Jaibón",
+            "Jicomé",
+            "La Caya",
+            "Laguna Salada",
+            "Maizal",
+            "Mao"
+        ]
+    }
+]

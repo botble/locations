@@ -1,0 +1,208 @@
+[
+    {
+        "name": "Bougainville",
+        "cities": [
+            "Arawa",
+            "Central Bougainville",
+            "Kieta",
+            "North Bougainville",
+            "Panguna",
+            "South Bougainville"
+        ]
+    },
+    {
+        "name": "Central Province",
+        "cities": [
+            "Abau",
+            "Goilala",
+            "Kairuku-Hiri",
+            "Rigo"
+        ]
+    },
+    {
+        "name": "Chimbu Province",
+        "cities": [
+            "Chuave",
+            "Gumine",
+            "Karimui Nomane",
+            "Kerowagi",
+            "Kundiawa",
+            "Sinasina Yonggamugl"
+        ]
+    },
+    {
+        "name": "East New Britain",
+        "cities": [
+            "Gazelle",
+            "Kokopo",
+            "Pomio",
+            "Rabaul"
+        ]
+    },
+    {
+        "name": "Eastern Highlands Province",
+        "cities": [
+            "Daulo",
+            "Goroka",
+            "Henganofi",
+            "Kainantu",
+            "Lufa",
+            "Obura Wonenara",
+            "Okapa",
+            "Unggai Bena"
+        ]
+    },
+    {
+        "name": "Enga Province",
+        "cities": [
+            "Kandep",
+            "Kompiam Ambum",
+            "Lagaip Porgera",
+            "Porgera",
+            "Wabag",
+            "Wapenamanda"
+        ]
+    },
+    {
+        "name": "Gulf",
+        "cities": [
+            "Kerema",
+            "Kikori"
+        ]
+    },
+    {
+        "name": "Hela",
+        "cities": [
+            "Komo Margarima",
+            "Koroba-Lake Kopiago",
+            "Tari",
+            "Tari Pori"
+        ]
+    },
+    {
+        "name": "Jiwaka Province",
+        "cities": [
+            "Angalimp South Wahgi",
+            "Jimi",
+            "North Wahgi"
+        ]
+    },
+    {
+        "name": "Madang Province",
+        "cities": [
+            "Bogia",
+            "Madang",
+            "Middle Ramu",
+            "Rai Coast",
+            "Sumkar",
+            "Usino Bundi"
+        ]
+    },
+    {
+        "name": "Manus Province",
+        "cities": [
+            "Lorengau",
+            "Manus"
+        ]
+    },
+    {
+        "name": "Milne Bay Province",
+        "cities": [
+            "Alotau",
+            "Esa’ala",
+            "Kiriwina Goodenough",
+            "Samarai",
+            "Samarai Murua"
+        ]
+    },
+    {
+        "name": "Morobe Province",
+        "cities": [
+            "Bulolo",
+            "Finschhafen",
+            "Huon Gulf",
+            "Kabwum",
+            "Lae",
+            "Markham",
+            "Menyamya",
+            "Nawae",
+            "Tewai Siassi",
+            "Wau"
+        ]
+    },
+    {
+        "name": "New Ireland Province",
+        "cities": [
+            "Kavieng",
+            "Namatanai"
+        ]
+    },
+    {
+        "name": "Oro Province",
+        "cities": [
+            "Ijivitari",
+            "Kokoda",
+            "Popondetta",
+            "Sohe"
+        ]
+    },
+    {
+        "name": "Port Moresby",
+        "cities": [
+            "National Capital District",
+            "Port Moresby"
+        ]
+    },
+    {
+        "name": "Sandaun Province",
+        "cities": [
+            "Aitape",
+            "Aitape Lumi",
+            "Nuku",
+            "Telefomin",
+            "Vanimo",
+            "Vanimo Green"
+        ]
+    },
+    {
+        "name": "Southern Highlands Province",
+        "cities": [
+            "Ialibu",
+            "Ialibu Pangia",
+            "Imbonggu",
+            "Kagua Erave",
+            "Mendi",
+            "Nipa Kutubu"
+        ]
+    },
+    {
+        "name": "West New Britain Province",
+        "cities": [
+            "Kandrian",
+            "Kandrian Gloucester",
+            "Kimbe",
+            "Talasea"
+        ]
+    },
+    {
+        "name": "Western Highlands Province",
+        "cities": [
+            "Baiyer Mul",
+            "Dei",
+            "Hagen",
+            "Mount Hagen",
+            "Tambul Nebilyer"
+        ]
+    },
+    {
+        "name": "Western Province",
+        "cities": [
+            "Daru",
+            "Kiunga",
+            "Middle Fly",
+            "Morehead",
+            "North Fly",
+            "South Fly"
+        ]
+    }
+]

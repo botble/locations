@@ -1,0 +1,272 @@
+[
+    {
+        "name": "Benešov"
+    },
+    {
+        "name": "Beroun"
+    },
+    {
+        "name": "Blansko"
+    },
+    {
+        "name": "Břeclav"
+    },
+    {
+        "name": "Brno-město"
+    },
+    {
+        "name": "Brno-venkov"
+    },
+    {
+        "name": "Bruntál"
+    },
+    {
+        "name": "Česká Lípa"
+    },
+    {
+        "name": "České Budějovice"
+    },
+    {
+        "name": "Český Krumlov"
+    },
+    {
+        "name": "Cheb"
+    },
+    {
+        "name": "Chomutov"
+    },
+    {
+        "name": "Chrudim"
+    },
+    {
+        "name": "Děčín"
+    },
+    {
+        "name": "Domažlice"
+    },
+    {
+        "name": "Frýdek-Místek"
+    },
+    {
+        "name": "Havlíčkův Brod"
+    },
+    {
+        "name": "Hodonín"
+    },
+    {
+        "name": "Hradec Králové"
+    },
+    {
+        "name": "Jablonec nad Nisou"
+    },
+    {
+        "name": "Jeseník"
+    },
+    {
+        "name": "Jičín"
+    },
+    {
+        "name": "Jihlava"
+    },
+    {
+        "name": "Jihočeský kraj"
+    },
+    {
+        "name": "Jihomoravský kraj"
+    },
+    {
+        "name": "Jindřichův Hradec"
+    },
+    {
+        "name": "Karlovarský kraj"
+    },
+    {
+        "name": "Karlovy Vary"
+    },
+    {
+        "name": "Karviná"
+    },
+    {
+        "name": "Kladno"
+    },
+    {
+        "name": "Klatovy"
+    },
+    {
+        "name": "Kolín"
+    },
+    {
+        "name": "Kraj Vysočina"
+    },
+    {
+        "name": "Královéhradecký kraj"
+    },
+    {
+        "name": "Kroměříž"
+    },
+    {
+        "name": "Kutná Hora"
+    },
+    {
+        "name": "Liberec"
+    },
+    {
+        "name": "Liberecký kraj"
+    },
+    {
+        "name": "Litoměřice"
+    },
+    {
+        "name": "Louny"
+    },
+    {
+        "name": "Mělník"
+    },
+    {
+        "name": "Mladá Boleslav"
+    },
+    {
+        "name": "Moravskoslezský kraj"
+    },
+    {
+        "name": "Most"
+    },
+    {
+        "name": "Náchod"
+    },
+    {
+        "name": "Nový Jičín"
+    },
+    {
+        "name": "Nymburk"
+    },
+    {
+        "name": "Olomouc"
+    },
+    {
+        "name": "Olomoucký kraj"
+    },
+    {
+        "name": "Opava"
+    },
+    {
+        "name": "Ostrava-město"
+    },
+    {
+        "name": "Pardubice"
+    },
+    {
+        "name": "Pardubický kraj"
+    },
+    {
+        "name": "Pelhřimov"
+    },
+    {
+        "name": "Písek"
+    },
+    {
+        "name": "Plzeň-jih"
+    },
+    {
+        "name": "Plzeň-město"
+    },
+    {
+        "name": "Plzeň-sever"
+    },
+    {
+        "name": "Plzeňský kraj"
+    },
+    {
+        "name": "Prachatice"
+    },
+    {
+        "name": "Praha-východ"
+    },
+    {
+        "name": "Praha-západ"
+    },
+    {
+        "name": "Praha, Hlavní město"
+    },
+    {
+        "name": "Přerov"
+    },
+    {
+        "name": "Příbram"
+    },
+    {
+        "name": "Prostějov"
+    },
+    {
+        "name": "Rakovník"
+    },
+    {
+        "name": "Rokycany"
+    },
+    {
+        "name": "Rychnov nad Kněžnou"
+    },
+    {
+        "name": "Semily"
+    },
+    {
+        "name": "Sokolov"
+    },
+    {
+        "name": "Strakonice"
+    },
+    {
+        "name": "Středočeský kraj"
+    },
+    {
+        "name": "Šumperk"
+    },
+    {
+        "name": "Svitavy"
+    },
+    {
+        "name": "Tábor"
+    },
+    {
+        "name": "Tachov"
+    },
+    {
+        "name": "Teplice"
+    },
+    {
+        "name": "Třebíč"
+    },
+    {
+        "name": "Trutnov"
+    },
+    {
+        "name": "Uherské Hradiště"
+    },
+    {
+        "name": "Ústecký kraj"
+    },
+    {
+        "name": "Ústí nad Labem"
+    },
+    {
+        "name": "Ústí nad Orlicí"
+    },
+    {
+        "name": "Vsetín"
+    },
+    {
+        "name": "Vyškov"
+    },
+    {
+        "name": "Žďár nad Sázavou"
+    },
+    {
+        "name": "Zlín"
+    },
+    {
+        "name": "Zlínský kraj"
+    },
+    {
+        "name": "Znojmo"
+    }
+]

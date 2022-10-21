@@ -1,0 +1,163 @@
+[
+    {
+        "name": "Al Jazirah",
+        "cities": [
+            "Al Hasaheisa",
+            "Al Hilāliyya",
+            "Al Kiremit al ‘Arakiyyīn",
+            "Al Manāqil",
+            "Al Masallamiyya",
+            "Wad Medani",
+            "Wad Rāwah"
+        ]
+    },
+    {
+        "name": "Al Qadarif",
+        "cities": [
+            "Al Ḩawātah",
+            "Al Qadarif",
+            "Doka"
+        ]
+    },
+    {
+        "name": "Blue Nile",
+        "cities": [
+            "Ad-Damazin",
+            "Ar Ruseris",
+            "Kurmuk"
+        ]
+    },
+    {
+        "name": "Central Darfur",
+        "cities": [
+            "Zalingei"
+        ]
+    },
+    {
+        "name": "East Darfur",
+        "cities": [
+            "El Daein"
+        ]
+    },
+    {
+        "name": "Kassala",
+        "cities": [
+            "Aroma",
+            "Kassala",
+            "Wagar"
+        ]
+    },
+    {
+        "name": "Khartoum",
+        "cities": [
+            "Khartoum",
+            "Omdurman"
+        ]
+    },
+    {
+        "name": "North Darfur",
+        "cities": [
+            "El Fasher",
+            "Kutum",
+            "Umm Kaddadah"
+        ]
+    },
+    {
+        "name": "North Kordofan",
+        "cities": [
+            "Ar Rahad",
+            "Bārah",
+            "El Obeid",
+            "Umm Ruwaba"
+        ]
+    },
+    {
+        "name": "Northern",
+        "cities": [
+            "Ad Dabbah",
+            "Argo",
+            "Dongola",
+            "Karmah an Nuzul",
+            "Kuraymah",
+            "Merowe"
+        ]
+    },
+    {
+        "name": "Red Sea",
+        "cities": [
+            "Gebeit",
+            "Port Sudan",
+            "Sawākin",
+            "Tokār"
+        ]
+    },
+    {
+        "name": "River Nile",
+        "cities": [
+            "Atbara",
+            "Berber",
+            "Ed Damer",
+            "El Bauga",
+            "El Matama",
+            "Shendi"
+        ]
+    },
+    {
+        "name": "Sennar",
+        "cities": [
+            "Ad Dindar",
+            "As Sūkī",
+            "Jalqani",
+            "Kināna",
+            "Maiurno",
+            "Singa",
+            "Sinnar"
+        ]
+    },
+    {
+        "name": "South Darfur",
+        "cities": [
+            "Gereida",
+            "Nyala"
+        ]
+    },
+    {
+        "name": "South Kordofan",
+        "cities": [
+            "Abu Jibeha",
+            "Al Fūlah",
+            "Dilling",
+            "Kadugli",
+            "Talodi"
+        ]
+    },
+    {
+        "name": "West Darfur",
+        "cities": [
+            "Geneina"
+        ]
+    },
+    {
+        "name": "West Kordofan",
+        "cities": [
+            "Abū Zabad",
+            "Al Lagowa",
+            "Al Mijlad",
+            "An Nuhūd"
+        ]
+    },
+    {
+        "name": "White Nile",
+        "cities": [
+            "Ad Douiem",
+            "Al Kawa",
+            "Al Qiţena",
+            "Kosti",
+            "Marabba",
+            "Rabak",
+            "Tandaltī",
+            "Um Jar Al Gharbiyya",
+            "Wad az Zāki"
+        ]
+    }
+]

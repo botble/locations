@@ -1,0 +1,172 @@
+[
+    {
+        "name": "Attapeu Province",
+        "cities": [
+            "Attapeu",
+            "Muang Phouvong",
+            "Muang Samakhixai",
+            "Muang Sanamxai",
+            "Muang Sanxai",
+            "Muang Xaiséttha"
+        ]
+    },
+    {
+        "name": "Bokeo Province",
+        "cities": [
+            "Ban Houakhoua",
+            "Ban Houayxay",
+            "Muang Houayxay",
+            "Muang Meung",
+            "Muang Paktha",
+            "Muang Pha Oudôm",
+            "Muang Tônpheung"
+        ]
+    },
+    {
+        "name": "Bolikhamsai Province",
+        "cities": [
+            "Ban Nahin",
+            "Pakxan"
+        ]
+    },
+    {
+        "name": "Champasak Province",
+        "cities": [
+            "Champasak",
+            "Muang Bachiangchaleunsook",
+            "Muang Champasak",
+            "Muang Không",
+            "Muang Mounlapamôk",
+            "Muang Pakxé",
+            "Muang Pakxong",
+            "Muang Pathoumphon",
+            "Muang Phônthong",
+            "Muang Soukhouma",
+            "Muang Xanasômboun",
+            "Pakse",
+            "Pakxong"
+        ]
+    },
+    {
+        "name": "Houaphanh Province",
+        "cities": [
+            "Xam Neua",
+            "Xam Nua"
+        ]
+    },
+    {
+        "name": "Khammouane Province",
+        "cities": [
+            "Muang Thakhèk",
+            "Thakhèk"
+        ]
+    },
+    {
+        "name": "Luang Namtha Province",
+        "cities": [
+            "Luang Namtha",
+            "Muang Louang Namtha"
+        ]
+    },
+    {
+        "name": "Luang Prabang Province",
+        "cities": [
+            "Luang Prabang"
+        ]
+    },
+    {
+        "name": "Oudomxay Province",
+        "cities": [
+            "Muang Xay"
+        ]
+    },
+    {
+        "name": "Phongsaly Province",
+        "cities": [
+            "Phôngsali"
+        ]
+    },
+    {
+        "name": "Sainyabuli Province",
+        "cities": [
+            "Sainyabuli"
+        ]
+    },
+    {
+        "name": "Salavan Province",
+        "cities": [
+            "Muang Khôngxédôn",
+            "Muang Lakhonphéng",
+            "Muang Laongam",
+            "Muang Samouay",
+            "Muang Saravan",
+            "Muang Ta-Ôy",
+            "Muang Toumlan",
+            "Muang Vapi",
+            "Salavan"
+        ]
+    },
+    {
+        "name": "Savannakhet Province",
+        "cities": [
+            "Kaysone Phomvihane",
+            "Muang Alsaphangthong",
+            "Muang Atsaphan",
+            "Muang Champhon",
+            "Muang Nong",
+            "Muang Outhoumphon",
+            "Muang Phin",
+            "Muang Songkhon",
+            "Muang Thapangthong",
+            "Muang Vilabouli",
+            "Muang Xaibouli",
+            "Muang Xayphoothong",
+            "Muang Xônbouli",
+            "Savannakhet",
+            "Thaphalanxay"
+        ]
+    },
+    {
+        "name": "Sekong Province",
+        "cities": [
+            "Ban Thatèng",
+            "Lamam",
+            "Muang Dakchung",
+            "Muang Khaleum",
+            "Muang Laman",
+            "Muang Thatèng"
+        ]
+    },
+    {
+        "name": "Vientiane Prefecture",
+        "cities": [
+            "Vientiane"
+        ]
+    },
+    {
+        "name": "Vientiane Province",
+        "cities": [
+            "Muang Phôn-Hông",
+            "Vangviang"
+        ]
+    },
+    {
+        "name": "Xaisomboun",
+        "cities": []
+    },
+    {
+        "name": "Xaisomboun Province",
+        "cities": [
+            "Anouvong district",
+            "Longchaeng",
+            "Muang Longxan",
+            "Muang Thathôm"
+        ]
+    },
+    {
+        "name": "Xiangkhouang Province",
+        "cities": [
+            "Muang Phônsavan"
+        ]
+    }
+]

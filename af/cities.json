@@ -1,0 +1,259 @@
+[
+    {
+        "name": "Badakhshan",
+        "cities": [
+            "Ashkāsham",
+            "Fayzabad",
+            "Jurm",
+            "Khandūd",
+            "Rāghistān",
+            "Wākhān"
+        ]
+    },
+    {
+        "name": "Badghis",
+        "cities": [
+            "Ghormach",
+            "Qala i Naw"
+        ]
+    },
+    {
+        "name": "Baghlan",
+        "cities": [
+            "Baghlān",
+            "Ḩukūmatī Dahanah-ye Ghōrī",
+            "Nahrīn",
+            "Pul-e Khumrī"
+        ]
+    },
+    {
+        "name": "Balkh",
+        "cities": [
+            "Balkh",
+            "Dowlatābād",
+            "Khulm",
+            "Lab-Sar",
+            "Mazār-e Sharīf",
+            "Qarchī Gak"
+        ]
+    },
+    {
+        "name": "Bamyan",
+        "cities": [
+            "Bāmyān",
+            "Panjāb"
+        ]
+    },
+    {
+        "name": "Daykundi",
+        "cities": [
+            "Nīlī"
+        ]
+    },
+    {
+        "name": "Farah",
+        "cities": [
+            "Farah"
+        ]
+    },
+    {
+        "name": "Faryab",
+        "cities": [
+            "Andkhoy",
+            "Maymana"
+        ]
+    },
+    {
+        "name": "Ghazni",
+        "cities": [
+            "Ghazni"
+        ]
+    },
+    {
+        "name": "Ghōr",
+        "cities": [
+            "Fayrōz Kōh",
+            "Shahrak"
+        ]
+    },
+    {
+        "name": "Helmand",
+        "cities": [
+            "‘Alāqahdārī Dīshū",
+            "Gereshk",
+            "Lashkar Gāh",
+            "Markaz-e Ḩukūmat-e Darwēshān",
+            "Sangīn"
+        ]
+    },
+    {
+        "name": "Herat",
+        "cities": [
+            "Chahār Burj",
+            "Ghōriyān",
+            "Herāt",
+            "Kafir Qala",
+            "Karukh",
+            "Kuhsān",
+            "Kushk",
+            "Qarah Bāgh",
+            "Shīnḏanḏ",
+            "Tīr Pul",
+            "Zindah Jān"
+        ]
+    },
+    {
+        "name": "Jowzjan",
+        "cities": [
+            "Āqchah",
+            "Darzāb",
+            "Qarqīn",
+            "Shibirghān"
+        ]
+    },
+    {
+        "name": "Kabul",
+        "cities": [
+            "Kabul",
+            "Mīr Bachah Kōṯ",
+            "Paghmān"
+        ]
+    },
+    {
+        "name": "Kandahar",
+        "cities": [
+            "Kandahār"
+        ]
+    },
+    {
+        "name": "Kapisa",
+        "cities": [
+            "Sidqābād"
+        ]
+    },
+    {
+        "name": "Khost",
+        "cities": [
+            "Khōst"
+        ]
+    },
+    {
+        "name": "Kunar",
+        "cities": [
+            "Asadabad",
+            "Āsmār"
+        ]
+    },
+    {
+        "name": "Kunduz Province",
+        "cities": [
+            "Dasht-e Archī",
+            "Imām Şāḩib",
+            "Khanabad",
+            "Kunduz",
+            "Qarāwul"
+        ]
+    },
+    {
+        "name": "Laghman",
+        "cities": [
+            "Mehtar Lām"
+        ]
+    },
+    {
+        "name": "Logar",
+        "cities": [
+            "Baraki Barak",
+            "Ḩukūmatī Azrah",
+            "Pul-e ‘Alam"
+        ]
+    },
+    {
+        "name": "Nangarhar",
+        "cities": [
+            "Bāsawul",
+            "Jalālābād",
+            "Markaz-e Woluswalī-ye Āchīn"
+        ]
+    },
+    {
+        "name": "Nimruz",
+        "cities": [
+            "Khāsh",
+            "Mīrābād",
+            "Rūdbār",
+            "Zaranj"
+        ]
+    },
+    {
+        "name": "Nuristan",
+        "cities": [
+            "Pārūn"
+        ]
+    },
+    {
+        "name": "Paktia",
+        "cities": [
+            "Gardez"
+        ]
+    },
+    {
+        "name": "Paktika",
+        "cities": [
+            "Saṟōbī",
+            "Zaṟah Sharan",
+            "Zarghūn Shahr"
+        ]
+    },
+    {
+        "name": "Panjshir",
+        "cities": [
+            "Bāzārak"
+        ]
+    },
+    {
+        "name": "Parwan",
+        "cities": [
+            "Charikar",
+            "Jabal os Saraj"
+        ]
+    },
+    {
+        "name": "Samangan",
+        "cities": [
+            "Aībak"
+        ]
+    },
+    {
+        "name": "Sar-e Pol",
+        "cities": [
+            "Chīras",
+            "Larkird",
+            "Qal‘ah-ye Shahr",
+            "Sang-e Chārak",
+            "Sar-e Pul",
+            "Tagāw-Bāy",
+            "Tukzār"
+        ]
+    },
+    {
+        "name": "Takhar",
+        "cities": [
+            "Ārt Khwājah",
+            "Taloqan"
+        ]
+    },
+    {
+        "name": "Urozgan",
+        "cities": [
+            "Tarinkot",
+            "Uruzgān"
+        ]
+    },
+    {
+        "name": "Zabul",
+        "cities": [
+            "Qalāt"
+        ]
+    }
+]

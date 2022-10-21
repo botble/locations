@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Belize District",
+        "cities": [
+            "Belize City",
+            "San Pedro"
+        ]
+    },
+    {
+        "name": "Cayo District",
+        "cities": [
+            "Belmopan",
+            "Benque Viejo el Carmen",
+            "San Ignacio",
+            "Valley of Peace"
+        ]
+    },
+    {
+        "name": "Corozal District",
+        "cities": [
+            "Corozal"
+        ]
+    },
+    {
+        "name": "Orange Walk District",
+        "cities": [
+            "Hopelchén",
+            "Orange Walk",
+            "Shipyard"
+        ]
+    },
+    {
+        "name": "Stann Creek District",
+        "cities": [
+            "Dangriga",
+            "Placencia"
+        ]
+    },
+    {
+        "name": "Toledo District",
+        "cities": [
+            "Punta Gorda"
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Funafuti",
+        "cities": [
+            "Alapi Village",
+            "Fakaifou Village",
+            "Funafuti"
+        ]
+    },
+    {
+        "name": "Nanumanga",
+        "cities": [
+            "Toga Village"
+        ]
+    },
+    {
+        "name": "Nanumea",
+        "cities": []
+    },
+    {
+        "name": "Niutao Island Council",
+        "cities": [
+            "Kulia Village",
+            "Niulakita"
+        ]
+    },
+    {
+        "name": "Nui",
+        "cities": [
+            "Tanrake Village"
+        ]
+    },
+    {
+        "name": "Nukufetau",
+        "cities": [
+            "Savave Village"
+        ]
+    },
+    {
+        "name": "Nukulaelae",
+        "cities": []
+    },
+    {
+        "name": "Vaitupu",
+        "cities": [
+            "Asau Village"
+        ]
+    }
+]

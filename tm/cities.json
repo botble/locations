@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Ahal Region",
+        "cities": [
+            "Abadan",
+            "Annau",
+            "Arçabil",
+            "Baharly",
+            "Kaka",
+            "Tejen"
+        ]
+    },
+    {
+        "name": "Ashgabat",
+        "cities": [
+            "Ashgabat"
+        ]
+    },
+    {
+        "name": "Balkan Region",
+        "cities": [
+            "Balkanabat",
+            "Bereket",
+            "Gumdag",
+            "Magtymguly",
+            "Serdar",
+            "Türkmenbaşy"
+        ]
+    },
+    {
+        "name": "Daşoguz Region",
+        "cities": [
+            "Akdepe",
+            "Boldumsaz",
+            "Daşoguz",
+            "Köneürgench",
+            "Tagta",
+            "Yylanly"
+        ]
+    },
+    {
+        "name": "Lebap Region",
+        "cities": [
+            "Atamyrat",
+            "Farap",
+            "Gazojak",
+            "Gowurdak",
+            "Saýat",
+            "Türkmenabat"
+        ]
+    },
+    {
+        "name": "Mary Region",
+        "cities": [
+            "Bayramaly",
+            "Mary",
+            "Serhetabat",
+            "Seydi",
+            "Yolöten"
+        ]
+    }
+]

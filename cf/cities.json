@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Bamingui-Bangoran Prefecture",
+        "cities": [
+            "Bamingui",
+            "Ndélé"
+        ]
+    },
+    {
+        "name": "Bangui",
+        "cities": [
+            "Bangui"
+        ]
+    },
+    {
+        "name": "Basse-Kotto Prefecture",
+        "cities": [
+            "Alindao",
+            "Kembé",
+            "Mobaye"
+        ]
+    },
+    {
+        "name": "Haut-Mbomou Prefecture",
+        "cities": [
+            "Obo",
+            "Zemio"
+        ]
+    },
+    {
+        "name": "Haute-Kotto Prefecture",
+        "cities": [
+            "Bria",
+            "Ouadda"
+        ]
+    },
+    {
+        "name": "Kémo Prefecture",
+        "cities": [
+            "Sibut"
+        ]
+    },
+    {
+        "name": "Lobaye Prefecture",
+        "cities": [
+            "Boda",
+            "Boganangone",
+            "Mbaiki",
+            "Mongoumba"
+        ]
+    },
+    {
+        "name": "Mambéré-Kadéï",
+        "cities": [
+            "Berberati",
+            "Carnot",
+            "Gamboula"
+        ]
+    },
+    {
+        "name": "Mbomou Prefecture",
+        "cities": [
+            "Bangassou",
+            "Gambo",
+            "Ouango",
+            "Rafai"
+        ]
+    },
+    {
+        "name": "Nana-Grébizi Economic Prefecture",
+        "cities": [
+            "Kaga Bandoro",
+            "Kaga-Bandoro"
+        ]
+    },
+    {
+        "name": "Nana-Mambéré Prefecture",
+        "cities": [
+            "Baoro",
+            "Bouar"
+        ]
+    },
+    {
+        "name": "Ombella-M'Poko Prefecture",
+        "cities": [
+            "Bimbo",
+            "Boali",
+            "Damara"
+        ]
+    },
+    {
+        "name": "Ouaka Prefecture",
+        "cities": [
+            "Bambari",
+            "Grimari",
+            "Ippy",
+            "Kouango"
+        ]
+    },
+    {
+        "name": "Ouham Prefecture",
+        "cities": [
+            "Batangafo",
+            "Bossangoa",
+            "Bouca",
+            "Kabo"
+        ]
+    },
+    {
+        "name": "Ouham-Pendé Prefecture",
+        "cities": [
+            "Bocaranga",
+            "Bozoum",
+            "Paoua"
+        ]
+    },
+    {
+        "name": "Sangha-Mbaéré",
+        "cities": [
+            "Nola"
+        ]
+    },
+    {
+        "name": "Vakaga Prefecture",
+        "cities": [
+            "Birao",
+            "Ouanda-Djallé"
+        ]
+    }
+]

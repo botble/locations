@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Acquaviva",
+        "cities": [
+            "Acquaviva"
+        ]
+    },
+    {
+        "name": "Borgo Maggiore",
+        "cities": [
+            "Borgo Maggiore"
+        ]
+    },
+    {
+        "name": "Chiesanuova",
+        "cities": [
+            "Poggio di Chiesanuova"
+        ]
+    },
+    {
+        "name": "Domagnano",
+        "cities": [
+            "Domagnano"
+        ]
+    },
+    {
+        "name": "Faetano",
+        "cities": [
+            "Faetano"
+        ]
+    },
+    {
+        "name": "Fiorentino",
+        "cities": [
+            "Fiorentino"
+        ]
+    },
+    {
+        "name": "Montegiardino",
+        "cities": [
+            "Monte Giardino"
+        ]
+    },
+    {
+        "name": "San Marino",
+        "cities": [
+            "San Marino"
+        ]
+    },
+    {
+        "name": "Serravalle",
+        "cities": [
+            "Serravalle"
+        ]
+    }
+]

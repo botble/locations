@@ -1,0 +1,99 @@
+[
+    {
+        "name": "Batken Region",
+        "cities": [
+            "Aydarken",
+            "Batken",
+            "Iradan",
+            "Isfana",
+            "Karavan",
+            "Kyzyl-Kyya",
+            "Suluktu"
+        ]
+    },
+    {
+        "name": "Bishkek",
+        "cities": [
+            "Bishkek"
+        ]
+    },
+    {
+        "name": "Chuy Region",
+        "cities": [
+            "Alamudunskiy Rayon",
+            "Belovodskoye",
+            "Chuyskiy Rayon",
+            "Ivanovka",
+            "Kaindy",
+            "Kant",
+            "Kara-Balta",
+            "Kemin",
+            "Lebedinovka",
+            "Sokulukskiy Rayon",
+            "Sosnovka",
+            "Tokmok",
+            "Ysyk-Ata"
+        ]
+    },
+    {
+        "name": "Issyk-Kul Region",
+        "cities": [
+            "Ak-Suu",
+            "Balykchy",
+            "Cholpon-Ata",
+            "Kadzhi-Say",
+            "Karakol",
+            "Kyzyl-Suu",
+            "Tyup"
+        ]
+    },
+    {
+        "name": "Jalal-Abad Region",
+        "cities": [
+            "Ala-Buka",
+            "Bazar-Korgon",
+            "Jalal-Abad",
+            "Kazarman",
+            "Kerben",
+            "Kochkor-Ata",
+            "Suzak",
+            "Tash-Kumyr",
+            "Toktogul",
+            "Toktogul District"
+        ]
+    },
+    {
+        "name": "Naryn Region",
+        "cities": [
+            "At-Bashi",
+            "Jumgal",
+            "Naryn"
+        ]
+    },
+    {
+        "name": "Osh",
+        "cities": []
+    },
+    {
+        "name": "Osh Region",
+        "cities": [
+            "Chong-Alay District",
+            "Daroot-Korgon",
+            "Kara Kulja",
+            "Kara Suu",
+            "Kyzyl-Eshme",
+            "Nookat",
+            "Osh",
+            "Uzgen",
+            "Uzgen District"
+        ]
+    },
+    {
+        "name": "Talas Region",
+        "cities": [
+            "Kara-Buurinskiy Rayon",
+            "Talas",
+            "Talasskiy Rayon"
+        ]
+    }
+]

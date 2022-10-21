@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Central Province",
+        "cities": [
+            "Chibombo",
+            "Chibombo District",
+            "Kabwe",
+            "Kapiri Mposhi",
+            "Mkushi",
+            "Mumbwa",
+            "Serenje"
+        ]
+    },
+    {
+        "name": "Copperbelt Province",
+        "cities": [
+            "Chambishi",
+            "Chililabombwe",
+            "Chingola",
+            "Chingola District",
+            "Kalulushi",
+            "Kataba",
+            "Kitwe",
+            "Luanshya",
+            "Mpongwe",
+            "Mufulira",
+            "Ndola"
+        ]
+    },
+    {
+        "name": "Eastern Province",
+        "cities": [
+            "Chadiza",
+            "Chipata",
+            "Lundazi",
+            "Nyimba",
+            "Petauke"
+        ]
+    },
+    {
+        "name": "Luapula Province",
+        "cities": [
+            "Kawambwa",
+            "Mansa",
+            "Mwense",
+            "Nchelenge",
+            "Samfya"
+        ]
+    },
+    {
+        "name": "Lusaka Province",
+        "cities": [
+            "Chongwe",
+            "Kafue",
+            "Luangwa",
+            "Lusaka"
+        ]
+    },
+    {
+        "name": "Muchinga Province",
+        "cities": [
+            "Chama",
+            "Chinsali",
+            "Isoka",
+            "Mpika",
+            "Nakonde"
+        ]
+    },
+    {
+        "name": "Northern Province",
+        "cities": [
+            "Kaputa",
+            "Kasama",
+            "Luwingu",
+            "Mbala",
+            "Mporokoso",
+            "Mpulungu",
+            "Mungwi"
+        ]
+    },
+    {
+        "name": "Northwestern Province",
+        "cities": [
+            "Kabompo",
+            "Kalengwa",
+            "Kansanshi",
+            "Kasempa",
+            "Mufumbwe",
+            "Mwinilunga",
+            "Solwezi",
+            "Zambezi"
+        ]
+    },
+    {
+        "name": "Southern Province",
+        "cities": [
+            "Choma",
+            "Gwembe",
+            "Itezhi-Tezhi District",
+            "Livingstone",
+            "Maamba",
+            "Mazabuka",
+            "Monze",
+            "Nakambala",
+            "Namwala",
+            "Siavonga",
+            "Siavonga District",
+            "Sinazongwe"
+        ]
+    },
+    {
+        "name": "Western Province",
+        "cities": [
+            "Kalabo",
+            "Kaoma",
+            "Limulunga",
+            "Lukulu",
+            "Mongu",
+            "Senanga",
+            "Sesheke"
+        ]
+    }
+]

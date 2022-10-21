@@ -1,0 +1,396 @@
+[
+    {
+        "name": "Attard",
+        "cities": [
+            "Attard"
+        ]
+    },
+    {
+        "name": "Balzan",
+        "cities": [
+            "Balzan"
+        ]
+    },
+    {
+        "name": "Birgu",
+        "cities": [
+            "Vittoriosa"
+        ]
+    },
+    {
+        "name": "Birkirkara",
+        "cities": [
+            "Birkirkara"
+        ]
+    },
+    {
+        "name": "Birżebbuġa",
+        "cities": [
+            "Birżebbuġa"
+        ]
+    },
+    {
+        "name": "Cospicua",
+        "cities": [
+            "Cospicua"
+        ]
+    },
+    {
+        "name": "Dingli",
+        "cities": [
+            "Dingli"
+        ]
+    },
+    {
+        "name": "Fgura",
+        "cities": [
+            "Fgura"
+        ]
+    },
+    {
+        "name": "Floriana",
+        "cities": [
+            "Floriana"
+        ]
+    },
+    {
+        "name": "Fontana",
+        "cities": [
+            "Fontana"
+        ]
+    },
+    {
+        "name": "Għajnsielem",
+        "cities": [
+            "Għajnsielem",
+            "Hal Gharghur"
+        ]
+    },
+    {
+        "name": "Għarb",
+        "cities": []
+    },
+    {
+        "name": "Għargħur",
+        "cities": [
+            "Għaxaq"
+        ]
+    },
+    {
+        "name": "Għasri",
+        "cities": [
+            "Gudja"
+        ]
+    },
+    {
+        "name": "Għaxaq",
+        "cities": [
+            "Gżira"
+        ]
+    },
+    {
+        "name": "Gudja",
+        "cities": []
+    },
+    {
+        "name": "Gżira",
+        "cities": [
+            "Għarb"
+        ]
+    },
+    {
+        "name": "Ħamrun",
+        "cities": [
+            "Ħamrun"
+        ]
+    },
+    {
+        "name": "Iklin",
+        "cities": [
+            "L-Iklin"
+        ]
+    },
+    {
+        "name": "Kalkara",
+        "cities": [
+            "Imġarr",
+            "Mġarr"
+        ]
+    },
+    {
+        "name": "Kerċem",
+        "cities": [
+            "Mqabba"
+        ]
+    },
+    {
+        "name": "Kirkop",
+        "cities": [
+            "Imsida",
+            "Kirkop"
+        ]
+    },
+    {
+        "name": "Lija",
+        "cities": [
+            "Imtarfa",
+            "Lija"
+        ]
+    },
+    {
+        "name": "Luqa",
+        "cities": [
+            "Luqa",
+            "Senglea"
+        ]
+    },
+    {
+        "name": "Marsa",
+        "cities": [
+            "Kalkara"
+        ]
+    },
+    {
+        "name": "Marsaskala",
+        "cities": [
+            "Kerċem",
+            "Marsaskala"
+        ]
+    },
+    {
+        "name": "Marsaxlokk",
+        "cities": [
+            "Marsaxlokk"
+        ]
+    },
+    {
+        "name": "Mdina",
+        "cities": []
+    },
+    {
+        "name": "Mellieħa",
+        "cities": []
+    },
+    {
+        "name": "Mġarr",
+        "cities": [
+            "Marsa"
+        ]
+    },
+    {
+        "name": "Mosta",
+        "cities": []
+    },
+    {
+        "name": "Mqabba",
+        "cities": []
+    },
+    {
+        "name": "Msida",
+        "cities": [
+            "Mellieħa"
+        ]
+    },
+    {
+        "name": "Mtarfa",
+        "cities": []
+    },
+    {
+        "name": "Munxar",
+        "cities": [
+            "Munxar"
+        ]
+    },
+    {
+        "name": "Nadur",
+        "cities": [
+            "Nadur"
+        ]
+    },
+    {
+        "name": "Naxxar",
+        "cities": [
+            "Naxxar"
+        ]
+    },
+    {
+        "name": "Paola",
+        "cities": [
+            "Paola"
+        ]
+    },
+    {
+        "name": "Pembroke",
+        "cities": [
+            "Pembroke"
+        ]
+    },
+    {
+        "name": "Pietà",
+        "cities": [
+            "Pietà"
+        ]
+    },
+    {
+        "name": "Qala",
+        "cities": [
+            "Qala"
+        ]
+    },
+    {
+        "name": "Qormi",
+        "cities": [
+            "Qormi"
+        ]
+    },
+    {
+        "name": "Qrendi",
+        "cities": [
+            "Qrendi"
+        ]
+    },
+    {
+        "name": "Rabat",
+        "cities": []
+    },
+    {
+        "name": "Saint Lawrence",
+        "cities": [
+            "San Lawrenz"
+        ]
+    },
+    {
+        "name": "San Ġwann",
+        "cities": [
+            "San Ġiljan"
+        ]
+    },
+    {
+        "name": "Sannat",
+        "cities": [
+            "San Pawl il-Baħar",
+            "Sannat"
+        ]
+    },
+    {
+        "name": "Santa Luċija",
+        "cities": [
+            "Santa Venera"
+        ]
+    },
+    {
+        "name": "Santa Venera",
+        "cities": []
+    },
+    {
+        "name": "Senglea",
+        "cities": [
+            "Imdina"
+        ]
+    },
+    {
+        "name": "Siġġiewi",
+        "cities": [
+            "Siġġiewi"
+        ]
+    },
+    {
+        "name": "Sliema",
+        "cities": [
+            "Sliema"
+        ]
+    },
+    {
+        "name": "St. Julian's",
+        "cities": [
+            "Saint John"
+        ]
+    },
+    {
+        "name": "St. Paul's Bay",
+        "cities": [
+            "Mosta",
+            "Saint Lucia",
+            "Santa Luċija"
+        ]
+    },
+    {
+        "name": "Swieqi",
+        "cities": [
+            "Swieqi"
+        ]
+    },
+    {
+        "name": "Ta' Xbiex",
+        "cities": [
+            "Ta’ Xbiex"
+        ]
+    },
+    {
+        "name": "Tarxien",
+        "cities": [
+            "Tarxien"
+        ]
+    },
+    {
+        "name": "Valletta",
+        "cities": [
+            "Valletta"
+        ]
+    },
+    {
+        "name": "Victoria",
+        "cities": [
+            "Rabat",
+            "Victoria"
+        ]
+    },
+    {
+        "name": "Xagħra",
+        "cities": [
+            "Xagħra"
+        ]
+    },
+    {
+        "name": "Xewkija",
+        "cities": [
+            "Xewkija"
+        ]
+    },
+    {
+        "name": "Xgħajra",
+        "cities": [
+            "Xgħajra"
+        ]
+    },
+    {
+        "name": "Żabbar",
+        "cities": [
+            "Żabbar"
+        ]
+    },
+    {
+        "name": "Żebbuġ Gozo",
+        "cities": [
+            "Haz-Zebbug"
+        ]
+    },
+    {
+        "name": "Żebbuġ Malta",
+        "cities": [
+            "Żebbuġ"
+        ]
+    },
+    {
+        "name": "Żejtun",
+        "cities": [
+            "Żejtun"
+        ]
+    },
+    {
+        "name": "Żurrieq",
+        "cities": [
+            "Żurrieq"
+        ]
+    }
+]

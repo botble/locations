@@ -1,0 +1,135 @@
+[
+    {
+        "name": "Bengo Province",
+        "cities": [
+            "Caxito"
+        ]
+    },
+    {
+        "name": "Benguela Province",
+        "cities": [
+            "Benguela",
+            "Catumbela",
+            "Lobito"
+        ]
+    },
+    {
+        "name": "Bié Province",
+        "cities": [
+            "Camacupa",
+            "Catabola",
+            "Chissamba",
+            "Cuito"
+        ]
+    },
+    {
+        "name": "Cabinda Province",
+        "cities": [
+            "Cabinda"
+        ]
+    },
+    {
+        "name": "Cuando Cubango Province",
+        "cities": [
+            "Menongue"
+        ]
+    },
+    {
+        "name": "Cuanza Norte Province",
+        "cities": [
+            "Camabatela",
+            "N’dalatando"
+        ]
+    },
+    {
+        "name": "Cuanza Sul",
+        "cities": [
+            "Quibala",
+            "Sumbe",
+            "Uacu Cungo"
+        ]
+    },
+    {
+        "name": "Cunene Province",
+        "cities": [
+            "Ondjiva"
+        ]
+    },
+    {
+        "name": "Huambo Province",
+        "cities": [
+            "Caála",
+            "Chela",
+            "Huambo",
+            "Longonjo"
+        ]
+    },
+    {
+        "name": "Huíla Province",
+        "cities": [
+            "Caconda",
+            "Caluquembe",
+            "Chibia",
+            "Chicomba",
+            "Chipindo",
+            "Cuvango",
+            "Gambos",
+            "Humpata",
+            "Jamba",
+            "Lubango",
+            "Matala",
+            "Quilengues",
+            "Quipungo"
+        ]
+    },
+    {
+        "name": "Luanda Province",
+        "cities": [
+            "Belas",
+            "Icolo e Bengo",
+            "Luanda"
+        ]
+    },
+    {
+        "name": "Lunda Norte Province",
+        "cities": [
+            "Lucapa"
+        ]
+    },
+    {
+        "name": "Lunda Sul Province",
+        "cities": [
+            "Cazaji",
+            "Saurimo"
+        ]
+    },
+    {
+        "name": "Malanje Province",
+        "cities": [
+            "Malanje"
+        ]
+    },
+    {
+        "name": "Moxico Province",
+        "cities": [
+            "Léua",
+            "Luau",
+            "Luena",
+            "Lumeje"
+        ]
+    },
+    {
+        "name": "Uíge Province",
+        "cities": [
+            "Uíge"
+        ]
+    },
+    {
+        "name": "Zaire Province",
+        "cities": [
+            "Mbanza Congo",
+            "N'zeto",
+            "Soio"
+        ]
+    }
+]

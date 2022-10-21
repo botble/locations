@@ -1,0 +1,92 @@
+[
+    {
+        "name": "districts of Republican Subordination",
+        "cities": [
+            "Darband",
+            "Hisor",
+            "Karakenja",
+            "Khodzha-Maston",
+            "Novobod",
+            "Obigarm",
+            "Rasht",
+            "Roghun",
+            "Shahrinav",
+            "Tagob",
+            "Tursunzoda",
+            "Vahdat",
+            "Vahdat District",
+            "Varzob",
+            "Varzob District"
+        ]
+    },
+    {
+        "name": "Gorno-Badakhshan Autonomous Province",
+        "cities": [
+            "Ishqoshim",
+            "Khorugh",
+            "Murghob",
+            "Nohiyai Shughnon"
+        ]
+    },
+    {
+        "name": "Khatlon Province",
+        "cities": [
+            "Abdurahmoni Jomí",
+            "Boshchorbogh",
+            "Bŭstonqal’a",
+            "Chubek",
+            "Danghara",
+            "Dŭstí",
+            "Farkhor",
+            "Gharavŭtí",
+            "Jilikŭl",
+            "Kirov",
+            "Kolkhozobod",
+            "Kŭlob",
+            "Moskovskiy",
+            "Mŭ’minobod",
+            "Nohiyai Kolkhozobod",
+            "Nohiyai Panj",
+            "Nohiyai Vakhsh",
+            "Norak",
+            "Orzu",
+            "Panj",
+            "Qŭrghonteppa",
+            "Shahritus",
+            "Sovet",
+            "Tartiki",
+            "Vakhsh",
+            "Vose’",
+            "Yovon"
+        ]
+    },
+    {
+        "name": "Sughd Province",
+        "cities": [
+            "Adrasmon",
+            "Ayní",
+            "Bŭston",
+            "Chkalov",
+            "Ghafurov",
+            "Isfara",
+            "Istaravshan",
+            "Khŭjand",
+            "Kim",
+            "Konibodom",
+            "Konsoy",
+            "Neftobod",
+            "Nohiyai Konibodom",
+            "Nov",
+            "Oltintopkan",
+            "Pakhtakoron",
+            "Palos",
+            "Panjakent",
+            "Proletar",
+            "Quruqsoy",
+            "Shaydon",
+            "Shŭrob",
+            "Taboshar",
+            "Vorukh"
+        ]
+    }
+]

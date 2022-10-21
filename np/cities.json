@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Bagmati Zone",
+        "cities": []
+    },
+    {
+        "name": "Bheri Zone",
+        "cities": []
+    },
+    {
+        "name": "Central Region",
+        "cities": [
+            "Banepā",
+            "Bharatpur",
+            "Birgañj",
+            "Dhulikhel",
+            "Gaur",
+            "Hari Bdr Tamang House",
+            "Hetauda",
+            "Jaleshwar",
+            "Janakpur",
+            "kankrabari Dovan",
+            "Kathmandu",
+            "Kirtipur",
+            "Madhyapur Thimi",
+            "Malaṅgawā",
+            "Nagarkot",
+            "Panauti",
+            "Pātan",
+            "Rāmechhāp"
+        ]
+    },
+    {
+        "name": "Dhaulagiri Zone",
+        "cities": []
+    },
+    {
+        "name": "Eastern Development Region",
+        "cities": [
+            "Bhadrapur",
+            "Bhojpur",
+            "Biratnagar",
+            "Dhankutā",
+            "Dharān",
+            "Ilām",
+            "Inaruwa",
+            "Khanbari",
+            "Lahān",
+            "Lobujya",
+            "Namche Bazar",
+            "Rājbirāj",
+            "Siraha",
+            "Titahari",
+            "Triyuga"
+        ]
+    },
+    {
+        "name": "Far-Western Development Region",
+        "cities": [
+            "Dadeldhurā",
+            "Dhangaḍhi̇̄",
+            "Dipayal",
+            "Mahendranagar",
+            "Ṭikāpur"
+        ]
+    },
+    {
+        "name": "Gandaki Zone",
+        "cities": []
+    },
+    {
+        "name": "Janakpur Zone",
+        "cities": []
+    },
+    {
+        "name": "Karnali Zone",
+        "cities": []
+    },
+    {
+        "name": "Kosi Zone",
+        "cities": []
+    },
+    {
+        "name": "Lumbini Zone",
+        "cities": []
+    },
+    {
+        "name": "Mahakali Zone",
+        "cities": []
+    },
+    {
+        "name": "Mechi Zone",
+        "cities": []
+    },
+    {
+        "name": "Mid-Western Region",
+        "cities": [
+            "Bhojpur",
+            "Birendranagar",
+            "Dailekh",
+            "Gulariyā",
+            "Jumla",
+            "Nepalgunj",
+            "Tulsīpur"
+        ]
+    },
+    {
+        "name": "Narayani Zone",
+        "cities": []
+    },
+    {
+        "name": "Rapti Zone",
+        "cities": []
+    },
+    {
+        "name": "Sagarmatha Zone",
+        "cities": []
+    },
+    {
+        "name": "Seti Zone",
+        "cities": []
+    },
+    {
+        "name": "Western Region",
+        "cities": [
+            "Bāglung",
+            "Bhattarai Danda",
+            "Butwāl",
+            "Chitre",
+            "Dārchulā",
+            "Dihi",
+            "Pokhara",
+            "Siddharthanagar",
+            "Tānsen",
+            "Wāliṅ"
+        ]
+    }
+]
