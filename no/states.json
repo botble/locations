@@ -1,18 +1,9 @@
 [
     {
-        "name": "Akershus"
+        "name": "Agder"
     },
     {
-        "name": "Buskerud"
-    },
-    {
-        "name": "Finnmark"
-    },
-    {
-        "name": "Hedmark"
-    },
-    {
-        "name": "Hordaland"
+        "name": "Innlandet"
     },
     {
         "name": "Jan Mayen"
@@ -21,45 +12,30 @@
         "name": "Møre og Romsdal"
     },
     {
-        "name": "Nord-Trøndelag"
-    },
-    {
         "name": "Nordland"
-    },
-    {
-        "name": "Oppland"
     },
     {
         "name": "Oslo"
     },
     {
-        "name": "Østfold"
-    },
-    {
         "name": "Rogaland"
-    },
-    {
-        "name": "Sogn og Fjordane"
-    },
-    {
-        "name": "Sør-Trøndelag"
     },
     {
         "name": "Svalbard"
     },
     {
-        "name": "Telemark"
-    },
-    {
-        "name": "Troms"
+        "name": "Troms og Finnmark"
     },
     {
         "name": "Trøndelag"
     },
     {
-        "name": "Vest-Agder"
+        "name": "Vestfold og Telemark"
     },
     {
-        "name": "Vestfold"
+        "name": "Vestland"
+    },
+    {
+        "name": "Viken"
     }
 ]

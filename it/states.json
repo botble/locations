@@ -27,9 +27,6 @@
         "name": "Avellino"
     },
     {
-        "name": "Bari"
-    },
-    {
         "name": "Barletta-Andria-Trani"
     },
     {
@@ -48,16 +45,10 @@
         "name": "Biella"
     },
     {
-        "name": "Bologna"
-    },
-    {
         "name": "Brescia"
     },
     {
         "name": "Brindisi"
-    },
-    {
-        "name": "Cagliari"
     },
     {
         "name": "Calabria"
@@ -73,9 +64,6 @@
     },
     {
         "name": "Caserta"
-    },
-    {
-        "name": "Catania"
     },
     {
         "name": "Catanzaro"
@@ -111,9 +99,6 @@
         "name": "Ferrara"
     },
     {
-        "name": "Florence"
-    },
-    {
         "name": "Foggia"
     },
     {
@@ -124,9 +109,6 @@
     },
     {
         "name": "Frosinone"
-    },
-    {
-        "name": "Genoa"
     },
     {
         "name": "Gorizia"
@@ -192,12 +174,6 @@
         "name": "Medio Campidano"
     },
     {
-        "name": "Messina"
-    },
-    {
-        "name": "Milan"
-    },
-    {
         "name": "Modena"
     },
     {
@@ -205,9 +181,6 @@
     },
     {
         "name": "Monza and Brianza"
-    },
-    {
-        "name": "Naples"
     },
     {
         "name": "Novara"
@@ -267,9 +240,6 @@
         "name": "Ravenna"
     },
     {
-        "name": "Reggio Calabria"
-    },
-    {
         "name": "Reggio Emilia"
     },
     {
@@ -277,9 +247,6 @@
     },
     {
         "name": "Rimini"
-    },
-    {
-        "name": "Rome"
     },
     {
         "name": "Rovigo"
@@ -312,9 +279,6 @@
         "name": "South Sardinia"
     },
     {
-        "name": "South Tyrol"
-    },
-    {
         "name": "Taranto"
     },
     {
@@ -327,9 +291,6 @@
         "name": "Trapani"
     },
     {
-        "name": "Trentino"
-    },
-    {
         "name": "Trentino-South Tyrol"
     },
     {
@@ -337,9 +298,6 @@
     },
     {
         "name": "Trieste"
-    },
-    {
-        "name": "Turin"
     },
     {
         "name": "Tuscany"
@@ -355,9 +313,6 @@
     },
     {
         "name": "Veneto"
-    },
-    {
-        "name": "Venice"
     },
     {
         "name": "Verbano-Cusio-Ossola"

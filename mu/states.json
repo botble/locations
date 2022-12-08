@@ -1,53 +1,38 @@
 [
     {
-        "name": "Agaléga"
+        "name": "Agalega Islands"
     },
     {
-        "name": "Beau Bassin-Rose Hill"
+        "name": "Black River"
     },
     {
-        "name": "Cargados Carajos"
+        "name": "Flacq"
     },
     {
-        "name": "Curepipe"
+        "name": "Grand Port"
     },
     {
-        "name": "Flacq District"
+        "name": "Moka"
     },
     {
-        "name": "Grand Port District"
+        "name": "Pamplemousses"
     },
     {
-        "name": "Moka District"
-    },
-    {
-        "name": "Pamplemousses District"
-    },
-    {
-        "name": "Plaines Wilhems District"
+        "name": "Plaines Wilhems"
     },
     {
         "name": "Port Louis"
     },
     {
-        "name": "Port Louis District"
+        "name": "Rivière du Rempart"
     },
     {
-        "name": "Quatre Bornes"
+        "name": "Rodrigues Island"
     },
     {
-        "name": "Rivière du Rempart District"
+        "name": "Saint Brandon Islands"
     },
     {
-        "name": "Rivière Noire District"
-    },
-    {
-        "name": "Rodrigues"
-    },
-    {
-        "name": "Savanne District"
-    },
-    {
-        "name": "Vacoas-Phoenix"
+        "name": "Savanne"
     }
 ]

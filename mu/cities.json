@@ -1,26 +1,26 @@
 [
     {
-        "name": "Agaléga",
+        "name": "Agalega Islands",
         "cities": [
             "Vingt Cinq"
         ]
     },
     {
-        "name": "Beau Bassin-Rose Hill",
-        "cities": []
-    },
-    {
-        "name": "Cargados Carajos",
+        "name": "Black River",
         "cities": [
-            "Cargados Carajos"
+            "Albion",
+            "Bambous",
+            "Cascavelle",
+            "Flic en Flac",
+            "Grande Rivière Noire",
+            "Gros Cailloux",
+            "Petite Case Noyale",
+            "Petite Rivière",
+            "Tamarin"
         ]
     },
     {
-        "name": "Curepipe",
-        "cities": []
-    },
-    {
-        "name": "Flacq District",
+        "name": "Flacq",
         "cities": [
             "Bel Air Rivière Sèche",
             "Bon Accueil",
@@ -44,7 +44,7 @@
         ]
     },
     {
-        "name": "Grand Port District",
+        "name": "Grand Port",
         "cities": [
             "Bambous Virieux",
             "Beau Vallon",
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "name": "Moka District",
+        "name": "Moka",
         "cities": [
             "Camp Thorel",
             "Dagotière",
@@ -75,7 +75,7 @@
         ]
     },
     {
-        "name": "Pamplemousses District",
+        "name": "Pamplemousses",
         "cities": [
             "Arsenal",
             "Calebasses",
@@ -94,7 +94,7 @@
         ]
     },
     {
-        "name": "Plaines Wilhems District",
+        "name": "Plaines Wilhems",
         "cities": [
             "Beau Bassin-Rose Hill",
             "Curepipe",
@@ -106,20 +106,12 @@
     },
     {
         "name": "Port Louis",
-        "cities": []
-    },
-    {
-        "name": "Port Louis District",
         "cities": [
             "Port Louis"
         ]
     },
     {
-        "name": "Quatre Bornes",
-        "cities": []
-    },
-    {
-        "name": "Rivière du Rempart District",
+        "name": "Rivière du Rempart",
         "cities": [
             "Amaury",
             "Cap Malheureux",
@@ -139,28 +131,20 @@
         ]
     },
     {
-        "name": "Rivière Noire District",
-        "cities": [
-            "Albion",
-            "Bambous",
-            "Cascavelle",
-            "Flic en Flac",
-            "Grande Rivière Noire",
-            "Gros Cailloux",
-            "Petite Case Noyale",
-            "Petite Rivière",
-            "Tamarin"
-        ]
-    },
-    {
-        "name": "Rodrigues",
+        "name": "Rodrigues Island",
         "cities": [
             "Baie aux Huîtres",
             "Port Mathurin"
         ]
     },
     {
-        "name": "Savanne District",
+        "name": "Saint Brandon Islands",
+        "cities": [
+            "Cargados Carajos"
+        ]
+    },
+    {
+        "name": "Savanne",
         "cities": [
             "Camp Diable",
             "Chamouny",
@@ -171,9 +155,5 @@
             "Souillac",
             "Surinam"
         ]
-    },
-    {
-        "name": "Vacoas-Phoenix",
-        "cities": []
     }
 ]

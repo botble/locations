@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "name": "Bethlehem"
+    },
+    {
+        "name": "Deir El Balah"
+    },
+    {
+        "name": "Gaza"
+    },
+    {
+        "name": "Hebron"
+    },
+    {
+        "name": "Jenin"
+    },
+    {
+        "name": "Jericho and Al Aghwar"
+    },
+    {
+        "name": "Jerusalem"
+    },
+    {
+        "name": "Khan Yunis"
+    },
+    {
+        "name": "Nablus"
+    },
+    {
+        "name": "North Gaza"
+    },
+    {
+        "name": "Qalqilya"
+    },
+    {
+        "name": "Rafah"
+    },
+    {
+        "name": "Ramallah"
+    },
+    {
+        "name": "Salfit"
+    },
+    {
+        "name": "Tubas"
+    },
+    {
+        "name": "Tulkarm"
+    }
+]

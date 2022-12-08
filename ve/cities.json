@@ -27,7 +27,9 @@
     },
     {
         "name": "Apure",
-        "cities": []
+        "cities": [
+            "San Fernando de Apure"
+        ]
     },
     {
         "name": "Aragua",

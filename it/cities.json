@@ -477,7 +477,6 @@
             "Alliste",
             "Altamura",
             "Andrano",
-            "Andria",
             "Anzano di Puglia",
             "Apricena",
             "Aradeo",
@@ -486,10 +485,8 @@
             "Avetrana",
             "Bagnolo del Salento",
             "Bari",
-            "Barletta",
             "Biccari",
             "Binetto",
-            "Bisceglie",
             "Bitetto",
             "Bitonto",
             "Bitritto",
@@ -502,7 +499,6 @@
             "Campi Salentina",
             "Candela",
             "Cannole",
-            "Canosa di Puglia",
             "Capirro",
             "Caprarica di Lecce",
             "Capurso",
@@ -603,7 +599,6 @@
             "Maglie",
             "Manduria",
             "Manfredonia",
-            "Margherita di Savoia",
             "Marina di Ginosa",
             "Mariotto",
             "Marittima",
@@ -622,7 +617,6 @@
             "Mesagne",
             "Miggiano",
             "Minervino di Lecce",
-            "Minervino Murge",
             "Modugno",
             "Mola di Bari",
             "Molfetta",
@@ -699,7 +693,6 @@
             "San Cesario di Lecce",
             "San Donaci",
             "San Donato di Lecce",
-            "San Ferdinando di Puglia",
             "San Giorgio Ionico",
             "San Giovanni Rotondo",
             "San Marco in Lamis",
@@ -728,7 +721,6 @@
             "Sogliano Cavour",
             "Soleto",
             "Specchia",
-            "Spinazzola",
             "Spongano",
             "Squinzano",
             "Statte",
@@ -750,11 +742,9 @@
             "Torre Santa Susanna",
             "Torremaggiore",
             "Torricella",
-            "Trani",
             "Trepuzzi",
             "Tricase",
             "Triggiano",
-            "Trinitapoli",
             "Troia",
             "Tuglie",
             "Turi",
@@ -789,12 +779,19 @@
         "cities": []
     },
     {
-        "name": "Bari",
-        "cities": []
-    },
-    {
         "name": "Barletta-Andria-Trani",
-        "cities": []
+        "cities": [
+            "Andria",
+            "Barletta",
+            "Bisceglie",
+            "Canosa di Puglia",
+            "Margherita di Savoia",
+            "Minervino Murge",
+            "San Ferdinando di Puglia",
+            "Spinazzola",
+            "Trani",
+            "Trinitapoli"
+        ]
     },
     {
         "name": "Basilicata",
@@ -959,19 +956,11 @@
         "cities": []
     },
     {
-        "name": "Bologna",
-        "cities": []
-    },
-    {
         "name": "Brescia",
         "cities": []
     },
     {
         "name": "Brindisi",
-        "cities": []
-    },
-    {
-        "name": "Cagliari",
         "cities": []
     },
     {
@@ -2196,10 +2185,6 @@
         "cities": []
     },
     {
-        "name": "Catania",
-        "cities": []
-    },
-    {
         "name": "Catanzaro",
         "cities": []
     },
@@ -2783,10 +2768,6 @@
         "cities": []
     },
     {
-        "name": "Florence",
-        "cities": []
-    },
-    {
         "name": "Foggia",
         "cities": []
     },
@@ -3072,10 +3053,6 @@
     },
     {
         "name": "Frosinone",
-        "cities": []
-    },
-    {
-        "name": "Genoa",
         "cities": []
     },
     {
@@ -6051,14 +6028,6 @@
         "cities": []
     },
     {
-        "name": "Messina",
-        "cities": []
-    },
-    {
-        "name": "Milan",
-        "cities": []
-    },
-    {
         "name": "Modena",
         "cities": []
     },
@@ -6210,10 +6179,6 @@
     },
     {
         "name": "Monza and Brianza",
-        "cities": []
-    },
-    {
-        "name": "Naples",
         "cities": []
     },
     {
@@ -7602,10 +7567,6 @@
         ]
     },
     {
-        "name": "Reggio Calabria",
-        "cities": []
-    },
-    {
         "name": "Reggio Emilia",
         "cities": []
     },
@@ -7615,10 +7576,6 @@
     },
     {
         "name": "Rimini",
-        "cities": []
-    },
-    {
-        "name": "Rome",
         "cities": []
     },
     {
@@ -8540,10 +8497,6 @@
         "cities": []
     },
     {
-        "name": "South Tyrol",
-        "cities": []
-    },
-    {
         "name": "Taranto",
         "cities": []
     },
@@ -8557,10 +8510,6 @@
     },
     {
         "name": "Trapani",
-        "cities": []
-    },
-    {
-        "name": "Trentino",
         "cities": []
     },
     {
@@ -8964,10 +8913,6 @@
     },
     {
         "name": "Trieste",
-        "cities": []
-    },
-    {
-        "name": "Turin",
         "cities": []
     },
     {
@@ -10443,10 +10388,6 @@
             "Zovencedo",
             "Zugliano"
         ]
-    },
-    {
-        "name": "Venice",
-        "cities": []
     },
     {
         "name": "Verbano-Cusio-Ossola",
