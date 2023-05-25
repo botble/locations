@@ -1,38 +1,55 @@
 [
     {
-        "name": "Devonshire Parish",
+        "name": "Devonshire",
+        "cities": [
+            "Devonshire"
+        ]
+    },
+    {
+        "name": "Hamilton",
+        "cities": [
+            "Hamilton"
+        ]
+    },
+    {
+        "name": "Paget",
+        "cities": [
+            "Paget"
+        ]
+    },
+    {
+        "name": "Pembroke",
         "cities": []
     },
     {
-        "name": "Hamilton Parish",
-        "cities": []
+        "name": "Saint George's",
+        "cities": [
+            "St. George's",
+            "Tucker’s Town"
+        ]
     },
     {
-        "name": "Paget Parish",
-        "cities": []
+        "name": "Sandys",
+        "cities": [
+            "Somerset"
+        ]
     },
     {
-        "name": "Pembroke Parish",
-        "cities": []
+        "name": "Smith's",
+        "cities": [
+            "Flatts"
+        ]
     },
     {
-        "name": "Saint George's Parish",
-        "cities": []
+        "name": "Southampton",
+        "cities": [
+            "Southampton"
+        ]
     },
     {
-        "name": "Sandys Parish",
-        "cities": []
-    },
-    {
-        "name": "Smith's Parish,",
-        "cities": []
-    },
-    {
-        "name": "Southampton Parish",
-        "cities": []
-    },
-    {
-        "name": "Warwick Parish",
-        "cities": []
+        "name": "Warwick",
+        "cities": [
+            "Warwick"
+        ]
     }
 ]

@@ -1,1 +1,38 @@
-[]
+[
+    {
+        "name": "Baker Island",
+        "cities": []
+    },
+    {
+        "name": "Howland Island",
+        "cities": []
+    },
+    {
+        "name": "Jarvis Island",
+        "cities": []
+    },
+    {
+        "name": "Johnston Atoll",
+        "cities": []
+    },
+    {
+        "name": "Kingman Reef",
+        "cities": []
+    },
+    {
+        "name": "Midway Islands",
+        "cities": []
+    },
+    {
+        "name": "Navassa Island",
+        "cities": []
+    },
+    {
+        "name": "Palmyra Atoll",
+        "cities": []
+    },
+    {
+        "name": "Wake Island",
+        "cities": []
+    }
+]

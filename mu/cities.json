@@ -10,37 +10,54 @@
         "cities": [
             "Albion",
             "Bambous",
+            "Black River",
             "Cascavelle",
+            "Case Noyale",
+            "Chamarel",
             "Flic en Flac",
             "Grande Rivière Noire",
             "Gros Cailloux",
+            "La Gaulette",
+            "Le Morne",
             "Petite Case Noyale",
             "Petite Rivière",
+            "Petite Riviere",
+            "Richelieu",
             "Tamarin"
         ]
     },
     {
         "name": "Flacq",
         "cities": [
+            "Bel Air",
             "Bel Air Rivière Sèche",
             "Bon Accueil",
+            "Bramsthan",
             "Brisée Verdière",
+            "Brisee Verdiere",
             "Camp de Masque",
+            "Camp De Masque Pave",
             "Camp Ithier",
+            "Central Flacq",
             "Centre de Flacq",
             "Clémencia",
+            "Clemencia",
             "Ecroignard",
+            "Grand River South East",
+            "Grande Retraite",
             "Grande Rivière Sud Est",
             "Lalmatie",
             "Laventure",
             "Mare La Chaux",
+            "Medine Camp De Masque",
             "Olivia",
             "Poste de Flacq",
             "Quatre Cocos",
             "Quatre Soeurs",
             "Queen Victoria",
             "Saint Julien",
-            "Sebastopol"
+            "Sebastopol",
+            "Trou D'Eau Douce"
         ]
     },
     {
@@ -49,14 +66,25 @@
             "Bambous Virieux",
             "Beau Vallon",
             "Bois des Amourettes",
+            "Camp Carol",
             "Cluny",
+            "Grand Bel Air",
             "Grand Sable",
+            "Mahebourg",
             "Mahébourg",
+            "Mare D'Albert",
+            "Mare Tabac",
             "New Grove",
             "Nouvelle France",
+            "Petit Bel Air",
             "Plaine Magnien",
+            "Riviere Des Creoles",
             "Rose Belle",
-            "Saint Hubert"
+            "Saint Hubert",
+            "St Hubert",
+            "Trois Boutiques",
+            "Union Park",
+            "Vieux Grand Port"
         ]
     },
     {
@@ -64,12 +92,20 @@
         "cities": [
             "Camp Thorel",
             "Dagotière",
+            "Dagotiere",
             "Dubreuil",
+            "L'Avenir",
+            "L'Esperance",
+            "La Laura-Malenga",
             "Melrose",
             "Moka",
+            "Montagne Blanche",
+            "Nouvelle Découverte",
             "Pailles",
             "Providence",
             "Quartier Militaire",
+            "Ripailles",
+            "Saint Julien D'Hotman",
             "Saint Pierre",
             "Verdun"
         ]
@@ -81,42 +117,68 @@
             "Calebasses",
             "Congomah",
             "Crève Coeur",
+            "Creve Coeur",
+            "D'Epinay",
             "Fond du Sac",
             "Le Hochet",
             "Long Mountain",
             "Morcellement Saint André",
+            "Morcellement Saint Andre",
             "Notre Dame",
             "Pamplemousses",
             "Plaine des Papayes",
             "Pointe aux Piments",
+            "Seizieme Mille",
             "Terre Rouge",
-            "Triolet"
+            "Tombeau Bay",
+            "Triolet",
+            "Trou Aux Biches",
+            "Ville Bague"
         ]
     },
     {
         "name": "Plaines Wilhems",
         "cities": [
+            "Beau Bassin",
             "Beau Bassin-Rose Hill",
             "Curepipe",
+            "Eau Coulee",
             "Ebene",
+            "Floreal",
+            "Forest Side",
             "Midlands",
             "Quatre Bornes",
+            "Rose Hill",
             "Vacoas"
         ]
     },
     {
         "name": "Port Louis",
         "cities": [
-            "Port Louis"
+            "Bell Village",
+            "Caudan Waterfront",
+            "China Town",
+            "Les Pailles",
+            "Les Salines",
+            "Plaine Verte",
+            "Pointe aux Sables",
+            "Port Louis",
+            "Soreze",
+            "Tour Koenig",
+            "Tranquebar",
+            "Vallée des Prêtres",
+            "Vallee Pitot"
         ]
     },
     {
         "name": "Rivière du Rempart",
         "cities": [
             "Amaury",
+            "Amitié Gokoola",
             "Cap Malheureux",
             "Cottage",
             "Espérance Trébuchet",
+            "Esperance Trebuchet",
             "Goodlands",
             "Grand Baie",
             "Grand Gaube",
@@ -124,9 +186,12 @@
             "Petit Raffray",
             "Piton",
             "Plaines des Roches",
+            "Poudre D'Or",
+            "Poudre D'Or Hamlet",
             "Rivière du Rempart",
             "Roche Terre",
             "Roches Noire",
+            "Roches Noires",
             "The Vale"
         ]
     },
@@ -146,13 +211,23 @@
     {
         "name": "Savanne",
         "cities": [
+            "Baie Du Cap",
+            "Bel Ombre",
+            "Benares",
+            "Bois Cheri",
+            "Britannia",
             "Camp Diable",
             "Chamouny",
             "Chemin Grenier",
             "Grand Bois",
+            "L'Escalier",
+            "La Flora",
+            "Riviere Des Anguilles",
             "Rivière des Anguilles",
+            "Rivière Du Poste",
             "Saint Aubin",
             "Souillac",
+            "St Aubin",
             "Surinam"
         ]
     }

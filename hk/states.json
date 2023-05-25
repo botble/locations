@@ -1,12 +1,12 @@
 [
     {
-        "name": "Central and Western District"
+        "name": "Central and Western"
     },
     {
         "name": "Eastern"
     },
     {
-        "name": "Islands District"
+        "name": "Islands"
     },
     {
         "name": "Kowloon City"
@@ -21,7 +21,7 @@
         "name": "North"
     },
     {
-        "name": "Sai Kung District"
+        "name": "Sai Kung"
     },
     {
         "name": "Sha Tin"
@@ -33,10 +33,10 @@
         "name": "Southern"
     },
     {
-        "name": "Tai Po District"
+        "name": "Tai Po"
     },
     {
-        "name": "Tsuen Wan District"
+        "name": "Tsuen Wan"
     },
     {
         "name": "Tuen Mun"
@@ -51,6 +51,6 @@
         "name": "Yau Tsim Mong"
     },
     {
-        "name": "Yuen Long District"
+        "name": "Yuen Long"
     }
 ]

@@ -3,7 +3,26 @@
         "name": "Ariana",
         "cities": [
             "Ariana",
-            "Galaat el Andeless"
+            "Ettadhamen-Mnihla",
+            "Kalaat el-Andalous",
+            "La Soukra",
+            "Mnihla",
+            "Raoued",
+            "Sidi Thabet"
+        ]
+    },
+    {
+        "name": "Béja",
+        "cities": [
+            "Amdoun",
+            "Béja",
+            "Goubellat",
+            "Medjez el Bab",
+            "Nefza",
+            "Tabursuq",
+            "Téboursouk",
+            "Testour",
+            "Thibar"
         ]
     },
     {
@@ -11,8 +30,8 @@
         "cities": [
             "Ben Arous",
             "Hammam Lif",
-            "Hammam-Lif",
-            "La Sebala du Mornag",
+            "Mornag",
+            "Mornaguia",
             "Radès"
         ]
     },
@@ -77,17 +96,6 @@
             "Rohia",
             "Sbiba",
             "Thala"
-        ]
-    },
-    {
-        "name": "Kassrine",
-        "cities": [
-            "Béja",
-            "Délégation de Béja Nord",
-            "Goubellat",
-            "Medjez el Bab",
-            "Tabursuq",
-            "Testour"
         ]
     },
     {

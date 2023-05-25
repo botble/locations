@@ -1,19 +1,26 @@
 [
     {
-        "name": "Central and Western District",
-        "cities": []
+        "name": "Central and Western",
+        "cities": [
+            "Admiralty",
+            "Central"
+        ]
     },
     {
         "name": "Eastern",
         "cities": []
     },
     {
-        "name": "Islands District",
-        "cities": []
+        "name": "Islands",
+        "cities": [
+            "Tai O"
+        ]
     },
     {
         "name": "Kowloon City",
-        "cities": []
+        "cities": [
+            "Kowloon Tong"
+        ]
     },
     {
         "name": "Kwai Tsing",
@@ -21,35 +28,60 @@
     },
     {
         "name": "Kwun Tong",
-        "cities": []
+        "cities": [
+            "Kwun Tong",
+            "Lam Tin"
+        ]
     },
     {
         "name": "North",
-        "cities": []
+        "cities": [
+            "Sheung Shui"
+        ]
     },
     {
-        "name": "Sai Kung District",
-        "cities": []
+        "name": "Sai Kung",
+        "cities": [
+            "Sai Kung",
+            "Tseung Kwan O"
+        ]
     },
     {
         "name": "Sha Tin",
-        "cities": []
+        "cities": [
+            "Ma On Shan",
+            "Sha Tin",
+            "Sha Tin Wai"
+        ]
     },
     {
         "name": "Sham Shui Po",
-        "cities": []
+        "cities": [
+            "Cheung Sha Wan",
+            "Lai Chi Kok"
+        ]
     },
     {
         "name": "Southern",
-        "cities": []
+        "cities": [
+            "Aberdeen",
+            "Stanley",
+            "Stanley Peninsula"
+        ]
     },
     {
-        "name": "Tai Po District",
-        "cities": []
+        "name": "Tai Po",
+        "cities": [
+            "Tai Mei Tuk",
+            "Tai Po"
+        ]
     },
     {
-        "name": "Tsuen Wan District",
-        "cities": []
+        "name": "Tsuen Wan",
+        "cities": [
+            "Tsuen Wan",
+            "Tuen Mun\t"
+        ]
     },
     {
         "name": "Tuen Mun",
@@ -57,18 +89,28 @@
     },
     {
         "name": "Wan Chai",
-        "cities": []
+        "cities": [
+            "Causeway Bay",
+            "Wan Chai"
+        ]
     },
     {
         "name": "Wong Tai Sin",
-        "cities": []
+        "cities": [
+            "Wong Tai Sin"
+        ]
     },
     {
         "name": "Yau Tsim Mong",
-        "cities": []
+        "cities": [
+            "Mong Kok",
+            "Tsim Sha Tsui"
+        ]
     },
     {
-        "name": "Yuen Long District",
-        "cities": []
+        "name": "Yuen Long",
+        "cities": [
+            "Yuen Long"
+        ]
     }
 ]

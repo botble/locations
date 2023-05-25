@@ -1,26 +1,53 @@
 [
     {
-        "name": "Central Singapore Community Development Council",
+        "name": "Central Singapore",
         "cities": [
-            "Singapore"
+            "Bukit Timah",
+            "Downtown Core",
+            "Geylang",
+            "Kallang",
+            "Marine Parade",
+            "Novena",
+            "Orchard Road",
+            "Outram",
+            "Rochor",
+            "Singapore",
+            "Tanjong Pagar",
+            "Toa Payoh"
         ]
     },
     {
-        "name": "North East Community Development Council",
-        "cities": []
-    },
-    {
-        "name": "North West Community Development Council",
+        "name": "North East",
         "cities": [
-            "Woodlands"
+            "Ang Mo Kio",
+            "Hougang",
+            "Punggol",
+            "Sengkang",
+            "Serangoon"
         ]
     },
     {
-        "name": "South East Community Development Council",
-        "cities": []
+        "name": "North West",
+        "cities": [
+            "Sembawang",
+            "Woodlands",
+            "Yishun"
+        ]
     },
     {
-        "name": "South West Community Development Council",
-        "cities": []
+        "name": "South East",
+        "cities": [
+            "Bedok",
+            "Pasir Ris",
+            "Tampines"
+        ]
+    },
+    {
+        "name": "South West",
+        "cities": [
+            "Bukit Batok",
+            "Bukit Panjang",
+            "Jurong West"
+        ]
     }
 ]

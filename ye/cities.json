@@ -160,6 +160,10 @@
         ]
     },
     {
+        "name": "Amanat Al Asimah",
+        "cities": []
+    },
+    {
         "name": "Dhamar",
         "cities": [
             "‘Ans",
@@ -376,10 +380,6 @@
             "Sanhan",
             "Sayyān"
         ]
-    },
-    {
-        "name": "Sana'a",
-        "cities": []
     },
     {
         "name": "Shabwah",
