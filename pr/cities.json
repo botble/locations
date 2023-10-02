@@ -1,31 +1,45 @@
 [
     {
         "name": "Adjuntas",
-        "cities": []
+        "cities": [
+            "Adjuntas"
+        ]
     },
     {
         "name": "Aguada",
-        "cities": []
+        "cities": [
+            "Aguada"
+        ]
     },
     {
         "name": "Aguadilla",
-        "cities": []
+        "cities": [
+            "Aguadilla"
+        ]
     },
     {
         "name": "Aguas Buenas",
-        "cities": []
+        "cities": [
+            "Aguas Buenas"
+        ]
     },
     {
         "name": "Aibonito",
-        "cities": []
+        "cities": [
+            "Aibonito"
+        ]
     },
     {
         "name": "Añasco",
-        "cities": []
+        "cities": [
+            "Añasco"
+        ]
     },
     {
         "name": "Arecibo",
-        "cities": []
+        "cities": [
+            "Arecibo"
+        ]
     },
     {
         "name": "Arecibo",
@@ -33,15 +47,21 @@
     },
     {
         "name": "Arroyo",
-        "cities": []
+        "cities": [
+            "Arroyo"
+        ]
     },
     {
         "name": "Barceloneta",
-        "cities": []
+        "cities": [
+            "Barceloneta"
+        ]
     },
     {
         "name": "Barranquitas",
-        "cities": []
+        "cities": [
+            "Barranquitas"
+        ]
     },
     {
         "name": "Bayamon",
@@ -49,11 +69,15 @@
     },
     {
         "name": "Bayamón",
-        "cities": []
+        "cities": [
+            "Bayamón"
+        ]
     },
     {
         "name": "Cabo Rojo",
-        "cities": []
+        "cities": [
+            "Cabo Rojo"
+        ]
     },
     {
         "name": "Caguas",
@@ -61,15 +85,21 @@
     },
     {
         "name": "Caguas",
-        "cities": []
+        "cities": [
+            "Caguas"
+        ]
     },
     {
         "name": "Camuy",
-        "cities": []
+        "cities": [
+            "Camuy"
+        ]
     },
     {
         "name": "Canóvanas",
-        "cities": []
+        "cities": [
+            "Canóvanas"
+        ]
     },
     {
         "name": "Carolina",
@@ -77,67 +107,99 @@
     },
     {
         "name": "Carolina",
-        "cities": []
+        "cities": [
+            "Carolina"
+        ]
     },
     {
         "name": "Cataño",
-        "cities": []
+        "cities": [
+            "Cataño"
+        ]
     },
     {
         "name": "Cayey",
-        "cities": []
+        "cities": [
+            "Cayey"
+        ]
     },
     {
         "name": "Ceiba",
-        "cities": []
+        "cities": [
+            "Ceiba"
+        ]
     },
     {
         "name": "Ciales",
-        "cities": []
+        "cities": [
+            "Ciales"
+        ]
     },
     {
         "name": "Cidra",
-        "cities": []
+        "cities": [
+            "Cidra"
+        ]
     },
     {
         "name": "Coamo",
-        "cities": []
+        "cities": [
+            "Coamo"
+        ]
     },
     {
         "name": "Comerío",
-        "cities": []
+        "cities": [
+            "Comerío"
+        ]
     },
     {
         "name": "Corozal",
-        "cities": []
+        "cities": [
+            "Corozal"
+        ]
     },
     {
         "name": "Culebra",
-        "cities": []
+        "cities": [
+            "Culebra"
+        ]
     },
     {
         "name": "Dorado",
-        "cities": []
+        "cities": [
+            "Dorado"
+        ]
     },
     {
         "name": "Fajardo",
-        "cities": []
+        "cities": [
+            "Fajardo"
+        ]
     },
     {
         "name": "Florida",
-        "cities": []
+        "cities": [
+            "Florida"
+        ]
     },
     {
         "name": "Guánica",
-        "cities": []
+        "cities": [
+            "Guánica"
+        ]
     },
     {
         "name": "Guayama",
-        "cities": []
+        "cities": [
+            "Guayama"
+        ]
     },
     {
         "name": "Guayanilla",
-        "cities": []
+        "cities": [
+            "Guayanilla"
+        ]
     },
     {
         "name": "Guaynabo",
@@ -145,75 +207,111 @@
     },
     {
         "name": "Guaynabo",
-        "cities": []
+        "cities": [
+            "Guaynabo"
+        ]
     },
     {
         "name": "Gurabo",
-        "cities": []
+        "cities": [
+            "Gurabo"
+        ]
     },
     {
         "name": "Hatillo",
-        "cities": []
+        "cities": [
+            "Hatillo"
+        ]
     },
     {
         "name": "Hormigueros",
-        "cities": []
+        "cities": [
+            "Hormigueros"
+        ]
     },
     {
         "name": "Humacao",
-        "cities": []
+        "cities": [
+            "Humacao"
+        ]
     },
     {
         "name": "Isabela",
-        "cities": []
+        "cities": [
+            "Isabela"
+        ]
     },
     {
         "name": "Jayuya",
-        "cities": []
+        "cities": [
+            "Jayuya"
+        ]
     },
     {
         "name": "Juana Díaz",
-        "cities": []
+        "cities": [
+            "Juana Díaz"
+        ]
     },
     {
         "name": "Juncos",
-        "cities": []
+        "cities": [
+            "Juncos"
+        ]
     },
     {
         "name": "Lajas",
-        "cities": []
+        "cities": [
+            "Lajas"
+        ]
     },
     {
         "name": "Lares",
-        "cities": []
+        "cities": [
+            "Lares"
+        ]
     },
     {
         "name": "Las Marías",
-        "cities": []
+        "cities": [
+            "Las Marías"
+        ]
     },
     {
         "name": "Las Piedras",
-        "cities": []
+        "cities": [
+            "Las Piedras"
+        ]
     },
     {
         "name": "Loíza",
-        "cities": []
+        "cities": [
+            "Loíza"
+        ]
     },
     {
         "name": "Luquillo",
-        "cities": []
+        "cities": [
+            "Luquillo"
+        ]
     },
     {
         "name": "Manatí",
-        "cities": []
+        "cities": [
+            "Manatí"
+        ]
     },
     {
         "name": "Maricao",
-        "cities": []
+        "cities": [
+            "Maricao"
+        ]
     },
     {
         "name": "Maunabo",
-        "cities": []
+        "cities": [
+            "Maunabo"
+        ]
     },
     {
         "name": "Mayagüez",
@@ -221,35 +319,51 @@
     },
     {
         "name": "Mayagüez",
-        "cities": []
+        "cities": [
+            "Mayagüez"
+        ]
     },
     {
         "name": "Moca",
-        "cities": []
+        "cities": [
+            "Moca"
+        ]
     },
     {
         "name": "Morovis",
-        "cities": []
+        "cities": [
+            "Morovis"
+        ]
     },
     {
         "name": "Naguabo",
-        "cities": []
+        "cities": [
+            "Naguabo"
+        ]
     },
     {
         "name": "Naranjito",
-        "cities": []
+        "cities": [
+            "Naranjito"
+        ]
     },
     {
         "name": "Orocovis",
-        "cities": []
+        "cities": [
+            "Orocovis"
+        ]
     },
     {
         "name": "Patillas",
-        "cities": []
+        "cities": [
+            "Patillas"
+        ]
     },
     {
         "name": "Peñuelas",
-        "cities": []
+        "cities": [
+            "Peñuelas"
+        ]
     },
     {
         "name": "Ponce",
@@ -257,35 +371,51 @@
     },
     {
         "name": "Ponce",
-        "cities": []
+        "cities": [
+            "Ponce"
+        ]
     },
     {
         "name": "Quebradillas",
-        "cities": []
+        "cities": [
+            "Quebradillas"
+        ]
     },
     {
         "name": "Rincón",
-        "cities": []
+        "cities": [
+            "Rincón"
+        ]
     },
     {
         "name": "Río Grande",
-        "cities": []
+        "cities": [
+            "Río Grande"
+        ]
     },
     {
         "name": "Sabana Grande",
-        "cities": []
+        "cities": [
+            "Sabana Grande"
+        ]
     },
     {
         "name": "Salinas",
-        "cities": []
+        "cities": [
+            "Salinas"
+        ]
     },
     {
         "name": "San Germán",
-        "cities": []
+        "cities": [
+            "San Germán"
+        ]
     },
     {
         "name": "San Juan",
-        "cities": []
+        "cities": [
+            "San Juan"
+        ]
     },
     {
         "name": "San Juan",
@@ -293,19 +423,27 @@
     },
     {
         "name": "San Lorenzo",
-        "cities": []
+        "cities": [
+            "San Lorenzo"
+        ]
     },
     {
         "name": "San Sebastián",
-        "cities": []
+        "cities": [
+            "San Sebastián"
+        ]
     },
     {
         "name": "Santa Isabel",
-        "cities": []
+        "cities": [
+            "Santa Isabel"
+        ]
     },
     {
         "name": "Toa Alta",
-        "cities": []
+        "cities": [
+            "Toa Alta"
+        ]
     },
     {
         "name": "Toa Baja",
@@ -313,7 +451,9 @@
     },
     {
         "name": "Toa Baja",
-        "cities": []
+        "cities": [
+            "Toa Baja"
+        ]
     },
     {
         "name": "Trujillo Alto",
@@ -321,34 +461,50 @@
     },
     {
         "name": "Trujillo Alto",
-        "cities": []
+        "cities": [
+            "Trujillo Alto"
+        ]
     },
     {
         "name": "Utuado",
-        "cities": []
+        "cities": [
+            "Utuado"
+        ]
     },
     {
         "name": "Vega Alta",
-        "cities": []
+        "cities": [
+            "Vega Alta"
+        ]
     },
     {
         "name": "Vega Baja",
-        "cities": []
+        "cities": [
+            "Vega Baja"
+        ]
     },
     {
         "name": "Vieques",
-        "cities": []
+        "cities": [
+            "Vieques"
+        ]
     },
     {
         "name": "Villalba",
-        "cities": []
+        "cities": [
+            "Villalba"
+        ]
     },
     {
         "name": "Yabucoa",
-        "cities": []
+        "cities": [
+            "Yabucoa"
+        ]
     },
     {
         "name": "Yauco",
-        "cities": []
+        "cities": [
+            "Yauco"
+        ]
     }
 ]

@@ -1,7 +1,20 @@
 [
     {
         "name": "Åland Islands",
-        "cities": []
+        "cities": [
+            "Brändö",
+            "Eckerö",
+            "Finström",
+            "Föglö",
+            "Geta",
+            "Hammarland",
+            "Jomala",
+            "Kumlinge",
+            "Lemland",
+            "Mariehamn",
+            "Saltvik",
+            "Sund"
+        ]
     },
     {
         "name": "Central Finland",

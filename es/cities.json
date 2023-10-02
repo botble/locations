@@ -2088,6 +2088,18 @@
         ]
     },
     {
+        "name": "Canarias",
+        "cities": [
+            "Arrecife",
+            "Las Palmas de Gran Canaria",
+            "Puerto del Rosario",
+            "San Sebastián de La Gomera",
+            "Santa Cruz de La Palma",
+            "Santa Cruz de Tenerife",
+            "Valverde"
+        ]
+    },
+    {
         "name": "Cantabria",
         "cities": [
             "Alfoz de Lloredo",
@@ -2338,6 +2350,10 @@
             "Zorita del Maestrazgo",
             "Zucaina"
         ]
+    },
+    {
+        "name": "Ceuta",
+        "cities": []
     },
     {
         "name": "Ciudad Real",
@@ -5220,6 +5236,10 @@
             "Viñuela",
             "Yunquera"
         ]
+    },
+    {
+        "name": "Melilla",
+        "cities": []
     },
     {
         "name": "Murcia",

@@ -1,6 +1,6 @@
 [
     {
-        "name": "Artigas Department",
+        "name": "Artigas",
         "cities": [
             "Artigas",
             "Baltasar Brum",
@@ -10,7 +10,7 @@
         ]
     },
     {
-        "name": "Canelones Department",
+        "name": "Canelones",
         "cities": [
             "Aguas Corrientes",
             "Atlántida",
@@ -44,7 +44,7 @@
         ]
     },
     {
-        "name": "Cerro Largo Department",
+        "name": "Cerro Largo",
         "cities": [
             "Aceguá",
             "Isidoro Noblía",
@@ -54,7 +54,7 @@
         ]
     },
     {
-        "name": "Colonia Department",
+        "name": "Colonia",
         "cities": [
             "Carmelo",
             "Colonia del Sacramento",
@@ -68,7 +68,7 @@
         ]
     },
     {
-        "name": "Durazno Department",
+        "name": "Durazno",
         "cities": [
             "Blanquillo",
             "Carlos Reyles",
@@ -80,13 +80,13 @@
         ]
     },
     {
-        "name": "Flores Department",
+        "name": "Flores",
         "cities": [
             "Trinidad"
         ]
     },
     {
-        "name": "Florida Department",
+        "name": "Florida",
         "cities": [
             "25 de Agosto",
             "25 de Mayo",
@@ -98,7 +98,7 @@
         ]
     },
     {
-        "name": "Lavalleja Department",
+        "name": "Lavalleja",
         "cities": [
             "José Batlle y Ordóñez",
             "José Pedro Varela",
@@ -108,7 +108,7 @@
         ]
     },
     {
-        "name": "Maldonado Department",
+        "name": "Maldonado",
         "cities": [
             "Aiguá",
             "Maldonado",
@@ -119,7 +119,7 @@
         ]
     },
     {
-        "name": "Montevideo Department",
+        "name": "Montevideo",
         "cities": [
             "Bella Vista",
             "Belvedere",
@@ -159,7 +159,7 @@
         ]
     },
     {
-        "name": "Paysandú Department",
+        "name": "Paysandú",
         "cities": [
             "Estación Porvenir",
             "Guichón",
@@ -170,7 +170,7 @@
         ]
     },
     {
-        "name": "Río Negro Department",
+        "name": "Río Negro",
         "cities": [
             "Fray Bentos",
             "Nuevo Berlín",
@@ -179,7 +179,7 @@
         ]
     },
     {
-        "name": "Rivera Department",
+        "name": "Rivera",
         "cities": [
             "Minas de Corrales",
             "Rivera",
@@ -188,7 +188,7 @@
         ]
     },
     {
-        "name": "Rocha Department",
+        "name": "Rocha",
         "cities": [
             "Castillos",
             "Cebollatí",
@@ -201,7 +201,7 @@
         ]
     },
     {
-        "name": "Salto Department",
+        "name": "Salto",
         "cities": [
             "Belén",
             "Salto",
@@ -209,7 +209,7 @@
         ]
     },
     {
-        "name": "San José Department",
+        "name": "San José",
         "cities": [
             "Delta del Tigre",
             "Ecilda Paullier",
@@ -221,7 +221,7 @@
         ]
     },
     {
-        "name": "Soriano Department",
+        "name": "Soriano",
         "cities": [
             "Cardona",
             "Dolores",
@@ -233,7 +233,7 @@
         ]
     },
     {
-        "name": "Tacuarembó Department",
+        "name": "Tacuarembó",
         "cities": [
             "Curtina",
             "Paso de los Toros",
@@ -241,7 +241,7 @@
         ]
     },
     {
-        "name": "Treinta y Tres Department",
+        "name": "Treinta y Tres",
         "cities": [
             "Santa Clara de Olimar",
             "Treinta y Tres",

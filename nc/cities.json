@@ -1,1 +1,27 @@
-[]
+[
+    {
+        "name": "Loyalty Islands Province",
+        "cities": [
+            "Lifou",
+            "Maré"
+        ]
+    },
+    {
+        "name": "North Province",
+        "cities": [
+            "Houaïlou",
+            "Koné",
+            "Poindimié"
+        ]
+    },
+    {
+        "name": "South Province",
+        "cities": [
+            "Bourail",
+            "Dumbéa",
+            "Le Mont-Dore",
+            "Nouméa",
+            "Païta"
+        ]
+    }
+]

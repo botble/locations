@@ -39,6 +39,7 @@
             "Græsted",
             "Gribskov Kommune",
             "Halsnæs Kommune",
+            "Hedehusene",
             "Hellebæk",
             "Helsinge",
             "Helsingør",
@@ -93,9 +94,9 @@
     {
         "name": "Central Denmark Region",
         "cities": [
+            "Aarhus",
+            "Aarhus Kommune",
             "Allingåbro",
-            "Århus",
-            "Århus Kommune",
             "Assentoft",
             "Auning",
             "Avlum",

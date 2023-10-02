@@ -39,10 +39,16 @@
         "name": "Cádiz"
     },
     {
+        "name": "Canarias"
+    },
+    {
         "name": "Cantabria"
     },
     {
         "name": "Castellón"
+    },
+    {
+        "name": "Ceuta"
     },
     {
         "name": "Ciudad Real"
@@ -97,6 +103,9 @@
     },
     {
         "name": "Málaga"
+    },
+    {
+        "name": "Melilla"
     },
     {
         "name": "Murcia"

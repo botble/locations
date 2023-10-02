@@ -108,30 +108,17 @@
     {
         "name": "DI Yogyakarta",
         "cities": [
-            "Bambanglipuro",
-            "Bantul",
-            "Depok",
-            "Gamping Lor",
-            "Godean",
             "Kabupaten Bantul",
             "Kabupaten Gunung Kidul",
             "Kabupaten Kulon Progo",
             "Kabupaten Sleman",
-            "Kasihan",
             "Kota Yogyakarta",
-            "Melati",
-            "Pandak",
-            "Pundong",
-            "Sewon",
-            "Sleman",
-            "Srandakan",
             "Yogyakarta"
         ]
     },
     {
         "name": "DKI Jakarta",
         "cities": [
-            "Jakarta",
             "Kota Administrasi Jakarta Barat",
             "Kota Administrasi Jakarta Pusat",
             "Kota Administrasi Jakarta Selatan",
