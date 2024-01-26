@@ -1,1 +1,97 @@
-[]
+[
+    {
+        "name": "Kommune Qeqertalik",
+        "cities": [
+            "Qeqertarsuaq",
+            "Kangaatsiaq",
+            "Niaqornaarsuk",
+            "Attu",
+            "Ikerasaarsuk",
+            "Ikamiut",
+            "Iginniarfik",
+            "Akunnaaq",
+            "Kitsissuarsuit",
+            "Kangerluk"
+        ]
+    },
+    {
+        "name": "Avannaata Kommunia",
+        "cities": [
+            "Ilulissat",
+            "Uummannaq",
+            "Upernavik",
+            "Qaanaaq",
+            "Kullorsuaq",
+            "Tasiusaq",
+            "Saattut",
+            "Ikerasak",
+            "Nuussuaq",
+            "Upernavik Kujalleq",
+            "Innaarsuit",
+            "Qaarsut",
+            "Ukkusissat",
+            "Aappilattoq",
+            "Saqqaq",
+            "Kangersuatsiaq",
+            "Qeqertaq",
+            "Savissivik Havighivik",
+            "Nutaarmiut",
+            "Ilimanaq",
+            "Naajaat",
+            "Siorapaluk Hiurapaluk",
+            "Niaqornat",
+            "Oqaatsut",
+            "Qeqertat",
+            "Nuugaatsiaq"
+        ]
+    },
+    {
+        "name": "Qeqqata Kommunia",
+        "cities": [
+            "Sisimiut",
+            "Maniitsoq",
+            "Kangerlussuaq",
+            "Kangaamiut",
+            "Atammik",
+            "Sarfannguit",
+            "Itilleq",
+            "Napasoq"
+        ]
+    },
+    {
+        "name": "Kommuneqarfik Sermersooq",
+        "cities": [
+            "Nuuk",
+            "Tasiilaq",
+            "Paamiut",
+            "Ittoqqortoormiit",
+            "Kuummiit",
+            "Kulusuk",
+            "Sermiligaaq",
+            "Qeqertarsuatsiaat",
+            "Arsuk",
+            "Tiilerilaaq",
+            "Isertoq",
+            "Kapisillit"
+        ]
+    },
+    {
+        "name": "Kommune Kujalleq",
+        "cities": [
+            "Qaqortoq",
+            "Narsaq",
+            "Nanortalik",
+            "Alluitsup Paa",
+            "Narsarsuaq",
+            "Aappilattoq",
+            "Eqalugaarsuit",
+            "Narsarmijit",
+            "Qassiarsuk",
+            "Tasiusaq".
+            "Ammassivik",
+            "Igaliku",
+            "Saarloq",
+            "Qassimiut"
+        ]
+    }
+]
