@@ -5,7 +5,7 @@ It's used for all of our scripts on [https://codecanyon.net/user/botble/portfoli
 
 # Screenshots
 
-![Screenshot](https://live.staticflickr.com/65535/52221311748_303e42f284_b.jpg)
+![Screenshot](./screenshot.png)
 
 # Contact us
 - Website: [https://botble.com](https://botble.com)
