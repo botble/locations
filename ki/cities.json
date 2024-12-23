@@ -1,6 +1,6 @@
 [
     {
-        "name": "Gilbert Islands",
+        "name": "Gilbert",
         "cities": [
             "Abaiang",
             "Abemama",
@@ -35,7 +35,7 @@
         ]
     },
     {
-        "name": "Line Islands",
+        "name": "Line",
         "cities": [
             "Banana Village",
             "Kiritimati",
@@ -47,7 +47,7 @@
         ]
     },
     {
-        "name": "Phoenix Islands",
+        "name": "Phoenix",
         "cities": [
             "Kanton"
         ]

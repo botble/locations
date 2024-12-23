@@ -1,1 +1,58 @@
-[]
+[
+    {
+        "name": "Blowing Point",
+        "cities": []
+    },
+    {
+        "name": "East End",
+        "cities": []
+    },
+    {
+        "name": "George Hill",
+        "cities": []
+    },
+    {
+        "name": "Island Harbour",
+        "cities": []
+    },
+    {
+        "name": "North Hill",
+        "cities": []
+    },
+    {
+        "name": "North Side",
+        "cities": []
+    },
+    {
+        "name": "Sandy Ground",
+        "cities": []
+    },
+    {
+        "name": "Sandy Hill",
+        "cities": []
+    },
+    {
+        "name": "South Hill",
+        "cities": []
+    },
+    {
+        "name": "Stoney Ground",
+        "cities": []
+    },
+    {
+        "name": "The Farrington",
+        "cities": []
+    },
+    {
+        "name": "The Quarter",
+        "cities": []
+    },
+    {
+        "name": "The Valley",
+        "cities": []
+    },
+    {
+        "name": "West End",
+        "cities": []
+    }
+]

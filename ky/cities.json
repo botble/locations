@@ -1,1 +1,24 @@
-[]
+[
+    {
+        "name": "Cayman Brac",
+        "cities": [
+            "Cayman Brac"
+        ]
+    },
+    {
+        "name": "Grand Cayman",
+        "cities": [
+            "Bodden Town",
+            "East End",
+            "George Town",
+            "North Side",
+            "West Bay"
+        ]
+    },
+    {
+        "name": "Little Cayman",
+        "cities": [
+            "Little Cayman"
+        ]
+    }
+]

@@ -21,11 +21,6 @@
             "Kabupaten Nagan Raya",
             "Kabupaten Pidie",
             "Kabupaten Simeulue",
-            "Kota Banda Aceh",
-            "Kota Langsa",
-            "Kota Lhokseumawe",
-            "Kota Sabang",
-            "Kota Subulussalam",
             "Langsa",
             "Lhokseumawe",
             "Meulaboh",
@@ -55,7 +50,6 @@
             "Kabupaten Klungkung",
             "Kabupaten Tabanan",
             "Klungkung",
-            "Kota Denpasar",
             "Kuta",
             "Legian",
             "Lovina",
@@ -71,7 +65,6 @@
     {
         "name": "Banten",
         "cities": [
-            "Curug",
             "Kabupaten Lebak",
             "Kabupaten Pandeglang",
             "Kabupaten Serang",
@@ -79,13 +72,7 @@
             "Kota Cilegon",
             "Kota Serang",
             "Kota Tangerang",
-            "Kota Tangerang Selatan",
-            "Labuan",
-            "Pandeglang",
-            "Rangkasbitung",
-            "Serang",
-            "South Tangerang",
-            "Tangerang"
+            "Kota Tangerang Selatan"
         ]
     },
     {
@@ -101,8 +88,7 @@
             "Kabupaten Lebong",
             "Kabupaten Mukomuko",
             "Kabupaten Rejang Lebong",
-            "Kabupaten Seluma",
-            "Kota Bengkulu"
+            "Kabupaten Seluma"
         ]
     },
     {
@@ -112,18 +98,17 @@
             "Kabupaten Gunung Kidul",
             "Kabupaten Kulon Progo",
             "Kabupaten Sleman",
-            "Kota Yogyakarta",
             "Yogyakarta"
         ]
     },
     {
         "name": "DKI Jakarta",
         "cities": [
-            "Kota Administrasi Jakarta Barat",
-            "Kota Administrasi Jakarta Pusat",
-            "Kota Administrasi Jakarta Selatan",
-            "Kota Administrasi Jakarta Timur",
-            "Kota Administrasi Jakarta Utara"
+            "Jakarta Barat",
+            "Jakarta Pusat",
+            "Jakarta Selatan",
+            "Jakarta Timur",
+            "Jakarta Utara"
         ]
     },
     {
@@ -134,8 +119,7 @@
             "Kabupaten Bone Bolango",
             "Kabupaten Gorontalo",
             "Kabupaten Gorontalo Utara",
-            "Kabupaten Pohuwato",
-            "Kota Gorontalo"
+            "Kabupaten Pohuwato"
         ]
     },
     {
@@ -152,8 +136,6 @@
             "Kabupaten Tanjung Jabung Barat",
             "Kabupaten Tanjung Jabung Timur",
             "Kabupaten Tebo",
-            "Kota Jambi",
-            "Kota Sungai Penuh",
             "Kuala Tungkal",
             "Mendaha",
             "Simpang",
@@ -211,15 +193,6 @@
             "Karangsembung",
             "Kawalu",
             "Klangenan",
-            "Kota Bandung",
-            "Kota Banjar",
-            "Kota Bekasi",
-            "Kota Bogor",
-            "Kota Cimahi",
-            "Kota Cirebon",
-            "Kota Depok",
-            "Kota Sukabumi",
-            "Kota Tasikmalaya",
             "Kresek",
             "Kuningan",
             "Lembang",
@@ -322,12 +295,6 @@
             "Kedungwuni",
             "Ketanggungan",
             "Klaten",
-            "Kota Magelang",
-            "Kota Pekalongan",
-            "Kota Salatiga",
-            "Kota Semarang",
-            "Kota Surakarta",
-            "Kota Tegal",
             "Kroya",
             "Kudus",
             "Kutoarjo",
@@ -435,15 +402,6 @@
             "Kencong",
             "Kepanjen",
             "Kertosono",
-            "Kota Batu",
-            "Kota Blitar",
-            "Kota Kediri",
-            "Kota Madiun",
-            "Kota Malang",
-            "Kota Mojokerto",
-            "Kota Pasuruan",
-            "Kota Probolinggo",
-            "Kota Surabaya",
             "Kraksaan",
             "Krian",
             "Lamongan",
@@ -525,8 +483,6 @@
             "Kabupaten Tanah Bumbu",
             "Kabupaten Tanah Laut",
             "Kabupaten Tapin",
-            "Kota Banjar Baru",
-            "Kota Banjarmasin",
             "Martapura"
         ]
     },
@@ -546,7 +502,6 @@
             "Kabupaten Pulang Pisau",
             "Kabupaten Seruyan",
             "Kabupaten Sukamara",
-            "Kota Palangka Raya",
             "Kualakapuas",
             "Palangkaraya",
             "Pangkalanbuun",
@@ -566,9 +521,6 @@
             "Kabupaten Mahakam Hulu",
             "Kabupaten Paser",
             "Kabupaten Penajam Paser Utara",
-            "Kota Balikpapan",
-            "Kota Bontang",
-            "Kota Samarinda",
             "Loa Janan",
             "Samarinda"
         ]
@@ -593,7 +545,6 @@
             "Kabupaten Bangka Tengah",
             "Kabupaten Belitung",
             "Kabupaten Belitung Timur",
-            "Kota Pangkal Pinang",
             "Manggar",
             "Muntok",
             "Pangkalpinang",
@@ -610,8 +561,6 @@
             "Kabupaten Lingga",
             "Kabupaten Natuna",
             "Kijang",
-            "Kota Batam",
-            "Kota Tanjung Pinang",
             "Tanjung Pinang"
         ]
     },
@@ -631,8 +580,6 @@
             "Kabupaten Tanggamus",
             "Kabupaten Tulangbawang",
             "Kabupaten Way Kanan",
-            "Kota Bandar Lampung",
-            "Kota Metro",
             "Kotabumi",
             "Metro",
             "Terbanggi Besar"
@@ -652,8 +599,6 @@
             "Kabupaten Maluku Tenggara Barat",
             "Kabupaten Seram Bagian Barat",
             "Kabupaten Seram Bagian Timur",
-            "Kota Ambon",
-            "Kota Tual",
             "Tual"
         ]
     },
@@ -668,8 +613,6 @@
             "Kabupaten Kepulauan Sula",
             "Kabupaten Pulau Morotai",
             "Kabupaten Pulau Taliabu",
-            "Kota Ternate",
-            "Kota Tidore Kepulauan",
             "Sofifi",
             "Ternate",
             "Tobelo"
@@ -689,8 +632,6 @@
             "Kabupaten Lombok Utara",
             "Kabupaten Sumbawa",
             "Kabupaten Sumbawa Barat",
-            "Kota Bima",
-            "Kota Mataram",
             "Labuan Lombok",
             "Lembar",
             "Mataram",
@@ -729,7 +670,6 @@
             "Kabupaten Timor Tengah Utara",
             "Kefamenanu",
             "Komodo",
-            "Kota Kupang",
             "Kupang",
             "Labuan Bajo",
             "Maumere",
@@ -746,35 +686,14 @@
             "Biak",
             "Insrom",
             "Jayapura",
-            "Kabupaten Asmat",
             "Kabupaten Biak Numfor",
-            "Kabupaten Boven Digoel",
-            "Kabupaten Deiyai",
-            "Kabupaten Dogiyai",
-            "Kabupaten Intan Jaya",
             "Kabupaten Jayapura",
-            "Kabupaten Jayawijaya",
             "Kabupaten Keerom",
             "Kabupaten Kepulauan Yapen",
-            "Kabupaten Lanny Jaya",
             "Kabupaten Mamberamo Raya",
-            "Kabupaten Mamberamo Tengah",
-            "Kabupaten Mappi",
-            "Kabupaten Merauke",
-            "Kabupaten Mimika",
-            "Kabupaten Nabire",
-            "Kabupaten Nduga",
-            "Kabupaten Paniai",
-            "Kabupaten Pegunungan Bintang",
-            "Kabupaten Puncak Jaya",
             "Kabupaten Sarmi",
             "Kabupaten Supiori",
-            "Kabupaten Tolikara",
-            "Kabupaten Waropen",
-            "Kabupaten Yahukimo",
-            "Kabupaten Yalimo",
-            "Kota Jayapura",
-            "Nabire"
+            "Kabupaten Waropen"
         ]
     },
     {
@@ -784,16 +703,56 @@
             "Kabupaten Kaimana",
             "Kabupaten Manokwari",
             "Kabupaten Manokwari Selatan",
+            "Kabupaten Teluk Bintuni",
+            "Kabupaten Teluk Wondama",
+            "Manokwari"
+        ]
+    },
+    {
+        "name": "Papua Barat Daya",
+        "cities": [
             "Kabupaten Maybrat",
             "Kabupaten Raja Ampat",
             "Kabupaten Sorong",
             "Kabupaten Sorong Selatan",
             "Kabupaten Tambrauw",
-            "Kabupaten Teluk Bintuni",
-            "Kabupaten Teluk Wondama",
-            "Kota Sorong",
-            "Manokwari",
             "Sorong"
+        ]
+    },
+    {
+        "name": "Papua Pegunungan",
+        "cities": [
+            "Kabupaten Jayawijaya",
+            "Kabupaten Lanny Jaya",
+            "Kabupaten Mamberamo Tengah",
+            "Kabupaten Nduga",
+            "Kabupaten Pegunungan Bintang",
+            "Kabupaten Tolikara",
+            "Kabupaten Yahukimo",
+            "Kabupaten Yalimo"
+        ]
+    },
+    {
+        "name": "Papua Selatan",
+        "cities": [
+            "Kabupaten Asmat",
+            "Kabupaten Boven Digoel",
+            "Kabupaten Mappi",
+            "Kabupaten Merauke"
+        ]
+    },
+    {
+        "name": "Papua Tengah",
+        "cities": [
+            "Kabupaten Deiyai",
+            "Kabupaten Dogiyai",
+            "Kabupaten Intan Jaya",
+            "Kabupaten Mimika",
+            "Kabupaten Nabire",
+            "Kabupaten Paniai",
+            "Kabupaten Puncak",
+            "Kabupaten Puncak Jaya",
+            "Nabire"
         ]
     },
     {
@@ -812,8 +771,6 @@
             "Kabupaten Rokan Hilir",
             "Kabupaten Rokan Hulu",
             "Kabupaten Siak",
-            "Kota Dumai",
-            "Kota Pekanbaru",
             "Pekanbaru"
         ]
     },
@@ -855,9 +812,6 @@
             "Kabupaten Tana Toraja",
             "Kabupaten Toraja Utara",
             "Kabupaten Wajo",
-            "Kota Makassar",
-            "Kota Palopo",
-            "Kota Parepare",
             "Makassar",
             "Maros",
             "Palopo",
@@ -882,7 +836,6 @@
             "Kabupaten Poso",
             "Kabupaten Sigi",
             "Kabupaten Toli-Toli",
-            "Kota Palu",
             "Luwuk",
             "Morowali Regency",
             "Palu",
@@ -909,8 +862,6 @@
             "Kabupaten Muna Barat",
             "Katabu",
             "Kendari",
-            "Kota Baubau",
-            "Kota Kendari",
             "Wakatobi Regency"
         ]
     },
@@ -928,10 +879,6 @@
             "Kabupaten Minahasa Tenggara",
             "Kabupaten Minahasa Utara",
             "Kabupaten Siau Tagulandang Biaro",
-            "Kota Bitung",
-            "Kota Kotamobagu",
-            "Kota Manado",
-            "Kota Tomohon",
             "Laikit Laikit II (Dimembe)",
             "Manado",
             "Tomohon",
@@ -954,13 +901,6 @@
             "Kabupaten Solok",
             "Kabupaten Solok Selatan",
             "Kabupaten Tanah Datar",
-            "Kota Bukittinggi",
-            "Kota Padang",
-            "Kota Padang Panjang",
-            "Kota Pariaman",
-            "Kota Payakumbuh",
-            "Kota Sawah Lunto",
-            "Kota Solok",
             "Padang",
             "Pariaman",
             "Payakumbuh",
@@ -983,10 +923,6 @@
             "Kabupaten Ogan Komering Ulu Selatan",
             "Kabupaten Ogan Komering Ulu Timur",
             "Kabupaten Penukal Abab Lematang Ilir",
-            "Kota Lubuklinggau",
-            "Kota Pagar Alam",
-            "Kota Palembang",
-            "Kota Prabumulih",
             "Lahat",
             "Lahat Regency",
             "Lubuklinggau",
@@ -1031,14 +967,6 @@
             "Kabupaten Tapanuli Tengah",
             "Kabupaten Tapanuli Utara",
             "Kisaran",
-            "Kota Binjai",
-            "Kota Gunungsitoli",
-            "Kota Medan",
-            "Kota Padangsidimpuan",
-            "Kota Pematang Siantar",
-            "Kota Sibolga",
-            "Kota Tanjung Balai",
-            "Kota Tebing Tinggi",
             "Labuhan Deli",
             "Medan",
             "Padangsidempuan",

@@ -1,12 +1,12 @@
 [
     {
-        "name": "Annobón Province",
+        "name": "Annobón",
         "cities": [
             "San Antonio de Palé"
         ]
     },
     {
-        "name": "Bioko Norte Province",
+        "name": "Bioko Norte",
         "cities": [
             "Malabo",
             "Rebola",
@@ -14,13 +14,13 @@
         ]
     },
     {
-        "name": "Bioko Sur Province",
+        "name": "Bioko Sur",
         "cities": [
             "Luba"
         ]
     },
     {
-        "name": "Centro Sur Province",
+        "name": "Centro Sur",
         "cities": [
             "Acurenam",
             "Bicurga",
@@ -28,11 +28,11 @@
         ]
     },
     {
-        "name": "Insular Region",
+        "name": "Insular",
         "cities": []
     },
     {
-        "name": "Kié-Ntem Province",
+        "name": "Kié-Ntem",
         "cities": [
             "Ebebiyin",
             "Mikomeseng",
@@ -41,7 +41,7 @@
         ]
     },
     {
-        "name": "Litoral Province",
+        "name": "Litoral",
         "cities": [
             "Bata",
             "Bitica",
@@ -56,7 +56,7 @@
         "cities": []
     },
     {
-        "name": "Wele-Nzas Province",
+        "name": "Wele-Nzas",
         "cities": [
             "Aconibe",
             "Añisoc",

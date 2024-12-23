@@ -1,6 +1,6 @@
 [
     {
-        "name": "Ayeyarwady Region",
+        "name": "Ayeyarwady",
         "cities": [
             "Bogale",
             "Hinthada",
@@ -29,27 +29,27 @@
         ]
     },
     {
-        "name": "Chin State",
+        "name": "Chin",
         "cities": [
             "Falam",
             "Hakha"
         ]
     },
     {
-        "name": "Kachin State",
+        "name": "Kachin",
         "cities": [
             "Bhamo",
             "Myitkyina"
         ]
     },
     {
-        "name": "Kayah State",
+        "name": "Kayah",
         "cities": [
             "Loikaw"
         ]
     },
     {
-        "name": "Kayin State",
+        "name": "Kayin",
         "cities": [
             "Dellok",
             "Hpa-An",
@@ -63,7 +63,7 @@
         ]
     },
     {
-        "name": "Magway Region",
+        "name": "Magway",
         "cities": [
             "Chauk",
             "Magway",
@@ -76,7 +76,7 @@
         ]
     },
     {
-        "name": "Mandalay Region",
+        "name": "Mandalay",
         "cities": [
             "Kyaukse",
             "Mandalay",
@@ -100,20 +100,20 @@
         ]
     },
     {
-        "name": "Naypyidaw Union Territory",
+        "name": "Naypyidaw",
         "cities": [
             "Nay Pyi Taw",
             "Pyinmana"
         ]
     },
     {
-        "name": "Rakhine State",
+        "name": "Rakhine",
         "cities": [
             "Sittwe"
         ]
     },
     {
-        "name": "Sagaing Region",
+        "name": "Sagaing",
         "cities": [
             "Mawlaik",
             "Monywa",
@@ -122,7 +122,7 @@
         ]
     },
     {
-        "name": "Shan State",
+        "name": "Shan",
         "cities": [
             "Lashio",
             "Tachilek",
@@ -130,7 +130,7 @@
         ]
     },
     {
-        "name": "Tanintharyi Region",
+        "name": "Tanintharyi",
         "cities": [
             "Dawei",
             "Kawthoung",
@@ -138,7 +138,7 @@
         ]
     },
     {
-        "name": "Yangon Region",
+        "name": "Yangon",
         "cities": [
             "Kanbe",
             "Kayan",

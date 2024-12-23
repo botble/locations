@@ -1,6 +1,6 @@
 [
     {
-        "name": "Aichi Prefecture",
+        "name": "Aichi",
         "cities": [
             "Aisai-shi",
             "Ama-gun",
@@ -75,7 +75,7 @@
         ]
     },
     {
-        "name": "Akita Prefecture",
+        "name": "Akita",
         "cities": [
             "Akita",
             "Akita Shi",
@@ -107,7 +107,7 @@
         ]
     },
     {
-        "name": "Aomori Prefecture",
+        "name": "Aomori",
         "cities": [
             "Aomori",
             "Aomori Shi",
@@ -133,7 +133,7 @@
         ]
     },
     {
-        "name": "Chiba Prefecture",
+        "name": "Chiba",
         "cities": [
             "Abiko",
             "Abiko-shi",
@@ -203,7 +203,7 @@
         ]
     },
     {
-        "name": "Ehime Prefecture",
+        "name": "Ehime",
         "cities": [
             "Hōjō",
             "Imabari-shi",
@@ -228,7 +228,7 @@
         ]
     },
     {
-        "name": "Fukui Prefecture",
+        "name": "Fukui",
         "cities": [
             "Asahi",
             "Awara-shi",
@@ -252,7 +252,7 @@
         ]
     },
     {
-        "name": "Fukuoka Prefecture",
+        "name": "Fukuoka",
         "cities": [
             "Amagi",
             "Asakura Shi",
@@ -313,7 +313,7 @@
         ]
     },
     {
-        "name": "Fukushima Prefecture",
+        "name": "Fukushima",
         "cities": [
             "Aizu-wakamatsu Shi",
             "Date-shi",
@@ -348,7 +348,7 @@
         ]
     },
     {
-        "name": "Gifu Prefecture",
+        "name": "Gifu",
         "cities": [
             "Ena-shi",
             "Gero",
@@ -388,7 +388,7 @@
         ]
     },
     {
-        "name": "Gunma Prefecture",
+        "name": "Gunma",
         "cities": [
             "Agatsuma-gun",
             "Annaka",
@@ -424,7 +424,7 @@
         ]
     },
     {
-        "name": "Hiroshima Prefecture",
+        "name": "Hiroshima",
         "cities": [
             "Aki-takata Shi",
             "Etajima-shi",
@@ -459,7 +459,7 @@
         ]
     },
     {
-        "name": "Hokkaidō Prefecture",
+        "name": "Hokkaidō",
         "cities": [
             "Abashiri",
             "Abashiri Shi",
@@ -545,7 +545,7 @@
         ]
     },
     {
-        "name": "Hyōgo Prefecture",
+        "name": "Hyōgo",
         "cities": [
             "Aioi",
             "Aioi Shi",
@@ -603,7 +603,7 @@
         ]
     },
     {
-        "name": "Ibaraki Prefecture",
+        "name": "Ibaraki",
         "cities": [
             "Ami",
             "Bandō",
@@ -680,7 +680,7 @@
         ]
     },
     {
-        "name": "Ishikawa Prefecture",
+        "name": "Ishikawa",
         "cities": [
             "Hakui",
             "Hakui Shi",
@@ -703,7 +703,7 @@
         ]
     },
     {
-        "name": "Iwate Prefecture",
+        "name": "Iwate",
         "cities": [
             "Hachimantai",
             "Hachimantai Shi",
@@ -740,7 +740,7 @@
         ]
     },
     {
-        "name": "Kagawa Prefecture",
+        "name": "Kagawa",
         "cities": [
             "Higashikagawa Shi",
             "Kan’onji Shi",
@@ -760,7 +760,7 @@
         ]
     },
     {
-        "name": "Kagoshima Prefecture",
+        "name": "Kagoshima",
         "cities": [
             "Aira Shi",
             "Akune",
@@ -811,7 +811,7 @@
         ]
     },
     {
-        "name": "Kanagawa Prefecture",
+        "name": "Kanagawa",
         "cities": [
             "Atsugi",
             "Atsugi Shi",
@@ -856,7 +856,7 @@
         ]
     },
     {
-        "name": "Kōchi Prefecture",
+        "name": "Kōchi",
         "cities": [
             "Achi",
             "Agematsu",
@@ -971,7 +971,7 @@
         ]
     },
     {
-        "name": "Kumamoto Prefecture",
+        "name": "Kumamoto",
         "cities": [
             "Amakusa Gun",
             "Amakusa Shi",
@@ -1003,7 +1003,7 @@
         ]
     },
     {
-        "name": "Kyōto Prefecture",
+        "name": "Kyōto",
         "cities": [
             "Arashiyama",
             "Ayabe",
@@ -1032,7 +1032,7 @@
         ]
     },
     {
-        "name": "Mie Prefecture",
+        "name": "Mie",
         "cities": [
             "Hisai-motomachi",
             "Iga-shi",
@@ -1065,7 +1065,7 @@
         ]
     },
     {
-        "name": "Miyagi Prefecture",
+        "name": "Miyagi",
         "cities": [
             "Furukawa",
             "Higashimatshushima Shi",
@@ -1103,7 +1103,7 @@
         ]
     },
     {
-        "name": "Miyazaki Prefecture",
+        "name": "Miyazaki",
         "cities": [
             "Ebino-shi",
             "Hyūga-shi",
@@ -1125,7 +1125,7 @@
         ]
     },
     {
-        "name": "Nagano Prefecture",
+        "name": "Nagano",
         "cities": [
             "Azumino-Shi",
             "Chikuma Shi",
@@ -1170,7 +1170,7 @@
         ]
     },
     {
-        "name": "Nagasaki Prefecture",
+        "name": "Nagasaki",
         "cities": [
             "Fukuechō",
             "Gotō Shi",
@@ -1197,7 +1197,7 @@
         ]
     },
     {
-        "name": "Nara Prefecture",
+        "name": "Nara",
         "cities": [
             "Gojō",
             "Gojō-shi",
@@ -1223,7 +1223,7 @@
         ]
     },
     {
-        "name": "Niigata Prefecture",
+        "name": "Niigata",
         "cities": [
             "Agano Shi",
             "Arai",
@@ -1274,7 +1274,7 @@
         ]
     },
     {
-        "name": "Ōita Prefecture",
+        "name": "Ōita",
         "cities": [
             "Beppu",
             "Beppu Shi",
@@ -1305,7 +1305,7 @@
         ]
     },
     {
-        "name": "Okayama Prefecture",
+        "name": "Okayama",
         "cities": [
             "Akaiwa Shi",
             "Asakuchi Shi",
@@ -1335,7 +1335,7 @@
         ]
     },
     {
-        "name": "Okinawa Prefecture",
+        "name": "Okinawa",
         "cities": [
             "Chatan",
             "Ginowan Shi",
@@ -1365,7 +1365,7 @@
         ]
     },
     {
-        "name": "Ōsaka Prefecture",
+        "name": "Ōsaka",
         "cities": [
             "Daitō Shi",
             "Daitōchō",
@@ -1427,7 +1427,7 @@
         ]
     },
     {
-        "name": "Saga Prefecture",
+        "name": "Saga",
         "cities": [
             "Imari Shi",
             "Imarichō-kō",
@@ -1448,7 +1448,7 @@
         ]
     },
     {
-        "name": "Saitama Prefecture",
+        "name": "Saitama",
         "cities": [
             "Ageo Shi",
             "Ageoshimo",
@@ -1536,7 +1536,7 @@
         ]
     },
     {
-        "name": "Shiga Prefecture",
+        "name": "Shiga",
         "cities": [
             "Higashiōmi-shi",
             "Hikone",
@@ -1565,7 +1565,7 @@
         ]
     },
     {
-        "name": "Shimane Prefecture",
+        "name": "Shimane",
         "cities": [
             "Gōtsu Shi",
             "Gōtsuchō",
@@ -1586,7 +1586,7 @@
         ]
     },
     {
-        "name": "Shizuoka Prefecture",
+        "name": "Shizuoka",
         "cities": [
             "Atami",
             "Atami-shi",
@@ -1635,7 +1635,7 @@
         ]
     },
     {
-        "name": "Tochigi Prefecture",
+        "name": "Tochigi",
         "cities": [
             "Ashikaga",
             "Fujioka",
@@ -1673,7 +1673,7 @@
         ]
     },
     {
-        "name": "Tokushima Prefecture",
+        "name": "Tokushima",
         "cities": [
             "Anan Shi",
             "Awa-shi",
@@ -1763,7 +1763,7 @@
         ]
     },
     {
-        "name": "Tottori Prefecture",
+        "name": "Tottori",
         "cities": [
             "Kurayoshi-shi",
             "Sakaiminato",
@@ -1773,7 +1773,7 @@
         ]
     },
     {
-        "name": "Toyama Prefecture",
+        "name": "Toyama",
         "cities": [
             "Fukumitsu",
             "Himi Shi",
@@ -1799,7 +1799,7 @@
         ]
     },
     {
-        "name": "Wakayama Prefecture",
+        "name": "Wakayama",
         "cities": [
             "Arida Shi",
             "Gobō",
@@ -1820,7 +1820,7 @@
         ]
     },
     {
-        "name": "Yamagata Prefecture",
+        "name": "Yamagata",
         "cities": [
             "Higashine",
             "Higashine Shi",
@@ -1852,7 +1852,7 @@
         ]
     },
     {
-        "name": "Yamaguchi Prefecture",
+        "name": "Yamaguchi",
         "cities": [
             "Hagi",
             "Hagi Shi",
@@ -1878,7 +1878,7 @@
         ]
     },
     {
-        "name": "Yamanashi Prefecture",
+        "name": "Yamanashi",
         "cities": [
             "Chūō-shi",
             "Enzan",

@@ -1,6 +1,6 @@
 [
     {
-        "name": "Aragatsotn Region",
+        "name": "Aragatsotn",
         "cities": [
             "Agarakavan",
             "Aparan",
@@ -25,7 +25,7 @@
         ]
     },
     {
-        "name": "Ararat Province",
+        "name": "Ararat",
         "cities": [
             "Abovyan",
             "Aralez",
@@ -83,7 +83,7 @@
         ]
     },
     {
-        "name": "Armavir Region",
+        "name": "Armavir",
         "cities": [
             "Aghavnatun",
             "Aknalich",
@@ -142,7 +142,7 @@
         ]
     },
     {
-        "name": "Gegharkunik Province",
+        "name": "Gegharkunik",
         "cities": [
             "Akunk’",
             "Astghadzor",
@@ -183,7 +183,7 @@
         ]
     },
     {
-        "name": "Kotayk Region",
+        "name": "Kotayk",
         "cities": [
             "Abovyan",
             "Aghavnadzor",
@@ -220,7 +220,7 @@
         ]
     },
     {
-        "name": "Lori Region",
+        "name": "Lori",
         "cities": [
             "Agarak",
             "Akht’ala",
@@ -261,7 +261,7 @@
         ]
     },
     {
-        "name": "Shirak Region",
+        "name": "Shirak",
         "cities": [
             "Akhuryan",
             "Amasia",
@@ -292,7 +292,7 @@
         ]
     },
     {
-        "name": "Syunik Province",
+        "name": "Syunik",
         "cities": [
             "Agarak",
             "Akner",
@@ -311,7 +311,7 @@
         ]
     },
     {
-        "name": "Tavush Region",
+        "name": "Tavush",
         "cities": [
             "Archis",
             "Artsvaberd",
@@ -333,7 +333,7 @@
         ]
     },
     {
-        "name": "Vayots Dzor Region",
+        "name": "Vayots Dzor",
         "cities": [
             "Agarakadzor",
             "Aghavnadzor",

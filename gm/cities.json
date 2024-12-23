@@ -9,7 +9,7 @@
         ]
     },
     {
-        "name": "Central River Division",
+        "name": "Central River",
         "cities": [
             "Bansang",
             "Brikama Nding",
@@ -40,7 +40,7 @@
         ]
     },
     {
-        "name": "Lower River Division",
+        "name": "Lower River",
         "cities": [
             "Baro Kunda",
             "Bureng",
@@ -67,7 +67,7 @@
         ]
     },
     {
-        "name": "North Bank Division",
+        "name": "North Bank",
         "cities": [
             "Bambali",
             "Barra",
@@ -91,7 +91,7 @@
         ]
     },
     {
-        "name": "Upper River Division",
+        "name": "Upper River",
         "cities": [
             "Bakadagy",
             "Basse Santa Su",
@@ -116,7 +116,7 @@
         ]
     },
     {
-        "name": "West Coast Division",
+        "name": "West Coast",
         "cities": [
             "Abuko",
             "Brikama",

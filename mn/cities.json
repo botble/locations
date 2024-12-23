@@ -1,12 +1,12 @@
 [
     {
-        "name": "Arkhangai Province",
+        "name": "Arkhangai",
         "cities": [
             "Tsetserleg"
         ]
     },
     {
-        "name": "Bayan-Ölgii Province",
+        "name": "Bayan-Ölgii",
         "cities": [
             "Altay",
             "Ölgii",
@@ -14,60 +14,60 @@
         ]
     },
     {
-        "name": "Bayankhongor Province",
+        "name": "Bayankhongor",
         "cities": [
             "Bayanhongor"
         ]
     },
     {
-        "name": "Bulgan Province",
+        "name": "Bulgan",
         "cities": [
             "Bulgan"
         ]
     },
     {
-        "name": "Darkhan-Uul Province",
+        "name": "Darkhan-Uul",
         "cities": [
             "Darhan"
         ]
     },
     {
-        "name": "Dornod Province",
+        "name": "Dornod",
         "cities": [
             "Choibalsan",
             "Ereencav"
         ]
     },
     {
-        "name": "Dornogovi Province",
+        "name": "Dornogovi",
         "cities": []
     },
     {
-        "name": "Dundgovi Province",
+        "name": "Dundgovi",
         "cities": [
             "Mandalgovi"
         ]
     },
     {
-        "name": "Govi-Altai Province",
+        "name": "Govi-Altai",
         "cities": [
             "Altai"
         ]
     },
     {
-        "name": "Govisümber Province",
+        "name": "Govisümber",
         "cities": [
             "Choyr"
         ]
     },
     {
-        "name": "Khentii Province",
+        "name": "Khentii",
         "cities": [
             "Undurkhaan"
         ]
     },
     {
-        "name": "Khovd Province",
+        "name": "Khovd",
         "cities": [
             "Khovd",
             "Möst",
@@ -75,7 +75,7 @@
         ]
     },
     {
-        "name": "Khövsgöl Province",
+        "name": "Khövsgöl",
         "cities": [
             "Hanh",
             "Murun-kuren",
@@ -84,7 +84,7 @@
         ]
     },
     {
-        "name": "Ömnögovi Province",
+        "name": "Ömnögovi",
         "cities": [
             "Dalandzadgad",
             "Hanhongor",
@@ -92,13 +92,13 @@
         ]
     },
     {
-        "name": "Orkhon Province",
+        "name": "Orkhon",
         "cities": [
             "Erdenet"
         ]
     },
     {
-        "name": "Övörkhangai Province",
+        "name": "Övörkhangai",
         "cities": [
             "Arvayheer",
             "Harhorin",
@@ -108,35 +108,36 @@
         ]
     },
     {
-        "name": "Selenge Province",
+        "name": "Selenge",
         "cities": [
             "Dzüünharaa",
             "Sühbaatar"
         ]
     },
     {
-        "name": "Sükhbaatar Province",
+        "name": "Sükhbaatar",
         "cities": [
             "Baruun-Urt"
         ]
     },
     {
-        "name": "Töv Province",
+        "name": "Töv",
         "cities": [
+            "Centipede",
             "Dzuunmod",
             "Möngönmorĭt",
             "Ulaanhudag",
-            "Зуунмод"
+            "Ulan Bator"
         ]
     },
     {
-        "name": "Uvs Province",
+        "name": "Uvs",
         "cities": [
             "Ulaangom"
         ]
     },
     {
-        "name": "Zavkhan Province",
+        "name": "Zavkhan",
         "cities": [
             "Uliastay"
         ]

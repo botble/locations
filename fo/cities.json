@@ -1,1 +1,61 @@
-[]
+[
+    {
+        "name": "Eysturoy",
+        "cities": [
+            "Eiði",
+            "Eystur",
+            "Fuglafjørður",
+            "Nes",
+            "Runavík",
+            "Sjóvar"
+        ]
+    },
+    {
+        "name": "Northern Isles",
+        "cities": [
+            "Fugloy",
+            "Hvannasund",
+            "Klaksvík",
+            "Kunoy",
+            "Viðareiði"
+        ]
+    },
+    {
+        "name": "Sandoy",
+        "cities": [
+            "Húsavík",
+            "Sandur",
+            "Skálavík",
+            "Skopun",
+            "Skúvoy"
+        ]
+    },
+    {
+        "name": "Streymoy",
+        "cities": [
+            "Kvívík",
+            "Sunda",
+            "Tórshavn",
+            "Vestmanna"
+        ]
+    },
+    {
+        "name": "Suðuroy",
+        "cities": [
+            "Fámjin",
+            "Hov",
+            "Hvalba",
+            "Porkeri",
+            "Sumba",
+            "Tvøroyri",
+            "Vágur"
+        ]
+    },
+    {
+        "name": "Vágar",
+        "cities": [
+            "Sørvágur",
+            "Vágar"
+        ]
+    }
+]

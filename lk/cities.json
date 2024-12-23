@@ -1,22 +1,22 @@
 [
     {
-        "name": "Ampara District",
+        "name": "Ampara",
         "cities": []
     },
     {
-        "name": "Anuradhapura District",
+        "name": "Anuradhapura",
         "cities": []
     },
     {
-        "name": "Badulla District",
+        "name": "Badulla",
         "cities": []
     },
     {
-        "name": "Batticaloa District",
+        "name": "Batticaloa",
         "cities": []
     },
     {
-        "name": "Central Province",
+        "name": "Central",
         "cities": [
             "Dambulla",
             "Hatton",
@@ -31,7 +31,7 @@
         ]
     },
     {
-        "name": "Colombo District",
+        "name": "Colombo",
         "cities": [
             "Dehiwala-Mount Lavinia",
             "Homagama",
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "name": "Eastern Province",
+        "name": "Eastern",
         "cities": [
             "Ampara",
             "Ampara District",
@@ -62,27 +62,27 @@
         ]
     },
     {
-        "name": "Galle District",
+        "name": "Galle",
         "cities": []
     },
     {
-        "name": "Gampaha District",
+        "name": "Gampaha",
         "cities": []
     },
     {
-        "name": "Hambantota District",
+        "name": "Hambantota",
         "cities": []
     },
     {
-        "name": "Jaffna District",
+        "name": "Jaffna",
         "cities": []
     },
     {
-        "name": "Kalutara District",
+        "name": "Kalutara",
         "cities": []
     },
     {
-        "name": "Kandy District",
+        "name": "Kandy",
         "cities": [
             "Akurana",
             "Alawatugoda",
@@ -132,35 +132,35 @@
         ]
     },
     {
-        "name": "Kegalle District",
+        "name": "Kegalle",
         "cities": []
     },
     {
-        "name": "Kilinochchi District",
+        "name": "Kilinochchi",
         "cities": []
     },
     {
-        "name": "Mannar District",
+        "name": "Mannar",
         "cities": []
     },
     {
-        "name": "Matale District",
+        "name": "Matale",
         "cities": []
     },
     {
-        "name": "Matara District",
+        "name": "Matara",
         "cities": []
     },
     {
-        "name": "Monaragala District",
+        "name": "Monaragala",
         "cities": []
     },
     {
-        "name": "Mullaitivu District",
+        "name": "Mullaitivu",
         "cities": []
     },
     {
-        "name": "North Central Province",
+        "name": "North Central",
         "cities": [
             "Anuradhapura",
             "Anuradhapura District",
@@ -170,7 +170,7 @@
         ]
     },
     {
-        "name": "North Western Province",
+        "name": "North Western",
         "cities": [
             "Chilaw",
             "Kuliyapitiya",
@@ -181,7 +181,7 @@
         ]
     },
     {
-        "name": "Northern Province",
+        "name": "Northern",
         "cities": [
             "Jaffna",
             "Jaffna District",
@@ -194,23 +194,23 @@
         ]
     },
     {
-        "name": "Nuwara Eliya District",
+        "name": "Nuwara Eliya",
         "cities": []
     },
     {
-        "name": "Polonnaruwa District",
+        "name": "Polonnaruwa",
         "cities": []
     },
     {
-        "name": "Puttalam District",
+        "name": "Puttalam",
         "cities": []
     },
     {
-        "name": "Ratnapura district",
+        "name": "Ratnapura",
         "cities": []
     },
     {
-        "name": "Sabaragamuwa Province",
+        "name": "Sabaragamuwa",
         "cities": [
             "Kegalle",
             "Kegalle District",
@@ -219,7 +219,7 @@
         ]
     },
     {
-        "name": "Southern Province",
+        "name": "Southern",
         "cities": [
             "Ambalangoda",
             "Bentota",
@@ -239,11 +239,11 @@
         ]
     },
     {
-        "name": "Trincomalee District",
+        "name": "Trincomalee",
         "cities": []
     },
     {
-        "name": "Uva Province",
+        "name": "Uva",
         "cities": [
             "Badulla",
             "Badulla District",
@@ -256,11 +256,11 @@
         ]
     },
     {
-        "name": "Vavuniya District",
+        "name": "Vavuniya",
         "cities": []
     },
     {
-        "name": "Western Province",
+        "name": "Western",
         "cities": [
             "Battaramulla South",
             "Beruwala",

@@ -1,138 +1,114 @@
 [
     {
-        "name": "Bagmati Zone",
-        "cities": []
-    },
-    {
-        "name": "Bheri Zone",
-        "cities": []
-    },
-    {
-        "name": "Central Region",
+        "name": "Bagmati",
         "cities": [
-            "Banepā",
-            "Bharatpur",
-            "Birgañj",
-            "Dhulikhel",
-            "Gaur",
-            "Hari Bdr Tamang House",
-            "Hetauda",
-            "Jaleshwar",
-            "Janakpur",
-            "kankrabari Dovan",
+            "Bhaktapur",
+            "Chitwan",
+            "Dhading",
+            "Dolakha",
             "Kathmandu",
-            "Kirtipur",
-            "Madhyapur Thimi",
-            "Malaṅgawā",
-            "Nagarkot",
-            "Panauti",
-            "Pātan",
-            "Rāmechhāp"
+            "Kavrepalanchok",
+            "Lalitpur",
+            "Makwanpur",
+            "Nuwakot",
+            "Ramechhap",
+            "Rasuwa",
+            "Sindhuli",
+            "Sindhupalchok"
         ]
     },
     {
-        "name": "Dhaulagiri Zone",
-        "cities": []
-    },
-    {
-        "name": "Eastern Development Region",
+        "name": "Gandaki",
         "cities": [
-            "Bhadrapur",
-            "Bhojpur",
-            "Biratnagar",
-            "Dhankutā",
-            "Dharān",
-            "Ilām",
-            "Inaruwa",
-            "Khanbari",
-            "Lahān",
-            "Lobujya",
-            "Namche Bazar",
-            "Rājbirāj",
-            "Siraha",
-            "Titahari",
-            "Triyuga"
+            "Baglung ",
+            "Gorkha ",
+            "Kaski",
+            "Lamjung ",
+            "Manang ",
+            "Mustang ",
+            "Myagdi ",
+            "Nawalpur ",
+            "Parbat ",
+            "Syangja ",
+            "Tanahun "
         ]
     },
     {
-        "name": "Far-Western Development Region",
+        "name": "Karnali",
         "cities": [
-            "Dadeldhurā",
-            "Dhangaḍhi̇̄",
-            "Dipayal",
-            "Mahendranagar",
-            "Ṭikāpur"
-        ]
-    },
-    {
-        "name": "Gandaki Zone",
-        "cities": []
-    },
-    {
-        "name": "Janakpur Zone",
-        "cities": []
-    },
-    {
-        "name": "Karnali Zone",
-        "cities": []
-    },
-    {
-        "name": "Kosi Zone",
-        "cities": []
-    },
-    {
-        "name": "Lumbini Zone",
-        "cities": []
-    },
-    {
-        "name": "Mahakali Zone",
-        "cities": []
-    },
-    {
-        "name": "Mechi Zone",
-        "cities": []
-    },
-    {
-        "name": "Mid-Western Region",
-        "cities": [
-            "Bhojpur",
-            "Birendranagar",
-            "Dailekh",
-            "Gulariyā",
+            "Dailekh ",
+            "Dolpa ",
+            "Humla ",
+            "Jajarkot ",
             "Jumla",
-            "Nepalgunj",
-            "Tulsīpur"
+            "Kalikot ",
+            "Mugu",
+            "Salyan ",
+            "Surkhet ",
+            "Western Rukum"
         ]
     },
     {
-        "name": "Narayani Zone",
-        "cities": []
-    },
-    {
-        "name": "Rapti Zone",
-        "cities": []
-    },
-    {
-        "name": "Sagarmatha Zone",
-        "cities": []
-    },
-    {
-        "name": "Seti Zone",
-        "cities": []
-    },
-    {
-        "name": "Western Region",
+        "name": "Koshi",
         "cities": [
-            "Bāglung",
-            "Bhattarai Danda",
-            "Butwāl",
-            "Chitre",
-            "Dārchulā",
-            "Dihi",
-            "Pokhara",
-            "Siddharthanagar",
-            "Tānsen",
-            "Wāliṅ"
+            "Bhojpur",
+            "Dhankuta",
+            "Ilam",
+            "Jhapa",
+            "Khotang",
+            "Morang",
+            "Okhaldhunga",
+            "Panchthar",
+            "Sankhuwasabha ",
+            "Solukhumbu",
+            "Sunsari",
+            "Taplejung",
+            "Terhathum",
+            "Udayapur"
+        ]
+    },
+    {
+        "name": "Lumbini",
+        "cities": [
+            "Arghakhanchi ",
+            "Banke",
+            "Bardiya ",
+            "Dang ",
+            "Eastern Rukum",
+            "Gulmi ",
+            "Kapilvastu ",
+            "Nawalparasi (West of Bardaghat Susta)",
+            "Palpa ",
+            "Pyuthan ",
+            "Rolpa ",
+            "Rupandehi "
+        ]
+    },
+    {
+        "name": "Madhesh",
+        "cities": [
+            "Bara ",
+            "Dhanusha ",
+            "Mahottari ",
+            "Parsa ",
+            "Rautahat ",
+            "Saptari ",
+            "Sarlahi ",
+            "Siraha "
+        ]
+    },
+    {
+        "name": "Sudurpashchim",
+        "cities": [
+            "Achham ",
+            "Baitadi ",
+            "Bajhang ",
+            "Bajura ",
+            "Dadeldhura ",
+            "Darchula ",
+            "Doti ",
+            "Kailali ",
+            "Kanchanpur "
         ]
     }
 ]

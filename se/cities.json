@@ -22,7 +22,7 @@
         ]
     },
     {
-        "name": "Dalarna County",
+        "name": "Dalarna",
         "cities": [
             "Abborrberget",
             "Älvdalen",
@@ -62,7 +62,7 @@
         ]
     },
     {
-        "name": "Gävleborg County",
+        "name": "Gävleborg",
         "cities": [
             "Alfta",
             "Arbrå",
@@ -95,7 +95,7 @@
         ]
     },
     {
-        "name": "Gotland County",
+        "name": "Gotland",
         "cities": [
             "Gotland",
             "Hemse",
@@ -105,7 +105,7 @@
         ]
     },
     {
-        "name": "Halland County",
+        "name": "Halland",
         "cities": [
             "Åled",
             "Åsa",
@@ -144,11 +144,11 @@
         ]
     },
     {
-        "name": "Jämtland County",
+        "name": "Jämtland",
         "cities": []
     },
     {
-        "name": "Jönköping County",
+        "name": "Jönköping",
         "cities": [
             "Anderstorp",
             "Aneby",
@@ -192,7 +192,7 @@
         ]
     },
     {
-        "name": "Kalmar County",
+        "name": "Kalmar",
         "cities": [
             "Ankarsrum",
             "Bergkvara",
@@ -229,7 +229,7 @@
         ]
     },
     {
-        "name": "Kronoberg County",
+        "name": "Kronoberg",
         "cities": [
             "Älmhult",
             "Alvesta",
@@ -254,7 +254,7 @@
         ]
     },
     {
-        "name": "Norrbotten County",
+        "name": "Norrbotten",
         "cities": [
             "Älvsbyn",
             "Arjeplog",
@@ -288,7 +288,7 @@
         ]
     },
     {
-        "name": "Örebro County",
+        "name": "Örebro",
         "cities": [
             "Åsbro",
             "Askersund",
@@ -317,7 +317,7 @@
         ]
     },
     {
-        "name": "Östergötland County",
+        "name": "Östergötland",
         "cities": [
             "Åby",
             "Åtvidaberg",
@@ -359,7 +359,7 @@
         ]
     },
     {
-        "name": "Skåne County",
+        "name": "Skåne",
         "cities": [
             "Åhus",
             "Åkarp",
@@ -481,7 +481,7 @@
         ]
     },
     {
-        "name": "Södermanland County",
+        "name": "Södermanland",
         "cities": [
             "Åkers Styckebruk",
             "Ärla",
@@ -512,7 +512,7 @@
         ]
     },
     {
-        "name": "Stockholm County",
+        "name": "Stockholm",
         "cities": [
             "Akalla",
             "Åkersberga",
@@ -597,7 +597,7 @@
         ]
     },
     {
-        "name": "Uppsala County",
+        "name": "Uppsala",
         "cities": [
             "Alsike",
             "Alunda",
@@ -634,7 +634,7 @@
         ]
     },
     {
-        "name": "Värmland County",
+        "name": "Värmland",
         "cities": [
             "Åmotfors",
             "Årjäng",
@@ -666,7 +666,7 @@
         ]
     },
     {
-        "name": "Västerbotten County",
+        "name": "Västerbotten",
         "cities": [
             "Åsele",
             "Backa",
@@ -708,7 +708,7 @@
         ]
     },
     {
-        "name": "Västernorrland County",
+        "name": "Västernorrland",
         "cities": [
             "Ånge",
             "Ås",
@@ -739,7 +739,7 @@
         ]
     },
     {
-        "name": "Västmanland County",
+        "name": "Västmanland",
         "cities": [
             "Arboga",
             "Barkarö",
@@ -764,7 +764,7 @@
         ]
     },
     {
-        "name": "Västra Götaland County",
+        "name": "Västra Götaland",
         "cities": [
             "Åkarp",
             "Alafors",

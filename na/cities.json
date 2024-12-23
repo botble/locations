@@ -1,6 +1,6 @@
 [
     {
-        "name": "Erongo Region",
+        "name": "Erongo",
         "cities": [
             "Arandis",
             "Hentiesbaai",
@@ -14,7 +14,7 @@
         ]
     },
     {
-        "name": "Hardap Region",
+        "name": "Hardap",
         "cities": [
             "Aranos",
             "Hoachanas",
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "name": "Karas Region",
+        "name": "Karas",
         "cities": [
             "Bethanie",
             "Karasburg",
@@ -36,24 +36,24 @@
         ]
     },
     {
-        "name": "Kavango East Region",
+        "name": "Kavango East",
         "cities": [
             "Rundu"
         ]
     },
     {
-        "name": "Kavango West Region",
+        "name": "Kavango West",
         "cities": []
     },
     {
-        "name": "Khomas Region",
+        "name": "Khomas",
         "cities": [
             "Katutura",
             "Windhoek"
         ]
     },
     {
-        "name": "Kunene Region",
+        "name": "Kunene",
         "cities": [
             "Epupa Constituency",
             "Khorixas",
@@ -65,19 +65,19 @@
         ]
     },
     {
-        "name": "Ohangwena Region",
+        "name": "Ohangwena",
         "cities": [
             "Oshikango"
         ]
     },
     {
-        "name": "Omaheke Region",
+        "name": "Omaheke",
         "cities": [
             "Gobabis"
         ]
     },
     {
-        "name": "Omusati Region",
+        "name": "Omusati",
         "cities": [
             "Okahao",
             "Ongandjera",
@@ -85,7 +85,7 @@
         ]
     },
     {
-        "name": "Oshana Region",
+        "name": "Oshana",
         "cities": [
             "Ondangwa",
             "Ongwediva",
@@ -93,14 +93,14 @@
         ]
     },
     {
-        "name": "Oshikoto Region",
+        "name": "Oshikoto",
         "cities": [
             "Omuthiya",
             "Tsumeb"
         ]
     },
     {
-        "name": "Otjozondjupa Region",
+        "name": "Otjozondjupa",
         "cities": [
             "Grootfontein",
             "Okahandja",
@@ -110,7 +110,7 @@
         ]
     },
     {
-        "name": "Zambezi Region",
+        "name": "Zambezi",
         "cities": [
             "Bagani",
             "Katima Mulilo"

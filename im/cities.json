@@ -1,1 +1,48 @@
-[]
+[
+    {
+        "name": "Ayre",
+        "cities": [
+            "Andreas",
+            "Bride",
+            "Lezayre"
+        ]
+    },
+    {
+        "name": "Garff",
+        "cities": [
+            "Lonan",
+            "Maughold",
+            "Onchan"
+        ]
+    },
+    {
+        "name": "Glenfaba",
+        "cities": [
+            "German"
+        ]
+    },
+    {
+        "name": "Michael",
+        "cities": [
+            "Ballaugh",
+            "Jurby",
+            "Michael"
+        ]
+    },
+    {
+        "name": "Middle",
+        "cities": [
+            "Braddan",
+            "Marown",
+            "Santon"
+        ]
+    },
+    {
+        "name": "Rushen",
+        "cities": [
+            "Arbory",
+            "Malew",
+            "Rushen"
+        ]
+    }
+]

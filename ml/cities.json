@@ -6,7 +6,7 @@
         ]
     },
     {
-        "name": "Gao Region",
+        "name": "Gao",
         "cities": [
             "Ansongo",
             "Cercle de Bourem",
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "name": "Kayes Region",
+        "name": "Kayes",
         "cities": [
             "Bafoulabé",
             "Kayes",
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "name": "Kidal Region",
+        "name": "Kidal",
         "cities": [
             "Abeïbara",
             "Cercle d’Abeïbara",
@@ -34,7 +34,7 @@
         ]
     },
     {
-        "name": "Koulikoro Region",
+        "name": "Koulikoro",
         "cities": [
             "Banamba",
             "Kangaba",
@@ -44,11 +44,11 @@
         ]
     },
     {
-        "name": "Ménaka Region",
+        "name": "Ménaka",
         "cities": []
     },
     {
-        "name": "Mopti Region",
+        "name": "Mopti",
         "cities": [
             "Bandiagara",
             "Djénné",
@@ -59,7 +59,7 @@
         ]
     },
     {
-        "name": "Ségou Region",
+        "name": "Ségou",
         "cities": [
             "Baroueli",
             "Cercle de San",
@@ -72,7 +72,7 @@
         ]
     },
     {
-        "name": "Sikasso Region",
+        "name": "Sikasso",
         "cities": [
             "Bougouni",
             "Kolondiéba",
@@ -84,11 +84,11 @@
         ]
     },
     {
-        "name": "Taoudénit Region",
+        "name": "Taoudénit",
         "cities": []
     },
     {
-        "name": "Tombouctou Region",
+        "name": "Tombouctou",
         "cities": [
             "Araouane",
             "Cercle de Goundam",

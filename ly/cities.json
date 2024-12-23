@@ -1,6 +1,6 @@
 [
     {
-        "name": "Al Wahat District",
+        "name": "Al Wahat",
         "cities": [
             "Ajdabiya",
             "Al Burayqah",
@@ -18,14 +18,14 @@
         ]
     },
     {
-        "name": "Derna District",
+        "name": "Derna",
         "cities": [
             "Al Qubbah",
             "Darnah"
         ]
     },
     {
-        "name": "Ghat District",
+        "name": "Ghat",
         "cities": [
             "Ghat"
         ]
@@ -37,7 +37,7 @@
         ]
     },
     {
-        "name": "Jabal al Gharbi District",
+        "name": "Jabal al Gharbi",
         "cities": [
             "Gharyan",
             "Giado",
@@ -60,14 +60,14 @@
         ]
     },
     {
-        "name": "Kufra District",
+        "name": "Kufra",
         "cities": [
             "Al Jawf",
             "At Tāj"
         ]
     },
     {
-        "name": "Marj District",
+        "name": "Marj",
         "cities": [
             "Al Abyār",
             "Al Marj",
@@ -75,7 +75,7 @@
         ]
     },
     {
-        "name": "Misrata District",
+        "name": "Misrata",
         "cities": [
             "Bani Walid",
             "Mişrātah",
@@ -91,14 +91,14 @@
         ]
     },
     {
-        "name": "Murzuq District",
+        "name": "Murzuq",
         "cities": [
             "Al Qaţrūn",
             "Murzuq"
         ]
     },
     {
-        "name": "Nalut District",
+        "name": "Nalut",
         "cities": [
             "Ghadāmis",
             "Nālūt"
@@ -113,41 +113,41 @@
         ]
     },
     {
-        "name": "Sabha District",
+        "name": "Sabha",
         "cities": [
             "Al Jadīd",
             "Sabhā"
         ]
     },
     {
-        "name": "Sirte District",
+        "name": "Sirte",
         "cities": [
             "Qasr Abu Hadi",
             "Sirte"
         ]
     },
     {
-        "name": "Tripoli District",
+        "name": "Tripoli",
         "cities": [
             "Tagiura",
             "Tripoli"
         ]
     },
     {
-        "name": "Wadi al Hayaa District",
+        "name": "Wadi al Hayaa",
         "cities": [
             "Ubari"
         ]
     },
     {
-        "name": "Wadi al Shatii District",
+        "name": "Wadi al Shatii",
         "cities": [
             "Brak",
             "Idrī"
         ]
     },
     {
-        "name": "Zawiya District",
+        "name": "Zawiya",
         "cities": [
             "Az Zāwīyah",
             "Şabrātah",

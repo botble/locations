@@ -1,22 +1,22 @@
 [
     {
-        "name": "Achaea Regional Unit",
+        "name": "Achaea",
         "cities": []
     },
     {
-        "name": "Aetolia-Acarnania Regional Unit",
+        "name": "Aetolia-Acarnania",
         "cities": []
     },
     {
-        "name": "Arcadia Prefecture",
+        "name": "Arcadia",
         "cities": []
     },
     {
-        "name": "Argolis Regional Unit",
+        "name": "Argolis",
         "cities": []
     },
     {
-        "name": "Attica Region",
+        "name": "Attica",
         "cities": [
             "Acharnés",
             "Aegina",
@@ -162,11 +162,11 @@
         ]
     },
     {
-        "name": "Boeotia Regional Unit",
+        "name": "Boeotia",
         "cities": []
     },
     {
-        "name": "Central Greece Region",
+        "name": "Central Greece",
         "cities": [
             "Afrátion",
             "Agía Triáda",
@@ -500,11 +500,11 @@
         ]
     },
     {
-        "name": "Chania Regional Unit",
+        "name": "Chania",
         "cities": []
     },
     {
-        "name": "Corfu Prefecture",
+        "name": "Corfu",
         "cities": [
             "Farkadóna",
             "Fíki",
@@ -528,11 +528,11 @@
         ]
     },
     {
-        "name": "Corinthia Regional Unit",
+        "name": "Corinthia",
         "cities": []
     },
     {
-        "name": "Crete Region",
+        "name": "Crete",
         "cities": [
             "Agía Foteiní",
             "Agía Galíni",
@@ -608,19 +608,21 @@
         ]
     },
     {
-        "name": "Drama Regional Unit",
+        "name": "Drama",
         "cities": []
     },
     {
-        "name": "East Attica Regional Unit",
+        "name": "East Attica",
         "cities": [
             "Ágios Athanásios",
+            "Agios Efstratios",
             "Alexandroupoli",
             "Amygdaleónas",
             "Áratos",
             "Arísvi",
             "Arrianá",
             "Ávato",
+            "Chios",
             "Choristí",
             "Chrysochóri",
             "Chrysoúpolis",
@@ -634,9 +636,11 @@
             "Féres",
             "Fillýra",
             "Fotolívos",
+            "Fournoi Korseon",
             "Fteliá",
             "Genisséa",
             "Íasmos",
+            "Ikaria",
             "Iliokentima",
             "Kalampáki",
             "Kalí Vrýsi",
@@ -656,10 +660,13 @@
             "Kýria",
             "Lagós",
             "Lávara",
+            "Lemnos",
+            "Lesbos",
             "Limenária",
             "Lýkeio",
             "Mikrópolis",
             "Mýki",
+            "Mytilene ",
             "Néa Iraklítsa",
             "Néa Karváli",
             "Néa Karyá",
@@ -667,6 +674,7 @@
             "Néa Výssa",
             "Neochóri",
             "Nikísiani",
+            "Oinousses",
             "Orestiáda",
             "Páchni",
             "Palaió Tsiflíki",
@@ -680,7 +688,9 @@
             "Potamiá",
             "Prínos",
             "Prosotsáni",
+            "Psara",
             "Rízia",
+            "Samos",
             "Samothráki",
             "Sápes",
             "Sélero",
@@ -690,6 +700,7 @@
             "Thásos",
             "Tycheró",
             "Vólakas",
+            "West Lesbos",
             "Xánthi",
             "Xiropótamos",
             "Xylaganí",
@@ -698,10 +709,32 @@
     },
     {
         "name": "East Macedonia and Thrace",
-        "cities": []
+        "cities": [
+            "Alexandroupolis",
+            "Arriana",
+            "Didymoteicho",
+            "Doxato",
+            "Drama",
+            "Evros",
+            "Iasmos",
+            "Kato Nevrokopi",
+            "Kavala",
+            "Komotini",
+            "Maroneia-Sapes",
+            "Myki",
+            "Orestiada",
+            "Pangaio",
+            "Paranesti",
+            "Prosotsani",
+            "Rhodope",
+            "Samothrace",
+            "Soufli",
+            "Topeiros",
+            "Xanthi"
+        ]
     },
     {
-        "name": "Epirus Region",
+        "name": "Epirus",
         "cities": [
             "Agía Kyriakí",
             "Anatolí",
@@ -758,19 +791,19 @@
         "cities": []
     },
     {
-        "name": "Grevena Prefecture",
+        "name": "Grevena",
         "cities": []
     },
     {
-        "name": "Imathia Regional Unit",
+        "name": "Imathia ",
         "cities": []
     },
     {
-        "name": "Ioannina Regional Unit",
+        "name": "Ioannina",
         "cities": []
     },
     {
-        "name": "Ionian Islands Region",
+        "name": "Ionian Islands",
         "cities": [
             "Acharávi",
             "Agios Georgis",
@@ -805,15 +838,15 @@
         ]
     },
     {
-        "name": "Karditsa Regional Unit",
+        "name": "Karditsa",
         "cities": []
     },
     {
-        "name": "Kastoria Regional Unit",
+        "name": "Kastoria",
         "cities": []
     },
     {
-        "name": "Kefalonia Prefecture",
+        "name": "Kefalonia",
         "cities": [
             "Agía Triáda",
             "Agnanteró",
@@ -838,11 +871,11 @@
         ]
     },
     {
-        "name": "Kilkis Regional Unit",
+        "name": "Kilkis",
         "cities": []
     },
     {
-        "name": "Kozani Prefecture",
+        "name": "Kozani",
         "cities": []
     },
     {
@@ -850,11 +883,11 @@
         "cities": []
     },
     {
-        "name": "Larissa Prefecture",
+        "name": "Larissa",
         "cities": []
     },
     {
-        "name": "Lefkada Regional Unit",
+        "name": "Lefkada",
         "cities": [
             "Agriá",
             "Álli Meriá",
@@ -882,11 +915,11 @@
         ]
     },
     {
-        "name": "Pella Regional Unit",
+        "name": "Pella",
         "cities": []
     },
     {
-        "name": "Peloponnese Region",
+        "name": "Peloponnese",
         "cities": [
             "Ágioi Theódoroi",
             "Ágios Andréas",
@@ -978,15 +1011,15 @@
         ]
     },
     {
-        "name": "Phthiotis Prefecture",
+        "name": "Phthiotis",
         "cities": []
     },
     {
-        "name": "Preveza Prefecture",
+        "name": "Preveza",
         "cities": []
     },
     {
-        "name": "Serres Prefecture",
+        "name": "Serres",
         "cities": []
     },
     {
@@ -1050,11 +1083,11 @@
         ]
     },
     {
-        "name": "Thessaloniki Regional Unit",
+        "name": "Thessaloniki",
         "cities": []
     },
     {
-        "name": "West Greece Region",
+        "name": "West Greece",
         "cities": [
             "Agrínio",
             "Aígio",
@@ -1149,7 +1182,7 @@
         ]
     },
     {
-        "name": "West Macedonia Region",
+        "name": "West Macedonia",
         "cities": [
             "Aianí",
             "Akriní",

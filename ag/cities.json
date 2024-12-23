@@ -10,40 +10,40 @@
         "cities": []
     },
     {
-        "name": "Saint George Parish",
+        "name": "Saint George",
         "cities": [
             "Piggotts"
         ]
     },
     {
-        "name": "Saint John Parish",
+        "name": "Saint John",
         "cities": [
             "Potters Village",
             "Saint John’s"
         ]
     },
     {
-        "name": "Saint Mary Parish",
+        "name": "Saint Mary",
         "cities": [
             "Bolands"
         ]
     },
     {
-        "name": "Saint Paul Parish",
+        "name": "Saint Paul",
         "cities": [
             "Falmouth",
             "Liberta"
         ]
     },
     {
-        "name": "Saint Peter Parish",
+        "name": "Saint Peter",
         "cities": [
             "All Saints",
             "Parham"
         ]
     },
     {
-        "name": "Saint Philip Parish",
+        "name": "Saint Philip",
         "cities": []
     }
 ]

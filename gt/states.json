@@ -1,65 +1,68 @@
 [
     {
-        "name": "Alta Verapaz Department"
+        "name": "Alta Verapaz "
     },
     {
-        "name": "Baja Verapaz Department"
+        "name": "Baja Verapaz "
     },
     {
-        "name": "Chimaltenango Department"
+        "name": "Chimaltenango "
     },
     {
-        "name": "Chiquimula Department"
+        "name": "Chiquimula "
     },
     {
-        "name": "El Progreso Department"
+        "name": "El Progreso "
     },
     {
-        "name": "Escuintla Department"
+        "name": "Escuintla "
     },
     {
-        "name": "Guatemala Department"
+        "name": "Guatemala "
     },
     {
-        "name": "Huehuetenango Department"
+        "name": "Huehuetenango "
     },
     {
-        "name": "Izabal Department"
+        "name": "Izabal "
     },
     {
-        "name": "Jalapa Department"
+        "name": "Jalapa "
     },
     {
-        "name": "Jutiapa Department"
+        "name": "Jutiapa "
     },
     {
-        "name": "Petén Department"
+        "name": "Petén "
     },
     {
-        "name": "Quetzaltenango Department"
+        "name": "Quetzaltenango "
     },
     {
-        "name": "Quiché Department"
+        "name": "Quiché "
     },
     {
-        "name": "Retalhuleu Department"
+        "name": "Retalhuleu "
     },
     {
-        "name": "Sacatepéquez Department"
+        "name": "Sacatepéquez "
     },
     {
-        "name": "San Marcos Department"
+        "name": "San Marcos "
     },
     {
-        "name": "Santa Rosa Department"
+        "name": "Santa Rosa "
     },
     {
-        "name": "Sololá Department"
+        "name": "Sololá "
     },
     {
-        "name": "Suchitepéquez Department"
+        "name": "Suchitepéquez "
     },
     {
-        "name": "Totonicapán Department"
+        "name": "Totonicapán "
+    },
+    {
+        "name": "Zacapa"
     }
 ]

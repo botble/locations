@@ -4,15 +4,15 @@
         "cities": []
     },
     {
-        "name": "Bor District",
+        "name": "Bor",
         "cities": []
     },
     {
-        "name": "Braničevo District",
+        "name": "Braničevo",
         "cities": []
     },
     {
-        "name": "Central Banat District",
+        "name": "Central Banat",
         "cities": [
             "Aranđelovac",
             "Arilje",
@@ -160,75 +160,75 @@
         ]
     },
     {
-        "name": "Jablanica District",
+        "name": "Jablanica",
         "cities": []
     },
     {
-        "name": "Kolubara District",
+        "name": "Kolubara",
         "cities": []
     },
     {
-        "name": "Mačva District",
+        "name": "Mačva",
         "cities": []
     },
     {
-        "name": "Moravica District",
+        "name": "Moravica",
         "cities": []
     },
     {
-        "name": "Nišava District",
+        "name": "Nišava",
         "cities": []
     },
     {
-        "name": "North Bačka District",
+        "name": "North Bačka",
         "cities": []
     },
     {
-        "name": "North Banat District",
+        "name": "North Banat",
         "cities": []
     },
     {
-        "name": "Pčinja District",
+        "name": "Pčinja",
         "cities": []
     },
     {
-        "name": "Pirot District",
+        "name": "Pirot",
         "cities": []
     },
     {
-        "name": "Podunavlje District",
+        "name": "Podunavlje",
         "cities": []
     },
     {
-        "name": "Pomoravlje District",
+        "name": "Pomoravlje",
         "cities": []
     },
     {
-        "name": "Rasina District",
+        "name": "Rasina",
         "cities": []
     },
     {
-        "name": "Raška District",
+        "name": "Raška",
         "cities": []
     },
     {
-        "name": "South Bačka District",
+        "name": "South Bačka",
         "cities": []
     },
     {
-        "name": "South Banat District",
+        "name": "South Banat",
         "cities": []
     },
     {
-        "name": "Srem District",
+        "name": "Srem",
         "cities": []
     },
     {
-        "name": "Šumadija District",
+        "name": "Šumadija",
         "cities": []
     },
     {
-        "name": "Toplica District",
+        "name": "Toplica",
         "cities": []
     },
     {
@@ -428,15 +428,15 @@
         ]
     },
     {
-        "name": "West Bačka District",
+        "name": "West Bačka",
         "cities": []
     },
     {
-        "name": "Zaječar District",
+        "name": "Zaječar",
         "cities": []
     },
     {
-        "name": "Zlatibor District",
+        "name": "Zlatibor",
         "cities": []
     }
 ]

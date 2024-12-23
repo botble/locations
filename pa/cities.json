@@ -1,6 +1,6 @@
 [
     {
-        "name": "Bocas del Toro Province",
+        "name": "Bocas del Toro",
         "cities": [
             "Almirante",
             "Barranco",
@@ -141,7 +141,7 @@
         ]
     },
     {
-        "name": "Coclé Province",
+        "name": "Coclé",
         "cities": [
             "Aguadulce",
             "Aguas Blancas",
@@ -201,7 +201,7 @@
         ]
     },
     {
-        "name": "Colón Province",
+        "name": "Colón",
         "cities": [
             "Buena Vista",
             "Cativá",
@@ -244,7 +244,7 @@
         ]
     },
     {
-        "name": "Darién Province",
+        "name": "Darién",
         "cities": [
             "Boca de Cupé",
             "Camogantí",
@@ -273,7 +273,7 @@
         ]
     },
     {
-        "name": "Guna Yala",
+        "name": "Guna",
         "cities": [
             "Achutupo",
             "Ailigandí",
@@ -289,7 +289,7 @@
         ]
     },
     {
-        "name": "Herrera Province",
+        "name": "Herrera",
         "cities": [
             "Boca de Parita",
             "Cabuya",
@@ -341,7 +341,7 @@
         ]
     },
     {
-        "name": "Los Santos Province",
+        "name": "Los Santos",
         "cities": [
             "Agua Buena",
             "Ave María",
@@ -458,7 +458,65 @@
         ]
     },
     {
-        "name": "Panamá Oeste Province",
+        "name": "Panamá",
+        "cities": [
+            "Alcalde Díaz",
+            "Ancón",
+            "Brujas",
+            "Cabra Número Uno",
+            "Caimitillo",
+            "Calzada Larga",
+            "Cañita",
+            "Cerro Azul",
+            "Chepillo",
+            "Chepo",
+            "Chilibre",
+            "Chimán",
+            "Contadora",
+            "Curundú",
+            "Distrito de Balboa",
+            "Distrito de Chepo",
+            "Distrito de Chimán",
+            "Distrito de Panamá",
+            "Distrito de Taboga",
+            "El Chorrillo",
+            "El Progreso",
+            "Gonzalillo",
+            "Howard",
+            "Juan Díaz",
+            "La Cabima",
+            "La Colorada",
+            "La Ensenada",
+            "La Esmeralda",
+            "La Guinea",
+            "La Mesa",
+            "Las Cumbres",
+            "Las Margaritas",
+            "Lídice",
+            "Los Lotes",
+            "Nueva Esperanza",
+            "Nuevo Belén",
+            "Pacora",
+            "Panamá",
+            "Parque Lefevre",
+            "Pásiga",
+            "Pedregal",
+            "Río Abajo",
+            "San Antonio",
+            "San Felipe",
+            "San Miguel",
+            "San Miguelito",
+            "San Vicente",
+            "Tocumen",
+            "Tortí",
+            "Unión de Azuero",
+            "Unión Santeña",
+            "Villa Unida",
+            "Vista Hermosa"
+        ]
+    },
+    {
+        "name": "Panamá Oeste",
         "cities": [
             "Alto del Espino",
             "Altos de San Francisco",
@@ -521,65 +579,7 @@
         ]
     },
     {
-        "name": "Panamá Province",
-        "cities": [
-            "Alcalde Díaz",
-            "Ancón",
-            "Brujas",
-            "Cabra Número Uno",
-            "Caimitillo",
-            "Calzada Larga",
-            "Cañita",
-            "Cerro Azul",
-            "Chepillo",
-            "Chepo",
-            "Chilibre",
-            "Chimán",
-            "Contadora",
-            "Curundú",
-            "Distrito de Balboa",
-            "Distrito de Chepo",
-            "Distrito de Chimán",
-            "Distrito de Panamá",
-            "Distrito de Taboga",
-            "El Chorrillo",
-            "El Progreso",
-            "Gonzalillo",
-            "Howard",
-            "Juan Díaz",
-            "La Cabima",
-            "La Colorada",
-            "La Ensenada",
-            "La Esmeralda",
-            "La Guinea",
-            "La Mesa",
-            "Las Cumbres",
-            "Las Margaritas",
-            "Lídice",
-            "Los Lotes",
-            "Nueva Esperanza",
-            "Nuevo Belén",
-            "Pacora",
-            "Panamá",
-            "Parque Lefevre",
-            "Pásiga",
-            "Pedregal",
-            "Río Abajo",
-            "San Antonio",
-            "San Felipe",
-            "San Miguel",
-            "San Miguelito",
-            "San Vicente",
-            "Tocumen",
-            "Tortí",
-            "Unión de Azuero",
-            "Unión Santeña",
-            "Villa Unida",
-            "Vista Hermosa"
-        ]
-    },
-    {
-        "name": "Veraguas Province",
+        "name": "Veraguas",
         "cities": [
             "Alto de Jesús",
             "Arenas",

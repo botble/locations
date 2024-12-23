@@ -1,6 +1,6 @@
 [
     {
-        "name": "Azua Province",
+        "name": "Azua",
         "cities": [
             "Azua",
             "El Guayabal",
@@ -17,7 +17,7 @@
         ]
     },
     {
-        "name": "Baoruco Province",
+        "name": "Baoruco",
         "cities": [
             "El Palmar",
             "Galván",
@@ -29,7 +29,7 @@
         ]
     },
     {
-        "name": "Barahona Province",
+        "name": "Barahona",
         "cities": [
             "Cabral",
             "Cachón",
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "name": "Dajabón Province",
+        "name": "Dajabón",
         "cities": [
             "Dajabón",
             "El Pino",
@@ -73,7 +73,7 @@
         ]
     },
     {
-        "name": "Duarte Province",
+        "name": "Duarte",
         "cities": [
             "Agua Santa del Yuna",
             "Arenoso",
@@ -86,7 +86,7 @@
         ]
     },
     {
-        "name": "El Seibo Province",
+        "name": "El Seibo",
         "cities": [
             "Miches",
             "Pedro Sánchez",
@@ -94,7 +94,7 @@
         ]
     },
     {
-        "name": "Espaillat Province",
+        "name": "Espaillat",
         "cities": [
             "Cayetano Germosén",
             "Gaspar Hernández",
@@ -107,7 +107,7 @@
         ]
     },
     {
-        "name": "Hato Mayor Province",
+        "name": "Hato Mayor",
         "cities": [
             "El Valle",
             "Guayabo Dulce",
@@ -116,7 +116,7 @@
         ]
     },
     {
-        "name": "Hermanas Mirabal Province",
+        "name": "Hermanas Mirabal",
         "cities": [
             "Salcedo",
             "Salsipuedes",
@@ -137,7 +137,7 @@
         ]
     },
     {
-        "name": "La Altagracia Province",
+        "name": "La Altagracia",
         "cities": [
             "Boca de Yuma",
             "Higüey",
@@ -148,14 +148,14 @@
         ]
     },
     {
-        "name": "La Romana Province",
+        "name": "La Romana",
         "cities": [
             "Guaymate",
             "La Romana"
         ]
     },
     {
-        "name": "La Vega Province",
+        "name": "La Vega",
         "cities": [
             "Concepción de La Vega",
             "Constanza",
@@ -167,7 +167,7 @@
         ]
     },
     {
-        "name": "María Trinidad Sánchez Province",
+        "name": "María Trinidad Sánchez",
         "cities": [
             "Arroyo Salado",
             "Cabrera",
@@ -178,7 +178,7 @@
         ]
     },
     {
-        "name": "Monseñor Nouel Province",
+        "name": "Monseñor Nouel",
         "cities": [
             "Bonao",
             "Juan Adrián",
@@ -188,7 +188,7 @@
         ]
     },
     {
-        "name": "Monte Cristi Province",
+        "name": "Monte Cristi",
         "cities": [
             "Cana Chapetón",
             "Castañuelas",
@@ -203,7 +203,7 @@
         ]
     },
     {
-        "name": "Monte Plata Province",
+        "name": "Monte Plata",
         "cities": [
             "Bayaguana",
             "Don Juan",
@@ -217,7 +217,7 @@
         ]
     },
     {
-        "name": "Pedernales Province",
+        "name": "Pedernales",
         "cities": [
             "Juancho",
             "Oviedo",
@@ -225,7 +225,7 @@
         ]
     },
     {
-        "name": "Peravia Province",
+        "name": "Peravia",
         "cities": [
             "Baní",
             "Matanzas",
@@ -236,7 +236,7 @@
         ]
     },
     {
-        "name": "Puerto Plata Province",
+        "name": "Puerto Plata",
         "cities": [
             "Altamira",
             "Cabarete",
@@ -253,7 +253,7 @@
         ]
     },
     {
-        "name": "Samaná Province",
+        "name": "Samaná",
         "cities": [
             "Las Terrenas",
             "Samaná",
@@ -261,7 +261,7 @@
         ]
     },
     {
-        "name": "San Cristóbal Province",
+        "name": "San Cristóbal",
         "cities": [
             "Bajos de Haina",
             "Cambita Garabitos",
@@ -275,13 +275,13 @@
         ]
     },
     {
-        "name": "San José de Ocoa Province",
+        "name": "San José de Ocoa",
         "cities": [
             "San José de Ocoa"
         ]
     },
     {
-        "name": "San Juan Province",
+        "name": "San Juan",
         "cities": [
             "Bohechío",
             "Cercado Abajo",
@@ -305,7 +305,7 @@
         ]
     },
     {
-        "name": "Sánchez Ramírez Province",
+        "name": "Sánchez Ramírez",
         "cities": [
             "Cevicos",
             "Cotuí",
@@ -313,7 +313,7 @@
         ]
     },
     {
-        "name": "Santiago Province",
+        "name": "Santiago",
         "cities": [
             "Baitoa",
             "Bisonó",
@@ -332,7 +332,7 @@
         ]
     },
     {
-        "name": "Santiago Rodríguez Province",
+        "name": "Santiago Rodríguez",
         "cities": [
             "Monción",
             "Sabaneta",
@@ -340,7 +340,7 @@
         ]
     },
     {
-        "name": "Santo Domingo Province",
+        "name": "Santo Domingo",
         "cities": [
             "Boca Chica",
             "Santo Domingo Este",
@@ -348,7 +348,7 @@
         ]
     },
     {
-        "name": "Valverde Province",
+        "name": "Valverde",
         "cities": [
             "Amina",
             "Esperanza",

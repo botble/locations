@@ -1,32 +1,32 @@
 [
     {
-        "name": "Central District"
+        "name": "Central"
     },
     {
-        "name": "Ghanzi District"
+        "name": "Ghanzi"
     },
     {
-        "name": "Kgalagadi District"
+        "name": "Kgalagadi"
     },
     {
-        "name": "Kgatleng District"
+        "name": "Kgatleng"
     },
     {
-        "name": "Kweneng District"
+        "name": "Kweneng"
     },
     {
         "name": "Ngamiland"
     },
     {
-        "name": "North-East District"
+        "name": "North-East"
     },
     {
-        "name": "North-West District"
+        "name": "North-West"
     },
     {
-        "name": "South-East District"
+        "name": "South-East"
     },
     {
-        "name": "Southern District"
+        "name": "Southern"
     }
 ]

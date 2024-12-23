@@ -1,6 +1,6 @@
 [
     {
-        "name": "Eastern Province",
+        "name": "Eastern",
         "cities": [
             "Barma",
             "Blama",
@@ -35,7 +35,7 @@
         ]
     },
     {
-        "name": "Northern Province",
+        "name": "Northern",
         "cities": [
             "Alikalia",
             "Bindi",
@@ -70,7 +70,7 @@
         ]
     },
     {
-        "name": "Southern Province",
+        "name": "Southern",
         "cities": [
             "Baiima",
             "Baoma",
@@ -101,7 +101,7 @@
         ]
     },
     {
-        "name": "Western Area",
+        "name": "Western",
         "cities": [
             "Freetown",
             "Hastings",

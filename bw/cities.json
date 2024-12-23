@@ -1,6 +1,6 @@
 [
     {
-        "name": "Central District",
+        "name": "Central",
         "cities": [
             "Gobojango",
             "Gweta",
@@ -37,14 +37,14 @@
         ]
     },
     {
-        "name": "Ghanzi District",
+        "name": "Ghanzi",
         "cities": [
             "Dekar",
             "Ghanzi"
         ]
     },
     {
-        "name": "Kgalagadi District",
+        "name": "Kgalagadi",
         "cities": [
             "Hukuntsi",
             "Kang",
@@ -55,7 +55,7 @@
         ]
     },
     {
-        "name": "Kgatleng District",
+        "name": "Kgatleng",
         "cities": [
             "Bokaa",
             "Mmathubudukwane",
@@ -64,7 +64,7 @@
         ]
     },
     {
-        "name": "Kweneng District",
+        "name": "Kweneng",
         "cities": [
             "Botlhapatlou",
             "Dutlwe",
@@ -86,7 +86,7 @@
         "cities": []
     },
     {
-        "name": "North-East District",
+        "name": "North-East",
         "cities": [
             "Dukwe",
             "Makaleng",
@@ -95,7 +95,7 @@
         ]
     },
     {
-        "name": "North-West District",
+        "name": "North-West",
         "cities": [
             "Maun",
             "Nokaneng",
@@ -105,7 +105,7 @@
         ]
     },
     {
-        "name": "South-East District",
+        "name": "South-East",
         "cities": [
             "Gaborone",
             "Janeng",
@@ -115,7 +115,7 @@
         ]
     },
     {
-        "name": "Southern District",
+        "name": "Southern",
         "cities": [
             "Kanye",
             "Khakhea",

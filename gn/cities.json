@@ -1,18 +1,14 @@
 [
     {
-        "name": "Beyla Prefecture",
+        "name": "Beyla",
         "cities": []
     },
     {
-        "name": "Boffa Prefecture",
+        "name": "Boffa",
         "cities": []
     },
     {
-        "name": "Boké Prefecture",
-        "cities": []
-    },
-    {
-        "name": "Boké Region",
+        "name": "Boké",
         "cities": [
             "Boffa",
             "Boké",
@@ -28,6 +24,10 @@
         ]
     },
     {
+        "name": "Boké",
+        "cities": []
+    },
+    {
         "name": "Conakry",
         "cities": [
             "Camayenne",
@@ -35,51 +35,51 @@
         ]
     },
     {
-        "name": "Coyah Prefecture",
+        "name": "Coyah",
         "cities": []
     },
     {
-        "name": "Dabola Prefecture",
+        "name": "Dabola",
         "cities": []
     },
     {
-        "name": "Dalaba Prefecture",
+        "name": "Dalaba",
         "cities": []
     },
     {
-        "name": "Dinguiraye Prefecture",
+        "name": "Dinguiraye",
         "cities": []
     },
     {
-        "name": "Dubréka Prefecture",
+        "name": "Dubréka",
         "cities": []
     },
     {
-        "name": "Faranah Prefecture",
+        "name": "Faranah",
         "cities": []
     },
     {
-        "name": "Forécariah Prefecture",
+        "name": "Forécariah",
         "cities": []
     },
     {
-        "name": "Fria Prefecture",
+        "name": "Fria",
         "cities": []
     },
     {
-        "name": "Gaoual Prefecture",
+        "name": "Gaoual",
         "cities": []
     },
     {
-        "name": "Guéckédou Prefecture",
+        "name": "Guéckédou",
         "cities": []
     },
     {
-        "name": "Kankan Prefecture",
+        "name": "Kankan",
         "cities": []
     },
     {
-        "name": "Kankan Region",
+        "name": "Kankan",
         "cities": [
             "Kankan",
             "Kankan Prefecture",
@@ -94,15 +94,11 @@
         ]
     },
     {
-        "name": "Kérouané Prefecture",
+        "name": "Kérouané",
         "cities": []
     },
     {
-        "name": "Kindia Prefecture",
-        "cities": []
-    },
-    {
-        "name": "Kindia Region",
+        "name": "Kindia",
         "cities": [
             "Coyah",
             "Dubréka",
@@ -116,27 +112,31 @@
         ]
     },
     {
-        "name": "Kissidougou Prefecture",
+        "name": "Kindia",
         "cities": []
     },
     {
-        "name": "Koubia Prefecture",
+        "name": "Kissidougou",
         "cities": []
     },
     {
-        "name": "Koundara Prefecture",
+        "name": "Koubia",
         "cities": []
     },
     {
-        "name": "Kouroussa Prefecture",
+        "name": "Koundara",
         "cities": []
     },
     {
-        "name": "Labé Prefecture",
+        "name": "Kouroussa",
         "cities": []
     },
     {
-        "name": "Labé Region",
+        "name": "Labé",
+        "cities": []
+    },
+    {
+        "name": "Labé",
         "cities": [
             "Koubia",
             "Labé",
@@ -150,27 +150,23 @@
         ]
     },
     {
-        "name": "Lélouma Prefecture",
+        "name": "Lélouma",
         "cities": []
     },
     {
-        "name": "Lola Prefecture",
+        "name": "Lola",
         "cities": []
     },
     {
-        "name": "Macenta Prefecture",
+        "name": "Macenta",
         "cities": []
     },
     {
-        "name": "Mali Prefecture",
+        "name": "Mali",
         "cities": []
     },
     {
-        "name": "Mamou Prefecture",
-        "cities": []
-    },
-    {
-        "name": "Mamou Region",
+        "name": "Mamou",
         "cities": [
             "Dalaba",
             "Mamou",
@@ -179,15 +175,15 @@
         ]
     },
     {
-        "name": "Mandiana Prefecture",
+        "name": "Mamou",
         "cities": []
     },
     {
-        "name": "Nzérékoré Prefecture",
+        "name": "Mandiana",
         "cities": []
     },
     {
-        "name": "Nzérékoré Region",
+        "name": "Nzérékoré",
         "cities": [
             "Beyla",
             "Beyla Prefecture",
@@ -201,23 +197,27 @@
         ]
     },
     {
-        "name": "Pita Prefecture",
+        "name": "Nzérékoré",
         "cities": []
     },
     {
-        "name": "Siguiri Prefecture",
+        "name": "Pita",
         "cities": []
     },
     {
-        "name": "Télimélé Prefecture",
+        "name": "Siguiri",
         "cities": []
     },
     {
-        "name": "Tougué Prefecture",
+        "name": "Télimélé",
         "cities": []
     },
     {
-        "name": "Yomou Prefecture",
+        "name": "Tougué",
+        "cities": []
+    },
+    {
+        "name": "Yomou",
         "cities": []
     }
 ]

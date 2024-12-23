@@ -1,6 +1,6 @@
 [
     {
-        "name": "Cabo Delgado Province",
+        "name": "Cabo Delgado",
         "cities": [
             "Chiure",
             "Mocímboa",
@@ -9,7 +9,7 @@
         ]
     },
     {
-        "name": "Gaza Province",
+        "name": "Gaza",
         "cities": [
             "Chibuto",
             "Chokwé",
@@ -18,27 +18,20 @@
         ]
     },
     {
-        "name": "Inhambane Province",
+        "name": "Inhambane",
         "cities": [
             "Inhambane",
             "Maxixe"
         ]
     },
     {
-        "name": "Manica Province",
+        "name": "Manica",
         "cities": [
             "Chimoio"
         ]
     },
     {
         "name": "Maputo",
-        "cities": [
-            "KaTembe",
-            "Maputo"
-        ]
-    },
-    {
-        "name": "Maputo Province",
         "cities": [
             "Boane District",
             "Concelho de Matola",
@@ -53,7 +46,14 @@
         ]
     },
     {
-        "name": "Nampula Province",
+        "name": "Maputo",
+        "cities": [
+            "KaTembe",
+            "Maputo"
+        ]
+    },
+    {
+        "name": "Nampula",
         "cities": [
             "António Enes",
             "Ilha de Moçambique",
@@ -63,7 +63,7 @@
         ]
     },
     {
-        "name": "Niassa Province",
+        "name": "Niassa",
         "cities": [
             "Cuamba",
             "Lichinga",
@@ -71,7 +71,7 @@
         ]
     },
     {
-        "name": "Sofala Province",
+        "name": "Sofala",
         "cities": [
             "Beira",
             "Dondo",
@@ -79,13 +79,13 @@
         ]
     },
     {
-        "name": "Tete Province",
+        "name": "Tete",
         "cities": [
             "Tete"
         ]
     },
     {
-        "name": "Zambezia Province",
+        "name": "Zambezia",
         "cities": [
             "Alto Molócuè",
             "Chinde",

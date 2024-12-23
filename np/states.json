@@ -1,59 +1,23 @@
 [
     {
-        "name": "Bagmati Zone"
+        "name": "Bagmati"
     },
     {
-        "name": "Bheri Zone"
+        "name": "Gandaki"
     },
     {
-        "name": "Central Region"
+        "name": "Karnali"
     },
     {
-        "name": "Dhaulagiri Zone"
+        "name": "Koshi"
     },
     {
-        "name": "Eastern Development Region"
+        "name": "Lumbini"
     },
     {
-        "name": "Far-Western Development Region"
+        "name": "Madhesh"
     },
     {
-        "name": "Gandaki Zone"
-    },
-    {
-        "name": "Janakpur Zone"
-    },
-    {
-        "name": "Karnali Zone"
-    },
-    {
-        "name": "Kosi Zone"
-    },
-    {
-        "name": "Lumbini Zone"
-    },
-    {
-        "name": "Mahakali Zone"
-    },
-    {
-        "name": "Mechi Zone"
-    },
-    {
-        "name": "Mid-Western Region"
-    },
-    {
-        "name": "Narayani Zone"
-    },
-    {
-        "name": "Rapti Zone"
-    },
-    {
-        "name": "Sagarmatha Zone"
-    },
-    {
-        "name": "Seti Zone"
-    },
-    {
-        "name": "Western Region"
+        "name": "Sudurpashchim"
     }
 ]

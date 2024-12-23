@@ -1,6 +1,6 @@
 [
     {
-        "name": "Andijan Region",
+        "name": "Andijan",
         "cities": [
             "Andijon",
             "Andijon Tumani",
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "name": "Bukhara Region",
+        "name": "Bukhara",
         "cities": [
             "Bukhara",
             "Galaosiyo",
@@ -45,7 +45,7 @@
         ]
     },
     {
-        "name": "Fergana Region",
+        "name": "Fergana",
         "cities": [
             "Beshariq",
             "Fergana",
@@ -65,7 +65,7 @@
         ]
     },
     {
-        "name": "Jizzakh Region",
+        "name": "Jizzakh",
         "cities": [
             "Dashtobod",
             "Dŭstlik",
@@ -89,7 +89,7 @@
         ]
     },
     {
-        "name": "Namangan Region",
+        "name": "Namangan",
         "cities": [
             "Chortoq",
             "Chust",
@@ -105,7 +105,7 @@
         ]
     },
     {
-        "name": "Navoiy Region",
+        "name": "Navoiy",
         "cities": [
             "Navoiy",
             "Nurota",
@@ -114,7 +114,7 @@
         ]
     },
     {
-        "name": "Qashqadaryo Region",
+        "name": "Qashqadaryo",
         "cities": [
             "Beshkent",
             "Chiroqchi",
@@ -128,7 +128,7 @@
         ]
     },
     {
-        "name": "Samarqand Region",
+        "name": "Samarqand",
         "cities": [
             "Bulung’ur",
             "Charxin",
@@ -145,7 +145,7 @@
         ]
     },
     {
-        "name": "Sirdaryo Region",
+        "name": "Sirdaryo",
         "cities": [
             "Guliston",
             "Sirdaryo",
@@ -153,7 +153,7 @@
         ]
     },
     {
-        "name": "Surxondaryo Region",
+        "name": "Surxondaryo",
         "cities": [
             "Boysun",
             "Denov",
@@ -169,7 +169,7 @@
         ]
     },
     {
-        "name": "Tashkent Region",
+        "name": "Tashkent",
         "cities": [
             "Angren",
             "Bekobod",
@@ -193,7 +193,7 @@
         ]
     },
     {
-        "name": "Xorazm Region",
+        "name": "Xorazm",
         "cities": [
             "Boghot Tumani",
             "Gurlan",

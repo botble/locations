@@ -1,6 +1,6 @@
 [
     {
-        "name": "Auckland Region",
+        "name": "Auckland",
         "cities": [
             "Auckland",
             "Mangere",
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "name": "Bay of Plenty Region",
+        "name": "Bay of Plenty",
         "cities": [
             "Edgecumbe",
             "Katikati",
@@ -41,7 +41,7 @@
         ]
     },
     {
-        "name": "Canterbury Region",
+        "name": "Canterbury",
         "cities": [
             "Amberley",
             "Ashburton",
@@ -76,13 +76,13 @@
         ]
     },
     {
-        "name": "Gisborne District",
+        "name": "Gisborne",
         "cities": [
             "Gisborne"
         ]
     },
     {
-        "name": "Hawke's Bay Region",
+        "name": "Hawke's Bay",
         "cities": [
             "Hastings",
             "Napier",
@@ -91,7 +91,7 @@
         ]
     },
     {
-        "name": "Manawatu-Wanganui Region",
+        "name": "Manawatu-Wanganui",
         "cities": [
             "Bulls",
             "Foxton",
@@ -104,20 +104,20 @@
         ]
     },
     {
-        "name": "Marlborough Region",
+        "name": "Marlborough",
         "cities": [
             "Blenheim",
             "Picton"
         ]
     },
     {
-        "name": "Nelson Region",
+        "name": "Nelson",
         "cities": [
             "Nelson"
         ]
     },
     {
-        "name": "Northland Region",
+        "name": "Northland",
         "cities": [
             "Ahipara",
             "Dargaville",
@@ -137,7 +137,7 @@
         ]
     },
     {
-        "name": "Otago Region",
+        "name": "Otago",
         "cities": [
             "Arrowtown",
             "Balclutha",
@@ -154,7 +154,7 @@
         ]
     },
     {
-        "name": "Southland Region",
+        "name": "Southland",
         "cities": [
             "Bluff",
             "Gore",
@@ -166,7 +166,7 @@
         ]
     },
     {
-        "name": "Taranaki Region",
+        "name": "Taranaki",
         "cities": [
             "Eltham",
             "Hawera",
@@ -175,11 +175,12 @@
             "Opunake",
             "Patea",
             "South Taranaki District",
+            "Stratford",
             "Waitara"
         ]
     },
     {
-        "name": "Tasman District",
+        "name": "Tasman",
         "cities": [
             "Brightwater",
             "Mapua",
@@ -190,7 +191,7 @@
         ]
     },
     {
-        "name": "Waikato Region",
+        "name": "Waikato",
         "cities": [
             "Cambridge",
             "Coromandel",
@@ -214,7 +215,7 @@
         ]
     },
     {
-        "name": "Wellington Region",
+        "name": "Wellington",
         "cities": [
             "Brooklyn",
             "Castlepoint",
@@ -235,7 +236,7 @@
         ]
     },
     {
-        "name": "West Coast Region",
+        "name": "West Coast",
         "cities": [
             "Greymouth",
             "Hokitika",

@@ -1,6 +1,6 @@
 [
     {
-        "name": "Ali Sabieh Region",
+        "name": "Ali Sabieh",
         "cities": [
             "'Ali Sabieh",
             "Goubétto",
@@ -8,13 +8,13 @@
         ]
     },
     {
-        "name": "Arta Region",
+        "name": "Arta",
         "cities": [
             "Arta"
         ]
     },
     {
-        "name": "Dikhil Region",
+        "name": "Dikhil",
         "cities": [
             "Dikhil",
             "Gâlâfi"
@@ -28,14 +28,14 @@
         ]
     },
     {
-        "name": "Obock Region",
+        "name": "Obock",
         "cities": [
             "Alaïli Ḏaḏḏa‘",
             "Obock"
         ]
     },
     {
-        "name": "Tadjourah Region",
+        "name": "Tadjourah",
         "cities": [
             "Dorra",
             "Tadjourah"

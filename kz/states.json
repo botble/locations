@@ -1,53 +1,53 @@
 [
     {
-        "name": "Akmola Region"
+        "name": "Akmola"
     },
     {
-        "name": "Aktobe Region"
+        "name": "Aktobe"
     },
     {
         "name": "Almaty"
     },
     {
-        "name": "Almaty Region"
+        "name": "Almaty"
     },
     {
-        "name": "Atyrau Region"
+        "name": "Astana"
+    },
+    {
+        "name": "Atyrau"
     },
     {
         "name": "Baikonur"
     },
     {
-        "name": "East Kazakhstan Region"
+        "name": "East Kazakhstan"
     },
     {
-        "name": "Jambyl Region"
+        "name": "Jambyl"
     },
     {
-        "name": "Karaganda Region"
+        "name": "Karaganda"
     },
     {
-        "name": "Kostanay Region"
+        "name": "Kostanay"
     },
     {
-        "name": "Kyzylorda Region"
+        "name": "Kyzylorda"
     },
     {
-        "name": "Mangystau Region"
+        "name": "Mangystau"
     },
     {
-        "name": "North Kazakhstan Region"
+        "name": "North Kazakhstan"
     },
     {
-        "name": "Nur-Sultan"
+        "name": "Pavlodar"
     },
     {
-        "name": "Pavlodar Region"
+        "name": "Turkestan"
     },
     {
-        "name": "Turkestan Region"
-    },
-    {
-        "name": "West Kazakhstan Province"
+        "name": "West Kazakhstan"
     }
 ]

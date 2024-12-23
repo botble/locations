@@ -1,6 +1,6 @@
 [
     {
-        "name": "Canton of Capellen",
+        "name": "Capellen",
         "cities": [
             "Bascharage",
             "Bridel",
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "name": "Canton of Clervaux",
+        "name": "Clervaux",
         "cities": [
             "Clervaux",
             "Hosingen",
@@ -33,7 +33,7 @@
         ]
     },
     {
-        "name": "Canton of Diekirch",
+        "name": "Diekirch",
         "cities": [
             "Bettendorf",
             "Bourscheid",
@@ -51,7 +51,7 @@
         ]
     },
     {
-        "name": "Canton of Echternach",
+        "name": "Echternach",
         "cities": [
             "Beaufort",
             "Bech",
@@ -64,7 +64,7 @@
         ]
     },
     {
-        "name": "Canton of Esch-sur-Alzette",
+        "name": "Esch-sur-Alzette",
         "cities": [
             "Aspelt",
             "Belvaux",
@@ -94,7 +94,7 @@
         ]
     },
     {
-        "name": "Canton of Grevenmacher",
+        "name": "Grevenmacher",
         "cities": [
             "Betzdorf",
             "Biwer",
@@ -109,7 +109,7 @@
         ]
     },
     {
-        "name": "Canton of Luxembourg",
+        "name": "Luxembourg ",
         "cities": [
             "Alzingen",
             "Béreldange",
@@ -136,7 +136,7 @@
         ]
     },
     {
-        "name": "Canton of Mersch",
+        "name": "Mersch",
         "cities": [
             "Bissen",
             "Boevange-sur-Attert",
@@ -153,7 +153,7 @@
         ]
     },
     {
-        "name": "Canton of Redange",
+        "name": "Redange",
         "cities": [
             "Beckerich",
             "Bettborn",
@@ -169,7 +169,7 @@
         ]
     },
     {
-        "name": "Canton of Remich",
+        "name": "Remich",
         "cities": [
             "Bous",
             "Dalheim",
@@ -182,7 +182,7 @@
         ]
     },
     {
-        "name": "Canton of Vianden",
+        "name": "Vianden",
         "cities": [
             "Putscheid",
             "Tandel",
@@ -190,7 +190,7 @@
         ]
     },
     {
-        "name": "Canton of Wiltz",
+        "name": "Wiltz",
         "cities": [
             "Bavigne",
             "Boulaide",
@@ -202,17 +202,5 @@
             "Wilwerwiltz",
             "Winseler"
         ]
-    },
-    {
-        "name": "Diekirch District",
-        "cities": []
-    },
-    {
-        "name": "Grevenmacher District",
-        "cities": []
-    },
-    {
-        "name": "Luxembourg District",
-        "cities": []
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "name": "Artemisa Province",
+        "name": "Artemisa",
         "cities": [
             "Alquízar",
             "Artemisa",
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "name": "Camagüey Province",
+        "name": "Camagüey",
         "cities": [
             "Camagüey",
             "El Caney",
@@ -40,7 +40,7 @@
         ]
     },
     {
-        "name": "Ciego de Ávila Province",
+        "name": "Ciego de Ávila",
         "cities": [
             "Baraguá",
             "Chambas",
@@ -55,7 +55,7 @@
         ]
     },
     {
-        "name": "Cienfuegos Province",
+        "name": "Cienfuegos",
         "cities": [
             "Abreus",
             "Aguada de Pasajeros",
@@ -70,7 +70,7 @@
         ]
     },
     {
-        "name": "Granma Province",
+        "name": "Granma",
         "cities": [
             "Bartolomé Masó",
             "Bayamo",
@@ -89,7 +89,7 @@
         ]
     },
     {
-        "name": "Guantánamo Province",
+        "name": "Guantánamo",
         "cities": [
             "Baracoa",
             "Guantánamo",
@@ -100,7 +100,7 @@
         ]
     },
     {
-        "name": "Havana Province",
+        "name": "Havana",
         "cities": [
             "Alamar",
             "Arroyo Naranjo",
@@ -118,7 +118,7 @@
         ]
     },
     {
-        "name": "Holguín Province",
+        "name": "Holguín",
         "cities": [
             "Banes",
             "Cacocum",
@@ -140,7 +140,7 @@
         ]
     },
     {
-        "name": "Las Tunas Province",
+        "name": "Las Tunas",
         "cities": [
             "Amancio",
             "Colombia",
@@ -152,7 +152,7 @@
         ]
     },
     {
-        "name": "Matanzas Province",
+        "name": "Matanzas",
         "cities": [
             "Alacranes",
             "Bolondrón",
@@ -175,7 +175,7 @@
         ]
     },
     {
-        "name": "Mayabeque Province",
+        "name": "Mayabeque",
         "cities": [
             "Batabanó",
             "Bejucal",
@@ -193,7 +193,7 @@
         ]
     },
     {
-        "name": "Pinar del Río Province",
+        "name": "Pinar del Río",
         "cities": [
             "Consolación del Sur",
             "Guane",
@@ -212,7 +212,7 @@
         ]
     },
     {
-        "name": "Sancti Spíritus Province",
+        "name": "Sancti Spíritus",
         "cities": [
             "Cabaiguán",
             "Condado",
@@ -232,7 +232,7 @@
         ]
     },
     {
-        "name": "Santiago de Cuba Province",
+        "name": "Santiago de Cuba",
         "cities": [
             "Contramaestre",
             "El Cobre",
@@ -244,7 +244,7 @@
         ]
     },
     {
-        "name": "Villa Clara Province",
+        "name": "Villa Clara",
         "cities": [
             "Caibarién",
             "Calabazar de Sagua",

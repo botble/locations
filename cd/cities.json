@@ -19,9 +19,6 @@
     {
         "name": "Haut-Katanga",
         "cities": [
-            "Haut Katanga",
-            "Kambove",
-            "Kipushi",
             "Likasi",
             "Lubumbashi"
         ]
@@ -71,8 +68,7 @@
     {
         "name": "Kinshasa",
         "cities": [
-            "Kinshasa",
-            "Masina"
+            "Kinshasa"
         ]
     },
     {
@@ -110,7 +106,10 @@
     },
     {
         "name": "Lualaba",
-        "cities": []
+        "cities": [
+            "Kasaji",
+            "Kolwezi"
+        ]
     },
     {
         "name": "Mai-Ndombe",

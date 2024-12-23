@@ -814,7 +814,9 @@
         "name": "Jiangsu",
         "cities": [
             "ChangZhou",
+            "Haizhou",
             "HuaiAn",
+            "Jingjiang",
             "LianYunGang",
             "NanJing",
             "NanTong",
@@ -1205,7 +1207,6 @@
             "Gaogou",
             "Gaoyou",
             "Guiren",
-            "Haizhou",
             "Hede",
             "Huai'an",
             "Huai’an Shi",
@@ -1213,7 +1214,6 @@
             "Hutang",
             "Jiangyan",
             "Jiangyin",
-            "Jingjiang",
             "Jinsha",
             "Juegang",
             "Kunshan",
@@ -1319,7 +1319,6 @@
             "Yuguzhuang",
             "Zaojiacheng",
             "Zhangjiawo",
-            "Zhaoguli",
             "Zhaoguli"
         ]
     },

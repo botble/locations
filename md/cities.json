@@ -1,50 +1,50 @@
 [
     {
-        "name": "Anenii Noi District",
+        "name": "Anenii Noi",
         "cities": [
             "Anenii Noi",
             "Varniţa"
         ]
     },
     {
-        "name": "Bălți Municipality",
+        "name": "Bălți",
         "cities": [
             "Bălţi"
         ]
     },
     {
-        "name": "Basarabeasca District",
+        "name": "Basarabeasca",
         "cities": [
             "Basarabeasca"
         ]
     },
     {
-        "name": "Bender Municipality",
+        "name": "Bender",
         "cities": [
             "Bender"
         ]
     },
     {
-        "name": "Briceni District",
+        "name": "Briceni",
         "cities": [
             "Briceni"
         ]
     },
     {
-        "name": "Cahul District",
+        "name": "Cahul",
         "cities": [
             "Cahul",
             "Giurgiuleşti"
         ]
     },
     {
-        "name": "Călărași District",
+        "name": "Călărași",
         "cities": [
             "Călăraşi"
         ]
     },
     {
-        "name": "Cantemir District",
+        "name": "Cantemir",
         "cities": [
             "Cantemir",
             "Iargara",
@@ -52,14 +52,14 @@
         ]
     },
     {
-        "name": "Căușeni District",
+        "name": "Căușeni",
         "cities": [
             "Căuşeni",
             "Chiţcani"
         ]
     },
     {
-        "name": "Chișinău Municipality",
+        "name": "Chișinău",
         "cities": [
             "Chisinau",
             "Ciorescu",
@@ -71,51 +71,51 @@
         ]
     },
     {
-        "name": "Cimișlia District",
+        "name": "Cimișlia",
         "cities": [
             "Cimişlia"
         ]
     },
     {
-        "name": "Criuleni District",
+        "name": "Criuleni",
         "cities": [
             "Criuleni"
         ]
     },
     {
-        "name": "Dondușeni District",
+        "name": "Dondușeni",
         "cities": [
             "Briceni",
             "Donduşeni"
         ]
     },
     {
-        "name": "Drochia District",
+        "name": "Drochia",
         "cities": [
             "Drochia"
         ]
     },
     {
-        "name": "Dubăsari District",
+        "name": "Dubăsari",
         "cities": [
             "Cocieri",
             "Ustia"
         ]
     },
     {
-        "name": "Edineț District",
+        "name": "Edineț",
         "cities": [
             "Edineţ"
         ]
     },
     {
-        "name": "Fălești District",
+        "name": "Fălești",
         "cities": [
             "Fălești"
         ]
     },
     {
-        "name": "Florești District",
+        "name": "Florești",
         "cities": [
             "Floreşti",
             "Ghindești",
@@ -132,58 +132,58 @@
         ]
     },
     {
-        "name": "Glodeni District",
+        "name": "Glodeni",
         "cities": [
             "Glodeni"
         ]
     },
     {
-        "name": "Hîncești District",
+        "name": "Hîncești",
         "cities": [
             "Dancu",
             "Hînceşti"
         ]
     },
     {
-        "name": "Ialoveni District",
+        "name": "Ialoveni",
         "cities": [
             "Ialoveni"
         ]
     },
     {
-        "name": "Nisporeni District",
+        "name": "Nisporeni",
         "cities": [
             "Nisporeni"
         ]
     },
     {
-        "name": "Ocnița District",
+        "name": "Ocnița",
         "cities": [
             "Ocniţa",
             "Otaci"
         ]
     },
     {
-        "name": "Orhei District",
+        "name": "Orhei",
         "cities": [
             "Orhei"
         ]
     },
     {
-        "name": "Rezina District",
+        "name": "Rezina",
         "cities": [
             "Rezina",
             "Saharna"
         ]
     },
     {
-        "name": "Rîșcani District",
+        "name": "Rîșcani",
         "cities": [
             "Rîşcani"
         ]
     },
     {
-        "name": "Sîngerei District",
+        "name": "Sîngerei",
         "cities": [
             "Bilicenii Vechi",
             "Biruinţa",
@@ -191,46 +191,46 @@
         ]
     },
     {
-        "name": "Șoldănești District",
+        "name": "Șoldănești",
         "cities": [
             "Şoldăneşti"
         ]
     },
     {
-        "name": "Soroca District",
+        "name": "Soroca",
         "cities": [
             "Soroca"
         ]
     },
     {
-        "name": "Ștefan Vodă District",
+        "name": "Ștefan Vodă",
         "cities": [
             "Ştefan Vodă"
         ]
     },
     {
-        "name": "Strășeni District",
+        "name": "Strășeni",
         "cities": [
             "Bucovăţ",
             "Strășeni"
         ]
     },
     {
-        "name": "Taraclia District",
+        "name": "Taraclia",
         "cities": [
             "Taraclia",
             "Tvardița"
         ]
     },
     {
-        "name": "Telenești District",
+        "name": "Telenești",
         "cities": [
             "Mîndreşti",
             "Teleneşti"
         ]
     },
     {
-        "name": "Transnistria autonomous territorial unit",
+        "name": "Transnistria",
         "cities": [
             "Camenca",
             "Crasnoe",
@@ -246,7 +246,7 @@
         ]
     },
     {
-        "name": "Ungheni District",
+        "name": "Ungheni",
         "cities": [
             "Ungheni"
         ]

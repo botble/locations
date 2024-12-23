@@ -9,9 +9,6 @@
         "name": "Arauca"
     },
     {
-        "name": "Archipiélago de San Andrés, Providencia y Santa Catalina"
-    },
-    {
         "name": "Atlántico"
     },
     {
@@ -79,6 +76,9 @@
     },
     {
         "name": "Risaralda"
+    },
+    {
+        "name": "San Andrés, Providencia y Santa Catalina"
     },
     {
         "name": "Santander"

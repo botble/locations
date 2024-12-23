@@ -1,12 +1,12 @@
 [
     {
-        "name": "Bulawayo Province",
+        "name": "Bulawayo",
         "cities": [
             "Bulawayo"
         ]
     },
     {
-        "name": "Harare Province",
+        "name": "Harare",
         "cities": [
             "Chitungwiza",
             "Epworth",
@@ -36,7 +36,7 @@
         ]
     },
     {
-        "name": "Mashonaland Central Province",
+        "name": "Mashonaland Central",
         "cities": [
             "Bindura",
             "Bindura District",
@@ -55,7 +55,7 @@
         ]
     },
     {
-        "name": "Mashonaland East Province",
+        "name": "Mashonaland East",
         "cities": [
             "Beatrice",
             "Chivhu",
@@ -71,7 +71,7 @@
         ]
     },
     {
-        "name": "Mashonaland West Province",
+        "name": "Mashonaland West",
         "cities": [
             "Banket",
             "Chakari",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "name": "Masvingo Province",
+        "name": "Masvingo",
         "cities": [
             "Bikita District",
             "Chiredzi",
@@ -107,7 +107,7 @@
         ]
     },
     {
-        "name": "Matabeleland North Province",
+        "name": "Matabeleland North",
         "cities": [
             "Binga",
             "Binga District",
@@ -124,7 +124,7 @@
         ]
     },
     {
-        "name": "Matabeleland South Province",
+        "name": "Matabeleland South",
         "cities": [
             "Beitbridge",
             "Beitbridge District",
@@ -141,7 +141,7 @@
         ]
     },
     {
-        "name": "Midlands Province",
+        "name": "Midlands",
         "cities": [
             "Gokwe",
             "Gweru",

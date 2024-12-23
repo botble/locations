@@ -1,6 +1,6 @@
 [
     {
-        "name": "Brest Region",
+        "name": "Brest",
         "cities": [
             "Antopal’",
             "Asnyezhytsy",
@@ -50,7 +50,7 @@
         ]
     },
     {
-        "name": "Gomel Region",
+        "name": "Gomel",
         "cities": [
             "Aktsyabrski",
             "Brahin",
@@ -94,7 +94,7 @@
         ]
     },
     {
-        "name": "Grodno Region",
+        "name": "Grodno",
         "cities": [
             "Ashmyanski Rayon",
             "Ashmyany",
@@ -140,20 +140,6 @@
     },
     {
         "name": "Minsk",
-        "cities": [
-            "Frunzyenski Rayon",
-            "Kastrychnitski Rayon",
-            "Lyeninski Rayon",
-            "Maskowski Rayon",
-            "Minsk",
-            "Partyzanski Rayon",
-            "Savyetski Rayon",
-            "Tsentral’ny Rayon",
-            "Zavodski Rayon"
-        ]
-    },
-    {
-        "name": "Minsk Region",
         "cities": [
             "Astrashytski Haradok",
             "Atolina",
@@ -259,7 +245,21 @@
         ]
     },
     {
-        "name": "Mogilev Region",
+        "name": "Minsk",
+        "cities": [
+            "Frunzyenski Rayon",
+            "Kastrychnitski Rayon",
+            "Lyeninski Rayon",
+            "Maskowski Rayon",
+            "Minsk",
+            "Partyzanski Rayon",
+            "Savyetski Rayon",
+            "Tsentral’ny Rayon",
+            "Zavodski Rayon"
+        ]
+    },
+    {
+        "name": "Mogilev",
         "cities": [
             "Asipovichy",
             "Asipovitski Rayon",
@@ -311,7 +311,7 @@
         ]
     },
     {
-        "name": "Vitebsk Region",
+        "name": "Vitebsk",
         "cities": [
             "Balbasava",
             "Baran’",

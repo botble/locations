@@ -9,10 +9,10 @@
         "name": "Cakaudrove"
     },
     {
-        "name": "Central Division"
+        "name": "Central"
     },
     {
-        "name": "Eastern Division"
+        "name": "Eastern"
     },
     {
         "name": "Kadavu"
@@ -36,7 +36,7 @@
         "name": "Namosi"
     },
     {
-        "name": "Northern Division"
+        "name": "Northern"
     },
     {
         "name": "Ra"
@@ -54,6 +54,6 @@
         "name": "Tailevu"
     },
     {
-        "name": "Western Division"
+        "name": "Western"
     }
 ]

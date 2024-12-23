@@ -1,12 +1,12 @@
 [
     {
-        "name": "Andrijevica Municipality",
+        "name": "Andrijevica",
         "cities": [
             "Andrijevica"
         ]
     },
     {
-        "name": "Bar Municipality",
+        "name": "Bar",
         "cities": [
             "Bar",
             "Stari Bar",
@@ -15,45 +15,45 @@
         ]
     },
     {
-        "name": "Berane Municipality",
+        "name": "Berane",
         "cities": [
             "Berane"
         ]
     },
     {
-        "name": "Bijelo Polje Municipality",
+        "name": "Bijelo Polje",
         "cities": [
             "Bijelo Polje"
         ]
     },
     {
-        "name": "Budva Municipality",
+        "name": "Budva",
         "cities": [
             "Budva",
             "Petrovac na Moru"
         ]
     },
     {
-        "name": "Danilovgrad Municipality",
+        "name": "Danilovgrad",
         "cities": [
             "Danilovgrad",
             "Spuž"
         ]
     },
     {
-        "name": "Gusinje Municipality",
+        "name": "Gusinje",
         "cities": [
             "Gusinje"
         ]
     },
     {
-        "name": "Kolašin Municipality",
+        "name": "Kolašin",
         "cities": [
             "Kolašin"
         ]
     },
     {
-        "name": "Kotor Municipality",
+        "name": "Kotor",
         "cities": [
             "Dobrota",
             "Kotor",
@@ -62,13 +62,13 @@
         ]
     },
     {
-        "name": "Mojkovac Municipality",
+        "name": "Mojkovac",
         "cities": [
             "Mojkovac"
         ]
     },
     {
-        "name": "Nikšić Municipality",
+        "name": "Nikšić",
         "cities": [
             "Nikšić"
         ]
@@ -80,29 +80,29 @@
         ]
     },
     {
-        "name": "Petnjica Municipality",
+        "name": "Petnjica",
         "cities": []
     },
     {
-        "name": "Plav Municipality",
+        "name": "Plav",
         "cities": [
             "Plav"
         ]
     },
     {
-        "name": "Pljevlja Municipality",
+        "name": "Pljevlja",
         "cities": [
             "Pljevlja"
         ]
     },
     {
-        "name": "Plužine Municipality",
+        "name": "Plužine",
         "cities": [
             "Plužine"
         ]
     },
     {
-        "name": "Podgorica Municipality",
+        "name": "Podgorica",
         "cities": [
             "Golubovci",
             "Goričani",
@@ -113,31 +113,31 @@
         ]
     },
     {
-        "name": "Rožaje Municipality",
+        "name": "Rožaje",
         "cities": [
             "Rožaje"
         ]
     },
     {
-        "name": "Šavnik Municipality",
+        "name": "Šavnik",
         "cities": [
             "Šavnik"
         ]
     },
     {
-        "name": "Tivat Municipality",
+        "name": "Tivat",
         "cities": [
             "Tivat"
         ]
     },
     {
-        "name": "Ulcinj Municipality",
+        "name": "Ulcinj",
         "cities": [
             "Ulcinj"
         ]
     },
     {
-        "name": "Žabljak Municipality",
+        "name": "Žabljak",
         "cities": [
             "Žabljak"
         ]

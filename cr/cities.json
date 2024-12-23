@@ -1,6 +1,6 @@
 [
     {
-        "name": "Alajuela Province",
+        "name": "Alajuela",
         "cities": [
             "Alajuela",
             "Atenas",
@@ -34,66 +34,7 @@
         ]
     },
     {
-        "name": "Guanacaste Province",
-        "cities": [
-            "Abangares",
-            "Bagaces",
-            "Belén",
-            "Cañas",
-            "Carrillo",
-            "Fortuna",
-            "Hojancha",
-            "Juntas",
-            "La Cruz",
-            "Liberia",
-            "Nandayure",
-            "Nicoya",
-            "Sámara",
-            "Santa Cruz",
-            "Sardinal",
-            "Tilarán"
-        ]
-    },
-    {
-        "name": "Heredia Province",
-        "cities": [
-            "Ángeles",
-            "Barva",
-            "Belén",
-            "Flores",
-            "Heredia",
-            "La Asunción",
-            "Llorente",
-            "Mercedes",
-            "San Antonio",
-            "San Francisco",
-            "San Isidro",
-            "San Josecito",
-            "San Pablo",
-            "San Rafael",
-            "Santa Bárbara",
-            "Santo Domingo",
-            "Sarapiquí"
-        ]
-    },
-    {
-        "name": "Limón Province",
-        "cities": [
-            "Batán",
-            "Guácimo",
-            "Guápiles",
-            "Limón",
-            "Matina",
-            "Pococí",
-            "Pocora",
-            "Roxana",
-            "Siquirres",
-            "Sixaola",
-            "Talamanca"
-        ]
-    },
-    {
-        "name": "Provincia de Cartago",
+        "name": "Cartago",
         "cities": [
             "Alvarado",
             "Cartago",
@@ -116,7 +57,66 @@
         ]
     },
     {
-        "name": "Puntarenas Province",
+        "name": "Guanacaste",
+        "cities": [
+            "Abangares",
+            "Bagaces",
+            "Belén",
+            "Cañas",
+            "Carrillo",
+            "Fortuna",
+            "Hojancha",
+            "Juntas",
+            "La Cruz",
+            "Liberia",
+            "Nandayure",
+            "Nicoya",
+            "Sámara",
+            "Santa Cruz",
+            "Sardinal",
+            "Tilarán"
+        ]
+    },
+    {
+        "name": "Heredia",
+        "cities": [
+            "Ángeles",
+            "Barva",
+            "Belén",
+            "Flores",
+            "Heredia",
+            "La Asunción",
+            "Llorente",
+            "Mercedes",
+            "San Antonio",
+            "San Francisco",
+            "San Isidro",
+            "San Josecito",
+            "San Pablo",
+            "San Rafael",
+            "Santa Bárbara",
+            "Santo Domingo",
+            "Sarapiquí"
+        ]
+    },
+    {
+        "name": "Limón",
+        "cities": [
+            "Batán",
+            "Guácimo",
+            "Guápiles",
+            "Limón",
+            "Matina",
+            "Pococí",
+            "Pocora",
+            "Roxana",
+            "Siquirres",
+            "Sixaola",
+            "Talamanca"
+        ]
+    },
+    {
+        "name": "Puntarenas",
         "cities": [
             "Buenos Aires",
             "Canoas",
@@ -140,7 +140,7 @@
         ]
     },
     {
-        "name": "San José Province",
+        "name": "San José",
         "cities": [
             "Acosta",
             "Alajuelita",

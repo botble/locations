@@ -11,7 +11,7 @@
         ]
     },
     {
-        "name": "Central Province",
+        "name": "Central",
         "cities": [
             "Abau",
             "Goilala",
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "name": "Chimbu Province",
+        "name": "Chimbu",
         "cities": [
             "Chuave",
             "Gumine",
@@ -40,7 +40,11 @@
         ]
     },
     {
-        "name": "Eastern Highlands Province",
+        "name": "East Sepik",
+        "cities": []
+    },
+    {
+        "name": "Eastern Highlands",
         "cities": [
             "Daulo",
             "Goroka",
@@ -53,7 +57,7 @@
         ]
     },
     {
-        "name": "Enga Province",
+        "name": "Enga",
         "cities": [
             "Kandep",
             "Kompiam Ambum",
@@ -80,7 +84,7 @@
         ]
     },
     {
-        "name": "Jiwaka Province",
+        "name": "Jiwaka",
         "cities": [
             "Angalimp South Wahgi",
             "Jimi",
@@ -88,7 +92,7 @@
         ]
     },
     {
-        "name": "Madang Province",
+        "name": "Madang",
         "cities": [
             "Bogia",
             "Madang",
@@ -99,14 +103,14 @@
         ]
     },
     {
-        "name": "Manus Province",
+        "name": "Manus",
         "cities": [
             "Lorengau",
             "Manus"
         ]
     },
     {
-        "name": "Milne Bay Province",
+        "name": "Milne Bay",
         "cities": [
             "Alotau",
             "Esa’ala",
@@ -116,7 +120,7 @@
         ]
     },
     {
-        "name": "Morobe Province",
+        "name": "Morobe",
         "cities": [
             "Bulolo",
             "Finschhafen",
@@ -131,14 +135,14 @@
         ]
     },
     {
-        "name": "New Ireland Province",
+        "name": "New Ireland",
         "cities": [
             "Kavieng",
             "Namatanai"
         ]
     },
     {
-        "name": "Oro Province",
+        "name": "Oro",
         "cities": [
             "Ijivitari",
             "Kokoda",
@@ -154,7 +158,7 @@
         ]
     },
     {
-        "name": "Sandaun Province",
+        "name": "Sandaun",
         "cities": [
             "Aitape",
             "Aitape Lumi",
@@ -165,7 +169,7 @@
         ]
     },
     {
-        "name": "Southern Highlands Province",
+        "name": "Southern Highlands",
         "cities": [
             "Ialibu",
             "Ialibu Pangia",
@@ -176,7 +180,7 @@
         ]
     },
     {
-        "name": "West New Britain Province",
+        "name": "West New Britain",
         "cities": [
             "Kandrian",
             "Kandrian Gloucester",
@@ -185,17 +189,7 @@
         ]
     },
     {
-        "name": "Western Highlands Province",
-        "cities": [
-            "Baiyer Mul",
-            "Dei",
-            "Hagen",
-            "Mount Hagen",
-            "Tambul Nebilyer"
-        ]
-    },
-    {
-        "name": "Western Province",
+        "name": "Western",
         "cities": [
             "Daru",
             "Kiunga",
@@ -203,6 +197,16 @@
             "Morehead",
             "North Fly",
             "South Fly"
+        ]
+    },
+    {
+        "name": "Western Highlands",
+        "cities": [
+            "Baiyer Mul",
+            "Dei",
+            "Hagen",
+            "Mount Hagen",
+            "Tambul Nebilyer"
         ]
     }
 ]

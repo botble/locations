@@ -13,11 +13,11 @@
         "cities": []
     },
     {
-        "name": "Bafing Region",
+        "name": "Bafing",
         "cities": []
     },
     {
-        "name": "Bas-Sassandra District",
+        "name": "Bas-Sassandra",
         "cities": [
             "Gbôklé",
             "Nawa",
@@ -27,11 +27,11 @@
         ]
     },
     {
-        "name": "Bas-Sassandra Region",
+        "name": "Bas-Sassandra",
         "cities": []
     },
     {
-        "name": "Comoé District",
+        "name": "Comoé",
         "cities": [
             "Abengourou",
             "Aboisso",
@@ -45,7 +45,7 @@
         ]
     },
     {
-        "name": "Denguélé District",
+        "name": "Denguélé",
         "cities": [
             "Folon",
             "Kabadougou",
@@ -53,7 +53,7 @@
         ]
     },
     {
-        "name": "Denguélé Region",
+        "name": "Denguélé",
         "cities": []
     },
     {
@@ -76,7 +76,7 @@
         "cities": []
     },
     {
-        "name": "Gôh-Djiboua District",
+        "name": "Gôh-Djiboua",
         "cities": [
             "Divo",
             "Gagnoa",
@@ -92,11 +92,7 @@
         "cities": []
     },
     {
-        "name": "Lacs District",
-        "cities": []
-    },
-    {
-        "name": "Lacs Region",
+        "name": "Lacs",
         "cities": [
             "Arrah",
             "Bélier",
@@ -112,11 +108,11 @@
         ]
     },
     {
-        "name": "Lagunes District",
+        "name": "Lacs",
         "cities": []
     },
     {
-        "name": "Lagunes region",
+        "name": "Lagunes",
         "cities": [
             "Adzopé",
             "Affery",
@@ -130,11 +126,15 @@
         ]
     },
     {
-        "name": "Marahoué Region",
+        "name": "Lagunes",
         "cities": []
     },
     {
-        "name": "Montagnes District",
+        "name": "Marahoué",
+        "cities": []
+    },
+    {
+        "name": "Montagnes",
         "cities": []
     },
     {
@@ -150,7 +150,7 @@
         "cities": []
     },
     {
-        "name": "Sassandra-Marahoué District",
+        "name": "Sassandra-Marahoué",
         "cities": [
             "Bouaflé",
             "Daloa",
@@ -162,7 +162,7 @@
         ]
     },
     {
-        "name": "Savanes Region",
+        "name": "Savanes",
         "cities": []
     },
     {
@@ -174,11 +174,7 @@
         "cities": []
     },
     {
-        "name": "Vallée du Bandama District",
-        "cities": []
-    },
-    {
-        "name": "Vallée du Bandama Region",
+        "name": "Vallée du Bandama",
         "cities": [
             "Béoumi",
             "Botro",
@@ -191,7 +187,11 @@
         ]
     },
     {
-        "name": "Woroba District",
+        "name": "Vallée du Bandama",
+        "cities": []
+    },
+    {
+        "name": "Woroba",
         "cities": [
             "Bafing",
             "Béré",
@@ -210,7 +210,7 @@
         "cities": []
     },
     {
-        "name": "Zanzan Region",
+        "name": "Zanzan",
         "cities": [
             "Bondoukou",
             "Bouna",

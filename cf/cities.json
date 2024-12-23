@@ -1,6 +1,6 @@
 [
     {
-        "name": "Bamingui-Bangoran Prefecture",
+        "name": "Bamingui-Bangoran",
         "cities": [
             "Bamingui",
             "Ndélé"
@@ -13,7 +13,7 @@
         ]
     },
     {
-        "name": "Basse-Kotto Prefecture",
+        "name": "Basse-Kotto",
         "cities": [
             "Alindao",
             "Kembé",
@@ -21,27 +21,27 @@
         ]
     },
     {
-        "name": "Haut-Mbomou Prefecture",
+        "name": "Haut-Mbomou",
         "cities": [
             "Obo",
             "Zemio"
         ]
     },
     {
-        "name": "Haute-Kotto Prefecture",
+        "name": "Haute-Kotto",
         "cities": [
             "Bria",
             "Ouadda"
         ]
     },
     {
-        "name": "Kémo Prefecture",
+        "name": "Kémo",
         "cities": [
             "Sibut"
         ]
     },
     {
-        "name": "Lobaye Prefecture",
+        "name": "Lobaye",
         "cities": [
             "Boda",
             "Boganangone",
@@ -58,7 +58,7 @@
         ]
     },
     {
-        "name": "Mbomou Prefecture",
+        "name": "Mbomou",
         "cities": [
             "Bangassou",
             "Gambo",
@@ -67,21 +67,21 @@
         ]
     },
     {
-        "name": "Nana-Grébizi Economic Prefecture",
+        "name": "Nana-Grébizi",
         "cities": [
             "Kaga Bandoro",
             "Kaga-Bandoro"
         ]
     },
     {
-        "name": "Nana-Mambéré Prefecture",
+        "name": "Nana-Mambéré",
         "cities": [
             "Baoro",
             "Bouar"
         ]
     },
     {
-        "name": "Ombella-M'Poko Prefecture",
+        "name": "Ombella-M'Poko",
         "cities": [
             "Bimbo",
             "Boali",
@@ -89,7 +89,7 @@
         ]
     },
     {
-        "name": "Ouaka Prefecture",
+        "name": "Ouaka",
         "cities": [
             "Bambari",
             "Grimari",
@@ -98,7 +98,7 @@
         ]
     },
     {
-        "name": "Ouham Prefecture",
+        "name": "Ouham",
         "cities": [
             "Batangafo",
             "Bossangoa",
@@ -107,7 +107,7 @@
         ]
     },
     {
-        "name": "Ouham-Pendé Prefecture",
+        "name": "Ouham-Pendé",
         "cities": [
             "Bocaranga",
             "Bozoum",
@@ -121,7 +121,7 @@
         ]
     },
     {
-        "name": "Vakaga Prefecture",
+        "name": "Vakaga",
         "cities": [
             "Birao",
             "Ouanda-Djallé"

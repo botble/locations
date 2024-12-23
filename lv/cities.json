@@ -1,137 +1,60 @@
 [
     {
-        "name": "Aglona Municipality",
-        "cities": [
-            "Aglona"
-        ]
-    },
-    {
-        "name": "Aizkraukle Municipality",
-        "cities": [
-            "Aizkraukle"
-        ]
-    },
-    {
-        "name": "Aizpute Municipality",
-        "cities": [
-            "Aizpute"
-        ]
-    },
-    {
-        "name": "Aknīste Municipality",
-        "cities": [
-            "Aknīste"
-        ]
-    },
-    {
-        "name": "Aloja Municipality",
-        "cities": [
-            "Aloja",
-            "Staicele"
-        ]
-    },
-    {
-        "name": "Alsunga Municipality",
-        "cities": [
-            "Alsunga"
-        ]
-    },
-    {
-        "name": "Alūksne Municipality",
-        "cities": [
-            "Alūksne"
-        ]
-    },
-    {
-        "name": "Amata Municipality",
-        "cities": []
-    },
-    {
-        "name": "Ape Municipality",
-        "cities": [
-            "Ape"
-        ]
-    },
-    {
-        "name": "Auce Municipality",
-        "cities": [
-            "Auce"
-        ]
-    },
-    {
-        "name": "Babīte Municipality",
-        "cities": [
-            "Piņķi"
-        ]
-    },
-    {
-        "name": "Baldone Municipality",
-        "cities": [
-            "Baldone"
-        ]
-    },
-    {
-        "name": "Baltinava Municipality",
-        "cities": [
-            "Baltinava"
-        ]
-    },
-    {
-        "name": "Balvi Municipality",
-        "cities": [
-            "Balvi"
-        ]
-    },
-    {
-        "name": "Bauska Municipality",
-        "cities": [
-            "Bauska"
-        ]
-    },
-    {
-        "name": "Beverīna Municipality",
-        "cities": [
-            "Mūrmuiža"
-        ]
-    },
-    {
-        "name": "Brocēni Municipality",
-        "cities": [
-            "Brocēni"
-        ]
-    },
-    {
-        "name": "Burtnieki Municipality",
-        "cities": []
-    },
-    {
-        "name": "Carnikava Municipality",
+        "name": "Ādaži",
         "cities": [
             "Carnikava"
         ]
     },
     {
-        "name": "Cēsis Municipality",
+        "name": "Aizkraukle",
         "cities": [
-            "Cēsis"
+            "Aizkraukle",
+            "Jaunjelgava",
+            "Koknese",
+            "Nereta",
+            "Pļaviņas",
+            "Skrīveri"
         ]
     },
     {
-        "name": "Cesvaine Municipality",
+        "name": "Alūksne",
         "cities": [
-            "Cesvaine"
+            "Alūksne"
         ]
     },
     {
-        "name": "Cibla Municipality",
+        "name": "Augšdaugava",
         "cities": [
-            "Cibla"
+            "Daugavpils",
+            "Ilūkste"
         ]
     },
     {
-        "name": "Dagda Municipality",
+        "name": "Balvi",
         "cities": [
-            "Dagda"
+            "Baltinava",
+            "Balvi",
+            "Rugāji",
+            "Viļaka"
+        ]
+    },
+    {
+        "name": "Bauska",
+        "cities": [
+            "Bauska",
+            "Iecava",
+            "Pilsrundāle",
+            "Vecumnieki"
+        ]
+    },
+    {
+        "name": "Cēsis",
+        "cities": [
+            "Cēsis",
+            "Līgatne",
+            "Priekuļi",
+            "Stalbe",
+            "Vecpiebalga"
         ]
     },
     {
@@ -139,109 +62,47 @@
         "cities": []
     },
     {
-        "name": "Daugavpils Municipality",
+        "name": "Dienvidkurzemes",
         "cities": [
-            "Daugavpils"
+            "Aizpute",
+            "Grobiņa",
+            "Lieģi",
+            "Nīca",
+            "Pāvilosta",
+            "Priekule",
+            "Rucava",
+            "Vaiņode"
         ]
     },
     {
-        "name": "Dobele Municipality",
+        "name": "Dobele",
         "cities": [
-            "Dobele"
+            "Auce",
+            "Dobele",
+            "Tērvete",
+            "Zelmeņi"
         ]
     },
     {
-        "name": "Dundaga Municipality",
-        "cities": [
-            "Dundaga"
-        ]
-    },
-    {
-        "name": "Durbe Municipality",
-        "cities": [
-            "Lieģi"
-        ]
-    },
-    {
-        "name": "Engure Municipality",
-        "cities": [
-            "Smārde"
-        ]
-    },
-    {
-        "name": "Ērgļi Municipality",
-        "cities": [
-            "Ērgļi"
-        ]
-    },
-    {
-        "name": "Garkalne Municipality",
-        "cities": [
-            "Garkalne"
-        ]
-    },
-    {
-        "name": "Grobiņa Municipality",
-        "cities": [
-            "Grobiņa"
-        ]
-    },
-    {
-        "name": "Gulbene Municipality",
+        "name": "Gulbene",
         "cities": [
             "Gulbene"
         ]
     },
     {
-        "name": "Iecava Municipality",
-        "cities": [
-            "Iecava"
-        ]
-    },
-    {
-        "name": "Ikšķile Municipality",
-        "cities": [
-            "Ikšķile"
-        ]
-    },
-    {
-        "name": "Ilūkste Municipality",
-        "cities": [
-            "Ilūkste"
-        ]
-    },
-    {
-        "name": "Inčukalns Municipality",
-        "cities": [
-            "Inčukalns",
-            "Vangaži"
-        ]
-    },
-    {
-        "name": "Jaunjelgava Municipality",
-        "cities": [
-            "Jaunjelgava"
-        ]
-    },
-    {
-        "name": "Jaunpiebalga Municipality",
-        "cities": []
-    },
-    {
-        "name": "Jaunpils Municipality",
-        "cities": [
-            "Jaunpils"
-        ]
-    },
-    {
         "name": "Jēkabpils",
-        "cities": []
+        "cities": [
+            "Aknīste",
+            "Jēkabpils",
+            "Krustpils",
+            "Viesīte"
+        ]
     },
     {
-        "name": "Jēkabpils Municipality",
+        "name": "Jelgava",
         "cities": [
-            "Jēkabpils",
-            "Krustpils"
+            "Ozolnieki",
+            "Tīreļi"
         ]
     },
     {
@@ -251,78 +112,32 @@
         ]
     },
     {
-        "name": "Jelgava Municipality",
-        "cities": [
-            "Tīreļi"
-        ]
-    },
-    {
         "name": "Jūrmala",
         "cities": [
             "Jūrmala"
         ]
     },
     {
-        "name": "Kandava Municipality",
+        "name": "Ķekava",
         "cities": [
-            "Kandava"
-        ]
-    },
-    {
-        "name": "Kārsava Municipality",
-        "cities": [
-            "Kārsava"
-        ]
-    },
-    {
-        "name": "Ķegums Municipality",
-        "cities": [
-            "Ķegums"
-        ]
-    },
-    {
-        "name": "Ķekava Municipality",
-        "cities": [
+            "Baldone",
             "Baloži",
             "Ķekava"
         ]
     },
     {
-        "name": "Kocēni Municipality",
+        "name": "Krāslava",
         "cities": [
-            "Kocēni"
-        ]
-    },
-    {
-        "name": "Koknese Municipality",
-        "cities": [
-            "Koknese"
-        ]
-    },
-    {
-        "name": "Krāslava Municipality",
-        "cities": [
+            "Dagda",
             "Krāslava"
         ]
     },
     {
-        "name": "Krimulda Municipality",
-        "cities": []
-    },
-    {
-        "name": "Krustpils Municipality",
-        "cities": []
-    },
-    {
-        "name": "Kuldīga Municipality",
+        "name": "Kuldīga",
         "cities": [
-            "Kuldīga"
-        ]
-    },
-    {
-        "name": "Lielvārde Municipality",
-        "cities": [
-            "Lielvārde"
+            "Alsunga",
+            "Kuldīga",
+            "Skrunda"
         ]
     },
     {
@@ -333,141 +148,70 @@
         ]
     },
     {
-        "name": "Līgatne Municipality",
+        "name": "Limbaži",
         "cities": [
-            "Līgatne"
+            "Ainaži",
+            "Aloja",
+            "Limbaži",
+            "Salacgrīva",
+            "Staicele"
         ]
     },
     {
-        "name": "Limbaži Municipality",
-        "cities": [
-            "Limbaži"
-        ]
-    },
-    {
-        "name": "Līvāni Municipality",
+        "name": "Līvāni",
         "cities": [
             "Līvāni"
         ]
     },
     {
-        "name": "Lubāna Municipality",
+        "name": "Ludza",
         "cities": [
-            "Lubāna"
+            "Cibla",
+            "Kārsava",
+            "Ludza",
+            "Zilupe"
         ]
     },
     {
-        "name": "Ludza Municipality",
+        "name": "Madona",
         "cities": [
-            "Ludza"
-        ]
-    },
-    {
-        "name": "Madona Municipality",
-        "cities": [
+            "Cesvaine",
+            "Ērgļi",
+            "Lubāna",
             "Madona"
         ]
     },
     {
-        "name": "Mālpils Municipality",
+        "name": "Mārupe",
         "cities": [
-            "Mālpils"
+            "Mārupe",
+            "Piņķi"
         ]
     },
     {
-        "name": "Mārupe Municipality",
+        "name": "Ogre",
         "cities": [
-            "Mārupe"
-        ]
-    },
-    {
-        "name": "Mazsalaca Municipality",
-        "cities": [
-            "Mazsalaca"
-        ]
-    },
-    {
-        "name": "Mērsrags Municipality",
-        "cities": []
-    },
-    {
-        "name": "Naukšēni Municipality",
-        "cities": [
-            "Naukšēni"
-        ]
-    },
-    {
-        "name": "Nereta Municipality",
-        "cities": [
-            "Nereta"
-        ]
-    },
-    {
-        "name": "Nīca Municipality",
-        "cities": [
-            "Nīca"
-        ]
-    },
-    {
-        "name": "Ogre Municipality",
-        "cities": [
+            "Ikšķile",
             "Jumprava",
+            "Ķegums",
+            "Lielvārde",
             "Ogre"
         ]
     },
     {
-        "name": "Olaine Municipality",
+        "name": "Olaine",
         "cities": [
             "Olaine"
         ]
     },
     {
-        "name": "Ozolnieki Municipality",
+        "name": "Preiļi",
         "cities": [
-            "Ozolnieki"
-        ]
-    },
-    {
-        "name": "Pārgauja Municipality",
-        "cities": [
-            "Stalbe"
-        ]
-    },
-    {
-        "name": "Pāvilosta Municipality",
-        "cities": [
-            "Pāvilosta"
-        ]
-    },
-    {
-        "name": "Pļaviņas Municipality",
-        "cities": [
-            "Pļaviņas"
-        ]
-    },
-    {
-        "name": "Preiļi Municipality",
-        "cities": [
+            "Aglona",
             "Jaunaglona",
-            "Preiļi"
-        ]
-    },
-    {
-        "name": "Priekule Municipality",
-        "cities": [
-            "Priekule"
-        ]
-    },
-    {
-        "name": "Priekuļi Municipality",
-        "cities": [
-            "Priekuļi"
-        ]
-    },
-    {
-        "name": "Rauna Municipality",
-        "cities": [
-            "Rauna"
+            "Preiļi",
+            "Riebiņi",
+            "Vecvārkava"
         ]
     },
     {
@@ -477,13 +221,9 @@
         ]
     },
     {
-        "name": "Rēzekne Municipality",
-        "cities": []
-    },
-    {
-        "name": "Riebiņi Municipality",
+        "name": "Rēzekne",
         "cities": [
-            "Riebiņi"
+            "Viļāni"
         ]
     },
     {
@@ -497,117 +237,54 @@
         ]
     },
     {
-        "name": "Roja Municipality",
+        "name": "Ropaži",
         "cities": [
-            "Roja"
+            "Garkalne",
+            "Ropaži",
+            "Ulbroka",
+            "Vangaži"
         ]
     },
     {
-        "name": "Ropaži Municipality",
-        "cities": [
-            "Ropaži"
-        ]
-    },
-    {
-        "name": "Rucava Municipality",
-        "cities": [
-            "Rucava"
-        ]
-    },
-    {
-        "name": "Rugāji Municipality",
-        "cities": [
-            "Rugāji"
-        ]
-    },
-    {
-        "name": "Rūjiena Municipality",
-        "cities": [
-            "Rūjiena"
-        ]
-    },
-    {
-        "name": "Rundāle Municipality",
-        "cities": [
-            "Pilsrundāle"
-        ]
-    },
-    {
-        "name": "Sala Municipality",
-        "cities": []
-    },
-    {
-        "name": "Salacgrīva Municipality",
-        "cities": [
-            "Ainaži",
-            "Salacgrīva"
-        ]
-    },
-    {
-        "name": "Salaspils Municipality",
+        "name": "Salaspils",
         "cities": [
             "Salaspils"
         ]
     },
     {
-        "name": "Saldus Municipality",
+        "name": "Saldus",
         "cities": [
+            "Brocēni",
             "Saldus"
         ]
     },
     {
-        "name": "Saulkrasti Municipality",
+        "name": "Saulkrasti",
         "cities": [
             "Saulkrasti"
         ]
     },
     {
-        "name": "Sēja Municipality",
+        "name": "Sigulda",
         "cities": [
-            "Engure",
-            "Tukums"
-        ]
-    },
-    {
-        "name": "Sigulda Municipality",
-        "cities": [
+            "Inčukalns",
+            "Mālpils",
             "Sigulda"
         ]
     },
     {
-        "name": "Skrīveri Municipality",
+        "name": "Smiltene",
         "cities": [
-            "Skrīveri"
-        ]
-    },
-    {
-        "name": "Skrunda Municipality",
-        "cities": [
-            "Skrunda"
-        ]
-    },
-    {
-        "name": "Smiltene Municipality",
-        "cities": [
+            "Ape",
+            "Rauna",
             "Smiltene"
         ]
     },
     {
-        "name": "Stopiņi Municipality",
+        "name": "Talsi",
         "cities": [
-            "Ulbroka"
-        ]
-    },
-    {
-        "name": "Strenči Municipality",
-        "cities": [
-            "Seda",
-            "Strenči"
-        ]
-    },
-    {
-        "name": "Talsi Municipality",
-        "cities": [
+            "Dundaga",
+            "Roja",
             "Sabile",
             "Stende",
             "Talsi",
@@ -615,24 +292,17 @@
         ]
     },
     {
-        "name": "Tērvete Municipality",
+        "name": "Tukums",
         "cities": [
-            "Tērvete",
-            "Zelmeņi"
+            "Engure",
+            "Jaunpils",
+            "Kandava",
+            "Smārde",
+            "Tukums"
         ]
     },
     {
-        "name": "Tukums Municipality",
-        "cities": []
-    },
-    {
-        "name": "Vaiņode Municipality",
-        "cities": [
-            "Vaiņode"
-        ]
-    },
-    {
-        "name": "Valka Municipality",
+        "name": "Valka",
         "cities": [
             "Valka"
         ]
@@ -640,31 +310,20 @@
     {
         "name": "Valmiera",
         "cities": [
+            "Kocēni",
+            "Mazsalaca",
+            "Mūrmuiža",
+            "Naukšēni",
+            "Rūjiena",
+            "Seda",
+            "Strenči",
             "Valmiera"
         ]
     },
     {
-        "name": "Varakļāni Municipality",
+        "name": "Varakļāni",
         "cities": [
             "Varakļāni"
-        ]
-    },
-    {
-        "name": "Vārkava Municipality",
-        "cities": [
-            "Vecvārkava"
-        ]
-    },
-    {
-        "name": "Vecpiebalga Municipality",
-        "cities": [
-            "Vecpiebalga"
-        ]
-    },
-    {
-        "name": "Vecumnieki Municipality",
-        "cities": [
-            "Vecumnieki"
         ]
     },
     {
@@ -674,33 +333,9 @@
         ]
     },
     {
-        "name": "Ventspils Municipality",
+        "name": "Ventspils",
         "cities": [
             "Piltene"
-        ]
-    },
-    {
-        "name": "Viesīte Municipality",
-        "cities": [
-            "Viesīte"
-        ]
-    },
-    {
-        "name": "Viļaka Municipality",
-        "cities": [
-            "Viļaka"
-        ]
-    },
-    {
-        "name": "Viļāni Municipality",
-        "cities": [
-            "Viļāni"
-        ]
-    },
-    {
-        "name": "Zilupe Municipality",
-        "cities": [
-            "Zilupe"
         ]
     }
 ]

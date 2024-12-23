@@ -1,12 +1,12 @@
 [
     {
-        "name": "Anseba Region",
+        "name": "Anseba",
         "cities": [
             "Keren"
         ]
     },
     {
-        "name": "Debub Region",
+        "name": "Debub",
         "cities": [
             "Adi Keyh",
             "Dek’emhāre",
@@ -14,7 +14,7 @@
         ]
     },
     {
-        "name": "Gash-Barka Region",
+        "name": "Gash-Barka",
         "cities": [
             "Ak’ordat",
             "Barentu",
@@ -22,19 +22,19 @@
         ]
     },
     {
-        "name": "Maekel Region",
+        "name": "Maekel",
         "cities": [
             "Asmara"
         ]
     },
     {
-        "name": "Northern Red Sea Region",
+        "name": "Northern Red Sea",
         "cities": [
             "Massawa"
         ]
     },
     {
-        "name": "Southern Red Sea Region",
+        "name": "Southern Red Sea",
         "cities": [
             "Assab",
             "Edd"

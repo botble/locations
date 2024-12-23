@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "name": "Noord"
+    },
+    {
+        "name": "Oranjestad East"
+    },
+    {
+        "name": "Oranjestad West"
+    },
+    {
+        "name": "Paradera"
+    },
+    {
+        "name": "San Nicolaas Noord"
+    },
+    {
+        "name": "San Nicolaas Zuid"
+    },
+    {
+        "name": "Santa Cruz"
+    },
+    {
+        "name": "Savaneta"
+    }
+]

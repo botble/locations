@@ -1,6 +1,6 @@
 [
     {
-        "name": "Aileu municipality",
+        "name": "Aileu",
         "cities": [
             "Aileu",
             "Lequidoe",
@@ -8,14 +8,14 @@
         ]
     },
     {
-        "name": "Ainaro Municipality",
+        "name": "Ainaro",
         "cities": [
             "Ainaro",
             "Hato-Udo"
         ]
     },
     {
-        "name": "Baucau Municipality",
+        "name": "Baucau",
         "cities": [
             "Baguia",
             "Baucau",
@@ -27,13 +27,13 @@
         ]
     },
     {
-        "name": "Bobonaro Municipality",
+        "name": "Bobonaro",
         "cities": [
             "Maliana"
         ]
     },
     {
-        "name": "Cova Lima Municipality",
+        "name": "Cova Lima",
         "cities": [
             "Fatumean",
             "Fohorem",
@@ -43,7 +43,7 @@
         ]
     },
     {
-        "name": "Dili municipality",
+        "name": "Dili",
         "cities": [
             "Atauro Island",
             "Cristo Rei",
@@ -52,7 +52,7 @@
         ]
     },
     {
-        "name": "Ermera District",
+        "name": "Ermera",
         "cities": [
             "Ermera Villa",
             "Gleno",
@@ -62,7 +62,7 @@
         ]
     },
     {
-        "name": "Lautém Municipality",
+        "name": "Lautém",
         "cities": [
             "Iliomar",
             "Lautem",
@@ -72,7 +72,7 @@
         ]
     },
     {
-        "name": "Liquiçá Municipality",
+        "name": "Liquiçá",
         "cities": [
             "Bazartete",
             "Likisá",
@@ -80,7 +80,7 @@
         ]
     },
     {
-        "name": "Manatuto District",
+        "name": "Manatuto",
         "cities": [
             "Barique",
             "Laclo",
@@ -91,7 +91,7 @@
         ]
     },
     {
-        "name": "Manufahi Municipality",
+        "name": "Manufahi",
         "cities": [
             "Alas",
             "Fatuberliu",
@@ -100,7 +100,7 @@
         ]
     },
     {
-        "name": "Viqueque Municipality",
+        "name": "Viqueque",
         "cities": [
             "Lacluta",
             "Ossu",

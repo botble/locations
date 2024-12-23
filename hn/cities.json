@@ -1,6 +1,6 @@
 [
     {
-        "name": "Atlántida Department",
+        "name": "Atlántida",
         "cities": [
             "Arizona",
             "Atenas de San Cristóbal",
@@ -25,7 +25,7 @@
         ]
     },
     {
-        "name": "Bay Islands Department",
+        "name": "Bay Islands",
         "cities": [
             "Coxen Hole",
             "French Harbor",
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "name": "Choluteca Department",
+        "name": "Choluteca",
         "cities": [
             "Apacilagua",
             "Choluteca",
@@ -68,7 +68,7 @@
         ]
     },
     {
-        "name": "Colón Department",
+        "name": "Colón",
         "cities": [
             "Balfate",
             "Bonito Oriental",
@@ -99,7 +99,7 @@
         ]
     },
     {
-        "name": "Comayagua Department",
+        "name": "Comayagua",
         "cities": [
             "Aguas del Padre",
             "Ajuterique",
@@ -140,7 +140,7 @@
         ]
     },
     {
-        "name": "Copán Department",
+        "name": "Copán",
         "cities": [
             "Agua Caliente",
             "Buenos Aires",
@@ -186,7 +186,7 @@
         ]
     },
     {
-        "name": "Cortés Department",
+        "name": "Cortés",
         "cities": [
             "Agua Azul",
             "Agua Azul Rancho",
@@ -247,7 +247,7 @@
         ]
     },
     {
-        "name": "El Paraíso Department",
+        "name": "El Paraíso",
         "cities": [
             "Alauca",
             "Araulí",
@@ -284,7 +284,7 @@
         ]
     },
     {
-        "name": "Francisco Morazán Department",
+        "name": "Francisco Morazán",
         "cities": [
             "Agalteca",
             "Alubarén",
@@ -341,7 +341,7 @@
         ]
     },
     {
-        "name": "Gracias a Dios Department",
+        "name": "Gracias a Dios",
         "cities": [
             "Ahuas",
             "Auas",
@@ -358,7 +358,7 @@
         ]
     },
     {
-        "name": "Intibucá Department",
+        "name": "Intibucá",
         "cities": [
             "Camasca",
             "Colomoncagua",
@@ -381,7 +381,7 @@
         ]
     },
     {
-        "name": "La Paz Department",
+        "name": "La Paz",
         "cities": [
             "Aguanqueterique",
             "Cabañas",
@@ -408,7 +408,7 @@
         ]
     },
     {
-        "name": "Lempira Department",
+        "name": "Lempira",
         "cities": [
             "Belén",
             "Candelaria",
@@ -445,7 +445,7 @@
         ]
     },
     {
-        "name": "Ocotepeque Department",
+        "name": "Ocotepeque",
         "cities": [
             "Antigua Ocotepeque",
             "Belén Gualcho",
@@ -471,7 +471,7 @@
         ]
     },
     {
-        "name": "Olancho Department",
+        "name": "Olancho",
         "cities": [
             "Arimís",
             "Campamento",
@@ -512,7 +512,7 @@
         ]
     },
     {
-        "name": "Santa Bárbara Department",
+        "name": "Santa Bárbara",
         "cities": [
             "Agualote",
             "Arada",
@@ -568,7 +568,7 @@
         ]
     },
     {
-        "name": "Valle Department",
+        "name": "Valle",
         "cities": [
             "Agua Fría",
             "Alianza",
@@ -588,7 +588,7 @@
         ]
     },
     {
-        "name": "Yoro Department",
+        "name": "Yoro",
         "cities": [
             "Agua Blanca Sur",
             "Arenal",

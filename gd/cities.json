@@ -1,42 +1,42 @@
 [
     {
-        "name": "Carriacou and Petite Martinique",
+        "name": "Carriacou",
         "cities": [
             "Hillsborough"
         ]
     },
     {
-        "name": "Saint Andrew Parish",
+        "name": "Saint Andrew",
         "cities": [
             "Grenville"
         ]
     },
     {
-        "name": "Saint David Parish",
+        "name": "Saint David",
         "cities": [
             "Saint David’s"
         ]
     },
     {
-        "name": "Saint George Parish",
+        "name": "Saint George",
         "cities": [
             "Saint George's"
         ]
     },
     {
-        "name": "Saint John Parish",
+        "name": "Saint John",
         "cities": [
             "Gouyave"
         ]
     },
     {
-        "name": "Saint Mark Parish",
+        "name": "Saint Mark",
         "cities": [
             "Victoria"
         ]
     },
     {
-        "name": "Saint Patrick Parish",
+        "name": "Saint Patrick",
         "cities": [
             "Sauteurs"
         ]

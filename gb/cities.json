@@ -32,7 +32,7 @@
         "cities": []
     },
     {
-        "name": "Armagh City and District Council",
+        "name": "Armagh",
         "cities": []
     },
     {
@@ -44,7 +44,7 @@
         "cities": []
     },
     {
-        "name": "Ballymena Borough",
+        "name": "Ballymena",
         "cities": []
     },
     {
@@ -53,6 +53,14 @@
     },
     {
         "name": "Banbridge",
+        "cities": []
+    },
+    {
+        "name": "Barking and Dagenham",
+        "cities": []
+    },
+    {
+        "name": "Barnet",
         "cities": []
     },
     {
@@ -68,7 +76,11 @@
         "cities": []
     },
     {
-        "name": "Belfast district",
+        "name": "Belfast",
+        "cities": []
+    },
+    {
+        "name": "Bexley",
         "cities": []
     },
     {
@@ -84,7 +96,7 @@
         "cities": []
     },
     {
-        "name": "Blaenau Gwent County Borough",
+        "name": "Blaenau Gwent",
         "cities": []
     },
     {
@@ -104,11 +116,23 @@
         "cities": []
     },
     {
-        "name": "Bridgend County Borough",
+        "name": "Brent",
+        "cities": []
+    },
+    {
+        "name": "Bridgend",
         "cities": []
     },
     {
         "name": "Brighton and Hove",
+        "cities": []
+    },
+    {
+        "name": "Bristol",
+        "cities": []
+    },
+    {
+        "name": "Bromley",
         "cities": []
     },
     {
@@ -120,7 +144,7 @@
         "cities": []
     },
     {
-        "name": "Caerphilly County Borough",
+        "name": "Caerphilly",
         "cities": []
     },
     {
@@ -132,11 +156,19 @@
         "cities": []
     },
     {
+        "name": "Camden",
+        "cities": []
+    },
+    {
+        "name": "Cardiff",
+        "cities": []
+    },
+    {
         "name": "Carmarthenshire",
         "cities": []
     },
     {
-        "name": "Carrickfergus Borough Council",
+        "name": "Carrickfergus",
         "cities": []
     },
     {
@@ -164,47 +196,7 @@
         "cities": []
     },
     {
-        "name": "City and County of Cardiff",
-        "cities": []
-    },
-    {
-        "name": "City and County of Swansea",
-        "cities": []
-    },
-    {
-        "name": "City of Bristol",
-        "cities": []
-    },
-    {
-        "name": "City of Derby",
-        "cities": []
-    },
-    {
         "name": "City of Kingston upon Hull",
-        "cities": []
-    },
-    {
-        "name": "City of Leicester",
-        "cities": []
-    },
-    {
-        "name": "City of London",
-        "cities": []
-    },
-    {
-        "name": "City of Nottingham",
-        "cities": []
-    },
-    {
-        "name": "City of Peterborough",
-        "cities": []
-    },
-    {
-        "name": "City of Plymouth",
-        "cities": []
-    },
-    {
-        "name": "City of Portsmouth",
         "cities": []
     },
     {
@@ -212,39 +204,19 @@
         "cities": []
     },
     {
-        "name": "City of Stoke-on-Trent",
-        "cities": []
-    },
-    {
-        "name": "City of Sunderland",
-        "cities": []
-    },
-    {
-        "name": "City of Westminster",
-        "cities": []
-    },
-    {
-        "name": "City of Wolverhampton",
-        "cities": []
-    },
-    {
-        "name": "City of York",
-        "cities": []
-    },
-    {
         "name": "Clackmannanshire",
         "cities": []
     },
     {
-        "name": "Coleraine Borough Council",
+        "name": "Coleraine",
         "cities": []
     },
     {
-        "name": "Conwy County Borough",
+        "name": "Conwy",
         "cities": []
     },
     {
-        "name": "Cookstown District Council",
+        "name": "Cookstown",
         "cities": []
     },
     {
@@ -252,15 +224,15 @@
         "cities": []
     },
     {
-        "name": "County Durham",
-        "cities": []
-    },
-    {
         "name": "Coventry",
         "cities": []
     },
     {
-        "name": "Craigavon Borough Council",
+        "name": "Craigavon",
+        "cities": []
+    },
+    {
+        "name": "Croydon",
         "cities": []
     },
     {
@@ -276,15 +248,19 @@
         "cities": []
     },
     {
+        "name": "Derby",
+        "cities": []
+    },
+    {
         "name": "Derbyshire",
         "cities": []
     },
     {
-        "name": "Derry City and Strabane",
+        "name": "Derry",
         "cities": []
     },
     {
-        "name": "Derry City Council",
+        "name": "Derry City and Strabane",
         "cities": []
     },
     {
@@ -316,7 +292,15 @@
         "cities": []
     },
     {
-        "name": "Dungannon and South Tyrone Borough Council",
+        "name": "Dungannon and South Tyrone",
+        "cities": []
+    },
+    {
+        "name": "Durham",
+        "cities": []
+    },
+    {
+        "name": "Ealing",
         "cities": []
     },
     {
@@ -345,6 +329,10 @@
     },
     {
         "name": "Edinburgh",
+        "cities": []
+    },
+    {
+        "name": "Enfield",
         "cities": []
     },
     {
@@ -3280,11 +3268,11 @@
         "cities": []
     },
     {
-        "name": "Fermanagh and Omagh",
+        "name": "Fermanagh",
         "cities": []
     },
     {
-        "name": "Fermanagh District Council",
+        "name": "Fermanagh and Omagh",
         "cities": []
     },
     {
@@ -3308,7 +3296,15 @@
         "cities": []
     },
     {
+        "name": "Greenwich",
+        "cities": []
+    },
+    {
         "name": "Gwynedd",
+        "cities": []
+    },
+    {
+        "name": "Hackney",
         "cities": []
     },
     {
@@ -3316,11 +3312,41 @@
         "cities": []
     },
     {
+        "name": "Hammersmith and Fulham",
+        "cities": []
+    },
+    {
         "name": "Hampshire",
+        "cities": [
+            "Basingstoke and Deane",
+            "Borough of Eastleigh",
+            "Borough of Fareham",
+            "Borough of Havant",
+            "City of Winchester",
+            "East Hampshire",
+            "Gosport",
+            "Hart",
+            "New Forest",
+            "Portsmouth",
+            "Rushmoor",
+            "Southampton",
+            "Test Valley"
+        ]
+    },
+    {
+        "name": "Haringey",
+        "cities": []
+    },
+    {
+        "name": "Harrow",
         "cities": []
     },
     {
         "name": "Hartlepool",
+        "cities": []
+    },
+    {
+        "name": "Havering",
         "cities": []
     },
     {
@@ -3336,6 +3362,14 @@
         "cities": []
     },
     {
+        "name": "Hillingdon",
+        "cities": []
+    },
+    {
+        "name": "Hounslow",
+        "cities": []
+    },
+    {
         "name": "Inverclyde",
         "cities": []
     },
@@ -3348,7 +3382,19 @@
         "cities": []
     },
     {
+        "name": "Islington",
+        "cities": []
+    },
+    {
+        "name": "Kensington and Chelsea",
+        "cities": []
+    },
+    {
         "name": "Kent",
+        "cities": []
+    },
+    {
+        "name": "Kingston upon Thames",
         "cities": []
     },
     {
@@ -3360,11 +3406,15 @@
         "cities": []
     },
     {
+        "name": "Lambeth",
+        "cities": []
+    },
+    {
         "name": "Lancashire",
         "cities": []
     },
     {
-        "name": "Larne Borough Council",
+        "name": "Larne",
         "cities": []
     },
     {
@@ -3372,11 +3422,19 @@
         "cities": []
     },
     {
+        "name": "Leicester",
+        "cities": []
+    },
+    {
         "name": "Leicestershire",
         "cities": []
     },
     {
-        "name": "Limavady Borough Council",
+        "name": "Lewisham",
+        "cities": []
+    },
+    {
+        "name": "Limavady",
         "cities": []
     },
     {
@@ -3384,11 +3442,11 @@
         "cities": []
     },
     {
-        "name": "Lisburn and Castlereagh",
+        "name": "Lisburn",
         "cities": []
     },
     {
-        "name": "Lisburn City Council",
+        "name": "Lisburn and Castlereagh",
         "cities": []
     },
     {
@@ -3396,119 +3454,11 @@
         "cities": []
     },
     {
-        "name": "London Borough of Barking and Dagenham",
+        "name": "London",
         "cities": []
     },
     {
-        "name": "London Borough of Barnet",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Bexley",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Brent",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Bromley",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Camden",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Croydon",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Ealing",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Enfield",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Hackney",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Hammersmith and Fulham",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Haringey",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Harrow",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Havering",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Hillingdon",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Hounslow",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Islington",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Lambeth",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Lewisham",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Merton",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Newham",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Redbridge",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Richmond upon Thames",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Southwark",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Sutton",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Tower Hamlets",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Waltham Forest",
-        "cities": []
-    },
-    {
-        "name": "London Borough of Wandsworth",
-        "cities": []
-    },
-    {
-        "name": "Magherafelt District Council",
+        "name": "Magherafelt",
         "cities": []
     },
     {
@@ -3520,11 +3470,11 @@
         "cities": []
     },
     {
-        "name": "Merthyr Tydfil County Borough",
+        "name": "Merthyr Tydfil",
         "cities": []
     },
     {
-        "name": "Metropolitan Borough of Wigan",
+        "name": "Merton",
         "cities": []
     },
     {
@@ -3556,11 +3506,11 @@
         "cities": []
     },
     {
-        "name": "Moyle District Council",
+        "name": "Moyle",
         "cities": []
     },
     {
-        "name": "Neath Port Talbot County Borough",
+        "name": "Neath Port Talbot",
         "cities": []
     },
     {
@@ -3568,11 +3518,15 @@
         "cities": []
     },
     {
+        "name": "Newham",
+        "cities": []
+    },
+    {
         "name": "Newport",
         "cities": []
     },
     {
-        "name": "Newry and Mourne District Council",
+        "name": "Newry and Mourne",
         "cities": []
     },
     {
@@ -3580,7 +3534,7 @@
         "cities": []
     },
     {
-        "name": "Newtownabbey Borough Council",
+        "name": "Newtownabbey",
         "cities": []
     },
     {
@@ -3592,7 +3546,7 @@
         "cities": []
     },
     {
-        "name": "North Down Borough Council",
+        "name": "North Down",
         "cities": []
     },
     {
@@ -3753,6 +3707,10 @@
         "cities": []
     },
     {
+        "name": "Nottingham",
+        "cities": []
+    },
+    {
         "name": "Nottinghamshire",
         "cities": []
     },
@@ -3761,7 +3719,7 @@
         "cities": []
     },
     {
-        "name": "Omagh District Council",
+        "name": "Omagh",
         "cities": []
     },
     {
@@ -3785,7 +3743,19 @@
         "cities": []
     },
     {
+        "name": "Peterborough",
+        "cities": []
+    },
+    {
+        "name": "Plymouth",
+        "cities": []
+    },
+    {
         "name": "Poole",
+        "cities": []
+    },
+    {
+        "name": "Portsmouth",
         "cities": []
     },
     {
@@ -3794,6 +3764,10 @@
     },
     {
         "name": "Reading",
+        "cities": []
+    },
+    {
+        "name": "Redbridge",
         "cities": []
     },
     {
@@ -3809,23 +3783,15 @@
         "cities": []
     },
     {
+        "name": "Richmond upon Thames",
+        "cities": []
+    },
+    {
         "name": "Rochdale",
         "cities": []
     },
     {
         "name": "Rotherham",
-        "cities": []
-    },
-    {
-        "name": "Royal Borough of Greenwich",
-        "cities": []
-    },
-    {
-        "name": "Royal Borough of Kensington and Chelsea",
-        "cities": []
-    },
-    {
-        "name": "Royal Borough of Kingston upon Thames",
         "cities": []
     },
     {
@@ -4432,6 +4398,10 @@
         "cities": []
     },
     {
+        "name": "Southwark",
+        "cities": []
+    },
+    {
         "name": "St Helens",
         "cities": []
     },
@@ -4452,7 +4422,11 @@
         "cities": []
     },
     {
-        "name": "Strabane District Council",
+        "name": "Stoke-on-Trent",
+        "cities": []
+    },
+    {
+        "name": "Strabane",
         "cities": []
     },
     {
@@ -4460,7 +4434,19 @@
         "cities": []
     },
     {
+        "name": "Sunderland",
+        "cities": []
+    },
+    {
         "name": "Surrey",
+        "cities": []
+    },
+    {
+        "name": "Sutton",
+        "cities": []
+    },
+    {
+        "name": "Swansea",
         "cities": []
     },
     {
@@ -4485,6 +4471,10 @@
     },
     {
         "name": "Torfaen",
+        "cities": []
+    },
+    {
+        "name": "Tower Hamlets",
         "cities": []
     },
     {
@@ -4815,6 +4805,14 @@
         "cities": []
     },
     {
+        "name": "Waltham Forest",
+        "cities": []
+    },
+    {
+        "name": "Wandsworth",
+        "cities": []
+    },
+    {
         "name": "Warrington",
         "cities": []
     },
@@ -4839,6 +4837,14 @@
         "cities": []
     },
     {
+        "name": "Westminster",
+        "cities": []
+    },
+    {
+        "name": "Wigan",
+        "cities": []
+    },
+    {
         "name": "Wiltshire",
         "cities": []
     },
@@ -4855,11 +4861,19 @@
         "cities": []
     },
     {
+        "name": "Wolverhampton",
+        "cities": []
+    },
+    {
         "name": "Worcestershire",
         "cities": []
     },
     {
-        "name": "Wrexham County Borough",
+        "name": "Wrexham",
+        "cities": []
+    },
+    {
+        "name": "York",
         "cities": []
     }
 ]

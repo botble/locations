@@ -1,6 +1,6 @@
 [
     {
-        "name": "Central District",
+        "name": "Central",
         "cities": [
             "Bet Dagan",
             "Bet Yiẕẖaq",
@@ -45,7 +45,7 @@
         ]
     },
     {
-        "name": "Haifa District",
+        "name": "Haifa",
         "cities": [
             "Atlit",
             "Caesarea",
@@ -65,7 +65,7 @@
         ]
     },
     {
-        "name": "Jerusalem District",
+        "name": "Jerusalem",
         "cities": [
             "Abū Ghaush",
             "Bet Shemesh",
@@ -78,7 +78,7 @@
         ]
     },
     {
-        "name": "Northern District",
+        "name": "Northern",
         "cities": [
             "‘Eilabun",
             "‘Uzeir",
@@ -139,7 +139,7 @@
         ]
     },
     {
-        "name": "Southern District",
+        "name": "Southern",
         "cities": [
             "‘En Boqeq",
             "Arad",
@@ -160,7 +160,7 @@
         ]
     },
     {
-        "name": "Tel Aviv District",
+        "name": "Tel Aviv",
         "cities": [
             "Azor",
             "Bat Yam",

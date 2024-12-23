@@ -1,13 +1,13 @@
 [
     {
-        "name": "Alto Paraguay Department",
+        "name": "Alto Paraguay",
         "cities": [
             "Capitán Pablo Lagerenza",
             "Fuerte Olimpo"
         ]
     },
     {
-        "name": "Alto Paraná Department",
+        "name": "Alto Paraná",
         "cities": [
             "Cedrales",
             "Ciudad del Este",
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "name": "Amambay Department",
+        "name": "Amambay",
         "cities": [
             "Bella Vista",
             "Capitán Bado",
@@ -34,7 +34,7 @@
         "cities": []
     },
     {
-        "name": "Boquerón Department",
+        "name": "Boquerón",
         "cities": [
             "Colonia Menno",
             "Colonia Neuland",
@@ -82,7 +82,7 @@
         ]
     },
     {
-        "name": "Central Department",
+        "name": "Central",
         "cities": [
             "Areguá",
             "Capiatá",
@@ -102,7 +102,7 @@
         ]
     },
     {
-        "name": "Concepción Department",
+        "name": "Concepción",
         "cities": [
             "Belén",
             "Concepción",
@@ -110,7 +110,7 @@
         ]
     },
     {
-        "name": "Cordillera Department",
+        "name": "Cordillera",
         "cities": [
             "Altos",
             "Arroyos y Esteros",
@@ -128,7 +128,7 @@
         ]
     },
     {
-        "name": "Guairá Department",
+        "name": "Guairá",
         "cities": [
             "Colonia Mauricio José Troche",
             "Coronel Martínez",
@@ -167,7 +167,7 @@
         ]
     },
     {
-        "name": "Misiones Department",
+        "name": "Misiones",
         "cities": [
             "Juan de Ayolas",
             "San Juan Bautista",
@@ -180,7 +180,7 @@
         ]
     },
     {
-        "name": "Ñeembucú Department",
+        "name": "Ñeembucú",
         "cities": [
             "Cerrito",
             "General José Eduvigis Díaz",
@@ -188,7 +188,7 @@
         ]
     },
     {
-        "name": "Paraguarí Department",
+        "name": "Paraguarí",
         "cities": [
             "Acahay",
             "Caapucú",
@@ -204,7 +204,7 @@
         ]
     },
     {
-        "name": "Presidente Hayes Department",
+        "name": "Presidente Hayes",
         "cities": [
             "Benjamín Aceval",
             "Nanawua",
@@ -212,7 +212,7 @@
         ]
     },
     {
-        "name": "San Pedro Department",
+        "name": "San Pedro",
         "cities": [
             "Antequera",
             "Capiíbary",

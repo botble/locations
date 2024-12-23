@@ -1,6 +1,6 @@
 [
     {
-        "name": "Harju County",
+        "name": "Harju",
         "cities": [
             "Anija vald",
             "Aruküla",
@@ -40,13 +40,13 @@
         ]
     },
     {
-        "name": "Hiiu County",
+        "name": "Hiiu",
         "cities": [
             "Kärdla"
         ]
     },
     {
-        "name": "Ida-Viru County",
+        "name": "Ida-Viru",
         "cities": [
             "Iisaku",
             "Jõhvi",
@@ -65,7 +65,7 @@
         ]
     },
     {
-        "name": "Järva County",
+        "name": "Järva",
         "cities": [
             "Järva-Jaani",
             "Koeru",
@@ -77,7 +77,7 @@
         ]
     },
     {
-        "name": "Jõgeva County",
+        "name": "Jõgeva",
         "cities": [
             "Jõgeva",
             "Jõgeva vald",
@@ -87,7 +87,7 @@
         ]
     },
     {
-        "name": "Lääne County",
+        "name": "Lääne",
         "cities": [
             "Haapsalu",
             "Haapsalu linn",
@@ -99,7 +99,7 @@
         ]
     },
     {
-        "name": "Lääne-Viru County",
+        "name": "Lääne-Viru",
         "cities": [
             "Aseri",
             "Haljala",
@@ -124,7 +124,7 @@
         ]
     },
     {
-        "name": "Pärnu County",
+        "name": "Pärnu",
         "cities": [
             "Audru",
             "Kihnu vald",
@@ -145,7 +145,7 @@
         ]
     },
     {
-        "name": "Põlva County",
+        "name": "Põlva",
         "cities": [
             "Kanepi",
             "Kanepi vald",
@@ -156,7 +156,7 @@
         ]
     },
     {
-        "name": "Rapla County",
+        "name": "Rapla",
         "cities": [
             "Järvakandi",
             "Kehtna",
@@ -170,7 +170,7 @@
         ]
     },
     {
-        "name": "Saare County",
+        "name": "Saare",
         "cities": [
             "Kuressaare",
             "Liiva",
@@ -182,7 +182,7 @@
         ]
     },
     {
-        "name": "Tartu County",
+        "name": "Tartu",
         "cities": [
             "Alatskivi",
             "Elva",
@@ -203,7 +203,7 @@
         ]
     },
     {
-        "name": "Valga County",
+        "name": "Valga",
         "cities": [
             "Otepää vald",
             "Tõrva",
@@ -211,7 +211,7 @@
         ]
     },
     {
-        "name": "Viljandi County",
+        "name": "Viljandi",
         "cities": [
             "Abja-Paluoja",
             "Karksi-Nuia",
@@ -224,7 +224,7 @@
         ]
     },
     {
-        "name": "Võru County",
+        "name": "Võru",
         "cities": [
             "Antsla",
             "Antsla vald",

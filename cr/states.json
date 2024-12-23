@@ -1,23 +1,23 @@
 [
     {
-        "name": "Alajuela Province"
+        "name": "Alajuela"
     },
     {
-        "name": "Guanacaste Province"
+        "name": "Cartago"
     },
     {
-        "name": "Heredia Province"
+        "name": "Guanacaste"
     },
     {
-        "name": "Limón Province"
+        "name": "Heredia"
     },
     {
-        "name": "Provincia de Cartago"
+        "name": "Limón"
     },
     {
-        "name": "Puntarenas Province"
+        "name": "Puntarenas"
     },
     {
-        "name": "San José Province"
+        "name": "San José"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "name": "Anse la Raye Quarter",
+        "name": "Anse la Raye",
         "cities": [
             "Anse La Raye",
             "Au Tabor",
@@ -43,7 +43,7 @@
         ]
     },
     {
-        "name": "Castries Quarter",
+        "name": "Castries",
         "cities": [
             "Active Hill",
             "Agard Lands/Morne Dudon",
@@ -167,7 +167,7 @@
         ]
     },
     {
-        "name": "Choiseul Quarter",
+        "name": "Choiseul",
         "cities": [
             "Belle Vue",
             "Bois Dinde",
@@ -208,11 +208,11 @@
         ]
     },
     {
-        "name": "Dauphin Quarter",
+        "name": "Dauphin",
         "cities": []
     },
     {
-        "name": "Dennery Quarter",
+        "name": "Dennery",
         "cities": [
             "Anse Canot",
             "Athens",
@@ -257,7 +257,7 @@
         ]
     },
     {
-        "name": "Gros Islet Quarter",
+        "name": "Gros Islet",
         "cities": [
             "Beausejour",
             "Beausejour/Fostin'S Development",
@@ -344,7 +344,7 @@
         ]
     },
     {
-        "name": "Laborie Quarter",
+        "name": "Laborie",
         "cities": [
             "Annus",
             "Balca",
@@ -379,7 +379,7 @@
         ]
     },
     {
-        "name": "Micoud Quarter",
+        "name": "Micoud",
         "cities": [
             "Anse Ger",
             "Beauchamp",
@@ -432,11 +432,11 @@
         ]
     },
     {
-        "name": "Praslin Quarter",
+        "name": "Praslin",
         "cities": []
     },
     {
-        "name": "Soufrière Quarter",
+        "name": "Soufrière",
         "cities": [
             "Anse Chastanet",
             "Barons Drive/Coin De L'Anse",
@@ -490,7 +490,7 @@
         ]
     },
     {
-        "name": "Vieux Fort Quarter",
+        "name": "Vieux Fort",
         "cities": [
             "Augier",
             "Beane Field",

@@ -1,22 +1,22 @@
 [
     {
-        "name": "Balé Province",
+        "name": "Balé",
         "cities": []
     },
     {
-        "name": "Bam Province",
+        "name": "Bam",
         "cities": []
     },
     {
-        "name": "Banwa Province",
+        "name": "Banwa",
         "cities": []
     },
     {
-        "name": "Bazèga Province",
+        "name": "Bazèga",
         "cities": []
     },
     {
-        "name": "Boucle du Mouhoun Region",
+        "name": "Boucle du Mouhoun",
         "cities": [
             "Barani",
             "Boromo",
@@ -34,7 +34,7 @@
         ]
     },
     {
-        "name": "Bougouriba Province",
+        "name": "Bougouriba",
         "cities": []
     },
     {
@@ -42,7 +42,7 @@
         "cities": []
     },
     {
-        "name": "Cascades Region",
+        "name": "Cascades",
         "cities": [
             "Banfora",
             "Province de la Comoé",
@@ -58,7 +58,7 @@
         ]
     },
     {
-        "name": "Centre-Est Region",
+        "name": "Centre-Est",
         "cities": [
             "Garango",
             "Koupéla",
@@ -70,7 +70,7 @@
         ]
     },
     {
-        "name": "Centre-Nord Region",
+        "name": "Centre-Nord",
         "cities": [
             "Boulsa",
             "Kaya",
@@ -81,7 +81,7 @@
         ]
     },
     {
-        "name": "Centre-Ouest Region",
+        "name": "Centre-Ouest",
         "cities": [
             "Goulouré",
             "Kokologo",
@@ -97,7 +97,7 @@
         ]
     },
     {
-        "name": "Centre-Sud Region",
+        "name": "Centre-Sud",
         "cities": [
             "Bazega Province",
             "Kombissiri",
@@ -108,11 +108,11 @@
         ]
     },
     {
-        "name": "Comoé Province",
+        "name": "Comoé",
         "cities": []
     },
     {
-        "name": "Est Region",
+        "name": "Est",
         "cities": [
             "Bogandé",
             "Diapaga",
@@ -127,19 +127,19 @@
         ]
     },
     {
-        "name": "Ganzourgou Province",
+        "name": "Ganzourgou",
         "cities": []
     },
     {
-        "name": "Gnagna Province",
+        "name": "Gnagna",
         "cities": []
     },
     {
-        "name": "Gourma Province",
+        "name": "Gourma",
         "cities": []
     },
     {
-        "name": "Hauts-Bassins Region",
+        "name": "Hauts-Bassins",
         "cities": [
             "Bobo-Dioulasso",
             "Houndé",
@@ -149,51 +149,51 @@
         ]
     },
     {
-        "name": "Houet Province",
+        "name": "Houet",
         "cities": []
     },
     {
-        "name": "Ioba Province",
+        "name": "Ioba",
         "cities": []
     },
     {
-        "name": "Kadiogo Province",
+        "name": "Kadiogo",
         "cities": []
     },
     {
-        "name": "Kénédougou Province",
+        "name": "Kénédougou",
         "cities": []
     },
     {
-        "name": "Komondjari Province",
+        "name": "Komondjari",
         "cities": []
     },
     {
-        "name": "Kompienga Province",
+        "name": "Kompienga",
         "cities": []
     },
     {
-        "name": "Kossi Province",
+        "name": "Kossi",
         "cities": []
     },
     {
-        "name": "Koulpélogo Province",
+        "name": "Koulpélogo",
         "cities": []
     },
     {
-        "name": "Kouritenga Province",
+        "name": "Kouritenga",
         "cities": []
     },
     {
-        "name": "Kourwéogo Province",
+        "name": "Kourwéogo",
         "cities": []
     },
     {
-        "name": "Léraba Province",
+        "name": "Léraba",
         "cities": []
     },
     {
-        "name": "Loroum Province",
+        "name": "Loroum",
         "cities": []
     },
     {
@@ -201,19 +201,19 @@
         "cities": []
     },
     {
-        "name": "Nahouri Province",
+        "name": "Nahouri",
         "cities": []
     },
     {
-        "name": "Namentenga Province",
+        "name": "Namentenga",
         "cities": []
     },
     {
-        "name": "Nayala Province",
+        "name": "Nayala",
         "cities": []
     },
     {
-        "name": "Nord Region, Burkina Faso",
+        "name": "Nord",
         "cities": [
             "Gourcy",
             "Ouahigouya",
@@ -226,23 +226,23 @@
         ]
     },
     {
-        "name": "Noumbiel Province",
+        "name": "Noumbiel",
         "cities": []
     },
     {
-        "name": "Oubritenga Province",
+        "name": "Oubritenga",
         "cities": []
     },
     {
-        "name": "Oudalan Province",
+        "name": "Oudalan",
         "cities": []
     },
     {
-        "name": "Passoré Province",
+        "name": "Passoré",
         "cities": []
     },
     {
-        "name": "Plateau-Central Region",
+        "name": "Plateau-Central",
         "cities": [
             "Boussé",
             "Oubritenga",
@@ -253,11 +253,11 @@
         ]
     },
     {
-        "name": "Poni Province",
+        "name": "Poni",
         "cities": []
     },
     {
-        "name": "Sahel Region",
+        "name": "Sahel",
         "cities": [
             "Djibo",
             "Dori",
@@ -269,31 +269,31 @@
         ]
     },
     {
-        "name": "Sanguié Province",
+        "name": "Sanguié",
         "cities": []
     },
     {
-        "name": "Sanmatenga Province",
+        "name": "Sanmatenga",
         "cities": []
     },
     {
-        "name": "Séno Province",
+        "name": "Séno",
         "cities": []
     },
     {
-        "name": "Sissili Province",
+        "name": "Sissili",
         "cities": []
     },
     {
-        "name": "Soum Province",
+        "name": "Soum",
         "cities": []
     },
     {
-        "name": "Sourou Province",
+        "name": "Sourou",
         "cities": []
     },
     {
-        "name": "Sud-Ouest Region",
+        "name": "Sud-Ouest",
         "cities": [
             "Batié",
             "Dano",
@@ -305,31 +305,31 @@
         ]
     },
     {
-        "name": "Tapoa Province",
+        "name": "Tapoa",
         "cities": []
     },
     {
-        "name": "Tuy Province",
+        "name": "Tuy",
         "cities": []
     },
     {
-        "name": "Yagha Province",
+        "name": "Yagha",
         "cities": []
     },
     {
-        "name": "Yatenga Province",
+        "name": "Yatenga",
         "cities": []
     },
     {
-        "name": "Ziro Province",
+        "name": "Ziro",
         "cities": []
     },
     {
-        "name": "Zondoma Province",
+        "name": "Zondoma",
         "cities": []
     },
     {
-        "name": "Zoundwéogo Province",
+        "name": "Zoundwéogo",
         "cities": []
     }
 ]

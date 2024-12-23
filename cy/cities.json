@@ -1,6 +1,6 @@
 [
     {
-        "name": "Famagusta District (Mağusa)",
+        "name": "Famagusta (Mağusa)",
         "cities": [
             "Acherítou",
             "Áchna",
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "name": "Kyrenia District (Keryneia)",
+        "name": "Kyrenia (Keryneia)",
         "cities": [
             "Kyrenia",
             "Kyrenia Municipality",
@@ -28,7 +28,7 @@
         ]
     },
     {
-        "name": "Larnaca District (Larnaka)",
+        "name": "Larnaca (Larnaka)",
         "cities": [
             "Aradíppou",
             "Athíenou",
@@ -53,7 +53,7 @@
         ]
     },
     {
-        "name": "Limassol District (Leymasun)",
+        "name": "Limassol (Leymasun)",
         "cities": [
             "Ágios Tomás",
             "Ágios Týchon",
@@ -75,7 +75,7 @@
         ]
     },
     {
-        "name": "Nicosia District (Lefkoşa)",
+        "name": "Nicosia (Lefkoşa)",
         "cities": [
             "Akáki",
             "Alámpra",
@@ -105,7 +105,7 @@
         ]
     },
     {
-        "name": "Paphos District (Pafos)",
+        "name": "Paphos (Pafos)",
         "cities": [
             "Argáka",
             "Chlórakas",

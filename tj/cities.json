@@ -1,26 +1,6 @@
 [
     {
-        "name": "districts of Republican Subordination",
-        "cities": [
-            "Darband",
-            "Hisor",
-            "Karakenja",
-            "Khodzha-Maston",
-            "Novobod",
-            "Obigarm",
-            "Rasht",
-            "Roghun",
-            "Shahrinav",
-            "Tagob",
-            "Tursunzoda",
-            "Vahdat",
-            "Vahdat District",
-            "Varzob",
-            "Varzob District"
-        ]
-    },
-    {
-        "name": "Gorno-Badakhshan Autonomous Province",
+        "name": "Gorno-Badakhshan",
         "cities": [
             "Ishqoshim",
             "Khorugh",
@@ -29,7 +9,7 @@
         ]
     },
     {
-        "name": "Khatlon Province",
+        "name": "Khatlon",
         "cities": [
             "Abdurahmoni Jomí",
             "Boshchorbogh",
@@ -61,7 +41,27 @@
         ]
     },
     {
-        "name": "Sughd Province",
+        "name": "Nohiyahoi Tobei Jumhurí ",
+        "cities": [
+            "Darband",
+            "Hisor",
+            "Karakenja",
+            "Khodzha-Maston",
+            "Novobod",
+            "Obigarm",
+            "Rasht",
+            "Roghun",
+            "Shahrinav",
+            "Tagob",
+            "Tursunzoda",
+            "Vahdat",
+            "Vahdat District",
+            "Varzob",
+            "Varzob District"
+        ]
+    },
+    {
+        "name": "Sughd ",
         "cities": [
             "Adrasmon",
             "Ayní",

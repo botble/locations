@@ -1,6 +1,6 @@
 [
     {
-        "name": "Chuuk State",
+        "name": "Chuuk",
         "cities": [
             "Eot Municipality",
             "Ettal Municipality",
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "name": "Kosrae State",
+        "name": "Kosrae",
         "cities": [
             "Lelu Municipality",
             "Malem Municipality",
@@ -58,7 +58,7 @@
         ]
     },
     {
-        "name": "Pohnpei State",
+        "name": "Pohnpei",
         "cities": [
             "Kitti Municipality",
             "Kolonia",
@@ -77,7 +77,7 @@
         ]
     },
     {
-        "name": "Yap State",
+        "name": "Yap",
         "cities": [
             "Colonia",
             "Dalipebinaw Municipality",

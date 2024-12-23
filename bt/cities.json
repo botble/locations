@@ -1,120 +1,159 @@
 [
     {
-        "name": "Bumthang District",
+        "name": "Bumthang ",
         "cities": [
-            "Jakar"
+            "Jakar",
+            "Tang Valley"
         ]
     },
     {
-        "name": "Chukha District",
+        "name": "Chukha ",
         "cities": [
+            "Chapchha",
             "Daphu",
-            "Phuntsholing",
-            "Tsimasham"
+            "Khitokha",
+            "Lobnig",
+            "Pachu",
+            "Phuntsholing"
         ]
     },
     {
-        "name": "Dagana District",
+        "name": "Dagana ",
         "cities": [
             "Daga",
-            "Wangdue Phodrang"
+            "Sibsu",
+            "Thumgaon"
         ]
     },
     {
-        "name": "Gasa District",
+        "name": "Gasa ",
         "cities": [
             "Gasa"
         ]
     },
     {
-        "name": "Haa District",
+        "name": "Haa ",
         "cities": [
-            "Ha"
+            "Ha",
+            "Naktsang",
+            "Sangkari"
         ]
     },
     {
-        "name": "Lhuntse District",
+        "name": "Lhuntse ",
         "cities": [
             "Lhuentse"
         ]
     },
     {
-        "name": "Mongar District",
+        "name": "Mongar ",
         "cities": [
-            "Mongar"
+            "Kengkhar",
+            "Mongar",
+            "Thebong"
         ]
     },
     {
-        "name": "Paro District",
+        "name": "Paro ",
         "cities": [
-            "Paro"
+            "Paro",
+            "Suchha",
+            "Tshalunang"
         ]
     },
     {
-        "name": "Pemagatshel District",
+        "name": "Pemagatshel ",
         "cities": [
+            "Nganglam",
             "Pemagatshel"
         ]
     },
     {
-        "name": "Punakha District",
+        "name": "Punakha ",
         "cities": [
             "Pajo",
             "Punākha"
         ]
     },
     {
-        "name": "Samdrup Jongkhar District",
+        "name": "Samdrup Jongkhar ",
         "cities": [
             "Samdrup Jongkhar"
         ]
     },
     {
-        "name": "Samtse District",
+        "name": "Samtse ",
         "cities": [
-            "Samtse"
+            "Denchukha",
+            "Dorokha",
+            "Samtse",
+            "Tendu"
         ]
     },
     {
-        "name": "Sarpang District",
+        "name": "Sarpang ",
         "cities": [
+            "Bhurgaon",
+            "Galechugaon",
+            "Geylegphug",
             "Sarpang"
         ]
     },
     {
-        "name": "Thimphu District",
+        "name": "Thimphu ",
         "cities": [
             "Thimphu"
         ]
     },
     {
-        "name": "Trashigang District",
+        "name": "Trashi Yangtse\t",
         "cities": [
-            "Trashigang"
+            "Shali",
+            "Trashi Yangtse",
+            "Yalang "
         ]
     },
     {
-        "name": "Trongsa District",
-        "cities": []
+        "name": "Trashigang ",
+        "cities": [
+            "Balfai",
+            "Ghunkarah",
+            "Ngalangkang",
+            "Rungzyung",
+            "Sassi",
+            "Thrimshing",
+            "Trashigang",
+            "Wamrong"
+        ]
     },
     {
-        "name": "Tsirang District",
+        "name": "Trongsa ",
         "cities": [
-            "Trongsa",
+            "Trongsa"
+        ]
+    },
+    {
+        "name": "Tsirang ",
+        "cities": [
+            "Beteni",
+            "Dagapela",
+            "Damphu",
             "Tsirang"
         ]
     },
     {
-        "name": "Wangdue Phodrang District",
+        "name": "Wangdue Phodrang ",
         "cities": [
-            "Trashi Yangtse"
+            "Manikyangsa",
+            "Ritang",
+            "Wangdue Phodrang"
         ]
     },
     {
-        "name": "Zhemgang District",
+        "name": "Zhemgang ",
         "cities": [
             "Panbang",
-            "Shemgang"
+            "Zhemgang"
         ]
     }
 ]

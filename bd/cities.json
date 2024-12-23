@@ -1,431 +1,106 @@
 [
     {
-        "name": "Bagerhat District",
-        "cities": []
-    },
-    {
-        "name": "Bahadia",
-        "cities": []
-    },
-    {
-        "name": "Bandarban District",
-        "cities": []
-    },
-    {
-        "name": "Barguna District",
-        "cities": []
-    },
-    {
-        "name": "Barisal District",
+        "name": "Barisal ",
         "cities": [
-            "Barguna",
-            "Barisal",
-            "Bhāndāria",
-            "Bhola",
-            "Burhānuddin",
-            "Gaurnadi",
-            "Jhalokati",
-            "Lālmohan",
-            "Mathba",
-            "Mehendiganj",
-            "Nālchiti",
-            "Patuakhali",
-            "Pirojpur"
+            "Barguna ",
+            "Barisal ",
+            "Bhola ",
+            "Jhalokati ",
+            "Patuakhali ",
+            "Pirojpur "
         ]
     },
     {
-        "name": "Barisal Division",
-        "cities": []
-    },
-    {
-        "name": "Bhola District",
-        "cities": []
-    },
-    {
-        "name": "Bogra District",
-        "cities": []
-    },
-    {
-        "name": "Brahmanbaria District",
-        "cities": []
-    },
-    {
-        "name": "Chandpur District",
-        "cities": []
-    },
-    {
-        "name": "Chapai Nawabganj District",
-        "cities": []
-    },
-    {
-        "name": "Chittagong District",
-        "cities": []
-    },
-    {
-        "name": "Chittagong Division",
+        "name": "Chittagong ",
         "cities": [
             "Bandarban",
-            "Bibir Hat",
             "Brahmanbaria",
             "Chandpur",
-            "Chhāgalnāiya",
             "Chittagong",
             "Comilla",
             "Cox's Bazar",
-            "Cox’s Bāzār",
             "Feni",
-            "Hājīganj",
             "Khagrachhari",
-            "Lākshām",
             "Lakshmipur",
-            "Manikchari",
-            "Nabīnagar",
             "Noakhali",
-            "Patiya",
-            "Rāipur",
-            "Rāmganj",
-            "Rangamati",
-            "Raojān",
-            "Sandwīp",
-            "Sātkania",
-            "Teknāf"
+            "Rangamati"
         ]
     },
     {
-        "name": "Chuadanga District",
-        "cities": []
-    },
-    {
-        "name": "Comilla District",
-        "cities": []
-    },
-    {
-        "name": "Cox's Bazar District",
-        "cities": []
-    },
-    {
-        "name": "Dhaka District",
+        "name": "Dhaka ",
         "cities": [
-            "Azimpur",
-            "Bājitpur",
-            "Bhairab Bāzār",
-            "Char Bhadrāsan",
-            "Char Golora",
-            "Dhaka",
-            "Dohār",
-            "Faridpur",
-            "Gazipur",
-            "Gopalganj",
-            "Joymontop",
-            "Khanbaniara",
-            "Kishoregonj",
-            "Kishorganj",
-            "Madaripur",
-            "Manikganj",
-            "Mirzāpur",
-            "Munshiganj",
-            "Nāgarpur",
-            "Narayanganj",
-            "Narsingdi",
-            "Pālang",
-            "Paltan",
-            "Parvez Ali",
-            "Parvez Ali Hossain",
-            "Rajbari",
-            "Ramnagar",
-            "Sakhipur",
-            "Sayani",
-            "Shariatpur",
-            "Sonārgaon",
-            "Tangail",
-            "Tungi",
-            "Tungipāra"
+            "Dhaka ",
+            "Faridpur ",
+            "Gazipur ",
+            "Gopalganj ",
+            "Kishoreganj ",
+            "Madaripur ",
+            "Manikganj ",
+            "Munshiganj ",
+            "Narayanganj ",
+            "Narsingdi ",
+            "Rajbari ",
+            "Shariatpur ",
+            "Tangail "
         ]
     },
     {
-        "name": "Dhaka Division",
-        "cities": []
-    },
-    {
-        "name": "Dinajpur District",
-        "cities": []
-    },
-    {
-        "name": "Faridpur District",
-        "cities": []
-    },
-    {
-        "name": "Feni District",
-        "cities": []
-    },
-    {
-        "name": "Gaibandha District",
-        "cities": []
-    },
-    {
-        "name": "Gazipur District",
-        "cities": []
-    },
-    {
-        "name": "Gopalganj District",
-        "cities": []
-    },
-    {
-        "name": "Habiganj District",
-        "cities": []
-    },
-    {
-        "name": "Jamalpur District",
-        "cities": []
-    },
-    {
-        "name": "Jessore District",
-        "cities": []
-    },
-    {
-        "name": "Jhalokati District",
-        "cities": []
-    },
-    {
-        "name": "Jhenaidah District",
-        "cities": []
-    },
-    {
-        "name": "Joypurhat District",
-        "cities": []
-    },
-    {
-        "name": "Khagrachari District",
-        "cities": []
-    },
-    {
-        "name": "Khulna District",
+        "name": "Khulna ",
         "cities": [
-            "Bagerhat",
-            "Bhātpāra Abhaynagar",
-            "Bherāmāra",
-            "Chuadanga",
-            "Jessore",
-            "Jhenaidah",
-            "Jhingergācha",
-            "Kālia",
-            "Kālīganj",
-            "Kesabpur",
-            "Khulna",
-            "Kushtia",
-            "Magura",
-            "Meherpur",
-            "Morrelgonj",
-            "Narail",
-            "Nowlamary",
-            "Phultala",
-            "Sarankhola",
-            "Satkhira",
-            "Ujalpur",
-            "Uttar Char Fasson"
+            "Bagerhat ",
+            "Chuadanga ",
+            "Jessore ",
+            "Jhenaidah ",
+            "Khulna ",
+            "Kushtia ",
+            "Magura ",
+            "Meherpur ",
+            "Narail ",
+            "Satkhira "
         ]
     },
     {
-        "name": "Khulna Division",
-        "cities": []
-    },
-    {
-        "name": "Kishoreganj District",
-        "cities": []
-    },
-    {
-        "name": "Kurigram District",
-        "cities": []
-    },
-    {
-        "name": "Kushtia District",
-        "cities": []
-    },
-    {
-        "name": "Lakshmipur District",
-        "cities": []
-    },
-    {
-        "name": "Lalmonirhat District",
-        "cities": []
-    },
-    {
-        "name": "Madaripur District",
-        "cities": []
-    },
-    {
-        "name": "Meherpur District",
-        "cities": []
-    },
-    {
-        "name": "Moulvibazar District",
-        "cities": []
-    },
-    {
-        "name": "Munshiganj District",
-        "cities": []
-    },
-    {
-        "name": "Mymensingh District",
+        "name": "Mymensingh ",
         "cities": [
-            "Gafargaon",
-            "Jamalpur",
-            "Muktāgācha",
-            "Mymensingh",
-            "Netrakona",
-            "Sarishābāri",
-            "Sherpur"
+            "Jamalpur ",
+            "Mymensingh ",
+            "Netrokona ",
+            "Sherpur "
         ]
     },
     {
-        "name": "Mymensingh Division",
-        "cities": []
-    },
-    {
-        "name": "Naogaon District",
-        "cities": []
-    },
-    {
-        "name": "Narail District",
-        "cities": []
-    },
-    {
-        "name": "Narayanganj District",
-        "cities": []
-    },
-    {
-        "name": "Natore District",
-        "cities": []
-    },
-    {
-        "name": "Netrokona District",
-        "cities": []
-    },
-    {
-        "name": "Nilphamari District",
-        "cities": []
-    },
-    {
-        "name": "Noakhali District",
-        "cities": []
-    },
-    {
-        "name": "Pabna District",
-        "cities": []
-    },
-    {
-        "name": "Panchagarh District",
-        "cities": []
-    },
-    {
-        "name": "Patuakhali District",
-        "cities": []
-    },
-    {
-        "name": "Pirojpur District",
-        "cities": []
-    },
-    {
-        "name": "Rajbari District",
-        "cities": []
-    },
-    {
-        "name": "Rajshahi District",
+        "name": "Rajshahi ",
         "cities": [
-            "Bera",
-            "Bogra",
-            "Chapai Nababganj",
-            "Ishurdi",
-            "Joypur Hāt",
-            "Joypurhat",
-            "Mahasthangarh",
-            "Naogaon",
-            "Natore",
-            "Nawābganj",
-            "Pabna",
-            "Pār Naogaon",
-            "Puthia",
-            "Rajshahi",
-            "Saidpur",
-            "Shāhzādpur",
-            "Shibganj",
-            "Sirajganj"
+            "Bogra ",
+            "Chapai Nawabganj",
+            "Joypurhat ",
+            "Naogaon ",
+            "Natore ",
+            "Pabna ",
+            "Rajshahi ",
+            "Sirajganj "
         ]
     },
     {
-        "name": "Rajshahi Division",
-        "cities": []
-    },
-    {
-        "name": "Rangamati Hill District",
-        "cities": []
-    },
-    {
-        "name": "Rangpur District",
+        "name": "Rangpur ",
         "cities": [
-            "Badarganj",
-            "Chilmāri",
-            "Dinajpur",
-            "Gaibandha",
-            "Kurigram",
-            "Lalmonirhat",
-            "Lalmonirhat District",
-            "Nageswari",
-            "Nilphamari Zila",
-            "Panchagarh",
-            "Parbatipur",
-            "Pīrgaaj",
-            "Rangpur",
-            "Thakurgaon"
+            "Dinajpur ",
+            "Gaibandha ",
+            "Kurigram ",
+            "Lalmonirhat ",
+            "Nilphamari ",
+            "Panchagarh ",
+            "Rangpur ",
+            "Thakurgaon "
         ]
     },
     {
-        "name": "Rangpur Division",
-        "cities": []
-    },
-    {
-        "name": "Satkhira District",
-        "cities": []
-    },
-    {
-        "name": "Shariatpur District",
-        "cities": []
-    },
-    {
-        "name": "Sherpur District",
-        "cities": []
-    },
-    {
-        "name": "Sirajganj District",
-        "cities": []
-    },
-    {
-        "name": "Sunamganj District",
-        "cities": []
-    },
-    {
-        "name": "Sylhet District",
+        "name": "Sylhet ",
         "cities": [
-            "Baniachang",
-            "Chhātak",
-            "Habiganj",
-            "Jahedpur",
-            "Maulavi Bāzār",
-            "Maulvibazar",
-            "Sunamganj",
-            "Sylhet"
+            "Habiganj ",
+            "Moulvibazar ",
+            "Sunamganj ",
+            "Sylhet "
         ]
-    },
-    {
-        "name": "Sylhet Division",
-        "cities": []
-    },
-    {
-        "name": "Tangail District",
-        "cities": []
-    },
-    {
-        "name": "Thakurgaon District",
-        "cities": []
     }
 ]

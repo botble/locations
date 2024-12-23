@@ -1,59 +1,56 @@
 [
     {
-        "name": "Attapeu Province"
+        "name": "Attapeu"
     },
     {
-        "name": "Bokeo Province"
+        "name": "Bokeo"
     },
     {
-        "name": "Bolikhamsai Province"
+        "name": "Bolikhamsai"
     },
     {
-        "name": "Champasak Province"
+        "name": "Champasak"
     },
     {
-        "name": "Houaphanh Province"
+        "name": "Houaphanh"
     },
     {
-        "name": "Khammouane Province"
+        "name": "Khammouane"
     },
     {
-        "name": "Luang Namtha Province"
+        "name": "Luang Namtha"
     },
     {
-        "name": "Luang Prabang Province"
+        "name": "Luang Prabang"
     },
     {
-        "name": "Oudomxay Province"
+        "name": "Oudomxay"
     },
     {
-        "name": "Phongsaly Province"
+        "name": "Phongsaly"
     },
     {
-        "name": "Sainyabuli Province"
+        "name": "Sainyabuli"
     },
     {
-        "name": "Salavan Province"
+        "name": "Salavan"
     },
     {
-        "name": "Savannakhet Province"
+        "name": "Savannakhet"
     },
     {
-        "name": "Sekong Province"
+        "name": "Sekong"
     },
     {
-        "name": "Vientiane Prefecture"
+        "name": "Vientiane"
     },
     {
-        "name": "Vientiane Province"
+        "name": "Vientiane"
     },
     {
         "name": "Xaisomboun"
     },
     {
-        "name": "Xaisomboun Province"
-    },
-    {
-        "name": "Xiangkhouang Province"
+        "name": "Xiangkhouang"
     }
 ]

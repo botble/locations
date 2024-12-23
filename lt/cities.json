@@ -1,10 +1,14 @@
 [
     {
-        "name": "Akmenė District Municipality",
+        "name": "Akmenė",
         "cities": []
     },
     {
-        "name": "Alytus City Municipality",
+        "name": "Alytus",
+        "cities": []
+    },
+    {
+        "name": "Alytus",
         "cities": [
             "Alytus",
             "Daugai",
@@ -16,55 +20,55 @@
         ]
     },
     {
-        "name": "Alytus County",
+        "name": "Alytus",
         "cities": []
     },
     {
-        "name": "Alytus District Municipality",
+        "name": "Birštonas",
         "cities": []
     },
     {
-        "name": "Birštonas Municipality",
+        "name": "Biržai",
         "cities": []
     },
     {
-        "name": "Biržai District Municipality",
+        "name": "Druskininkai",
         "cities": []
     },
     {
-        "name": "Druskininkai municipality",
+        "name": "Elektrėnai",
         "cities": []
     },
     {
-        "name": "Elektrėnai municipality",
+        "name": "Ignalina",
         "cities": []
     },
     {
-        "name": "Ignalina District Municipality",
+        "name": "Jonava",
         "cities": []
     },
     {
-        "name": "Jonava District Municipality",
+        "name": "Joniškis",
         "cities": []
     },
     {
-        "name": "Joniškis District Municipality",
+        "name": "Jurbarkas",
         "cities": []
     },
     {
-        "name": "Jurbarkas District Municipality",
+        "name": "Kaišiadorys",
         "cities": []
     },
     {
-        "name": "Kaišiadorys District Municipality",
+        "name": "Kalvarija",
         "cities": []
     },
     {
-        "name": "Kalvarija municipality",
+        "name": "Kaunas",
         "cities": []
     },
     {
-        "name": "Kaunas City Municipality",
+        "name": "Kaunas",
         "cities": [
             "Akademija (Kaunas)",
             "Aleksotas",
@@ -92,35 +96,23 @@
         ]
     },
     {
-        "name": "Kaunas County",
+        "name": "Kaunas",
         "cities": []
     },
     {
-        "name": "Kaunas District Municipality",
+        "name": "Kazlų Rūda",
         "cities": []
     },
     {
-        "name": "Kazlų Rūda municipality",
+        "name": "Kėdainiai",
         "cities": []
     },
     {
-        "name": "Kėdainiai District Municipality",
+        "name": "Kelmė",
         "cities": []
     },
     {
-        "name": "Kelmė District Municipality",
-        "cities": []
-    },
-    {
-        "name": "Klaipeda City Municipality",
-        "cities": []
-    },
-    {
-        "name": "Klaipėda County",
-        "cities": []
-    },
-    {
-        "name": "Klaipėda District Municipality",
+        "name": "Klaipėda",
         "cities": [
             "Gargždai",
             "Klaipėda",
@@ -138,23 +130,31 @@
         ]
     },
     {
-        "name": "Kretinga District Municipality",
+        "name": "Klaipeda",
         "cities": []
     },
     {
-        "name": "Kupiškis District Municipality",
+        "name": "Klaipėda",
         "cities": []
     },
     {
-        "name": "Lazdijai District Municipality",
+        "name": "Kretinga",
         "cities": []
     },
     {
-        "name": "Marijampolė County",
+        "name": "Kupiškis",
         "cities": []
     },
     {
-        "name": "Marijampolė Municipality",
+        "name": "Lazdijai",
+        "cities": []
+    },
+    {
+        "name": "Marijampolė",
+        "cities": []
+    },
+    {
+        "name": "Marijampolė",
         "cities": [
             "Gelgaudiškis",
             "Kalvarija",
@@ -172,39 +172,31 @@
         ]
     },
     {
-        "name": "Mažeikiai District Municipality",
+        "name": "Mažeikiai",
         "cities": []
     },
     {
-        "name": "Molėtai District Municipality",
+        "name": "Molėtai",
         "cities": []
     },
     {
-        "name": "Neringa Municipality",
+        "name": "Neringa",
         "cities": []
     },
     {
-        "name": "Pagėgiai municipality",
+        "name": "Pagėgiai",
         "cities": []
     },
     {
-        "name": "Pakruojis District Municipality",
+        "name": "Pakruojis",
         "cities": []
     },
     {
-        "name": "Palanga City Municipality",
+        "name": "Palanga",
         "cities": []
     },
     {
-        "name": "Panevėžys City Municipality",
-        "cities": []
-    },
-    {
-        "name": "Panevėžys County",
-        "cities": []
-    },
-    {
-        "name": "Panevėžys District Municipality",
+        "name": "Panevėžys",
         "cities": [
             "Birzai",
             "Juodupė",
@@ -220,43 +212,51 @@
         ]
     },
     {
-        "name": "Pasvalys District Municipality",
+        "name": "Panevėžys",
         "cities": []
     },
     {
-        "name": "Plungė District Municipality",
+        "name": "Panevėžys",
         "cities": []
     },
     {
-        "name": "Prienai District Municipality",
+        "name": "Pasvalys",
         "cities": []
     },
     {
-        "name": "Radviliškis District Municipality",
+        "name": "Plungė",
         "cities": []
     },
     {
-        "name": "Raseiniai District Municipality",
+        "name": "Prienai",
         "cities": []
     },
     {
-        "name": "Rietavas municipality",
+        "name": "Radviliškis",
         "cities": []
     },
     {
-        "name": "Rokiškis District Municipality",
+        "name": "Raseiniai",
         "cities": []
     },
     {
-        "name": "Šakiai District Municipality",
+        "name": "Rietavas",
         "cities": []
     },
     {
-        "name": "Šalčininkai District Municipality",
+        "name": "Rokiškis",
         "cities": []
     },
     {
-        "name": "Šiauliai City Municipality",
+        "name": "Šakiai",
+        "cities": []
+    },
+    {
+        "name": "Šalčininkai",
+        "cities": []
+    },
+    {
+        "name": "Šiauliai",
         "cities": [
             "Akmenė",
             "Joniškis",
@@ -274,35 +274,39 @@
         ]
     },
     {
-        "name": "Šiauliai County",
+        "name": "Šiauliai",
         "cities": []
     },
     {
-        "name": "Šiauliai District Municipality",
+        "name": "Šiauliai",
         "cities": []
     },
     {
-        "name": "Šilalė District Municipality",
+        "name": "Šilalė ",
         "cities": []
     },
     {
-        "name": "Šilutė District Municipality",
+        "name": "Šilutė",
         "cities": []
     },
     {
-        "name": "Širvintos District Municipality",
+        "name": "Širvintos",
         "cities": []
     },
     {
-        "name": "Skuodas District Municipality",
+        "name": "Skuodas",
         "cities": []
     },
     {
-        "name": "Švenčionys District Municipality",
+        "name": "Švenčionys",
         "cities": []
     },
     {
-        "name": "Tauragė County",
+        "name": "Tauragė",
+        "cities": []
+    },
+    {
+        "name": "Tauragė",
         "cities": [
             "Būgai",
             "Jurbarkas",
@@ -312,15 +316,11 @@
         ]
     },
     {
-        "name": "Tauragė District Municipality",
+        "name": "Telšiai",
         "cities": []
     },
     {
-        "name": "Telšiai County",
-        "cities": []
-    },
-    {
-        "name": "Telšiai District Municipality",
+        "name": "Telšiai",
         "cities": [
             "Mazeikiai",
             "Plateliai",
@@ -333,15 +333,15 @@
         ]
     },
     {
-        "name": "Trakai District Municipality",
+        "name": "Trakai",
         "cities": []
     },
     {
-        "name": "Ukmergė District Municipality",
+        "name": "Ukmergė",
         "cities": []
     },
     {
-        "name": "Utena County",
+        "name": "Utena",
         "cities": [
             "Anyksciai",
             "Dūkštas",
@@ -353,19 +353,23 @@
         ]
     },
     {
-        "name": "Utena District Municipality",
+        "name": "Utena",
         "cities": []
     },
     {
-        "name": "Varėna District Municipality",
+        "name": "Varėna",
         "cities": []
     },
     {
-        "name": "Vilkaviškis District Municipality",
+        "name": "Vilkaviškis",
         "cities": []
     },
     {
-        "name": "Vilnius City Municipality",
+        "name": "Vilnius",
+        "cities": []
+    },
+    {
+        "name": "Vilnius",
         "cities": [
             "Aukstadvaris",
             "Baltoji Vokė",
@@ -399,19 +403,15 @@
         ]
     },
     {
-        "name": "Vilnius County",
+        "name": "Vilnius",
         "cities": []
     },
     {
-        "name": "Vilnius District Municipality",
+        "name": "Visaginas",
         "cities": []
     },
     {
-        "name": "Visaginas Municipality",
-        "cities": []
-    },
-    {
-        "name": "Zarasai District Municipality",
+        "name": "Zarasai",
         "cities": []
     }
 ]

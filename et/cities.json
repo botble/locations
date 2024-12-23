@@ -6,7 +6,7 @@
         ]
     },
     {
-        "name": "Afar Region",
+        "name": "Afar",
         "cities": [
             "Administrative Zone 2",
             "Administrative Zone 3",
@@ -18,7 +18,7 @@
         ]
     },
     {
-        "name": "Amhara Region",
+        "name": "Amhara",
         "cities": [
             "Abomsa",
             "Addiet Canna",
@@ -52,7 +52,7 @@
         ]
     },
     {
-        "name": "Benishangul-Gumuz Region",
+        "name": "Benishangul-Gumuz",
         "cities": [
             "Asosa",
             "Metekel"
@@ -65,20 +65,20 @@
         ]
     },
     {
-        "name": "Gambela Region",
+        "name": "Gambela",
         "cities": [
             "Administrative Zone 1",
             "Gambēla"
         ]
     },
     {
-        "name": "Harari Region",
+        "name": "Harari",
         "cities": [
             "Harar"
         ]
     },
     {
-        "name": "Oromia Region",
+        "name": "Oromia",
         "cities": [
             "Ādīs ‘Alem",
             "Āgaro",
@@ -137,7 +137,7 @@
         ]
     },
     {
-        "name": "Somali Region",
+        "name": "Somali",
         "cities": [
             "Afder Zone",
             "Degehabur Zone",
@@ -148,7 +148,7 @@
         ]
     },
     {
-        "name": "Southern Nations, Nationalities, and Peoples' Region",
+        "name": "Southern Nations, Nationalities, and Peoples'",
         "cities": [
             "Alaba Special Wereda",
             "Arba Minch",
@@ -186,7 +186,7 @@
         ]
     },
     {
-        "name": "Tigray Region",
+        "name": "Tigray",
         "cities": [
             "Ādīgrat",
             "Axum",

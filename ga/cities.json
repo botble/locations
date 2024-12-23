@@ -1,6 +1,6 @@
 [
     {
-        "name": "Estuaire Province",
+        "name": "Estuaire",
         "cities": [
             "Cocobeach",
             "Libreville",
@@ -8,7 +8,7 @@
         ]
     },
     {
-        "name": "Haut-Ogooué Province",
+        "name": "Haut-Ogooué",
         "cities": [
             "Franceville",
             "Lékoni",
@@ -18,14 +18,14 @@
         ]
     },
     {
-        "name": "Moyen-Ogooué Province",
+        "name": "Moyen-Ogooué",
         "cities": [
             "Lambaréné",
             "Ndjolé"
         ]
     },
     {
-        "name": "Ngounié Province",
+        "name": "Ngounié",
         "cities": [
             "Fougamou",
             "Mbigou",
@@ -35,14 +35,14 @@
         ]
     },
     {
-        "name": "Nyanga Province",
+        "name": "Nyanga",
         "cities": [
             "Mayumba",
             "Tchibanga"
         ]
     },
     {
-        "name": "Ogooué-Ivindo Province",
+        "name": "Ogooué-Ivindo",
         "cities": [
             "Booué",
             "Makokou",
@@ -50,14 +50,14 @@
         ]
     },
     {
-        "name": "Ogooué-Lolo Province",
+        "name": "Ogooué-Lolo",
         "cities": [
             "Koulamoutou",
             "Lastoursville"
         ]
     },
     {
-        "name": "Ogooué-Maritime Province",
+        "name": "Ogooué-Maritime",
         "cities": [
             "Gamba",
             "Omboué",
@@ -65,7 +65,7 @@
         ]
     },
     {
-        "name": "Woleu-Ntem Province",
+        "name": "Woleu-Ntem",
         "cities": [
             "Bitam",
             "Mitzic",

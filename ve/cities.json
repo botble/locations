@@ -112,10 +112,6 @@
         ]
     },
     {
-        "name": "Federal Dependencies of Venezuela",
-        "cities": []
-    },
-    {
         "name": "Guárico",
         "cities": [
             "Altagracia de Orituco",
@@ -235,6 +231,10 @@
             "Trujillo",
             "Valera"
         ]
+    },
+    {
+        "name": "Venezuela",
+        "cities": []
     },
     {
         "name": "Yaracuy",

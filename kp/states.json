@@ -1,18 +1,18 @@
 [
     {
-        "name": "Chagang Province"
+        "name": "Chagang"
     },
     {
-        "name": "Kangwon Province"
+        "name": "Kangwon"
     },
     {
-        "name": "North Hamgyong Province"
+        "name": "North Hamgyong"
     },
     {
-        "name": "North Hwanghae Province"
+        "name": "North Hwanghae"
     },
     {
-        "name": "North Pyongan Province"
+        "name": "North Pyongan"
     },
     {
         "name": "Pyongyang"
@@ -21,15 +21,15 @@
         "name": "Rason"
     },
     {
-        "name": "Ryanggang Province"
+        "name": "Ryanggang"
     },
     {
-        "name": "South Hamgyong Province"
+        "name": "South Hamgyong"
     },
     {
-        "name": "South Hwanghae Province"
+        "name": "South Hwanghae"
     },
     {
-        "name": "South Pyongan Province"
+        "name": "South Pyongan"
     }
 ]

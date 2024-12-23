@@ -1,10 +1,6 @@
 [
     {
-        "name": "Berat County",
-        "cities": []
-    },
-    {
-        "name": "Berat District",
+        "name": "Berat",
         "cities": [
             "Banaj",
             "Bashkia Berat",
@@ -22,19 +18,23 @@
         ]
     },
     {
-        "name": "Bulqizë District",
+        "name": "Berat",
         "cities": []
     },
     {
-        "name": "Delvinë District",
+        "name": "Bulqizë",
         "cities": []
     },
     {
-        "name": "Devoll District",
+        "name": "Delvinë",
         "cities": []
     },
     {
-        "name": "Dibër County",
+        "name": "Devoll",
+        "cities": []
+    },
+    {
+        "name": "Dibër",
         "cities": [
             "Bashkia Bulqizë",
             "Bashkia Klos",
@@ -50,15 +50,11 @@
         ]
     },
     {
-        "name": "Dibër District",
+        "name": "Dibër",
         "cities": []
     },
     {
-        "name": "Durrës County",
-        "cities": []
-    },
-    {
-        "name": "Durrës District",
+        "name": "Durrës",
         "cities": [
             "Bashkia Durrës",
             "Bashkia Krujë",
@@ -73,11 +69,19 @@
         ]
     },
     {
-        "name": "Elbasan County",
+        "name": "Durrës",
         "cities": []
     },
     {
-        "name": "Fier County",
+        "name": "Elbasan",
+        "cities": []
+    },
+    {
+        "name": "Fier",
+        "cities": []
+    },
+    {
+        "name": "Fier",
         "cities": [
             "Ballsh",
             "Bashkia Divjakë",
@@ -95,15 +99,7 @@
         ]
     },
     {
-        "name": "Fier District",
-        "cities": []
-    },
-    {
-        "name": "Gjirokastër County",
-        "cities": []
-    },
-    {
-        "name": "Gjirokastër District",
+        "name": "Gjirokastër",
         "cities": [
             "Bashkia Dropull",
             "Bashkia Kelcyrë",
@@ -122,23 +118,27 @@
         ]
     },
     {
-        "name": "Gramsh District",
+        "name": "Gjirokastër",
         "cities": []
     },
     {
-        "name": "Has District",
+        "name": "Gramsh",
         "cities": []
     },
     {
-        "name": "Kavajë District",
+        "name": "Has",
         "cities": []
     },
     {
-        "name": "Kolonjë District",
+        "name": "Kavajë",
         "cities": []
     },
     {
-        "name": "Korçë County",
+        "name": "Kolonjë",
+        "cities": []
+    },
+    {
+        "name": "Korçë",
         "cities": [
             "Bashkia Devoll",
             "Bashkia Kolonjë",
@@ -159,23 +159,19 @@
         ]
     },
     {
-        "name": "Korçë District",
+        "name": "Korçë",
         "cities": []
     },
     {
-        "name": "Krujë District",
+        "name": "Krujë",
         "cities": []
     },
     {
-        "name": "Kuçovë District",
+        "name": "Kuçovë",
         "cities": []
     },
     {
-        "name": "Kukës County",
-        "cities": []
-    },
-    {
-        "name": "Kukës District",
+        "name": "Kukës",
         "cities": [
             "Bajram Curri",
             "Krumë",
@@ -185,11 +181,15 @@
         ]
     },
     {
-        "name": "Kurbin District",
+        "name": "Kukës",
         "cities": []
     },
     {
-        "name": "Lezhë County",
+        "name": "Kurbin",
+        "cities": []
+    },
+    {
+        "name": "Lezhë",
         "cities": [
             "Bashkia Kurbin",
             "Bashkia Lezhë",
@@ -206,59 +206,59 @@
         ]
     },
     {
-        "name": "Lezhë District",
+        "name": "Lezhë",
         "cities": []
     },
     {
-        "name": "Librazhd District",
+        "name": "Librazhd",
         "cities": []
     },
     {
-        "name": "Lushnjë District",
+        "name": "Lushnjë",
         "cities": []
     },
     {
-        "name": "Malësi e Madhe District",
+        "name": "Malësi e Madhe",
         "cities": []
     },
     {
-        "name": "Mallakastër District",
+        "name": "Mallakastër",
         "cities": []
     },
     {
-        "name": "Mat District",
+        "name": "Mat",
         "cities": []
     },
     {
-        "name": "Mirditë District",
+        "name": "Mirditë",
         "cities": []
     },
     {
-        "name": "Peqin District",
+        "name": "Peqin",
         "cities": []
     },
     {
-        "name": "Përmet District",
+        "name": "Përmet",
         "cities": []
     },
     {
-        "name": "Pogradec District",
+        "name": "Pogradec",
         "cities": []
     },
     {
-        "name": "Pukë District",
+        "name": "Pukë",
         "cities": []
     },
     {
-        "name": "Sarandë District",
+        "name": "Sarandë",
         "cities": []
     },
     {
-        "name": "Shkodër County",
+        "name": "Shkodër",
         "cities": []
     },
     {
-        "name": "Shkodër District",
+        "name": "Shkodër",
         "cities": [
             "Bashkia Malësi e Madhe",
             "Bashkia Pukë",
@@ -274,19 +274,15 @@
         ]
     },
     {
-        "name": "Skrapar District",
+        "name": "Skrapar",
         "cities": []
     },
     {
-        "name": "Tepelenë District",
+        "name": "Tepelenë",
         "cities": []
     },
     {
-        "name": "Tirana County",
-        "cities": []
-    },
-    {
-        "name": "Tirana District",
+        "name": "Tirana",
         "cities": [
             "Bashkia Kavajë",
             "Bashkia Vorë",
@@ -302,11 +298,15 @@
         ]
     },
     {
-        "name": "Tropojë District",
+        "name": "Tirana",
         "cities": []
     },
     {
-        "name": "Vlorë County",
+        "name": "Tropojë",
+        "cities": []
+    },
+    {
+        "name": "Vlorë",
         "cities": [
             "Bashkia Finiq",
             "Bashkia Himarë",
@@ -325,7 +325,7 @@
         ]
     },
     {
-        "name": "Vlorë District",
+        "name": "Vlorë",
         "cities": []
     }
 ]

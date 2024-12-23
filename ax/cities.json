@@ -1,1 +1,66 @@
-[]
+[
+    {
+        "name": "Brändö",
+        "cities": []
+    },
+    {
+        "name": "Eckerö",
+        "cities": []
+    },
+    {
+        "name": "Finström",
+        "cities": []
+    },
+    {
+        "name": "Föglö",
+        "cities": []
+    },
+    {
+        "name": "Geta",
+        "cities": []
+    },
+    {
+        "name": "Hammarland",
+        "cities": []
+    },
+    {
+        "name": "Jomala",
+        "cities": []
+    },
+    {
+        "name": "Kökar",
+        "cities": []
+    },
+    {
+        "name": "Kumlinge",
+        "cities": []
+    },
+    {
+        "name": "Lemland",
+        "cities": []
+    },
+    {
+        "name": "Lumparland",
+        "cities": []
+    },
+    {
+        "name": "Mariehamn",
+        "cities": []
+    },
+    {
+        "name": "Saltvik",
+        "cities": []
+    },
+    {
+        "name": "Sottunga",
+        "cities": []
+    },
+    {
+        "name": "Sund",
+        "cities": []
+    },
+    {
+        "name": "Vårdö",
+        "cities": []
+    }
+]

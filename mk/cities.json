@@ -1,16 +1,16 @@
 [
     {
-        "name": "Aerodrom Municipality",
+        "name": "Aerodrom",
         "cities": []
     },
     {
-        "name": "Aračinovo Municipality",
+        "name": "Aračinovo",
         "cities": [
             "Арачиново"
         ]
     },
     {
-        "name": "Berovo Municipality",
+        "name": "Berovo",
         "cities": [
             "Berovo",
             "Rusinovo",
@@ -18,7 +18,7 @@
         ]
     },
     {
-        "name": "Bitola Municipality",
+        "name": "Bitola",
         "cities": [
             "Bistrica",
             "Bitola",
@@ -30,14 +30,14 @@
         ]
     },
     {
-        "name": "Bogdanci Municipality",
+        "name": "Bogdanci",
         "cities": [
             "Bogdanci",
             "Stojakovo"
         ]
     },
     {
-        "name": "Bogovinje Municipality",
+        "name": "Bogovinje",
         "cities": [
             "Bogovinje",
             "Dolno Palčište",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "name": "Bosilovo Municipality",
+        "name": "Bosilovo",
         "cities": [
             "Bosilovo",
             "Ilovica",
@@ -54,7 +54,7 @@
         ]
     },
     {
-        "name": "Brvenica Municipality",
+        "name": "Brvenica",
         "cities": [
             "Brvenica",
             "Čelopek",
@@ -63,63 +63,63 @@
         ]
     },
     {
-        "name": "Butel Municipality",
+        "name": "Butel",
         "cities": [
             "Butel",
             "Radishani"
         ]
     },
     {
-        "name": "Čair Municipality",
+        "name": "Čair",
         "cities": [
             "Čair"
         ]
     },
     {
-        "name": "Čaška Municipality",
+        "name": "Čaška",
         "cities": [
             "Bogomila",
             "Čaška"
         ]
     },
     {
-        "name": "Centar Municipality",
+        "name": "Centar",
         "cities": []
     },
     {
-        "name": "Centar Župa Municipality",
+        "name": "Centar Župa",
         "cities": [
             "Centar Župa"
         ]
     },
     {
-        "name": "Češinovo-Obleševo Municipality",
+        "name": "Češinovo-Obleševo",
         "cities": [
             "Češinovo",
             "Oblesevo"
         ]
     },
     {
-        "name": "Čučer-Sandevo Municipality",
+        "name": "Čučer-Sandevo",
         "cities": [
             "Чучер - Сандево"
         ]
     },
     {
-        "name": "Debarca Municipality",
+        "name": "Debarca",
         "cities": [
             "Belčišta",
             "Mešeišta"
         ]
     },
     {
-        "name": "Delčevo Municipality",
+        "name": "Delčevo",
         "cities": [
             "Delcevo"
         ]
     },
     {
-        "name": "Demir Hisar Municipality",
+        "name": "Demir Hisar",
         "cities": [
             "Demir Hisar",
             "Slepče",
@@ -127,19 +127,19 @@
         ]
     },
     {
-        "name": "Demir Kapija Municipality",
+        "name": "Demir Kapija",
         "cities": [
             "Demir Kapija"
         ]
     },
     {
-        "name": "Dojran Municipality",
+        "name": "Dojran",
         "cities": [
             "Star Dojran"
         ]
     },
     {
-        "name": "Dolneni Municipality",
+        "name": "Dolneni",
         "cities": [
             "Crnilište",
             "Desovo",
@@ -149,30 +149,30 @@
         ]
     },
     {
-        "name": "Drugovo Municipality",
+        "name": "Drugovo",
         "cities": []
     },
     {
-        "name": "Gazi Baba Municipality",
+        "name": "Gazi Baba",
         "cities": [
             "Cresevo"
         ]
     },
     {
-        "name": "Gevgelija Municipality",
+        "name": "Gevgelija",
         "cities": [
             "Gevgelija",
             "Miravci"
         ]
     },
     {
-        "name": "Gjorče Petrov Municipality",
+        "name": "Gjorče Petrov",
         "cities": [
             "Gjorče Petro"
         ]
     },
     {
-        "name": "Gostivar Municipality",
+        "name": "Gostivar",
         "cities": [
             "Cegrane",
             "Dolna Banjica",
@@ -183,7 +183,7 @@
         ]
     },
     {
-        "name": "Gradsko Municipality",
+        "name": "Gradsko",
         "cities": [
             "Gradsko"
         ]
@@ -199,7 +199,7 @@
         ]
     },
     {
-        "name": "Ilinden Municipality",
+        "name": "Ilinden",
         "cities": [
             "Ilinden",
             "Kadino",
@@ -210,7 +210,7 @@
         ]
     },
     {
-        "name": "Jegunovce Municipality",
+        "name": "Jegunovce",
         "cities": [
             "Jegunovce",
             "Vratnica"
@@ -223,20 +223,20 @@
         ]
     },
     {
-        "name": "Karpoš Municipality",
+        "name": "Karpoš",
         "cities": [
             "Skopje"
         ]
     },
     {
-        "name": "Kavadarci Municipality",
+        "name": "Kavadarci",
         "cities": [
             "Kavadarci",
             "Vataša"
         ]
     },
     {
-        "name": "Kičevo Municipality",
+        "name": "Kičevo",
         "cities": [
             "Drugovo",
             "Kičevo",
@@ -248,38 +248,38 @@
         ]
     },
     {
-        "name": "Kisela Voda Municipality",
+        "name": "Kisela Voda",
         "cities": [
             "Kisela Voda"
         ]
     },
     {
-        "name": "Kočani Municipality",
+        "name": "Kočani",
         "cities": [
             "Kochani",
             "Orizari"
         ]
     },
     {
-        "name": "Konče Municipality",
+        "name": "Konče",
         "cities": [
             "Konče"
         ]
     },
     {
-        "name": "Kratovo Municipality",
+        "name": "Kratovo",
         "cities": [
             "Kratovo"
         ]
     },
     {
-        "name": "Kriva Palanka Municipality",
+        "name": "Kriva Palanka",
         "cities": [
             "Kriva Palanka"
         ]
     },
     {
-        "name": "Krivogaštani Municipality",
+        "name": "Krivogaštani",
         "cities": [
             "Krivogashtani",
             "Obršani",
@@ -287,14 +287,14 @@
         ]
     },
     {
-        "name": "Kruševo Municipality",
+        "name": "Kruševo",
         "cities": [
             "Bučin",
             "Krusevo"
         ]
     },
     {
-        "name": "Kumanovo Municipality",
+        "name": "Kumanovo",
         "cities": [
             "Bedinje",
             "Kumanovo",
@@ -302,7 +302,7 @@
         ]
     },
     {
-        "name": "Lipkovo Municipality",
+        "name": "Lipkovo",
         "cities": [
             "Izvor",
             "Lipkovo",
@@ -314,32 +314,32 @@
         ]
     },
     {
-        "name": "Lozovo Municipality",
+        "name": "Lozovo",
         "cities": [
             "Lozovo"
         ]
     },
     {
-        "name": "Makedonska Kamenica Municipality",
+        "name": "Makedonska Kamenica",
         "cities": [
             "Makedonska Kamenica"
         ]
     },
     {
-        "name": "Makedonski Brod Municipality",
+        "name": "Makedonski Brod",
         "cities": [
             "Makedonski Brod",
             "Samokov"
         ]
     },
     {
-        "name": "Mavrovo and Rostuša Municipality",
+        "name": "Mavrovo and Rostuša",
         "cities": [
             "Rostusa"
         ]
     },
     {
-        "name": "Mogila Municipality",
+        "name": "Mogila",
         "cities": [
             "Beranci",
             "Dobruševo",
@@ -348,26 +348,26 @@
         ]
     },
     {
-        "name": "Negotino Municipality",
+        "name": "Negotino",
         "cities": [
             "Negotino"
         ]
     },
     {
-        "name": "Novaci Municipality",
+        "name": "Novaci",
         "cities": [
             "Novaci"
         ]
     },
     {
-        "name": "Novo Selo Municipality",
+        "name": "Novo Selo",
         "cities": [
             "Novo Selo",
             "Sušica"
         ]
     },
     {
-        "name": "Ohrid Municipality",
+        "name": "Ohrid",
         "cities": [
             "Kosel",
             "Ohrid",
@@ -375,31 +375,31 @@
         ]
     },
     {
-        "name": "Oslomej Municipality",
+        "name": "Oslomej ",
         "cities": []
     },
     {
-        "name": "Pehčevo Municipality",
+        "name": "Pehčevo",
         "cities": [
             "Pehčevo"
         ]
     },
     {
-        "name": "Petrovec Municipality",
+        "name": "Petrovec",
         "cities": [
             "Sredno Konjare",
             "Петровец"
         ]
     },
     {
-        "name": "Plasnica Municipality",
+        "name": "Plasnica",
         "cities": [
             "Lisičani",
             "Plasnica"
         ]
     },
     {
-        "name": "Prilep Municipality",
+        "name": "Prilep",
         "cities": [
             "Kanatlarci",
             "Markov Grad",
@@ -408,14 +408,14 @@
         ]
     },
     {
-        "name": "Probištip Municipality",
+        "name": "Probištip",
         "cities": [
             "Probishtip",
             "Zletovo"
         ]
     },
     {
-        "name": "Radoviš Municipality",
+        "name": "Radoviš",
         "cities": [
             "Oraovica",
             "Podareš",
@@ -423,13 +423,13 @@
         ]
     },
     {
-        "name": "Rankovce Municipality",
+        "name": "Rankovce",
         "cities": [
             "Ранковце"
         ]
     },
     {
-        "name": "Resen Municipality",
+        "name": "Resen",
         "cities": [
             "Grnčari",
             "Jankovec",
@@ -438,13 +438,13 @@
         ]
     },
     {
-        "name": "Rosoman Municipality",
+        "name": "Rosoman",
         "cities": [
             "Rosoman"
         ]
     },
     {
-        "name": "Saraj Municipality",
+        "name": "Saraj",
         "cities": [
             "Bukovik",
             "Grčec",
@@ -453,25 +453,25 @@
         ]
     },
     {
-        "name": "Sopište Municipality",
+        "name": "Sopište",
         "cities": [
             "Сопиште"
         ]
     },
     {
-        "name": "Staro Nagoričane Municipality",
+        "name": "Staro Nagoričane",
         "cities": [
             "Старо Нагоричане"
         ]
     },
     {
-        "name": "Štip Municipality",
+        "name": "Štip",
         "cities": [
             "Shtip"
         ]
     },
     {
-        "name": "Struga Municipality",
+        "name": "Struga",
         "cities": [
             "Delogožda",
             "Labunista",
@@ -484,7 +484,7 @@
         ]
     },
     {
-        "name": "Strumica Municipality",
+        "name": "Strumica",
         "cities": [
             "Kuklis",
             "Murtino",
@@ -493,7 +493,7 @@
         ]
     },
     {
-        "name": "Studeničani Municipality",
+        "name": "Studeničani",
         "cities": [
             "Batinci",
             "Dolno Količani",
@@ -502,20 +502,20 @@
         ]
     },
     {
-        "name": "Šuto Orizari Municipality",
+        "name": "Šuto Orizari",
         "cities": [
             "Šuto Orizare"
         ]
     },
     {
-        "name": "Sveti Nikole Municipality",
+        "name": "Sveti Nikole",
         "cities": [
             "Gorobinci",
             "Sveti Nikole"
         ]
     },
     {
-        "name": "Tearce Municipality",
+        "name": "Tearce",
         "cities": [
             "Nerašte",
             "Orashac",
@@ -525,7 +525,7 @@
         ]
     },
     {
-        "name": "Tetovo Municipality",
+        "name": "Tetovo",
         "cities": [
             "Dobrošte",
             "Džepčište",
@@ -538,20 +538,20 @@
         ]
     },
     {
-        "name": "Valandovo Municipality",
+        "name": "Valandovo",
         "cities": [
             "Pirava",
             "Valandovo"
         ]
     },
     {
-        "name": "Vasilevo Municipality",
+        "name": "Vasilevo",
         "cities": [
             "Vasilevo"
         ]
     },
     {
-        "name": "Veles Municipality",
+        "name": "Veles",
         "cities": [
             "Gorno Orizari",
             "Ivankovci",
@@ -559,13 +559,13 @@
         ]
     },
     {
-        "name": "Vevčani Municipality",
+        "name": "Vevčani",
         "cities": [
             "Vevčani"
         ]
     },
     {
-        "name": "Vinica Municipality",
+        "name": "Vinica",
         "cities": [
             "Blatec",
             "Gradec",
@@ -573,11 +573,11 @@
         ]
     },
     {
-        "name": "Vraneštica Municipality",
+        "name": "Vraneštica",
         "cities": []
     },
     {
-        "name": "Vrapčište Municipality",
+        "name": "Vrapčište",
         "cities": [
             "Dobri Dol",
             "Negotino",
@@ -585,17 +585,17 @@
         ]
     },
     {
-        "name": "Zajas Municipality",
+        "name": "Zajas",
         "cities": []
     },
     {
-        "name": "Zelenikovo Municipality",
+        "name": "Zelenikovo",
         "cities": [
             "Zelenikovo"
         ]
     },
     {
-        "name": "Želino Municipality",
+        "name": "Želino",
         "cities": [
             "Dobarce",
             "Larce",
@@ -605,7 +605,7 @@
         ]
     },
     {
-        "name": "Zrnovci Municipality",
+        "name": "Zrnovci",
         "cities": [
             "Zrnovci"
         ]

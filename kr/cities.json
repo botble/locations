@@ -43,7 +43,7 @@
         ]
     },
     {
-        "name": "Gangwon Province",
+        "name": "Gangwon",
         "cities": [
             "Cheorwon-gun",
             "Chuncheon",
@@ -86,7 +86,7 @@
         ]
     },
     {
-        "name": "Gyeonggi Province",
+        "name": "Gyeonggi",
         "cities": [
             "Ansan-si",
             "Anseong",
@@ -152,7 +152,7 @@
         ]
     },
     {
-        "name": "North Chungcheong Province",
+        "name": "North Chungcheong",
         "cities": [
             "Boeun-gun",
             "Cheongju-si",
@@ -172,7 +172,7 @@
         ]
     },
     {
-        "name": "North Gyeongsang Province",
+        "name": "North Gyeongsang",
         "cities": [
             "Andong",
             "Andong-si",
@@ -212,7 +212,7 @@
         ]
     },
     {
-        "name": "North Jeolla Province",
+        "name": "North Jeolla",
         "cities": [
             "Buan-gun",
             "Changsu",
@@ -279,7 +279,7 @@
         ]
     },
     {
-        "name": "South Chungcheong Province",
+        "name": "South Chungcheong",
         "cities": [
             "Asan",
             "Asan-si",
@@ -312,7 +312,7 @@
         ]
     },
     {
-        "name": "South Gyeongsang Province",
+        "name": "South Gyeongsang",
         "cities": [
             "Changnyeong",
             "Changnyeong-gun",
@@ -343,7 +343,7 @@
         ]
     },
     {
-        "name": "South Jeolla Province",
+        "name": "South Jeolla",
         "cities": [
             "Beolgyo",
             "Boseong-gun",

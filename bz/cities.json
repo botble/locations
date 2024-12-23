@@ -1,13 +1,13 @@
 [
     {
-        "name": "Belize District",
+        "name": "Belize",
         "cities": [
             "Belize City",
             "San Pedro"
         ]
     },
     {
-        "name": "Cayo District",
+        "name": "Cayo",
         "cities": [
             "Belmopan",
             "Benque Viejo el Carmen",
@@ -16,13 +16,13 @@
         ]
     },
     {
-        "name": "Corozal District",
+        "name": "Corozal",
         "cities": [
             "Corozal"
         ]
     },
     {
-        "name": "Orange Walk District",
+        "name": "Orange Walk",
         "cities": [
             "Hopelchén",
             "Orange Walk",
@@ -30,14 +30,14 @@
         ]
     },
     {
-        "name": "Stann Creek District",
+        "name": "Stann Creek",
         "cities": [
             "Dangriga",
             "Placencia"
         ]
     },
     {
-        "name": "Toledo District",
+        "name": "Toledo",
         "cities": [
             "Punta Gorda"
         ]

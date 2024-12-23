@@ -7,41 +7,41 @@
         ]
     },
     {
-        "name": "Biombo Region",
+        "name": "Biombo",
         "cities": [
             "Quinhámel"
         ]
     },
     {
-        "name": "Bolama Region",
+        "name": "Bolama",
         "cities": [
             "Bolama",
             "Bubaque"
         ]
     },
     {
-        "name": "Cacheu Region",
+        "name": "Cacheu",
         "cities": [
             "Cacheu",
             "Canchungo"
         ]
     },
     {
-        "name": "Gabú Region",
+        "name": "Gabú",
         "cities": [
             "Gabú"
         ]
     },
     {
-        "name": "Leste Province",
+        "name": "Leste",
         "cities": []
     },
     {
-        "name": "Norte Province",
+        "name": "Norte",
         "cities": []
     },
     {
-        "name": "Oio Region",
+        "name": "Oio",
         "cities": [
             "Bissorã",
             "Farim",
@@ -49,17 +49,17 @@
         ]
     },
     {
-        "name": "Quinara Region",
+        "name": "Quinara",
         "cities": [
             "Buba"
         ]
     },
     {
-        "name": "Sul Province",
+        "name": "Sul",
         "cities": []
     },
     {
-        "name": "Tombali Region",
+        "name": "Tombali",
         "cities": [
             "Catió",
             "Quebo"

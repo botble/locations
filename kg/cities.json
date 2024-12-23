@@ -1,6 +1,6 @@
 [
     {
-        "name": "Batken Region",
+        "name": "Batken",
         "cities": [
             "Aydarken",
             "Batken",
@@ -18,7 +18,7 @@
         ]
     },
     {
-        "name": "Chuy Region",
+        "name": "Chuy",
         "cities": [
             "Alamudunskiy Rayon",
             "Belovodskoye",
@@ -36,7 +36,7 @@
         ]
     },
     {
-        "name": "Issyk-Kul Region",
+        "name": "Issyk-Kul",
         "cities": [
             "Ak-Suu",
             "Balykchy",
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "name": "Jalal-Abad Region",
+        "name": "Jalal-Abad",
         "cities": [
             "Ala-Buka",
             "Bazar-Korgon",
@@ -63,7 +63,7 @@
         ]
     },
     {
-        "name": "Naryn Region",
+        "name": "Naryn",
         "cities": [
             "At-Bashi",
             "Jumgal",
@@ -75,7 +75,7 @@
         "cities": []
     },
     {
-        "name": "Osh Region",
+        "name": "Osh",
         "cities": [
             "Chong-Alay District",
             "Daroot-Korgon",
@@ -89,7 +89,7 @@
         ]
     },
     {
-        "name": "Talas Region",
+        "name": "Talas",
         "cities": [
             "Kara-Buurinskiy Rayon",
             "Talas",

@@ -1,65 +1,65 @@
 [
     {
-        "name": "Addu Atoll",
+        "name": "Addu",
         "cities": [
             "Hithadhoo",
             "Meedhoo"
         ]
     },
     {
-        "name": "Alif Alif Atoll",
+        "name": "Alif Alif",
         "cities": []
     },
     {
-        "name": "Alif Dhaal Atoll",
+        "name": "Alif Dhaal",
         "cities": []
     },
     {
-        "name": "Central Province",
+        "name": "Central",
         "cities": []
     },
     {
-        "name": "Dhaalu Atoll",
+        "name": "Dhaalu",
         "cities": [
             "Kudahuvadhoo"
         ]
     },
     {
-        "name": "Faafu Atoll",
+        "name": "Faafu",
         "cities": []
     },
     {
-        "name": "Gaafu Alif Atoll",
+        "name": "Gaafu Alif",
         "cities": [
             "Viligili"
         ]
     },
     {
-        "name": "Gaafu Dhaalu Atoll",
+        "name": "Gaafu Dhaalu",
         "cities": [
             "Thinadhoo"
         ]
     },
     {
-        "name": "Gnaviyani Atoll",
+        "name": "Gnaviyani",
         "cities": [
             "Fuvahmulah"
         ]
     },
     {
-        "name": "Haa Alif Atoll",
+        "name": "Haa Alif",
         "cities": [
             "Dhidhdhoo"
         ]
     },
     {
-        "name": "Haa Dhaalu Atoll",
+        "name": "Haa Dhaalu",
         "cities": [
             "Kulhudhuffushi"
         ]
     },
     {
-        "name": "Kaafu Atoll",
+        "name": "Kaafu",
         "cities": [
             "Guraidhoo",
             "Hulhumale",
@@ -68,13 +68,13 @@
         ]
     },
     {
-        "name": "Laamu Atoll",
+        "name": "Laamu",
         "cities": [
             "Fonadhoo"
         ]
     },
     {
-        "name": "Lhaviyani Atoll",
+        "name": "Lhaviyani",
         "cities": [
             "Naifaru"
         ]
@@ -84,59 +84,55 @@
         "cities": []
     },
     {
-        "name": "Meemu Atoll",
+        "name": "Meemu",
         "cities": [
             "Muli"
         ]
     },
     {
-        "name": "Noonu Atoll",
+        "name": "Noonu",
         "cities": [
             "Manadhoo"
         ]
     },
     {
-        "name": "North Central Province",
+        "name": "North Central",
         "cities": []
     },
     {
-        "name": "North Province",
-        "cities": []
-    },
-    {
-        "name": "Raa Atoll",
+        "name": "Raa",
         "cities": [
             "Ugoofaaru"
         ]
     },
     {
-        "name": "Shaviyani Atoll",
+        "name": "Shaviyani",
         "cities": [
             "Funadhoo"
         ]
     },
     {
-        "name": "South Central Province",
+        "name": "South",
+        "cities": []
+    },
+    {
+        "name": "South Central",
         "cities": [
             "Mahibadhoo"
         ]
     },
     {
-        "name": "South Province",
-        "cities": []
-    },
-    {
-        "name": "Thaa Atoll",
+        "name": "Thaa",
         "cities": [
             "Veymandoo"
         ]
     },
     {
-        "name": "Upper South Province",
+        "name": "Upper South",
         "cities": []
     },
     {
-        "name": "Vaavu Atoll",
+        "name": "Vaavu",
         "cities": [
             "Felidhoo"
         ]

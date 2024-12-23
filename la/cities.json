@@ -1,6 +1,6 @@
 [
     {
-        "name": "Attapeu Province",
+        "name": "Attapeu",
         "cities": [
             "Attapeu",
             "Muang Phouvong",
@@ -11,7 +11,7 @@
         ]
     },
     {
-        "name": "Bokeo Province",
+        "name": "Bokeo",
         "cities": [
             "Ban Houakhoua",
             "Ban Houayxay",
@@ -23,14 +23,14 @@
         ]
     },
     {
-        "name": "Bolikhamsai Province",
+        "name": "Bolikhamsai",
         "cities": [
             "Ban Nahin",
             "Pakxan"
         ]
     },
     {
-        "name": "Champasak Province",
+        "name": "Champasak",
         "cities": [
             "Champasak",
             "Muang Bachiangchaleunsook",
@@ -48,52 +48,52 @@
         ]
     },
     {
-        "name": "Houaphanh Province",
+        "name": "Houaphanh",
         "cities": [
             "Xam Neua",
             "Xam Nua"
         ]
     },
     {
-        "name": "Khammouane Province",
+        "name": "Khammouane",
         "cities": [
             "Muang Thakhèk",
             "Thakhèk"
         ]
     },
     {
-        "name": "Luang Namtha Province",
+        "name": "Luang Namtha",
         "cities": [
             "Luang Namtha",
             "Muang Louang Namtha"
         ]
     },
     {
-        "name": "Luang Prabang Province",
+        "name": "Luang Prabang",
         "cities": [
             "Luang Prabang"
         ]
     },
     {
-        "name": "Oudomxay Province",
+        "name": "Oudomxay",
         "cities": [
             "Muang Xay"
         ]
     },
     {
-        "name": "Phongsaly Province",
+        "name": "Phongsaly",
         "cities": [
             "Phôngsali"
         ]
     },
     {
-        "name": "Sainyabuli Province",
+        "name": "Sainyabuli",
         "cities": [
             "Sainyabuli"
         ]
     },
     {
-        "name": "Salavan Province",
+        "name": "Salavan",
         "cities": [
             "Muang Khôngxédôn",
             "Muang Lakhonphéng",
@@ -107,7 +107,7 @@
         ]
     },
     {
-        "name": "Savannakhet Province",
+        "name": "Savannakhet",
         "cities": [
             "Kaysone Phomvihane",
             "Muang Alsaphangthong",
@@ -127,7 +127,7 @@
         ]
     },
     {
-        "name": "Sekong Province",
+        "name": "Sekong",
         "cities": [
             "Ban Thatèng",
             "Lamam",
@@ -138,24 +138,20 @@
         ]
     },
     {
-        "name": "Vientiane Prefecture",
-        "cities": [
-            "Vientiane"
-        ]
-    },
-    {
-        "name": "Vientiane Province",
+        "name": "Vientiane",
         "cities": [
             "Muang Phôn-Hông",
             "Vangviang"
         ]
     },
     {
-        "name": "Xaisomboun",
-        "cities": []
+        "name": "Vientiane",
+        "cities": [
+            "Vientiane"
+        ]
     },
     {
-        "name": "Xaisomboun Province",
+        "name": "Xaisomboun",
         "cities": [
             "Anouvong district",
             "Longchaeng",
@@ -164,7 +160,7 @@
         ]
     },
     {
-        "name": "Xiangkhouang Province",
+        "name": "Xiangkhouang",
         "cities": [
             "Muang Phônsavan"
         ]

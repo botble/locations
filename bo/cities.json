@@ -1,6 +1,6 @@
 [
     {
-        "name": "Beni Department",
+        "name": "Beni",
         "cities": [
             "Guayaramerín",
             "Provincia Cercado",
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "name": "Chuquisaca Department",
+        "name": "Chuquisaca",
         "cities": [
             "Camargo",
             "Monteagudo",
@@ -42,7 +42,7 @@
         ]
     },
     {
-        "name": "Cochabamba Department",
+        "name": "Cochabamba",
         "cities": [
             "Aiquile",
             "Arani",
@@ -81,7 +81,7 @@
         ]
     },
     {
-        "name": "La Paz Department",
+        "name": "La Paz",
         "cities": [
             "Achacachi",
             "Amarete",
@@ -129,7 +129,7 @@
         ]
     },
     {
-        "name": "Oruro Department",
+        "name": "Oruro",
         "cities": [
             "Challapata",
             "Huanuni",
@@ -156,7 +156,7 @@
         ]
     },
     {
-        "name": "Pando Department",
+        "name": "Pando",
         "cities": [
             "Cobija",
             "Provincia Abuná",
@@ -167,7 +167,7 @@
         ]
     },
     {
-        "name": "Potosí Department",
+        "name": "Potosí",
         "cities": [
             "Atocha",
             "Betanzos",
@@ -198,7 +198,7 @@
         ]
     },
     {
-        "name": "Santa Cruz Department",
+        "name": "Santa Cruz",
         "cities": [
             "Abapó",
             "Ascención de Guarayos",
@@ -257,7 +257,7 @@
         ]
     },
     {
-        "name": "Tarija Department",
+        "name": "Tarija",
         "cities": [
             "Bermejo",
             "Entre Ríos",

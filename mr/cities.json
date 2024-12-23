@@ -92,7 +92,11 @@
     },
     {
         "name": "Tagant",
-        "cities": []
+        "cities": [
+            "Moudjeria",
+            "Tichit",
+            "Tijigja"
+        ]
     },
     {
         "name": "Tiris Zemmour",

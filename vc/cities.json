@@ -1,6 +1,6 @@
 [
     {
-        "name": "Charlotte Parish",
+        "name": "Charlotte",
         "cities": [
             "Biabou",
             "Byera Village",
@@ -8,32 +8,32 @@
         ]
     },
     {
-        "name": "Grenadines Parish",
+        "name": "Grenadines",
         "cities": [
             "Port Elizabeth"
         ]
     },
     {
-        "name": "Saint Andrew Parish",
+        "name": "Saint Andrew",
         "cities": [
             "Layou"
         ]
     },
     {
-        "name": "Saint David Parish",
+        "name": "Saint David",
         "cities": [
             "Chateaubelair"
         ]
     },
     {
-        "name": "Saint George Parish",
+        "name": "Saint George",
         "cities": [
             "Kingstown",
             "Kingstown Park"
         ]
     },
     {
-        "name": "Saint Patrick Parish",
+        "name": "Saint Patrick",
         "cities": [
             "Barrouallie"
         ]

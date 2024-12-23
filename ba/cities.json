@@ -1,10 +1,10 @@
 [
     {
-        "name": "Bosnian Podrinje Canton",
+        "name": "Bosnian Podrinje",
         "cities": []
     },
     {
-        "name": "Brčko District",
+        "name": "Brčko",
         "cities": [
             "Brčko",
             "Brka"
@@ -15,7 +15,7 @@
         "cities": []
     },
     {
-        "name": "Central Bosnia Canton",
+        "name": "Central Bosnia",
         "cities": []
     },
     {
@@ -179,11 +179,11 @@
         ]
     },
     {
-        "name": "Herzegovina-Neretva Canton",
+        "name": "Herzegovina-Neretva",
         "cities": []
     },
     {
-        "name": "Posavina Canton",
+        "name": "Posavina",
         "cities": []
     },
     {
@@ -267,23 +267,23 @@
         ]
     },
     {
-        "name": "Sarajevo Canton",
+        "name": "Sarajevo",
         "cities": []
     },
     {
-        "name": "Tuzla Canton",
+        "name": "Tuzla",
         "cities": []
     },
     {
-        "name": "Una-Sana Canton",
+        "name": "Una-Sana",
         "cities": []
     },
     {
-        "name": "West Herzegovina Canton",
+        "name": "West Herzegovina",
         "cities": []
     },
     {
-        "name": "Zenica-Doboj Canton",
+        "name": "Zenica-Doboj",
         "cities": []
     }
 ]

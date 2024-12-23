@@ -1,6 +1,6 @@
 [
     {
-        "name": "Abu Dhabi Emirate",
+        "name": "Abu Dhabi",
         "cities": [
             "Abu Dhabi Island and Internal Islands City",
             "Abu Dhabi Municipality",
@@ -8,16 +8,16 @@
             "Al Ain Municipality",
             "Al Dhafra",
             "Al Shamkhah City",
-            "Ar Ruways",
             "Bani Yas City",
             "Khalifah A City",
             "Musaffah",
             "Muzayri‘",
+            "Ruwais",
             "Zayed City"
         ]
     },
     {
-        "name": "Ajman Emirate",
+        "name": "Ajman",
         "cities": [
             "Ajman",
             "Ajman City",
@@ -50,7 +50,7 @@
         ]
     },
     {
-        "name": "Sharjah Emirate",
+        "name": "Sharjah",
         "cities": [
             "Adh Dhayd",
             "Al Batayih",

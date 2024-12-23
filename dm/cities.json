@@ -1,6 +1,6 @@
 [
     {
-        "name": "Saint Andrew Parish",
+        "name": "Saint Andrew",
         "cities": [
             "Calibishie",
             "Marigot",
@@ -9,59 +9,59 @@
         ]
     },
     {
-        "name": "Saint David Parish",
+        "name": "Saint David",
         "cities": [
             "Castle Bruce",
             "Rosalie"
         ]
     },
     {
-        "name": "Saint George Parish",
+        "name": "Saint George",
         "cities": [
             "Roseau"
         ]
     },
     {
-        "name": "Saint John Parish",
+        "name": "Saint John",
         "cities": [
             "Portsmouth"
         ]
     },
     {
-        "name": "Saint Joseph Parish",
+        "name": "Saint Joseph",
         "cities": [
             "Saint Joseph",
             "Salisbury"
         ]
     },
     {
-        "name": "Saint Luke Parish",
+        "name": "Saint Luke",
         "cities": [
             "Pointe Michel"
         ]
     },
     {
-        "name": "Saint Mark Parish",
+        "name": "Saint Mark",
         "cities": [
             "Soufrière"
         ]
     },
     {
-        "name": "Saint Patrick Parish",
+        "name": "Saint Patrick",
         "cities": [
             "Berekua",
             "La Plaine"
         ]
     },
     {
-        "name": "Saint Paul Parish",
+        "name": "Saint Paul",
         "cities": [
             "Mahaut",
             "Pont Cassé"
         ]
     },
     {
-        "name": "Saint Peter Parish",
+        "name": "Saint Peter",
         "cities": [
             "Colihaut"
         ]

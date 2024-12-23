@@ -1,47 +1,38 @@
 [
     {
-        "name": "Canton of Capellen"
+        "name": "Capellen"
     },
     {
-        "name": "Canton of Clervaux"
+        "name": "Clervaux"
     },
     {
-        "name": "Canton of Diekirch"
+        "name": "Diekirch"
     },
     {
-        "name": "Canton of Echternach"
+        "name": "Echternach"
     },
     {
-        "name": "Canton of Esch-sur-Alzette"
+        "name": "Esch-sur-Alzette"
     },
     {
-        "name": "Canton of Grevenmacher"
+        "name": "Grevenmacher"
     },
     {
-        "name": "Canton of Luxembourg"
+        "name": "Luxembourg "
     },
     {
-        "name": "Canton of Mersch"
+        "name": "Mersch"
     },
     {
-        "name": "Canton of Redange"
+        "name": "Redange"
     },
     {
-        "name": "Canton of Remich"
+        "name": "Remich"
     },
     {
-        "name": "Canton of Vianden"
+        "name": "Vianden"
     },
     {
-        "name": "Canton of Wiltz"
-    },
-    {
-        "name": "Diekirch District"
-    },
-    {
-        "name": "Grevenmacher District"
-    },
-    {
-        "name": "Luxembourg District"
+        "name": "Wiltz"
     }
 ]

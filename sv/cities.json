@@ -1,6 +1,6 @@
 [
     {
-        "name": "Ahuachapán Department",
+        "name": "Ahuachapán",
         "cities": [
             "Ahuachapán",
             "Atiquizaya",
@@ -12,21 +12,21 @@
         ]
     },
     {
-        "name": "Cabañas Department",
+        "name": "Cabañas",
         "cities": [
             "Sensuntepeque",
             "Victoria"
         ]
     },
     {
-        "name": "Chalatenango Department",
+        "name": "Chalatenango",
         "cities": [
             "Chalatenango",
             "Nueva Concepción"
         ]
     },
     {
-        "name": "Cuscatlán Department",
+        "name": "Cuscatlán",
         "cities": [
             "Cojutepeque",
             "San Martín",
@@ -36,7 +36,7 @@
         ]
     },
     {
-        "name": "La Libertad Department",
+        "name": "La Libertad",
         "cities": [
             "Antiguo Cuscatlán",
             "Ciudad Arce",
@@ -50,7 +50,7 @@
         ]
     },
     {
-        "name": "La Paz Department",
+        "name": "La Paz",
         "cities": [
             "El Rosario",
             "Olocuilta",
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "name": "La Unión Department",
+        "name": "La Unión ",
         "cities": [
             "Anamorós",
             "Conchagua",
@@ -73,7 +73,7 @@
         ]
     },
     {
-        "name": "Morazán Department",
+        "name": "Morazán",
         "cities": [
             "Cacaopera",
             "Corinto",
@@ -84,7 +84,7 @@
         ]
     },
     {
-        "name": "San Miguel Department",
+        "name": "San Miguel",
         "cities": [
             "Chapeltique",
             "Chinameca",
@@ -100,7 +100,7 @@
         ]
     },
     {
-        "name": "San Salvador Department",
+        "name": "San Salvador",
         "cities": [
             "Aguilares",
             "Apopa",
@@ -121,7 +121,7 @@
         ]
     },
     {
-        "name": "San Vicente Department",
+        "name": "San Vicente",
         "cities": [
             "Apastepeque",
             "San Sebastián",
@@ -129,7 +129,7 @@
         ]
     },
     {
-        "name": "Santa Ana Department",
+        "name": "Santa Ana",
         "cities": [
             "Candelaria de La Frontera",
             "Chalchuapa",
@@ -141,7 +141,7 @@
         ]
     },
     {
-        "name": "Sonsonate Department",
+        "name": "Sonsonate",
         "cities": [
             "Acajutla",
             "Armenia",
@@ -154,7 +154,7 @@
         ]
     },
     {
-        "name": "Usulután Department",
+        "name": "Usulután",
         "cities": [
             "Berlín",
             "Concepción Batres",

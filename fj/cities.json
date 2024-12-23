@@ -12,7 +12,7 @@
         "cities": []
     },
     {
-        "name": "Central Division",
+        "name": "Central",
         "cities": [
             "Naitasiri Province",
             "Namosi Province",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "name": "Eastern Division",
+        "name": "Eastern",
         "cities": [
             "Kadavu Province",
             "Lau Province",
@@ -60,7 +60,7 @@
         "cities": []
     },
     {
-        "name": "Northern Division",
+        "name": "Northern",
         "cities": [
             "Bua Province",
             "Cakaudrove Province",
@@ -89,7 +89,7 @@
         "cities": []
     },
     {
-        "name": "Western Division",
+        "name": "Western",
         "cities": [
             "Ba",
             "Ba Province",

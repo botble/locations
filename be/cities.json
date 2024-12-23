@@ -4,7 +4,7 @@
         "cities": []
     },
     {
-        "name": "Brussels-Capital Region",
+        "name": "Brussels-Capital ",
         "cities": [
             "Brussels"
         ]
@@ -534,7 +534,6 @@
             "Province de Namur",
             "Province du Brabant Wallon",
             "Province du Hainaut",
-            "Province du Luxembourg",
             "Quaregnon",
             "Quévy-le-Petit",
             "Quiévrain",

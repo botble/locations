@@ -1,6 +1,6 @@
 [
     {
-        "name": "Chagang Province",
+        "name": "Chagang",
         "cities": [
             "Changgang-gun",
             "Chasŏng",
@@ -9,7 +9,7 @@
         ]
     },
     {
-        "name": "Kangwon Province",
+        "name": "Kangwon",
         "cities": [
             "Anbyŏn-ŭp",
             "Hoeyang",
@@ -19,7 +19,7 @@
         ]
     },
     {
-        "name": "North Hamgyong Province",
+        "name": "North Hamgyong",
         "cities": [
             "Aoji",
             "Chongjin",
@@ -40,7 +40,7 @@
         ]
     },
     {
-        "name": "North Hwanghae Province",
+        "name": "North Hwanghae",
         "cities": [
             "Anak",
             "Hŭkkyo-ri",
@@ -52,7 +52,7 @@
         ]
     },
     {
-        "name": "North Pyongan Province",
+        "name": "North Pyongan",
         "cities": [
             "Chŏngju",
             "Chŏngju-gun",
@@ -86,7 +86,7 @@
         ]
     },
     {
-        "name": "Ryanggang Province",
+        "name": "Ryanggang",
         "cities": [
             "Hyesan",
             "Hyesan-dong",
@@ -95,7 +95,7 @@
         ]
     },
     {
-        "name": "South Hamgyong Province",
+        "name": "South Hamgyong",
         "cities": [
             "Hamhŭng",
             "Hongwŏn",
@@ -109,7 +109,7 @@
         ]
     },
     {
-        "name": "South Hwanghae Province",
+        "name": "South Hwanghae",
         "cities": [
             "Ayang-ni",
             "Chaeryŏng-ŭp",
@@ -122,7 +122,7 @@
         ]
     },
     {
-        "name": "South Pyongan Province",
+        "name": "South Pyongan",
         "cities": [
             "Anju",
             "Namp’o",

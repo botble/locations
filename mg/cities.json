@@ -1,10 +1,10 @@
 [
     {
-        "name": "Antananarivo Province",
+        "name": "Antananarivo",
         "cities": []
     },
     {
-        "name": "Antsiranana Province",
+        "name": "Antsiranana",
         "cities": [
             "Ampasimanolotra",
             "Andovoranto",
@@ -18,19 +18,19 @@
         ]
     },
     {
-        "name": "Fianarantsoa Province",
+        "name": "Fianarantsoa",
         "cities": []
     },
     {
-        "name": "Mahajanga Province",
+        "name": "Mahajanga",
         "cities": []
     },
     {
-        "name": "Toamasina Province",
+        "name": "Toamasina",
         "cities": []
     },
     {
-        "name": "Toliara Province",
+        "name": "Toliara",
         "cities": []
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "name": "Clarendon Parish",
+        "name": "Clarendon",
         "cities": [
             "Aenon Town",
             "Alley",
@@ -91,7 +91,7 @@
         ]
     },
     {
-        "name": "Hanover Parish",
+        "name": "Hanover",
         "cities": [
             "Askenish",
             "Cacoon",
@@ -132,7 +132,7 @@
         ]
     },
     {
-        "name": "Kingston Parish",
+        "name": "Kingston",
         "cities": [
             "Allman Town",
             "Bournemouth Gardens",
@@ -162,7 +162,7 @@
         ]
     },
     {
-        "name": "Manchester Parish",
+        "name": "Manchester",
         "cities": [
             "Alligator Pond",
             "Asia/Pratville",
@@ -242,7 +242,7 @@
         ]
     },
     {
-        "name": "Portland Parish",
+        "name": "Portland",
         "cities": [
             "Balcarres",
             "Bangor Ridge",
@@ -403,7 +403,7 @@
         ]
     },
     {
-        "name": "Saint Ann Parish",
+        "name": "Saint Ann",
         "cities": [
             "Aboukir",
             "Alderton",
@@ -462,7 +462,7 @@
         ]
     },
     {
-        "name": "Saint Catherine Parish",
+        "name": "Saint Catherine",
         "cities": [
             "Above Rocks",
             "Bartons",
@@ -521,7 +521,7 @@
         ]
     },
     {
-        "name": "Saint Elizabeth Parish",
+        "name": "Saint Elizabeth",
         "cities": [
             "Aberdeen",
             "Accompong",
@@ -589,7 +589,7 @@
         ]
     },
     {
-        "name": "Saint James Parish",
+        "name": "Saint James",
         "cities": [
             "Adelphi",
             "Albion",
@@ -668,7 +668,7 @@
         ]
     },
     {
-        "name": "Saint Mary Parish",
+        "name": "Saint Mary",
         "cities": [
             "Amiel Town",
             "Annotto Bay",
@@ -718,7 +718,7 @@
         ]
     },
     {
-        "name": "Saint Thomas Parish",
+        "name": "Saint Thomas",
         "cities": [
             "Airy Castle",
             "Albion",
@@ -780,7 +780,7 @@
         ]
     },
     {
-        "name": "Trelawny Parish",
+        "name": "Trelawny",
         "cities": [
             "Albert Town",
             "Alps",
@@ -823,7 +823,7 @@
         ]
     },
     {
-        "name": "Westmoreland Parish",
+        "name": "Westmoreland",
         "cities": [
             "12th Street",
             "Amity",

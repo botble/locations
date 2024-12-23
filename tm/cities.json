@@ -1,6 +1,6 @@
 [
     {
-        "name": "Ahal Region",
+        "name": "Ahal",
         "cities": [
             "Abadan",
             "Annau",
@@ -17,7 +17,7 @@
         ]
     },
     {
-        "name": "Balkan Region",
+        "name": "Balkan",
         "cities": [
             "Balkanabat",
             "Bereket",
@@ -28,7 +28,7 @@
         ]
     },
     {
-        "name": "Daşoguz Region",
+        "name": "Daşoguz",
         "cities": [
             "Akdepe",
             "Boldumsaz",
@@ -39,7 +39,7 @@
         ]
     },
     {
-        "name": "Lebap Region",
+        "name": "Lebap",
         "cities": [
             "Atamyrat",
             "Farap",
@@ -50,7 +50,7 @@
         ]
     },
     {
-        "name": "Mary Region",
+        "name": "Mary",
         "cities": [
             "Bayramaly",
             "Mary",

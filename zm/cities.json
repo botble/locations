@@ -1,6 +1,6 @@
 [
     {
-        "name": "Central Province",
+        "name": "Central",
         "cities": [
             "Chibombo",
             "Chibombo District",
@@ -12,7 +12,7 @@
         ]
     },
     {
-        "name": "Copperbelt Province",
+        "name": "Copperbelt",
         "cities": [
             "Chambishi",
             "Chililabombwe",
@@ -28,7 +28,7 @@
         ]
     },
     {
-        "name": "Eastern Province",
+        "name": "Eastern",
         "cities": [
             "Chadiza",
             "Chipata",
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "name": "Luapula Province",
+        "name": "Luapula",
         "cities": [
             "Kawambwa",
             "Mansa",
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "name": "Lusaka Province",
+        "name": "Lusaka",
         "cities": [
             "Chongwe",
             "Kafue",
@@ -57,7 +57,7 @@
         ]
     },
     {
-        "name": "Muchinga Province",
+        "name": "Muchinga",
         "cities": [
             "Chama",
             "Chinsali",
@@ -67,7 +67,7 @@
         ]
     },
     {
-        "name": "Northern Province",
+        "name": "Northern",
         "cities": [
             "Kaputa",
             "Kasama",
@@ -79,7 +79,7 @@
         ]
     },
     {
-        "name": "Northwestern Province",
+        "name": "Northwestern",
         "cities": [
             "Kabompo",
             "Kalengwa",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "name": "Southern Province",
+        "name": "Southern",
         "cities": [
             "Choma",
             "Gwembe",
@@ -109,7 +109,7 @@
         ]
     },
     {
-        "name": "Western Province",
+        "name": "Western",
         "cities": [
             "Kalabo",
             "Kaoma",

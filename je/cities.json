@@ -1,1 +1,116 @@
-[]
+[
+    {
+        "name": "Grouville",
+        "cities": [
+            "Vingtaine de la Rocque",
+            "Vingtaine de la Rue",
+            "Vingtaine de Longueville",
+            "Vingtaine des Marais"
+        ]
+    },
+    {
+        "name": "St Brelade",
+        "cities": [
+            "Vingtaine de la Moye",
+            "Vingtaine de Noirmont",
+            "Vingtaine des Quennevais",
+            "Vingtaine du Coin"
+        ]
+    },
+    {
+        "name": "St Clement",
+        "cities": [
+            "Grande Vingtaine",
+            "Vingtaine de Samarès",
+            "Vingtaine du Rocquier"
+        ]
+    },
+    {
+        "name": "St Helier",
+        "cities": [
+            "Vingtaine de Bas du Mont au Prêtre",
+            "Vingtaine de Haut du Mont au Prêtre",
+            "Vingtaine de la Ville",
+            "Vingtaine du Mont à l'Abbé",
+            "Vingtaine du Mont Cochon",
+            "Vingtaine du Rouge Bouillon"
+        ]
+    },
+    {
+        "name": "St John",
+        "cities": [
+            "Vingtaine de Hérupe",
+            "Vingtaine du Douet",
+            "Vingtaine du Nord"
+        ]
+    },
+    {
+        "name": "St Lawrence",
+        "cities": [
+            "Vingtaine Bas de la Vallée",
+            "Vingtaine du Coin Hatain",
+            "Vingtaine du Coin Motier",
+            "Vingtaine du Coin Tourgis Nord",
+            "Vingtaine du Coin Tourgis Sud",
+            "Vingtaine Haut de la Vallée"
+        ]
+    },
+    {
+        "name": "St Martin",
+        "cities": [
+            "Vingtaine de Faldouet",
+            "Vingtaine de l'Église",
+            "Vingtaine de la Quéruée",
+            "Vingtaine de Rozel",
+            "Vingtaine du Fief de la Reine"
+        ]
+    },
+    {
+        "name": "St Mary",
+        "cities": [
+            "Vingtaine du Nord",
+            "Vingtaine du Sud"
+        ]
+    },
+    {
+        "name": "St Ouen",
+        "cities": [
+            "Cueillette de Grantez",
+            "Cueillette de Léoville",
+            "Cueillette de Millais",
+            "Cueillette de Vinchelez",
+            "Grande Cueillette",
+            "Petite Cueillette"
+        ]
+    },
+    {
+        "name": "St Peter",
+        "cities": [
+            "Grande Vingtaine",
+            "Vingtaine des Augerez",
+            "Vingtaine du Coin Varin",
+            "Vingtaine du Douet"
+        ]
+    },
+    {
+        "name": "St Saviour",
+        "cities": [
+            "Vingtaine de la Grande Longueville",
+            "Vingtaine de la Petite Longueville",
+            "Vingtaine de Maufant",
+            "Vingtaine de Sous l'Église",
+            "Vingtaine de Sous la Hougue",
+            "Vingtaine des Pigneaux"
+        ]
+    },
+    {
+        "name": "Trinity",
+        "cities": [
+            "Vingtaine de la Croiserie",
+            "Vingtaine de la Ville-à-l'Évêque",
+            "Vingtaine de Rozel",
+            "Vingtaine des Augrès",
+            "Vingtaine du Rondin"
+        ]
+    }
+]

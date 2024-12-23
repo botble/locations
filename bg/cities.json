@@ -1,6 +1,6 @@
 [
     {
-        "name": "Blagoevgrad Province",
+        "name": "Blagoevgrad",
         "cities": [
             "Bansko",
             "Belitsa",
@@ -34,7 +34,7 @@
         ]
     },
     {
-        "name": "Burgas Province",
+        "name": "Burgas",
         "cities": [
             "Aheloy",
             "Ahtopol",
@@ -71,7 +71,7 @@
         ]
     },
     {
-        "name": "Dobrich Province",
+        "name": "Dobrich",
         "cities": [
             "Balchik",
             "Dobrich",
@@ -91,7 +91,7 @@
         ]
     },
     {
-        "name": "Gabrovo Province",
+        "name": "Gabrovo",
         "cities": [
             "Dryanovo",
             "Gabrovo",
@@ -104,7 +104,7 @@
         ]
     },
     {
-        "name": "Haskovo Province",
+        "name": "Haskovo",
         "cities": [
             "Dimitrovgrad",
             "Harmanli",
@@ -128,7 +128,7 @@
         ]
     },
     {
-        "name": "Kardzhali Province",
+        "name": "Kardzhali",
         "cities": [
             "Ardino",
             "Dzhebel",
@@ -144,7 +144,7 @@
         ]
     },
     {
-        "name": "Kyustendil Province",
+        "name": "Kyustendil",
         "cities": [
             "Boboshevo",
             "Bobov Dol",
@@ -166,7 +166,7 @@
         ]
     },
     {
-        "name": "Lovech Province",
+        "name": "Lovech",
         "cities": [
             "Apriltsi",
             "Letnitsa",
@@ -182,7 +182,7 @@
         ]
     },
     {
-        "name": "Montana Province",
+        "name": "Montana",
         "cities": [
             "Berkovitsa",
             "Boychinovtsi",
@@ -205,7 +205,7 @@
         ]
     },
     {
-        "name": "Pazardzhik Province",
+        "name": "Pazardzhik",
         "cities": [
             "Batak",
             "Belovo",
@@ -234,7 +234,7 @@
         ]
     },
     {
-        "name": "Pernik Province",
+        "name": "Pernik",
         "cities": [
             "Batanovtsi",
             "Breznik",
@@ -249,7 +249,7 @@
         ]
     },
     {
-        "name": "Pleven Province",
+        "name": "Pleven",
         "cities": [
             "Belene",
             "Cherven Bryag",
@@ -278,7 +278,7 @@
         ]
     },
     {
-        "name": "Plovdiv Province",
+        "name": "Plovdiv",
         "cities": [
             "Asenovgrad",
             "Brezovo",
@@ -317,7 +317,7 @@
         ]
     },
     {
-        "name": "Razgrad Province",
+        "name": "Razgrad",
         "cities": [
             "Isperih",
             "Kubrat",
@@ -337,7 +337,7 @@
         ]
     },
     {
-        "name": "Ruse Province",
+        "name": "Ruse",
         "cities": [
             "Borovo",
             "Dve Mogili",
@@ -364,7 +364,7 @@
         ]
     },
     {
-        "name": "Silistra Province",
+        "name": "Silistra",
         "cities": [
             "Alfatar",
             "Dulovo",
@@ -383,7 +383,7 @@
         ]
     },
     {
-        "name": "Sliven Province",
+        "name": "Sliven",
         "cities": [
             "Kermen",
             "Kotel",
@@ -397,7 +397,7 @@
         ]
     },
     {
-        "name": "Smolyan Province",
+        "name": "Smolyan",
         "cities": [
             "Banite",
             "Borino",
@@ -423,15 +423,7 @@
         ]
     },
     {
-        "name": "Sofia City Province",
-        "cities": [
-            "Buhovo",
-            "Sofia",
-            "Stolichna Obshtina"
-        ]
-    },
-    {
-        "name": "Sofia Province",
+        "name": "Sofia",
         "cities": [
             "Anton",
             "Botevgrad",
@@ -478,7 +470,15 @@
         ]
     },
     {
-        "name": "Stara Zagora Province",
+        "name": "Sofia City",
+        "cities": [
+            "Buhovo",
+            "Sofia",
+            "Stolichna Obshtina"
+        ]
+    },
+    {
+        "name": "Stara Zagora",
         "cities": [
             "Asen",
             "Chirpan",
@@ -505,7 +505,7 @@
         ]
     },
     {
-        "name": "Targovishte Province",
+        "name": "Targovishte",
         "cities": [
             "Antonovo",
             "Obshtina Antonovo",
@@ -520,7 +520,7 @@
         ]
     },
     {
-        "name": "Varna Province",
+        "name": "Varna",
         "cities": [
             "Aksakovo",
             "Asparuhovo",
@@ -552,7 +552,7 @@
         ]
     },
     {
-        "name": "Veliko Tarnovo Province",
+        "name": "Veliko Tarnovo",
         "cities": [
             "Byala Cherkva",
             "Debelets",
@@ -581,7 +581,7 @@
         ]
     },
     {
-        "name": "Vidin Province",
+        "name": "Vidin",
         "cities": [
             "Belogradchik",
             "Boynitsa",
@@ -606,7 +606,7 @@
         ]
     },
     {
-        "name": "Vratsa Province",
+        "name": "Vratsa",
         "cities": [
             "Borovan",
             "Byala Slatina",
@@ -630,7 +630,7 @@
         ]
     },
     {
-        "name": "Yambol Province",
+        "name": "Yambol",
         "cities": [
             "Bolyarovo",
             "Elhovo",

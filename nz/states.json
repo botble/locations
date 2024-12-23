@@ -1,53 +1,53 @@
 [
     {
-        "name": "Auckland Region"
+        "name": "Auckland"
     },
     {
-        "name": "Bay of Plenty Region"
+        "name": "Bay of Plenty"
     },
     {
-        "name": "Canterbury Region"
+        "name": "Canterbury"
     },
     {
         "name": "Chatham Islands"
     },
     {
-        "name": "Gisborne District"
+        "name": "Gisborne"
     },
     {
-        "name": "Hawke's Bay Region"
+        "name": "Hawke's Bay"
     },
     {
-        "name": "Manawatu-Wanganui Region"
+        "name": "Manawatu-Wanganui"
     },
     {
-        "name": "Marlborough Region"
+        "name": "Marlborough"
     },
     {
-        "name": "Nelson Region"
+        "name": "Nelson"
     },
     {
-        "name": "Northland Region"
+        "name": "Northland"
     },
     {
-        "name": "Otago Region"
+        "name": "Otago"
     },
     {
-        "name": "Southland Region"
+        "name": "Southland"
     },
     {
-        "name": "Taranaki Region"
+        "name": "Taranaki"
     },
     {
-        "name": "Tasman District"
+        "name": "Tasman"
     },
     {
-        "name": "Waikato Region"
+        "name": "Waikato"
     },
     {
-        "name": "Wellington Region"
+        "name": "Wellington"
     },
     {
-        "name": "West Coast Region"
+        "name": "West Coast"
     }
 ]

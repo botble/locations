@@ -1,32 +1,32 @@
 [
     {
-        "name": "Central Province"
+        "name": "Central"
     },
     {
-        "name": "Copperbelt Province"
+        "name": "Copperbelt"
     },
     {
-        "name": "Eastern Province"
+        "name": "Eastern"
     },
     {
-        "name": "Luapula Province"
+        "name": "Luapula"
     },
     {
-        "name": "Lusaka Province"
+        "name": "Lusaka"
     },
     {
-        "name": "Muchinga Province"
+        "name": "Muchinga"
     },
     {
-        "name": "Northern Province"
+        "name": "Northern"
     },
     {
-        "name": "Northwestern Province"
+        "name": "Northwestern"
     },
     {
-        "name": "Southern Province"
+        "name": "Southern"
     },
     {
-        "name": "Western Province"
+        "name": "Western"
     }
 ]

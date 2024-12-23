@@ -158,13 +158,6 @@
         ]
     },
     {
-        "name": "Archipiélago de San Andrés, Providencia y Santa Catalina",
-        "cities": [
-            "Providencia",
-            "San Andrés"
-        ]
-    },
-    {
         "name": "Atlántico",
         "cities": [
             "Baranoa",
@@ -612,7 +605,6 @@
             "Arbeláez",
             "Beltrán",
             "Bituima",
-            "Bogotá D.C.",
             "Bojacá",
             "Cabrera",
             "Cachipay",
@@ -1043,6 +1035,13 @@
             "Quinchía",
             "Santa Rosa de Cabal",
             "Santuario"
+        ]
+    },
+    {
+        "name": "San Andrés, Providencia y Santa Catalina",
+        "cities": [
+            "Providencia",
+            "San Andrés"
         ]
     },
     {

@@ -1,6 +1,6 @@
 [
     {
-        "name": "Alibori Department",
+        "name": "Alibori",
         "cities": [
             "Banikoara",
             "Kandi",
@@ -8,7 +8,7 @@
         ]
     },
     {
-        "name": "Atakora Department",
+        "name": "Atakora",
         "cities": [
             "Guilmaro",
             "Natitingou",
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "name": "Atlantique Department",
+        "name": "Atlantique",
         "cities": [
             "Abomey-Calavi",
             "Allada",
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "name": "Borgou Department",
+        "name": "Borgou",
         "cities": [
             "Bembèrèkè",
             "Bétérou",
@@ -36,7 +36,7 @@
         ]
     },
     {
-        "name": "Collines Department",
+        "name": "Collines",
         "cities": [
             "Comé",
             "Dassa-Zoumé",
@@ -45,7 +45,7 @@
         ]
     },
     {
-        "name": "Donga Department",
+        "name": "Donga",
         "cities": [
             "Bassila",
             "Commune of Djougou",
@@ -53,33 +53,33 @@
         ]
     },
     {
-        "name": "Kouffo Department",
+        "name": "Kouffo",
         "cities": [
             "Djakotomey",
             "Dogbo"
         ]
     },
     {
-        "name": "Littoral Department",
+        "name": "Littoral",
         "cities": [
             "Cotonou"
         ]
     },
     {
-        "name": "Mono Department",
+        "name": "Mono",
         "cities": [
             "Commune of Athieme",
             "Lokossa"
         ]
     },
     {
-        "name": "Ouémé Department",
+        "name": "Ouémé",
         "cities": [
             "Porto-Novo"
         ]
     },
     {
-        "name": "Plateau Department",
+        "name": "Plateau",
         "cities": [
             "Kétou",
             "Pobé",
@@ -87,7 +87,7 @@
         ]
     },
     {
-        "name": "Zou Department",
+        "name": "Zou",
         "cities": [
             "Abomey",
             "Bohicon",

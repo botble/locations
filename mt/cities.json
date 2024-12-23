@@ -14,19 +14,22 @@
     {
         "name": "Birgu",
         "cities": [
-            "Vittoriosa"
+            "Birgu (Vittoriosa)"
         ]
     },
     {
         "name": "Birkirkara",
         "cities": [
-            "Birkirkara"
+            "Birkirkara",
+            "Fleur De Lys",
+            "Swatar"
         ]
     },
     {
         "name": "Birżebbuġa",
         "cities": [
-            "Birżebbuġa"
+            "Birżebbuġa",
+            "Ħal Far"
         ]
     },
     {
@@ -63,7 +66,7 @@
         "name": "Għajnsielem",
         "cities": [
             "Għajnsielem",
-            "Hal Gharghur"
+            "Ħal Għargħur"
         ]
     },
     {
@@ -73,7 +76,7 @@
     {
         "name": "Għargħur",
         "cities": [
-            "Għaxaq"
+            "Ħal Għaxaq"
         ]
     },
     {
@@ -101,6 +104,7 @@
     {
         "name": "Ħamrun",
         "cities": [
+            "Blata l' Bajda",
             "Ħamrun"
         ]
     },
@@ -133,14 +137,15 @@
     {
         "name": "Lija",
         "cities": [
-            "Imtarfa",
-            "Lija"
+            "Ħal Lija",
+            "Imtarfa"
         ]
     },
     {
         "name": "Luqa",
         "cities": [
-            "Luqa",
+            "Ħal Luqa",
+            "Ħal Safi",
             "Senglea"
         ]
     },
@@ -169,7 +174,9 @@
     },
     {
         "name": "Mellieħa",
-        "cities": []
+        "cities": [
+            "Manikata"
+        ]
     },
     {
         "name": "Mġarr",
@@ -179,7 +186,9 @@
     },
     {
         "name": "Mosta",
-        "cities": []
+        "cities": [
+            "Bidnija"
+        ]
     },
     {
         "name": "Mqabba",
@@ -210,7 +219,10 @@
     {
         "name": "Naxxar",
         "cities": [
-            "Naxxar"
+            "Baħar iċ-Ċagħaq",
+            "Magħtab",
+            "Naxxar",
+            "Salina"
         ]
     },
     {
@@ -251,18 +263,21 @@
     },
     {
         "name": "Rabat",
-        "cities": []
-    },
-    {
-        "name": "Saint Lawrence",
         "cities": [
-            "San Lawrenz"
+            "Baħrija",
+            "Binġemma"
         ]
     },
     {
         "name": "San Ġwann",
         "cities": [
-            "San Ġiljan"
+            "San Ġiljan (St. Julian's)"
+        ]
+    },
+    {
+        "name": "San Lawrenz",
+        "cities": [
+            "San Lawrenz"
         ]
     },
     {
@@ -303,20 +318,27 @@
     {
         "name": "St. Julian's",
         "cities": [
-            "Saint John"
+            "Paceville",
+            "San Ġwann"
         ]
     },
     {
         "name": "St. Paul's Bay",
         "cities": [
+            "Buġibba",
+            "Burmarrad",
             "Mosta",
-            "Saint Lucia",
-            "Santa Luċija"
+            "Qawra",
+            "Santa Luċija",
+            "Santa Luċija, Gozo",
+            "Wardija",
+            "Xemxija"
         ]
     },
     {
         "name": "Swieqi",
         "cities": [
+            "Madliena",
             "Swieqi"
         ]
     },
@@ -329,7 +351,7 @@
     {
         "name": "Tarxien",
         "cities": [
-            "Tarxien"
+            "Ħal Tarxien"
         ]
     },
     {
@@ -372,7 +394,7 @@
     {
         "name": "Żebbuġ Gozo",
         "cities": [
-            "Haz-Zebbug"
+            "Ħaż-Żebbuġ"
         ]
     },
     {

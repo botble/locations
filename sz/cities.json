@@ -1,6 +1,6 @@
 [
     {
-        "name": "Hhohho District",
+        "name": "Hhohho",
         "cities": [
             "Bulembu",
             "Hhukwini",
@@ -11,7 +11,7 @@
         ]
     },
     {
-        "name": "Lubombo District",
+        "name": "Lubombo",
         "cities": [
             "Big Bend",
             "Dvokodvweni Inkhundla",
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "name": "Manzini District",
+        "name": "Manzini",
         "cities": [
             "Bhunya",
             "Ekukhanyeni",
@@ -39,7 +39,7 @@
         ]
     },
     {
-        "name": "Shiselweni District",
+        "name": "Shiselweni",
         "cities": [
             "Hlatikulu",
             "Hluti",

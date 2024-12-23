@@ -1,6 +1,6 @@
 [
     {
-        "name": "Capital Region",
+        "name": "Capital",
         "cities": [
             "Álftanes",
             "Garðabær",
@@ -14,7 +14,7 @@
         ]
     },
     {
-        "name": "Eastern Region",
+        "name": "Eastern",
         "cities": [
             "Borgarfjarðarhreppur",
             "Breiðdalshreppur",
@@ -29,7 +29,7 @@
         ]
     },
     {
-        "name": "Northeastern Region",
+        "name": "Northeastern",
         "cities": [
             "Akureyri",
             "Dalvík",
@@ -49,7 +49,7 @@
         ]
     },
     {
-        "name": "Northwestern Region",
+        "name": "Northwestern",
         "cities": [
             "Akrahreppur",
             "Húnaþing Vestra",
@@ -59,18 +59,7 @@
         ]
     },
     {
-        "name": "Southern Peninsula Region",
-        "cities": [
-            "Garður",
-            "Grindavík",
-            "Keflavík",
-            "Reykjanesbær",
-            "Sandgerði",
-            "Vogar"
-        ]
-    },
-    {
-        "name": "Southern Region",
+        "name": "Southern",
         "cities": [
             "Ásahreppur",
             "Bláskógabyggð",
@@ -88,7 +77,18 @@
         ]
     },
     {
-        "name": "Western Region",
+        "name": "Southern Peninsula",
+        "cities": [
+            "Garður",
+            "Grindavík",
+            "Keflavík",
+            "Reykjanesbær",
+            "Sandgerði",
+            "Vogar"
+        ]
+    },
+    {
+        "name": "Western",
         "cities": [
             "Akranes",
             "Borgarbyggð",

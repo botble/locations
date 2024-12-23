@@ -1,356 +1,131 @@
 [
     {
-        "name": "Aglona Municipality"
+        "name": "Ādaži"
     },
     {
-        "name": "Aizkraukle Municipality"
+        "name": "Aizkraukle"
     },
     {
-        "name": "Aizpute Municipality"
+        "name": "Alūksne"
     },
     {
-        "name": "Aknīste Municipality"
+        "name": "Augšdaugava"
     },
     {
-        "name": "Aloja Municipality"
+        "name": "Balvi"
     },
     {
-        "name": "Alsunga Municipality"
+        "name": "Bauska"
     },
     {
-        "name": "Alūksne Municipality"
-    },
-    {
-        "name": "Amata Municipality"
-    },
-    {
-        "name": "Ape Municipality"
-    },
-    {
-        "name": "Auce Municipality"
-    },
-    {
-        "name": "Babīte Municipality"
-    },
-    {
-        "name": "Baldone Municipality"
-    },
-    {
-        "name": "Baltinava Municipality"
-    },
-    {
-        "name": "Balvi Municipality"
-    },
-    {
-        "name": "Bauska Municipality"
-    },
-    {
-        "name": "Beverīna Municipality"
-    },
-    {
-        "name": "Brocēni Municipality"
-    },
-    {
-        "name": "Burtnieki Municipality"
-    },
-    {
-        "name": "Carnikava Municipality"
-    },
-    {
-        "name": "Cēsis Municipality"
-    },
-    {
-        "name": "Cesvaine Municipality"
-    },
-    {
-        "name": "Cibla Municipality"
-    },
-    {
-        "name": "Dagda Municipality"
+        "name": "Cēsis"
     },
     {
         "name": "Daugavpils"
     },
     {
-        "name": "Daugavpils Municipality"
+        "name": "Dienvidkurzemes"
     },
     {
-        "name": "Dobele Municipality"
+        "name": "Dobele"
     },
     {
-        "name": "Dundaga Municipality"
-    },
-    {
-        "name": "Durbe Municipality"
-    },
-    {
-        "name": "Engure Municipality"
-    },
-    {
-        "name": "Ērgļi Municipality"
-    },
-    {
-        "name": "Garkalne Municipality"
-    },
-    {
-        "name": "Grobiņa Municipality"
-    },
-    {
-        "name": "Gulbene Municipality"
-    },
-    {
-        "name": "Iecava Municipality"
-    },
-    {
-        "name": "Ikšķile Municipality"
-    },
-    {
-        "name": "Ilūkste Municipality"
-    },
-    {
-        "name": "Inčukalns Municipality"
-    },
-    {
-        "name": "Jaunjelgava Municipality"
-    },
-    {
-        "name": "Jaunpiebalga Municipality"
-    },
-    {
-        "name": "Jaunpils Municipality"
+        "name": "Gulbene"
     },
     {
         "name": "Jēkabpils"
     },
     {
-        "name": "Jēkabpils Municipality"
+        "name": "Jelgava"
     },
     {
         "name": "Jelgava"
     },
     {
-        "name": "Jelgava Municipality"
-    },
-    {
         "name": "Jūrmala"
     },
     {
-        "name": "Kandava Municipality"
+        "name": "Ķekava"
     },
     {
-        "name": "Kārsava Municipality"
+        "name": "Krāslava"
     },
     {
-        "name": "Ķegums Municipality"
-    },
-    {
-        "name": "Ķekava Municipality"
-    },
-    {
-        "name": "Kocēni Municipality"
-    },
-    {
-        "name": "Koknese Municipality"
-    },
-    {
-        "name": "Krāslava Municipality"
-    },
-    {
-        "name": "Krimulda Municipality"
-    },
-    {
-        "name": "Krustpils Municipality"
-    },
-    {
-        "name": "Kuldīga Municipality"
-    },
-    {
-        "name": "Lielvārde Municipality"
+        "name": "Kuldīga"
     },
     {
         "name": "Liepāja"
     },
     {
-        "name": "Līgatne Municipality"
+        "name": "Limbaži"
     },
     {
-        "name": "Limbaži Municipality"
+        "name": "Līvāni"
     },
     {
-        "name": "Līvāni Municipality"
+        "name": "Ludza"
     },
     {
-        "name": "Lubāna Municipality"
+        "name": "Madona"
     },
     {
-        "name": "Ludza Municipality"
+        "name": "Mārupe"
     },
     {
-        "name": "Madona Municipality"
+        "name": "Ogre"
     },
     {
-        "name": "Mālpils Municipality"
+        "name": "Olaine"
     },
     {
-        "name": "Mārupe Municipality"
-    },
-    {
-        "name": "Mazsalaca Municipality"
-    },
-    {
-        "name": "Mērsrags Municipality"
-    },
-    {
-        "name": "Naukšēni Municipality"
-    },
-    {
-        "name": "Nereta Municipality"
-    },
-    {
-        "name": "Nīca Municipality"
-    },
-    {
-        "name": "Ogre Municipality"
-    },
-    {
-        "name": "Olaine Municipality"
-    },
-    {
-        "name": "Ozolnieki Municipality"
-    },
-    {
-        "name": "Pārgauja Municipality"
-    },
-    {
-        "name": "Pāvilosta Municipality"
-    },
-    {
-        "name": "Pļaviņas Municipality"
-    },
-    {
-        "name": "Preiļi Municipality"
-    },
-    {
-        "name": "Priekule Municipality"
-    },
-    {
-        "name": "Priekuļi Municipality"
-    },
-    {
-        "name": "Rauna Municipality"
+        "name": "Preiļi"
     },
     {
         "name": "Rēzekne"
     },
     {
-        "name": "Rēzekne Municipality"
-    },
-    {
-        "name": "Riebiņi Municipality"
+        "name": "Rēzekne"
     },
     {
         "name": "Riga"
     },
     {
-        "name": "Roja Municipality"
+        "name": "Ropaži"
     },
     {
-        "name": "Ropaži Municipality"
+        "name": "Salaspils"
     },
     {
-        "name": "Rucava Municipality"
+        "name": "Saldus"
     },
     {
-        "name": "Rugāji Municipality"
+        "name": "Saulkrasti"
     },
     {
-        "name": "Rūjiena Municipality"
+        "name": "Sigulda"
     },
     {
-        "name": "Rundāle Municipality"
+        "name": "Smiltene"
     },
     {
-        "name": "Sala Municipality"
+        "name": "Talsi"
     },
     {
-        "name": "Salacgrīva Municipality"
+        "name": "Tukums"
     },
     {
-        "name": "Salaspils Municipality"
-    },
-    {
-        "name": "Saldus Municipality"
-    },
-    {
-        "name": "Saulkrasti Municipality"
-    },
-    {
-        "name": "Sēja Municipality"
-    },
-    {
-        "name": "Sigulda Municipality"
-    },
-    {
-        "name": "Skrīveri Municipality"
-    },
-    {
-        "name": "Skrunda Municipality"
-    },
-    {
-        "name": "Smiltene Municipality"
-    },
-    {
-        "name": "Stopiņi Municipality"
-    },
-    {
-        "name": "Strenči Municipality"
-    },
-    {
-        "name": "Talsi Municipality"
-    },
-    {
-        "name": "Tērvete Municipality"
-    },
-    {
-        "name": "Tukums Municipality"
-    },
-    {
-        "name": "Vaiņode Municipality"
-    },
-    {
-        "name": "Valka Municipality"
+        "name": "Valka"
     },
     {
         "name": "Valmiera"
     },
     {
-        "name": "Varakļāni Municipality"
-    },
-    {
-        "name": "Vārkava Municipality"
-    },
-    {
-        "name": "Vecpiebalga Municipality"
-    },
-    {
-        "name": "Vecumnieki Municipality"
+        "name": "Varakļāni"
     },
     {
         "name": "Ventspils"
     },
     {
-        "name": "Ventspils Municipality"
-    },
-    {
-        "name": "Viesīte Municipality"
-    },
-    {
-        "name": "Viļaka Municipality"
-    },
-    {
-        "name": "Viļāni Municipality"
-    },
-    {
-        "name": "Zilupe Municipality"
+        "name": "Ventspils"
     }
 ]

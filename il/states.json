@@ -1,20 +1,20 @@
 [
     {
-        "name": "Central District"
+        "name": "Central"
     },
     {
-        "name": "Haifa District"
+        "name": "Haifa"
     },
     {
-        "name": "Jerusalem District"
+        "name": "Jerusalem"
     },
     {
-        "name": "Northern District"
+        "name": "Northern"
     },
     {
-        "name": "Southern District"
+        "name": "Southern"
     },
     {
-        "name": "Tel Aviv District"
+        "name": "Tel Aviv"
     }
 ]

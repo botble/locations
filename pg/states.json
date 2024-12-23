@@ -3,19 +3,22 @@
         "name": "Bougainville"
     },
     {
-        "name": "Central Province"
+        "name": "Central"
     },
     {
-        "name": "Chimbu Province"
+        "name": "Chimbu"
     },
     {
         "name": "East New Britain"
     },
     {
-        "name": "Eastern Highlands Province"
+        "name": "East Sepik"
     },
     {
-        "name": "Enga Province"
+        "name": "Eastern Highlands"
+    },
+    {
+        "name": "Enga"
     },
     {
         "name": "Gulf"
@@ -24,42 +27,42 @@
         "name": "Hela"
     },
     {
-        "name": "Jiwaka Province"
+        "name": "Jiwaka"
     },
     {
-        "name": "Madang Province"
+        "name": "Madang"
     },
     {
-        "name": "Manus Province"
+        "name": "Manus"
     },
     {
-        "name": "Milne Bay Province"
+        "name": "Milne Bay"
     },
     {
-        "name": "Morobe Province"
+        "name": "Morobe"
     },
     {
-        "name": "New Ireland Province"
+        "name": "New Ireland"
     },
     {
-        "name": "Oro Province"
+        "name": "Oro"
     },
     {
         "name": "Port Moresby"
     },
     {
-        "name": "Sandaun Province"
+        "name": "Sandaun"
     },
     {
-        "name": "Southern Highlands Province"
+        "name": "Southern Highlands"
     },
     {
-        "name": "West New Britain Province"
+        "name": "West New Britain"
     },
     {
-        "name": "Western Highlands Province"
+        "name": "Western"
     },
     {
-        "name": "Western Province"
+        "name": "Western Highlands"
     }
 ]

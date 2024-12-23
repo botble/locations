@@ -1,80 +1,77 @@
 [
     {
-        "name": "Addu Atoll"
+        "name": "Addu"
     },
     {
-        "name": "Alif Alif Atoll"
+        "name": "Alif Alif"
     },
     {
-        "name": "Alif Dhaal Atoll"
+        "name": "Alif Dhaal"
     },
     {
-        "name": "Central Province"
+        "name": "Central"
     },
     {
-        "name": "Dhaalu Atoll"
+        "name": "Dhaalu"
     },
     {
-        "name": "Faafu Atoll"
+        "name": "Faafu"
     },
     {
-        "name": "Gaafu Alif Atoll"
+        "name": "Gaafu Alif"
     },
     {
-        "name": "Gaafu Dhaalu Atoll"
+        "name": "Gaafu Dhaalu"
     },
     {
-        "name": "Gnaviyani Atoll"
+        "name": "Gnaviyani"
     },
     {
-        "name": "Haa Alif Atoll"
+        "name": "Haa Alif"
     },
     {
-        "name": "Haa Dhaalu Atoll"
+        "name": "Haa Dhaalu"
     },
     {
-        "name": "Kaafu Atoll"
+        "name": "Kaafu"
     },
     {
-        "name": "Laamu Atoll"
+        "name": "Laamu"
     },
     {
-        "name": "Lhaviyani Atoll"
+        "name": "Lhaviyani"
     },
     {
         "name": "Malé"
     },
     {
-        "name": "Meemu Atoll"
+        "name": "Meemu"
     },
     {
-        "name": "Noonu Atoll"
+        "name": "Noonu"
     },
     {
-        "name": "North Central Province"
+        "name": "North Central"
     },
     {
-        "name": "North Province"
+        "name": "Raa"
     },
     {
-        "name": "Raa Atoll"
+        "name": "Shaviyani"
     },
     {
-        "name": "Shaviyani Atoll"
+        "name": "South"
     },
     {
-        "name": "South Central Province"
+        "name": "South Central"
     },
     {
-        "name": "South Province"
+        "name": "Thaa"
     },
     {
-        "name": "Thaa Atoll"
+        "name": "Upper South"
     },
     {
-        "name": "Upper South Province"
-    },
-    {
-        "name": "Vaavu Atoll"
+        "name": "Vaavu"
     }
 ]

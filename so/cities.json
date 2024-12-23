@@ -1,6 +1,6 @@
 [
     {
-        "name": "Awdal Region",
+        "name": "Awdal",
         "cities": []
     },
     {
@@ -110,14 +110,14 @@
         ]
     },
     {
-        "name": "Sanaag Region",
+        "name": "Sanaag",
         "cities": [
             "Ceerigaabo",
             "Las Khorey"
         ]
     },
     {
-        "name": "Togdheer Region",
+        "name": "Togdheer",
         "cities": [
             "Burao",
             "Ceek",

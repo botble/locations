@@ -1,20 +1,35 @@
 [
     {
-        "name": "Bengo Province",
+        "name": "Bengo",
         "cities": [
-            "Caxito"
+            "Ambriz",
+            "Bula Atumba",
+            "Caxito",
+            "Dande",
+            "Muxima",
+            "Nambuangongo",
+            "Pango Aluquém",
+            "Úcua"
         ]
     },
     {
-        "name": "Benguela Province",
+        "name": "Benguela",
         "cities": [
+            "Baía Farta",
+            "Balombo",
             "Benguela",
+            "Bocoio",
+            "Caimbambo",
             "Catumbela",
-            "Lobito"
+            "Chongoroi",
+            "Cubal",
+            "Ganda",
+            "Lobito",
+            "Sumbe"
         ]
     },
     {
-        "name": "Bié Province",
+        "name": "Bié",
         "cities": [
             "Camacupa",
             "Catabola",
@@ -23,26 +38,19 @@
         ]
     },
     {
-        "name": "Cabinda Province",
+        "name": "Cabinda",
         "cities": [
             "Cabinda"
         ]
     },
     {
-        "name": "Cuando Cubango Province",
+        "name": "Cuando Cubango",
         "cities": [
             "Menongue"
         ]
     },
     {
-        "name": "Cuanza Norte Province",
-        "cities": [
-            "Camabatela",
-            "N’dalatando"
-        ]
-    },
-    {
-        "name": "Cuanza Sul",
+        "name": "Cuanza",
         "cities": [
             "Quibala",
             "Sumbe",
@@ -50,13 +58,20 @@
         ]
     },
     {
-        "name": "Cunene Province",
+        "name": "Cuanza Norte",
+        "cities": [
+            "Camabatela",
+            "N’dalatando"
+        ]
+    },
+    {
+        "name": "Cunene",
         "cities": [
             "Ondjiva"
         ]
     },
     {
-        "name": "Huambo Province",
+        "name": "Huambo",
         "cities": [
             "Caála",
             "Chela",
@@ -65,7 +80,7 @@
         ]
     },
     {
-        "name": "Huíla Province",
+        "name": "Huíla",
         "cities": [
             "Caconda",
             "Caluquembe",
@@ -83,34 +98,38 @@
         ]
     },
     {
-        "name": "Luanda Province",
+        "name": "Luanda",
         "cities": [
             "Belas",
+            "Cacuaco",
+            "Cazenga",
             "Icolo e Bengo",
-            "Luanda"
+            "Luanda",
+            "Talatona",
+            "Viana"
         ]
     },
     {
-        "name": "Lunda Norte Province",
+        "name": "Lunda Norte",
         "cities": [
             "Lucapa"
         ]
     },
     {
-        "name": "Lunda Sul Province",
+        "name": "Lunda Sul",
         "cities": [
             "Cazaji",
             "Saurimo"
         ]
     },
     {
-        "name": "Malanje Province",
+        "name": "Malanje",
         "cities": [
             "Malanje"
         ]
     },
     {
-        "name": "Moxico Province",
+        "name": "Moxico",
         "cities": [
             "Léua",
             "Luau",
@@ -119,13 +138,13 @@
         ]
     },
     {
-        "name": "Uíge Province",
+        "name": "Uíge",
         "cities": [
             "Uíge"
         ]
     },
     {
-        "name": "Zaire Province",
+        "name": "Zaire",
         "cities": [
             "Mbanza Congo",
             "N'zeto",

@@ -1,6 +1,6 @@
 [
     {
-        "name": "Centrale Region",
+        "name": "Centrale",
         "cities": [
             "Sokodé",
             "Sotouboua",
@@ -8,7 +8,7 @@
         ]
     },
     {
-        "name": "Kara Region",
+        "name": "Kara",
         "cities": [
             "Bafilo",
             "Bassar",
@@ -30,7 +30,7 @@
         ]
     },
     {
-        "name": "Plateaux Region",
+        "name": "Plateaux",
         "cities": [
             "Amlamé",
             "Atakpamé",
@@ -40,7 +40,7 @@
         ]
     },
     {
-        "name": "Savanes Region",
+        "name": "Savanes",
         "cities": [
             "Dapaong",
             "Sansanné-Mango"
