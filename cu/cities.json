@@ -1,269 +1,250 @@
 [
     {
+        "name": "Pinar del Río",
+        "cities": [
+            "Sandino",
+            "Mantua",
+            "Minas de Matahambre",
+            "Viñales",
+            "La Palma",
+            "Los Palacios",
+            "Consolación del Sur",
+            "Pinar del Río",
+            "San Luis",
+            "San Juan y Martínez",
+            "Guane"
+        ]
+    },
+    {
         "name": "Artemisa",
         "cities": [
+            "Bahía Honda",
+            "Mariel",
+            "Guanajay",
+            "Caimito",
+            "Bauta",
+            "San Antonio de los Baños",
+            "Güira de Melena",
             "Alquízar",
             "Artemisa",
-            "Bahía Honda",
-            "Bauta",
-            "Cabañas",
             "Candelaria",
-            "Guanajay",
-            "Güira de Melena",
-            "Mariel",
-            "Municipio de Artemisa",
-            "Municipio de Bauta",
-            "Municipio de Guanajay",
-            "Municipio de Mariel",
-            "Municipio de San Cristóbal",
-            "San Antonio de los Baños",
-            "San Cristobal",
-            "Soroa"
+            "San Cristobal"
         ]
     },
     {
-        "name": "Camagüey",
+        "name": "La Habana",
         "cities": [
-            "Camagüey",
-            "El Caney",
-            "Esmeralda",
-            "Florida",
-            "Guáimaro",
-            "Jimaguayú",
-            "Minas",
-            "Municipio de Florida",
-            "Municipio de Nuevitas",
-            "Nuevitas",
-            "Santa Cruz del Sur",
-            "Sibanicú",
-            "Vertientes"
-        ]
-    },
-    {
-        "name": "Ciego de Ávila",
-        "cities": [
-            "Baraguá",
-            "Chambas",
-            "Ciego de Ávila",
-            "Ciro Redondo",
-            "Florencia",
-            "Morón",
-            "Municipio de Ciego de Ávila",
-            "Municipio de Morón",
-            "Primero de Enero",
-            "Venezuela"
-        ]
-    },
-    {
-        "name": "Cienfuegos",
-        "cities": [
-            "Abreus",
-            "Aguada de Pasajeros",
-            "Cienfuegos",
-            "Cruces",
-            "Cumanayagua",
-            "Lajas",
-            "Municipio de Abreus",
-            "Municipio de Cienfuegos",
-            "Palmira",
-            "Rodas"
-        ]
-    },
-    {
-        "name": "Granma",
-        "cities": [
-            "Bartolomé Masó",
-            "Bayamo",
-            "Campechuela",
-            "Cauto Cristo",
-            "Guisa",
-            "Jiguaní",
-            "Manzanillo",
-            "Media Luna",
-            "Municipio de Bayamo",
-            "Municipio de Manzanillo",
-            "Municipio de Niquero",
-            "Niquero",
-            "Río Cauto",
-            "Yara"
-        ]
-    },
-    {
-        "name": "Guantánamo",
-        "cities": [
-            "Baracoa",
-            "Guantánamo",
-            "Maisí",
-            "Municipio de Guantánamo",
-            "Río Guayabal de Yateras",
-            "San Antonio del Sur"
-        ]
-    },
-    {
-        "name": "Havana",
-        "cities": [
-            "Alamar",
-            "Arroyo Naranjo",
-            "Boyeros",
+            "Playa",
+            "Plaza de la Revolución",
             "Centro Habana",
-            "Cerro",
-            "Diez de Octubre",
-            "Guanabacoa",
-            "Habana del Este",
-            "Havana",
             "La Habana Vieja",
             "Regla",
+            "Habana del Este",
+            "Guanabacoa",
             "San Miguel del Padrón",
-            "Santiago de las Vegas"
-        ]
-    },
-    {
-        "name": "Holguín",
-        "cities": [
-            "Banes",
-            "Cacocum",
-            "Cueto",
-            "Gibara",
-            "Holguín",
-            "Jobabo",
-            "Moa",
-            "Municipio de Banes",
-            "Municipio de Holguín",
-            "Sagua de Tánamo",
-            "San Germán"
-        ]
-    },
-    {
-        "name": "Isla de la Juventud",
-        "cities": [
-            "Nueva Gerona"
-        ]
-    },
-    {
-        "name": "Las Tunas",
-        "cities": [
-            "Amancio",
-            "Colombia",
-            "Jesús Menéndez",
-            "Jobabo",
-            "Las Tunas",
-            "Manatí",
-            "Puerto Padre"
-        ]
-    },
-    {
-        "name": "Matanzas",
-        "cities": [
-            "Alacranes",
-            "Bolondrón",
-            "Calimete",
-            "Cárdenas",
-            "Colón",
-            "Jagüey Grande",
-            "Jovellanos",
-            "Limonar",
-            "Los Arabos",
-            "Manguito",
-            "Martí",
-            "Matanzas",
-            "Municipio de Cárdenas",
-            "Municipio de Matanzas",
-            "Pedro Betancourt",
-            "Perico",
-            "Unión de Reyes",
-            "Varadero"
+            "Diez de Octubre",
+            "Cerro",
+            "Marianao",
+            "La Lisa",
+            "Boyeros",
+            "Arroyo Naranjo",
+            "Cotorro"
         ]
     },
     {
         "name": "Mayabeque",
         "cities": [
-            "Batabanó",
             "Bejucal",
-            "Güines",
-            "Jamaica",
-            "Jaruco",
-            "La Salud",
-            "Madruga",
-            "Municipio de Güines",
-            "Municipio de Melena del Sur",
-            "Quivicán",
             "San José de las Lajas",
-            "San Nicolás de Bari",
-            "Santa Cruz del Norte"
+            "Jaruco",
+            "Santa Cruz del Norte",
+            "Madruga",
+            "Nueva Paz",
+            "San Nicolás",
+            "Güines",
+            "Melena del Sur",
+            "Batabanó",
+            "Quivicán"
         ]
     },
     {
-        "name": "Pinar del Río",
+        "name": "Matanzas",
         "cities": [
-            "Consolación del Sur",
-            "Guane",
-            "Los Palacios",
-            "Mantua",
-            "Minas de Matahambre",
-            "Municipio de Consolación del Sur",
-            "Municipio de Guane",
-            "Municipio de La Palma",
-            "Municipio de Los Palacios",
-            "Pinar del Río",
-            "Puerto Esperanza",
-            "San Diego de Los Baños",
-            "San Luis",
-            "Viñales"
+            "Matanzas",
+            "Cárdenas",
+            "Martí",
+            "Colón",
+            "Perico",
+            "Jovellanos",
+            "Pedro Betancourt",
+            "Limonar",
+            "Unión de Reyes",
+            "Cienaga de Zapata",
+            "Jagüey Grande",
+            "Calimete",
+            "Los Arabos"
+        ]
+    },
+    {
+        "name": "Villa Clara",
+        "cities": [
+            "Corralillo",
+            "Quemado de Güines",
+            "Sagua la Grande",
+            "Encrucijada",
+            "Camajuaní",
+            "Caibarién",
+            "Remedios",
+            "Placetas",
+            "Santa Clara",
+            "Cifuentes",
+            "Santo Domingo",
+            "Ranchuelo",
+            "Manicaragua"
+        ]
+    },
+    {
+        "name": "Cienfuegos",
+        "cities": [
+            "Aguada de Pasajeros",
+            "Rodas",
+            "Palmira",
+            "Lajas",
+            "Cruces",
+            "Cumanayagua",
+            "Cienfuegos",
+            "Abreus"
         ]
     },
     {
         "name": "Sancti Spíritus",
         "cities": [
-            "Cabaiguán",
-            "Condado",
-            "Fomento",
-            "Guayos",
-            "Jatibonico",
-            "La Sierpe",
-            "Municipio de Cabaiguán",
-            "Municipio de Jatibonico",
-            "Municipio de Sancti Spíritus",
-            "Municipio de Trinidad",
-            "Sancti Spíritus",
-            "Topes de Collantes",
-            "Trinidad",
             "Yaguajay",
-            "Zaza del Medio"
+            "Jatibonico",
+            "Taguasco",
+            "Cabaiguán",
+            "Fomento",
+            "Trinidad",
+            "Sancti Spíritus",
+            "La Sierpe"
+        ]
+    },
+    {
+        "name": "Ciego de Ávila",
+        "cities": [
+            "Chambas",
+            "Morón",
+            "Bolivia",
+            "Primero de Enero",
+            "Ciro Redondo",
+            "Florencia",
+            "Majagua",
+            "Ciego de Ávila",
+            "Venezuela",
+            "Baraguá"
+        ]
+    },
+    {
+        "name": "Camagüey",
+        "cities": [
+            "Carlos Manuel de Céspedes",
+            "Esmeralda",
+            "Sierra de Cubitas",
+            "Minas",
+            "Nuevitas",
+            "Guáimaro",
+            "Sibanicú",
+            "Camagüey",
+            "Florida",
+            "Vertientes",
+            "Jimaguayú",
+            "Najasa",
+            "Santa Cruz del Sur"
+        ]
+    },
+    {
+        "name": "Las Tunas",
+        "cities": [
+            "Manatí",
+            "Puerto Padre",
+            "Jesús Menéndez",
+            "Majibacoa",
+            "Las Tunas",
+            "Jobabo",
+            "Colombia",
+            "Amancio"
+        ]
+    },
+    {
+        "name": "Holguín",
+        "cities": [
+            "Gibara",
+            "Rafael Freire",
+            "Banes",
+            "Antilla",
+            "Báguanos",
+            "Holguín",
+            "Calixto García",
+            "Cacocum",
+            "Urbano Noris",
+            "Cueto",
+            "Mayarí",
+            "Frank Pais",
+            "Sagua de Tánamo",
+            "Moa"
+        ]
+    },
+    {
+        "name": "Granma",
+        "cities": [
+            "Río Cauto",
+            "Cauto Cristo",
+            "Jiguaní",
+            "Bayamo",
+            "Yara",
+            "Manzanillo",
+            "Campechuela",
+            "Media Luna",
+            "Niquero",
+            "Pilón",
+            "Bartolomé Masó",
+            "Buey Arriba",
+            "Guisa"
         ]
     },
     {
         "name": "Santiago de Cuba",
         "cities": [
             "Contramaestre",
-            "El Cobre",
-            "Municipio de Palma Soriano",
-            "Municipio de Santiago de Cuba",
-            "Palma Soriano",
+            "Mella",
             "San Luis",
-            "Santiago de Cuba"
+            "Segundo Frente",
+            "Songo - La Maya",
+            "Santiago de Cuba",
+            "Palma Soriano",
+            "Tercer Frente",
+            "Guamá"
         ]
     },
     {
-        "name": "Villa Clara",
+        "name": "Guantánamo",
         "cities": [
-            "Caibarién",
-            "Calabazar de Sagua",
-            "Camajuaní",
-            "Cifuentes",
-            "Corralillo",
-            "Encrucijada",
-            "Esperanza",
-            "Isabela de Sagua",
-            "Manicaragua",
-            "Municipio de Placetas",
-            "Municipio de Santa Clara",
-            "Placetas",
-            "Quemado de Güines",
-            "Rancho Veloz",
-            "Ranchuelo",
-            "Sagua la Grande",
-            "Santa Clara",
-            "Santo Domingo"
+            "El Salvador",
+            "Manuel Tames",
+            "Yateras",
+            "Baracoa",
+            "Maisí",
+            "Imías",
+            "San Antonio del Sur",
+            "Caimanera",
+            "Guantánamo",
+            "Niceto Pérez"
         ]
-    }
+    },
+    {
+        "name": "Isla de la Juventud",
+        "cities": [
+            "Isla de la Juventud"
+        ]
+    },
 ]
