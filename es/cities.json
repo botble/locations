@@ -446,6 +446,10 @@
         ]
     },
     {
+        "name": "Andalusia",
+        "cities": []
+    },
+    {
         "name": "Araba",
         "cities": [
             "Alegría-Dulantzi",
@@ -500,6 +504,14 @@
             "Zigoitia",
             "Zuia"
         ]
+    },
+    {
+        "name": "Aragon",
+        "cities": []
+    },
+    {
+        "name": "Asturias",
+        "cities": []
     },
     {
         "name": "Asturias",
@@ -1005,6 +1017,10 @@
         ]
     },
     {
+        "name": "Balearic Islands",
+        "cities": []
+    },
+    {
         "name": "Barcelona",
         "cities": [
             "Abrera",
@@ -1319,6 +1335,10 @@
             "Vilobí del Penedès",
             "Viver i Serrateix"
         ]
+    },
+    {
+        "name": "Basque Country",
+        "cities": []
     },
     {
         "name": "Bizkaia",
@@ -2087,7 +2107,7 @@
         ]
     },
     {
-        "name": "Canarias",
+        "name": "Canary Islands",
         "cities": [
             "Arrecife",
             "Las Palmas de Gran Canaria",
@@ -2097,6 +2117,10 @@
             "Santa Cruz de Tenerife",
             "Valverde"
         ]
+    },
+    {
+        "name": "Cantabria",
+        "cities": []
     },
     {
         "name": "Cantabria",
@@ -2351,6 +2375,18 @@
         ]
     },
     {
+        "name": "Castile and Leon",
+        "cities": []
+    },
+    {
+        "name": "Castilla-La Mancha",
+        "cities": []
+    },
+    {
+        "name": "Catalonia",
+        "cities": []
+    },
+    {
         "name": "Ceuta",
         "cities": []
     },
@@ -2459,6 +2495,10 @@
             "Villarta de San Juan",
             "Viso del Marqués"
         ]
+    },
+    {
+        "name": "Community of Madrid",
+        "cities": []
     },
     {
         "name": "Córdoba",
@@ -2781,6 +2821,14 @@
             "Zarza de Tajo",
             "Zarzuela"
         ]
+    },
+    {
+        "name": "Estremadura",
+        "cities": []
+    },
+    {
+        "name": "Galicia",
+        "cities": []
     },
     {
         "name": "Gipuzkoa",
@@ -4081,6 +4129,10 @@
             "Villarrodrigo",
             "Villatorres"
         ]
+    },
+    {
+        "name": "La Rioja",
+        "cities": []
     },
     {
         "name": "La Rioja",
@@ -5624,6 +5676,10 @@
         ]
     },
     {
+        "name": "Navarre",
+        "cities": []
+    },
+    {
         "name": "Ourense",
         "cities": [
             "Allariz",
@@ -5990,6 +6046,10 @@
             "Vilanova de Arousa",
             "Vilaxoán"
         ]
+    },
+    {
+        "name": "Region of Murcia",
+        "cities": []
     },
     {
         "name": "Salamanca",
@@ -7916,6 +7976,10 @@
             "Yesa La",
             "Zarra"
         ]
+    },
+    {
+        "name": "Valencian Community",
+        "cities": []
     },
     {
         "name": "Valladolid",

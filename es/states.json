@@ -12,7 +12,16 @@
         "name": "Almeria"
     },
     {
+        "name": "Andalusia"
+    },
+    {
         "name": "Araba"
+    },
+    {
+        "name": "Aragon"
+    },
+    {
+        "name": "Asturias"
     },
     {
         "name": "Asturias"
@@ -24,7 +33,13 @@
         "name": "Badajoz"
     },
     {
+        "name": "Balearic Islands"
+    },
+    {
         "name": "Barcelona"
+    },
+    {
+        "name": "Basque Country"
     },
     {
         "name": "Bizkaia"
@@ -39,7 +54,10 @@
         "name": "Cádiz"
     },
     {
-        "name": "Canarias"
+        "name": "Canary Islands"
+    },
+    {
+        "name": "Cantabria"
     },
     {
         "name": "Cantabria"
@@ -48,16 +66,34 @@
         "name": "Castellón"
     },
     {
+        "name": "Castile and Leon"
+    },
+    {
+        "name": "Castilla-La Mancha"
+    },
+    {
+        "name": "Catalonia"
+    },
+    {
         "name": "Ceuta"
     },
     {
         "name": "Ciudad Real"
     },
     {
+        "name": "Community of Madrid"
+    },
+    {
         "name": "Córdoba"
     },
     {
         "name": "Cuenca"
+    },
+    {
+        "name": "Estremadura"
+    },
+    {
+        "name": "Galicia"
     },
     {
         "name": "Gipuzkoa"
@@ -82,6 +118,9 @@
     },
     {
         "name": "Jaén"
+    },
+    {
+        "name": "La Rioja"
     },
     {
         "name": "La Rioja"
@@ -114,6 +153,9 @@
         "name": "Navarra"
     },
     {
+        "name": "Navarre"
+    },
+    {
         "name": "Ourense"
     },
     {
@@ -121,6 +163,9 @@
     },
     {
         "name": "Pontevedra"
+    },
+    {
+        "name": "Region of Murcia"
     },
     {
         "name": "Salamanca"
@@ -148,6 +193,9 @@
     },
     {
         "name": "Valencia"
+    },
+    {
+        "name": "Valencian Community"
     },
     {
         "name": "Valladolid"
