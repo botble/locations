@@ -6,15 +6,17 @@
             "Bahlā’",
             "Bidbid",
             "Izkī",
+            "Manah",
             "Nizwá",
-            "Sufālat Samā’il"
+            "Samā’il"
         ]
     },
     {
         "name": "Ad Dhahirah",
         "cities": [
             "‘Ibrī",
-            "Yanqul"
+            "Yanqul",
+            "Dhank"
         ]
     },
     {
@@ -29,64 +31,98 @@
         ]
     },
     {
-        "name": "Al Batinah Region",
+        "name": "Al Batinah South",
         "cities": [
             "Barkā’",
-            "Bayt al ‘Awābī",
-            "Oman Smart Future City",
+            "Al-Musannah",
+            "Nakhal",
+            "Wadi Al Maawil",
+            "Al Awabi",
             "Rustaq"
         ]
     },
     {
-        "name": "Al Batinah South",
-        "cities": []
-    },
-    {
         "name": "Al Buraimi",
         "cities": [
-            "Al Buraymī"
+            "Al Buraymī",
+            "Mahdah",
+            "As Sunaynah"
         ]
     },
     {
         "name": "Al Wusta",
         "cities": [
-            "Haymā’"
+            "Haymā’",
+            "Duqm",
+            "Mahūt",
+            "Al Jazir"
         ]
     },
     {
         "name": "Ash Sharqiyah North",
-        "cities": []
-    },
-    {
-        "name": "Ash Sharqiyah Region",
         "cities": [
-            "Sur"
+            "Ibra",
+            "Al Mudhaibi",
+            "Bidiya",
+            "Dima Wattayeen"
         ]
     },
     {
         "name": "Ash Sharqiyah South",
-        "cities": []
+        "cities": [
+            "Sur",
+            "Al Kamil Wal Wafi",
+            "Jalan Bani Bu Hassan",
+            "Jalan Bani Bu Ali",
+            "Masirah"
+        ]
     },
     {
         "name": "Dhofar",
         "cities": [
-            "Şalālah"
+            "Şalālah",
+            "Taqah",
+            "Mirbat",
+            "Rakhyut",
+            "Thumrait",
+            "Sadah",
+            "Shalim and the Hallaniyat Islands",
+            "Mughsayl"
         ]
     },
     {
         "name": "Musandam",
         "cities": [
-            "Dib Dibba",
             "Khasab",
-            "Madḩā’ al Jadīdah"
+            "Dibba",
+            "Bukha",
+            "Madha"
         ]
     },
     {
         "name": "Muscat",
         "cities": [
-            "Bawshar",
             "Muscat",
-            "Seeb"
+            "Muttrah",
+            "Bawshar",
+            "Seeb",
+            "Al Amrat",
+            "Al Khuwair",
+            "Al Ghubrah",
+            "Qurum",
+            "Ruwi",
+            "Wadi Kabir",
+            "Al Azaiba",
+            "Al Hail North",
+            "Al Hail South",
+            "Ghala",
+            "Amerat Heights",
+            "Al Mawaleh North",
+            "Al Mawaleh South",
+            "Mabela North",
+            "Mabela South",
+            "Wadi Adai",
+            "Wattayah"
         ]
     }
 ]
